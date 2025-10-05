@@ -1,3 +1,1 @@
-Ссылка на Colab с результатами ЛР2:
-https://colab.research.google.com/drive/your-notebook-id
-Дата создания: 2025-10-01 04:00:18
+https://colab.research.google.com/drive/1gRLleN0QIP7gZSu6uIeCT1EjlfxwVyJU?usp=sharing
