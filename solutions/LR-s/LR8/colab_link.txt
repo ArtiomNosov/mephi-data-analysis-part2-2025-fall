@@ -1,0 +1,2 @@
+Ссылка на Colab с результатами ЛР8:
+https://colab.research.google.com/drive/your_notebook_id_here
