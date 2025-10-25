@@ -1,0 +1,2 @@
+best_k_original,best_silhouette_original,best_k_svd,best_silhouette_svd,rand_index,consistent_objects,boundary_objects,svd_explained_variance
+2,0.32639853698202304,2,0.5630883390100432,0.7858248337101539,566,34,0.6577522083107474
