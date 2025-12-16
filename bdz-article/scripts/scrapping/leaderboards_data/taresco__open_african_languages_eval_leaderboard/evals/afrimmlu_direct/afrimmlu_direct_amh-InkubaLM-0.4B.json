@@ -1,0 +1,25 @@
+{
+  "results": {
+    "afrimmlu_direct_amh": {
+      "acc": 0.232,
+      "acc_stderr": 0.018896193591952035,
+      "f1": 0.2311828160136092,
+      "f1_stderr": "N/A"
+    }
+  },
+  "versions": {
+    "afrimmlu_direct_amh": 1.0,
+    "wandb_run_name": "happy-durian-19"
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=lelapa/InkubaLM-0.4B,trust_remote_code=True",
+    "batch_size": 8,
+    "device": null,
+    "model_dtype": "torch.float32",
+    "numpy_seed": 42,
+    "torch_seed": 42,
+    "random_seed": 42,
+    "fewshot_seed": 42
+  }
+}

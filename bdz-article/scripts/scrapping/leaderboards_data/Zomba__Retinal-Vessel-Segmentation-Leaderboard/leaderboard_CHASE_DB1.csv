@@ -1,0 +1,2 @@
+model,mIoU,F1 score,Accuracy,AUC,Sensitivity,MCC (Matthews Correlation Coefficient),code_repo
+FSG-Net,82.68,81.019,97.515,99.378,85.995,79.889,https://github.com/ZombaSY/FSG-Net-pytorch

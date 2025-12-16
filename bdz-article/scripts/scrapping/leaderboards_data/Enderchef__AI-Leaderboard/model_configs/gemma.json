@@ -1,0 +1,11 @@
+{
+  "name": "Gemma",
+  "description": "Configuration for Gemma models",
+  "parameters": {
+    "temperature": 1.0,
+    "top_k": 64,
+    "min_p": 0.01,
+    "top_p": 0.95,
+    "repetition_penalty": 1.0
+  }
+}

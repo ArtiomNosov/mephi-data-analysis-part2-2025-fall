@@ -1,0 +1,3762 @@
+{
+    "gpt4###gpt4": {
+        "Alpaca 7B": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 13.99723355840377,
+                "neutral": 55.25707379117893,
+                "contradiction": 30.745692650417304
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 60.09599567099567,
+                "neutral": 16.86785714285714,
+                "contradiction": 23.036147186147183
+            },
+            "dolly": {
+                "abstain": 6.0,
+                "entailment": 79.38211283955965,
+                "neutral": 10.892249323100387,
+                "contradiction": 9.725637837339965
+            },
+            "avg": {
+                "abstain": 4.0,
+                "entailment": 51.34464627954212,
+                "neutral": 27.44729891329156,
+                "contradiction": 21.208054807166327
+            }
+        },
+        "Baichuan 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 24.479416416916415,
+                "neutral": 43.261716061716065,
+                "contradiction": 32.25886752136752
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 78.7480307274425,
+                "neutral": 15.489105339105338,
+                "contradiction": 5.762863933452168
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 85.07329620610871,
+                "neutral": 10.421267100954601,
+                "contradiction": 4.5054366929366925
+            },
+            "avg": {
+                "abstain": 1.3333333333333335,
+                "entailment": 62.46547685885921,
+                "neutral": 23.228120884370888,
+                "contradiction": 14.306402256769903
+            }
+        },
+        "ChatGLM 3 6B": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 14.200552533885865,
+                "neutral": 47.79314433503381,
+                "contradiction": 38.006303131080315
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 85.34064889788574,
+                "neutral": 8.92633828160144,
+                "contradiction": 5.73301282051282
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 89.29750652783859,
+                "neutral": 3.751092146836928,
+                "contradiction": 6.9514013253244755
+            },
+            "avg": {
+                "abstain": 0.33333333333333337,
+                "entailment": 63.10926502818439,
+                "neutral": 20.064429204054132,
+                "contradiction": 16.826305767761475
+            }
+        },
+        "GPT-3.5-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 59.383225108225105,
+                "neutral": 19.45919913419913,
+                "contradiction": 21.157575757575756
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 71.1136028947388,
+                "neutral": 9.210206629070726,
+                "contradiction": 19.676190476190477
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 94.78053890553892,
+                "neutral": 3.2243145743145742,
+                "contradiction": 1.99514652014652
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 75.09245563616761,
+                "neutral": 10.631240112528143,
+                "contradiction": 14.27630425130425
+            }
+        },
+        "Claude 2": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 33.515945842587236,
+                "neutral": 56.08377297174671,
+                "contradiction": 10.400281185666048
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 81.8466486944428,
+                "neutral": 15.355360407566291,
+                "contradiction": 2.797990897990898
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 90.57300115343594,
+                "neutral": 8.462604907170123,
+                "contradiction": 0.9643939393939394
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 68.64519856348866,
+                "neutral": 26.633912762161042,
+                "contradiction": 4.720888674350295
+            }
+        },
+        "InstructGPT": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 17.83611111111111,
+                "neutral": 25.714646464646464,
+                "contradiction": 56.44924242424243
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 68.26282051282051,
+                "neutral": 14.649999999999999,
+                "contradiction": 17.087179487179487
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 83.57719502719503,
+                "neutral": 4.662121212121211,
+                "contradiction": 11.76068376068376
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 56.55870888370889,
+                "neutral": 15.008922558922558,
+                "contradiction": 28.43236855736856
+            }
+        },
+        "Falcon 40B Instruct": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 31.466666666666658,
+                "neutral": 21.15,
+                "contradiction": 47.38333333333333
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 63.1717903828198,
+                "neutral": 18.362336601307188,
+                "contradiction": 18.465873015873015
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 79.68616961041204,
+                "neutral": 13.873018115442356,
+                "contradiction": 6.440812274145609
+            },
+            "avg": {
+                "abstain": 0.33333333333333337,
+                "entailment": 58.03604179391117,
+                "neutral": 17.808235630633817,
+                "contradiction": 24.155722575455016
+            }
+        },
+        "Gemini Pro (API)\u2020": {
+            "nq": {
+                "abstain": 16.0,
+                "entailment": 44.10430839002268,
+                "neutral": 12.655895691609977,
+                "contradiction": 43.23979591836735
+            },
+            "msmarco": {
+                "abstain": 5.0,
+                "entailment": 80.37009189640769,
+                "neutral": 7.900584795321638,
+                "contradiction": 11.729323308270676
+            },
+            "dolly": {
+                "abstain": 21.0,
+                "entailment": 88.43881856540084,
+                "neutral": 7.088607594936709,
+                "contradiction": 4.472573839662447
+            },
+            "avg": {
+                "abstain": 14.000000000000002,
+                "entailment": 71.03328411467946,
+                "neutral": 9.200196874615479,
+                "contradiction": 19.766519010705057
+            }
+        },
+        "GPT-4": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 73.75205627705628,
+                "neutral": 14.564069264069266,
+                "contradiction": 11.68387445887446
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 91.21498599439775,
+                "neutral": 6.654761904761905,
+                "contradiction": 2.1302521008403357
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 94.81666666666666,
+                "neutral": 3.116666666666667,
+                "contradiction": 2.0666666666666664
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 86.59456964604023,
+                "neutral": 8.111832611832611,
+                "contradiction": 5.2935977421271545
+            }
+        },
+        "GPT-4-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 42.40319186000132,
+                "neutral": 51.7920209124493,
+                "contradiction": 5.804787227549376
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 90.26384479813274,
+                "neutral": 6.928442081654156,
+                "contradiction": 2.80771312021312
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 92.30753437738731,
+                "neutral": 6.346387191240133,
+                "contradiction": 1.3460784313725491
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 74.99152367850712,
+                "neutral": 21.688950061781195,
+                "contradiction": 3.3195262597116817
+            }
+        },
+        "InternLM 20B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 16.142521900097655,
+                "neutral": 24.271539347296923,
+                "contradiction": 59.585938752605415
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 65.9702380952381,
+                "neutral": 16.333333333333332,
+                "contradiction": 17.69642857142857
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 93.67243867243869,
+                "neutral": 1.7316017316017316,
+                "contradiction": 4.595959595959596
+            },
+            "avg": {
+                "abstain": 0.6666666666666667,
+                "entailment": 58.61981512149297,
+                "neutral": 14.119611745450669,
+                "contradiction": 27.260573133056354
+            }
+        },
+        "LLaMA 2 7B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 13.783340375368242,
+                "neutral": 63.02361095528411,
+                "contradiction": 23.193048669347633
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 79.93675946516504,
+                "neutral": 13.745760895451298,
+                "contradiction": 6.317479639383664
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 88.1102897102897,
+                "neutral": 7.378410478410478,
+                "contradiction": 4.5112998112998115
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 60.61012985027433,
+                "neutral": 28.049260776381967,
+                "contradiction": 11.3406093733437
+            }
+        },
+        "LLaMA 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 23.01231170789994,
+                "neutral": 59.220105058340344,
+                "contradiction": 17.7675832337597
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 80.37351545513309,
+                "neutral": 14.298593563299447,
+                "contradiction": 5.327890981567451
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 88.30580919080919,
+                "neutral": 7.055904095904094,
+                "contradiction": 4.638286713286713
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 63.89721211794741,
+                "neutral": 26.858200905847962,
+                "contradiction": 9.244586976204625
+            }
+        },
+        "LLaMA 2 70B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 23.616815331211615,
+                "neutral": 62.14374898407405,
+                "contradiction": 14.239435684714321
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 80.95581085581085,
+                "neutral": 13.398103285603286,
+                "contradiction": 5.646085858585859
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.00456349206348,
+                "neutral": 4.918849206349206,
+                "contradiction": 4.076587301587302
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 65.19239655969533,
+                "neutral": 26.820233825342182,
+                "contradiction": 7.9873696149624935
+            }
+        },
+        "Mistral 7B Instruct": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 21.008333333333333,
+                "neutral": 40.861111111111114,
+                "contradiction": 38.13055555555555
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 81.84719274390328,
+                "neutral": 9.653496479154374,
+                "contradiction": 8.499310776942357
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 90.9826555797144,
+                "neutral": 4.769992752345694,
+                "contradiction": 4.247351667939903
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 64.61272721898366,
+                "neutral": 18.428200114203726,
+                "contradiction": 16.959072666812606
+            }
+        },
+        "ERNIE Bot 4.0 (\u6587\u5fc3\u4e00\u8a004.0)": {
+            "nq": {
+                "abstain": 9.0,
+                "entailment": 34.585509118476146,
+                "neutral": 40.91025275091209,
+                "contradiction": 24.504238130611753
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 84.2516825151113,
+                "neutral": 13.516968278539485,
+                "contradiction": 2.2313492063492064
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 94.52218810601164,
+                "neutral": 3.65296451914099,
+                "contradiction": 1.824847374847375
+            },
+            "avg": {
+                "abstain": 3.0,
+                "entailment": 72.2497195597719,
+                "neutral": 18.6935611000036,
+                "contradiction": 9.056719340224495
+            }
+        },
+        "Gemini Pro (Bard)*": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 37.58214318622853,
+                "neutral": 56.106515555046656,
+                "contradiction": 6.311341258724823
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 66.17400970976048,
+                "neutral": 29.125711679960904,
+                "contradiction": 4.70027861027861
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 81.6958587562942,
+                "neutral": 14.704152915040988,
+                "contradiction": 3.599988328664799
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 61.817337217427735,
+                "neutral": 33.31212671668285,
+                "contradiction": 4.870536065889411
+            }
+        },
+        "Phi-2": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 13.383297095061799,
+                "neutral": 34.92620549385255,
+                "contradiction": 51.690497411085644
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 64.93630890182615,
+                "neutral": 8.344114378597137,
+                "contradiction": 26.71957671957672
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 81.9274636698879,
+                "neutral": 9.039372524221008,
+                "contradiction": 9.033163805891077
+            },
+            "avg": {
+                "abstain": 0.6666666666666667,
+                "entailment": 53.28135300035527,
+                "neutral": 17.49525420390689,
+                "contradiction": 29.22339279573784
+            }
+        }
+    },
+    "gpt4###claude2": {
+        "Alpaca 7B": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 18.25731154188601,
+                "neutral": 42.409898976701236,
+                "contradiction": 39.33278948141276
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 60.126154401154395,
+                "neutral": 10.367857142857142,
+                "contradiction": 29.50598845598845
+            },
+            "dolly": {
+                "abstain": 6.0,
+                "entailment": 82.814115234328,
+                "neutral": 7.595654856293153,
+                "contradiction": 9.590229909378847
+            },
+            "avg": {
+                "abstain": 4.0,
+                "entailment": 53.86572762874846,
+                "neutral": 19.92120755064995,
+                "contradiction": 26.213064820601584
+            }
+        },
+        "Baichuan 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 31.378349428349427,
+                "neutral": 31.939990564990563,
+                "contradiction": 36.68166000666001
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 74.94037645361173,
+                "neutral": 8.740503777268483,
+                "contradiction": 16.31911976911977
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 85.24289512570763,
+                "neutral": 9.756367764180265,
+                "contradiction": 5.00073711011211
+            },
+            "avg": {
+                "abstain": 1.3333333333333335,
+                "entailment": 63.56483283872989,
+                "neutral": 16.907637633740574,
+                "contradiction": 19.527529527529527
+            }
+        },
+        "ChatGLM 3 6B": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 18.259536726559897,
+                "neutral": 33.503915045804526,
+                "contradiction": 48.236548227635566
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 75.95304330172752,
+                "neutral": 7.062425074925074,
+                "contradiction": 16.984531623347415
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 87.0074961850294,
+                "neutral": 5.291176337893605,
+                "contradiction": 7.701327477077003
+            },
+            "avg": {
+                "abstain": 0.33333333333333337,
+                "entailment": 60.547652456873315,
+                "neutral": 15.224908798717445,
+                "contradiction": 24.227438744409238
+            }
+        },
+        "GPT-3.5-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 62.99354256854257,
+                "neutral": 16.275,
+                "contradiction": 20.73145743145743
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 67.44712248535778,
+                "neutral": 21.074516170104406,
+                "contradiction": 11.478361344537815
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.1153207903208,
+                "neutral": 4.937709512709513,
+                "contradiction": 3.946969696969697
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 73.85199528140703,
+                "neutral": 14.095741894271304,
+                "contradiction": 12.052262824321646
+            }
+        },
+        "Claude 2": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 40.896599279129696,
+                "neutral": 35.503456499403704,
+                "contradiction": 23.599944221466586
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 80.31219292982483,
+                "neutral": 6.522612705716084,
+                "contradiction": 13.165194364459069
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 92.96594987138467,
+                "neutral": 2.945521990087208,
+                "contradiction": 4.088528138528139
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 71.39158069344641,
+                "neutral": 14.990530398402333,
+                "contradiction": 13.617888908151265
+            }
+        },
+        "InstructGPT": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 20.113888888888887,
+                "neutral": 20.6520202020202,
+                "contradiction": 59.23409090909091
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 53.63418803418804,
+                "neutral": 19.26111111111111,
+                "contradiction": 27.10470085470085
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 79.65044979175414,
+                "neutral": 9.311912845608497,
+                "contradiction": 11.037637362637364
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 51.13284223827702,
+                "neutral": 16.40834805291327,
+                "contradiction": 32.45880970880971
+            }
+        },
+        "Falcon 40B Instruct": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 34.53333333333333,
+                "neutral": 27.166666666666668,
+                "contradiction": 38.3
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 63.6829365079365,
+                "neutral": 17.644444444444446,
+                "contradiction": 18.672619047619047
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 80.57762383519959,
+                "neutral": 10.77410126530361,
+                "contradiction": 8.648274899496794
+            },
+            "avg": {
+                "abstain": 0.33333333333333337,
+                "entailment": 59.527798474286776,
+                "neutral": 18.554338248749723,
+                "contradiction": 21.917863276963505
+            }
+        },
+        "Gemini Pro (API)\u2020": {
+            "nq": {
+                "abstain": 16.0,
+                "entailment": 47.250566893424036,
+                "neutral": 5.938208616780045,
+                "contradiction": 46.81122448979592
+            },
+            "msmarco": {
+                "abstain": 5.0,
+                "entailment": 76.76587301587303,
+                "neutral": 13.350668337510443,
+                "contradiction": 9.88345864661654
+            },
+            "dolly": {
+                "abstain": 21.0,
+                "entailment": 89.40928270042195,
+                "neutral": 8.755274261603375,
+                "contradiction": 1.8354430379746836
+            },
+            "avg": {
+                "abstain": 14.000000000000002,
+                "entailment": 71.02767011197244,
+                "neutral": 9.530192567983265,
+                "contradiction": 19.4421373200443
+            }
+        },
+        "GPT-4": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 76.63506493506493,
+                "neutral": 8.206493506493505,
+                "contradiction": 15.158441558441558
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 77.60539558480735,
+                "neutral": 10.07580099638923,
+                "contradiction": 12.31880341880342
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 89.10139439507861,
+                "neutral": 5.357177033492823,
+                "contradiction": 5.541428571428571
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 81.11395163831698,
+                "neutral": 7.879823845458519,
+                "contradiction": 11.006224516224515
+            }
+        },
+        "GPT-4-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 49.57831732774188,
+                "neutral": 35.823720564033856,
+                "contradiction": 14.597962108224257
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 78.94691601398256,
+                "neutral": 8.053141547994489,
+                "contradiction": 12.999942438022932
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 87.42128714561842,
+                "neutral": 7.118279540886718,
+                "contradiction": 5.46043331349486
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 71.98217349578096,
+                "neutral": 16.99838055097169,
+                "contradiction": 11.019445953247352
+            }
+        },
+        "InternLM 20B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 18.76998702756278,
+                "neutral": 15.326096462460098,
+                "contradiction": 65.90391650997712
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 69.16785714285714,
+                "neutral": 5.589285714285714,
+                "contradiction": 25.24285714285714
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 90.78540137679923,
+                "neutral": 1.2027598049103423,
+                "contradiction": 8.011838818290432
+            },
+            "avg": {
+                "abstain": 0.6666666666666667,
+                "entailment": 59.60660794066294,
+                "neutral": 7.366729335229009,
+                "contradiction": 33.02666272410806
+            }
+        },
+        "LLaMA 2 7B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 19.98762667357869,
+                "neutral": 42.64563110601777,
+                "contradiction": 37.36674222040355
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 75.41355530434477,
+                "neutral": 9.799732925313421,
+                "contradiction": 14.786711770341801
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 86.99999167499168,
+                "neutral": 8.07666638916639,
+                "contradiction": 4.923341935841935
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 60.800391217638385,
+                "neutral": 20.17401014016586,
+                "contradiction": 19.02559864219576
+            }
+        },
+        "LLaMA 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 28.03634641502289,
+                "neutral": 40.386883786148495,
+                "contradiction": 31.576769798828618
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 73.92040010642953,
+                "neutral": 9.47142253171665,
+                "contradiction": 16.60817736185383
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 86.0424295149295,
+                "neutral": 7.826956654456656,
+                "contradiction": 6.13061383061383
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 62.666392012127304,
+                "neutral": 19.22842099077393,
+                "contradiction": 18.105186997098766
+            }
+        },
+        "LLaMA 2 70B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 33.01317670977114,
+                "neutral": 43.62549894635808,
+                "contradiction": 23.361324343870784
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 78.45617536058714,
+                "neutral": 6.950282070870307,
+                "contradiction": 14.593542568542569
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 88.81219336219337,
+                "neutral": 4.924440836940836,
+                "contradiction": 6.2633658008658
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 66.76051514418387,
+                "neutral": 18.50007395138974,
+                "contradiction": 14.739410904426384
+            }
+        },
+        "Mistral 7B Instruct": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 25.72936507936508,
+                "neutral": 31.798484848484847,
+                "contradiction": 42.47215007215007
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 78.53683567474403,
+                "neutral": 9.690405651181512,
+                "contradiction": 11.772758674074465
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 90.47255195784608,
+                "neutral": 4.876535804349103,
+                "contradiction": 4.65091223780482
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 64.91291757065171,
+                "neutral": 15.455142101338486,
+                "contradiction": 19.631940328009787
+            }
+        },
+        "ERNIE Bot 4.0 (\u6587\u5fc3\u4e00\u8a004.0)": {
+            "nq": {
+                "abstain": 9.0,
+                "entailment": 38.88431775794413,
+                "neutral": 32.46784808597995,
+                "contradiction": 28.647834156075913
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 82.03860673640085,
+                "neutral": 6.29840518958166,
+                "contradiction": 11.662988074017486
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.23029111411465,
+                "neutral": 4.810335905924141,
+                "contradiction": 3.959372979961215
+            },
+            "avg": {
+                "abstain": 3.0,
+                "entailment": 71.70227732310812,
+                "neutral": 13.970612664518061,
+                "contradiction": 14.327110012373808
+            }
+        },
+        "Gemini Pro (Bard)*": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 43.97499796217154,
+                "neutral": 36.883149077108556,
+                "contradiction": 19.141852960719902
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 62.28904125200564,
+                "neutral": 20.13327764770489,
+                "contradiction": 17.57768110028946
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 82.57194937846776,
+                "neutral": 11.374005503090844,
+                "contradiction": 6.054045118441402
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 62.945329530881644,
+                "neutral": 22.796810742634765,
+                "contradiction": 14.257859726483588
+            }
+        },
+        "Phi-2": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 15.251384399913812,
+                "neutral": 20.070571585277467,
+                "contradiction": 64.67804401480873
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 57.61199847406744,
+                "neutral": 13.316332454263488,
+                "contradiction": 29.07166907166907
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 83.9150856240874,
+                "neutral": 9.129040563978176,
+                "contradiction": 6.955873811934418
+            },
+            "avg": {
+                "abstain": 0.6666666666666667,
+                "entailment": 52.13530122721043,
+                "neutral": 14.191775460851247,
+                "contradiction": 33.67292331193832
+            }
+        }
+    },
+    "gpt4###nli": {
+        "Alpaca 7B": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 39.32247447657334,
+                "neutral": 38.358259995462745,
+                "contradiction": 22.3192655279639
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 84.05039682539682,
+                "neutral": 6.4722222222222205,
+                "contradiction": 9.477380952380951
+            },
+            "dolly": {
+                "abstain": 6.0,
+                "entailment": 87.36364403917595,
+                "neutral": 4.80580884836204,
+                "contradiction": 7.830547112462007
+            },
+            "avg": {
+                "abstain": 4.0,
+                "entailment": 70.53310702437541,
+                "neutral": 16.33557185257553,
+                "contradiction": 13.131321123049064
+            }
+        },
+        "Baichuan 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 46.298579198579205,
+                "neutral": 34.834310134310144,
+                "contradiction": 18.867110667110666
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 93.89758297258298,
+                "neutral": 4.43531746031746,
+                "contradiction": 1.6670995670995674
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 90.07618538868539,
+                "neutral": 5.7987541971916965,
+                "contradiction": 4.125060414122914
+            },
+            "avg": {
+                "abstain": 1.3333333333333335,
+                "entailment": 76.57746626496626,
+                "neutral": 15.147443116193116,
+                "contradiction": 8.275090618840618
+            }
+        },
+        "ChatGLM 3 6B": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 40.357838009353166,
+                "neutral": 36.34073278012672,
+                "contradiction": 23.301429210520126
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 94.03385225885225,
+                "neutral": 3.773214285714286,
+                "contradiction": 2.1929334554334554
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.09916302335658,
+                "neutral": 5.4497557997558,
+                "contradiction": 3.4510811768876293
+            },
+            "avg": {
+                "abstain": 0.33333333333333337,
+                "entailment": 75.28002505400283,
+                "neutral": 15.117155698259378,
+                "contradiction": 9.602819247737795
+            }
+        },
+        "GPT-3.5-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 68.39837662337662,
+                "neutral": 20.376190476190477,
+                "contradiction": 11.2254329004329
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 84.8015873015873,
+                "neutral": 3.198412698412698,
+                "contradiction": 12.0
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 93.07893772893772,
+                "neutral": 2.083333333333333,
+                "contradiction": 4.837728937728937
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 82.09296721796721,
+                "neutral": 8.552645502645504,
+                "contradiction": 9.35438727938728
+            }
+        },
+        "Claude 2": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 52.74511413642406,
+                "neutral": 36.94317770159689,
+                "contradiction": 10.31170816197906
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 91.50773074964252,
+                "neutral": 3.927052522640758,
+                "contradiction": 4.565216727716727
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 93.21219336219335,
+                "neutral": 3.090151515151515,
+                "contradiction": 3.6976551226551226
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 79.15501274941997,
+                "neutral": 14.653460579796384,
+                "contradiction": 6.191526670783637
+            }
+        },
+        "InstructGPT": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 35.4520202020202,
+                "neutral": 37.351010101010104,
+                "contradiction": 27.196969696969695
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 86.46666666666667,
+                "neutral": 3.366666666666667,
+                "contradiction": 10.166666666666668
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.43393719806764,
+                "neutral": 4.747222222222222,
+                "contradiction": 3.818840579710145
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 71.11754135558483,
+                "neutral": 15.154966329966326,
+                "contradiction": 13.727492314448837
+            }
+        },
+        "Falcon 40B Instruct": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 48.08333333333333,
+                "neutral": 24.966666666666665,
+                "contradiction": 26.950000000000003
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 87.07539682539684,
+                "neutral": 4.231944444444444,
+                "contradiction": 8.69265873015873
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 89.45004770762347,
+                "neutral": 6.700992610083518,
+                "contradiction": 3.8489596822930157
+            },
+            "avg": {
+                "abstain": 0.33333333333333337,
+                "entailment": 74.82082855828676,
+                "neutral": 11.984145081971167,
+                "contradiction": 13.19502635974208
+            }
+        },
+        "Gemini Pro (API)\u2020": {
+            "nq": {
+                "abstain": 16.0,
+                "entailment": 60.01984126984128,
+                "neutral": 26.927437641723355,
+                "contradiction": 13.052721088435373
+            },
+            "msmarco": {
+                "abstain": 5.0,
+                "entailment": 92.18045112781955,
+                "neutral": 0.6265664160401002,
+                "contradiction": 7.192982456140351
+            },
+            "dolly": {
+                "abstain": 21.0,
+                "entailment": 91.98312236286921,
+                "neutral": 2.5105485232067513,
+                "contradiction": 5.5063291139240516
+            },
+            "avg": {
+                "abstain": 14.000000000000002,
+                "entailment": 81.64913252122554,
+                "neutral": 9.766519010705057,
+                "contradiction": 8.584348468069397
+            }
+        },
+        "GPT-4": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 72.07348484848485,
+                "neutral": 15.993506493506493,
+                "contradiction": 11.933008658008657
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 90.64404761904763,
+                "neutral": 1.6726190476190474,
+                "contradiction": 7.683333333333334
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 92.01666666666667,
+                "neutral": 2.7333333333333334,
+                "contradiction": 5.25
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 84.91139971139971,
+                "neutral": 6.799819624819625,
+                "contradiction": 8.288780663780663
+            }
+        },
+        "GPT-4-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 56.9450380537337,
+                "neutral": 35.9172510460554,
+                "contradiction": 7.1377109002109
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 92.6530035324153,
+                "neutral": 2.473513986013986,
+                "contradiction": 4.873482481570717
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.88844643918173,
+                "neutral": 4.50254329004329,
+                "contradiction": 3.6090102707749776
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 80.49549600844358,
+                "neutral": 14.297769440704222,
+                "contradiction": 5.2067345508521985
+            }
+        },
+        "InternLM 20B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 38.36521783491481,
+                "neutral": 40.7184398093489,
+                "contradiction": 20.916342355736298
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 90.1,
+                "neutral": 3.0,
+                "contradiction": 6.9
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 94.17997176061694,
+                "neutral": 2.8956228956228958,
+                "contradiction": 2.9244053437601822
+            },
+            "avg": {
+                "abstain": 0.6666666666666667,
+                "entailment": 74.26836835556256,
+                "neutral": 15.495947006014118,
+                "contradiction": 10.235684638423326
+            }
+        },
+        "LLaMA 2 7B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 39.45354032269162,
+                "neutral": 41.36536239519144,
+                "contradiction": 19.181097282116934
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 90.75689092469278,
+                "neutral": 4.089282509715947,
+                "contradiction": 5.15382656559127
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.38357198357197,
+                "neutral": 6.125280275280275,
+                "contradiction": 2.491147741147741
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 73.86466774365213,
+                "neutral": 17.19330839339589,
+                "contradiction": 8.942023862951984
+            }
+        },
+        "LLaMA 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 44.208278404601934,
+                "neutral": 40.353214677479386,
+                "contradiction": 15.438506917918685
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 90.78491092241092,
+                "neutral": 4.708014208014208,
+                "contradiction": 4.507074869574869
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 89.71058136308135,
+                "neutral": 7.08147102897103,
+                "contradiction": 3.207947607947608
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 74.90125689669807,
+                "neutral": 17.380899971488205,
+                "contradiction": 7.71784313181372
+            }
+        },
+        "LLaMA 2 70B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 46.93413867264486,
+                "neutral": 41.25886271451287,
+                "contradiction": 11.806998612842266
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 90.40409729159728,
+                "neutral": 3.5948565323565322,
+                "contradiction": 6.0010461760461755
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 92.89645863395864,
+                "neutral": 3.8927248677248674,
+                "contradiction": 3.2108164983164973
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 76.74489819940025,
+                "neutral": 16.248814704864756,
+                "contradiction": 7.006287095734981
+            }
+        },
+        "Mistral 7B Instruct": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 41.6274531024531,
+                "neutral": 36.400685425685424,
+                "contradiction": 21.971861471861473
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 91.71748436748436,
+                "neutral": 3.015873015873016,
+                "contradiction": 5.266642616642617
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.86404151404152,
+                "neutral": 4.048840048840049,
+                "contradiction": 4.087118437118438
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 75.06965966132633,
+                "neutral": 14.488466163466162,
+                "contradiction": 10.44187417520751
+            }
+        },
+        "ERNIE Bot 4.0 (\u6587\u5fc3\u4e00\u8a004.0)": {
+            "nq": {
+                "abstain": 9.0,
+                "entailment": 55.757173229700705,
+                "neutral": 30.82707432982158,
+                "contradiction": 13.415752440477716
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 92.53871041239462,
+                "neutral": 3.835459861775651,
+                "contradiction": 3.625829725829726
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 93.59346405228757,
+                "neutral": 3.4945378151260504,
+                "contradiction": 2.911998132586368
+            },
+            "avg": {
+                "abstain": 3.0,
+                "entailment": 81.39903852361162,
+                "neutral": 12.158981208604583,
+                "contradiction": 6.441980267783785
+            }
+        },
+        "Gemini Pro (Bard)*": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 52.405351271610186,
+                "neutral": 38.84090592742835,
+                "contradiction": 8.75374280096147
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 82.35172429393793,
+                "neutral": 8.621489119755374,
+                "contradiction": 9.02678658630671
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 87.77936765265812,
+                "neutral": 8.346139296533025,
+                "contradiction": 3.87449305080884
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 74.17881440606874,
+                "neutral": 18.60284478123891,
+                "contradiction": 7.21834081269234
+            }
+        },
+        "Phi-2": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 37.42376349141055,
+                "neutral": 31.860378347143055,
+                "contradiction": 30.7158581614464
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 84.80563710448767,
+                "neutral": 1.7716851050184383,
+                "contradiction": 13.42267779049388
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 90.86461658431355,
+                "neutral": 4.162038859008556,
+                "contradiction": 4.97334455667789
+            },
+            "avg": {
+                "abstain": 0.6666666666666667,
+                "entailment": 70.91856196084692,
+                "neutral": 12.662672842795228,
+                "contradiction": 16.41876519635787
+            }
+        }
+    },
+    "claude2###gpt4": {
+        "Alpaca 7B": {
+            "nq": {
+                "abstain": 14.000000000000002,
+                "entailment": 17.279784928553738,
+                "neutral": 54.678136026460244,
+                "contradiction": 28.042079044986018
+            },
+            "msmarco": {
+                "abstain": 2.0,
+                "entailment": 60.135244574020085,
+                "neutral": 19.745707806932298,
+                "contradiction": 20.11904761904762
+            },
+            "dolly": {
+                "abstain": 8.0,
+                "entailment": 80.05064229249012,
+                "neutral": 8.950785024154587,
+                "contradiction": 10.998572683355292
+            },
+            "avg": {
+                "abstain": 8.0,
+                "entailment": 53.42019769209666,
+                "neutral": 27.032142339047706,
+                "contradiction": 19.547659968855623
+            }
+        },
+        "Baichuan 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 24.539521589521584,
+                "neutral": 45.49135133871976,
+                "contradiction": 29.96912707175865
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 80.04945671612337,
+                "neutral": 12.53878837212171,
+                "contradiction": 7.411754911754912
+            },
+            "dolly": {
+                "abstain": 5.0,
+                "entailment": 86.96112737044788,
+                "neutral": 9.479196925139572,
+                "contradiction": 3.559675704412547
+            },
+            "avg": {
+                "abstain": 2.0,
+                "entailment": 63.40188936748613,
+                "neutral": 22.75849962789212,
+                "contradiction": 13.839611004621746
+            }
+        },
+        "ChatGLM 3 6B": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 15.019736295549812,
+                "neutral": 52.191161119509054,
+                "contradiction": 32.78910258494113
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 82.45668774072,
+                "neutral": 9.93057057955266,
+                "contradiction": 7.612741679727325
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 90.82091662355887,
+                "neutral": 4.190149105280684,
+                "contradiction": 4.988934271160438
+            },
+            "avg": {
+                "abstain": 2.333333333333333,
+                "entailment": 63.67631044528618,
+                "neutral": 21.529387519241066,
+                "contradiction": 14.79430203547275
+            }
+        },
+        "GPT-3.5-Turbo": {
+            "nq": {
+                "abstain": 2.0,
+                "entailment": 59.695224813377344,
+                "neutral": 21.20497610159264,
+                "contradiction": 19.09979908503002
+            },
+            "msmarco": {
+                "abstain": 27.0,
+                "entailment": 88.15682024281583,
+                "neutral": 6.343433435520053,
+                "contradiction": 5.499746321664131
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 95.4234808401475,
+                "neutral": 2.4681337181337186,
+                "contradiction": 2.108385441718775
+            },
+            "avg": {
+                "abstain": 10.000000000000002,
+                "entailment": 80.49075745411533,
+                "neutral": 10.31667976608993,
+                "contradiction": 9.192562779794747
+            }
+        },
+        "Claude 2": {
+            "nq": {
+                "abstain": 4.0,
+                "entailment": 32.109102264453135,
+                "neutral": 58.42244482253582,
+                "contradiction": 9.468452913011049
+            },
+            "msmarco": {
+                "abstain": 5.0,
+                "entailment": 84.18158779373542,
+                "neutral": 11.64128936350706,
+                "contradiction": 4.177122842757518
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 92.85887729543452,
+                "neutral": 3.7146200688791637,
+                "contradiction": 3.426502635686309
+            },
+            "avg": {
+                "abstain": 3.6666666666666665,
+                "entailment": 69.82662502679912,
+                "neutral": 24.493114045836563,
+                "contradiction": 5.6802609273643005
+            }
+        },
+        "InstructGPT": {
+            "nq": {
+                "abstain": 3.0,
+                "entailment": 21.451071837669776,
+                "neutral": 31.415443090700823,
+                "contradiction": 47.1334850716294
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 65.95308395308395,
+                "neutral": 16.18953268953269,
+                "contradiction": 17.85738335738336
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 83.58174233174232,
+                "neutral": 6.273649190315857,
+                "contradiction": 10.144608477941812
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 56.961972079979084,
+                "neutral": 17.921144026913257,
+                "contradiction": 25.116883893107673
+            }
+        },
+        "Falcon 40B Instruct": {
+            "nq": {
+                "abstain": 27.0,
+                "entailment": 42.71689497716895,
+                "neutral": 11.1986301369863,
+                "contradiction": 46.08447488584474
+            },
+            "msmarco": {
+                "abstain": 24.0,
+                "entailment": 66.49651088505578,
+                "neutral": 17.55737382672367,
+                "contradiction": 15.94611528822055
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 78.13956105622773,
+                "neutral": 13.84068092401426,
+                "contradiction": 8.019758019758019
+            },
+            "avg": {
+                "abstain": 17.333333333333336,
+                "entailment": 64.14469639179079,
+                "neutral": 14.201967025437137,
+                "contradiction": 21.653336582772067
+            }
+        },
+        "Gemini Pro (API)\u2020": {
+            "nq": {
+                "abstain": 16.0,
+                "entailment": 46.36243386243386,
+                "neutral": 13.412698412698415,
+                "contradiction": 40.22486772486773
+            },
+            "msmarco": {
+                "abstain": 23.0,
+                "entailment": 86.50919787283424,
+                "neutral": 7.618896255259891,
+                "contradiction": 5.871905871905872
+            },
+            "dolly": {
+                "abstain": 20.0,
+                "entailment": 86.81628787878788,
+                "neutral": 10.114267676767676,
+                "contradiction": 3.0694444444444446
+            },
+            "avg": {
+                "abstain": 19.666666666666668,
+                "entailment": 72.61807348944279,
+                "neutral": 10.466651835946442,
+                "contradiction": 16.91527467461077
+            }
+        },
+        "GPT-4": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 74.10079365079365,
+                "neutral": 16.965873015873015,
+                "contradiction": 8.933333333333334
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 96.63786322609853,
+                "neutral": 2.4634439634439635,
+                "contradiction": 0.8986928104575163
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 97.38380832130832,
+                "neutral": 1.730324074074074,
+                "contradiction": 0.8858676046176047
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 89.00815613382458,
+                "neutral": 7.2881411517775145,
+                "contradiction": 3.7037027143979016
+            }
+        },
+        "GPT-4-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 38.756567860244324,
+                "neutral": 56.47508194419959,
+                "contradiction": 4.768350195556078
+            },
+            "msmarco": {
+                "abstain": 2.0,
+                "entailment": 90.57744947795968,
+                "neutral": 7.354162560795214,
+                "contradiction": 2.0683879612451035
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 93.14978472767379,
+                "neutral": 5.756699944117017,
+                "contradiction": 1.0935153282092056
+            },
+            "avg": {
+                "abstain": 1.3333333333333335,
+                "entailment": 73.92204641275849,
+                "neutral": 23.420178107774863,
+                "contradiction": 2.657775479466656
+            }
+        },
+        "InternLM 20B Chat": {
+            "nq": {
+                "abstain": 5.0,
+                "entailment": 22.164449585502215,
+                "neutral": 20.386543281280122,
+                "contradiction": 57.449007133217656
+            },
+            "msmarco": {
+                "abstain": 17.0,
+                "entailment": 75.22470835723848,
+                "neutral": 6.1675272518646,
+                "contradiction": 18.607764390896918
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 92.95386904761904,
+                "neutral": 3.3482142857142856,
+                "contradiction": 3.6979166666666665
+            },
+            "avg": {
+                "abstain": 8.666666666666668,
+                "entailment": 63.03958004687931,
+                "neutral": 10.1096895804925,
+                "contradiction": 26.850730372628185
+            }
+        },
+        "LLaMA 2 7B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 13.652765517611309,
+                "neutral": 64.02558767111891,
+                "contradiction": 22.321646811269783
+            },
+            "msmarco": {
+                "abstain": 4.0,
+                "entailment": 79.73895543498725,
+                "neutral": 13.48059324771681,
+                "contradiction": 6.780451317295946
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 84.89321695757202,
+                "neutral": 8.823196181110037,
+                "contradiction": 6.2835868613179535
+            },
+            "avg": {
+                "abstain": 2.3333333333333335,
+                "entailment": 59.133442900492675,
+                "neutral": 29.001171866793072,
+                "contradiction": 11.865385232714264
+            }
+        },
+        "LLaMA 2 13B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 20.24408299548298,
+                "neutral": 62.712803116670976,
+                "contradiction": 17.043113887846037
+            },
+            "msmarco": {
+                "abstain": 7.000000000000001,
+                "entailment": 79.32203847600931,
+                "neutral": 15.867196375789236,
+                "contradiction": 4.81076514820148
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 87.17030699590855,
+                "neutral": 6.6248289922098955,
+                "contradiction": 6.204864011881556
+            },
+            "avg": {
+                "abstain": 3.0,
+                "entailment": 61.89338208734234,
+                "neutral": 28.66005100250037,
+                "contradiction": 9.446566910157285
+            }
+        },
+        "LLaMA 2 70B Chat": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 23.479110830726334,
+                "neutral": 64.6221323496783,
+                "contradiction": 11.898756819595366
+            },
+            "msmarco": {
+                "abstain": 4.0,
+                "entailment": 84.34749226970695,
+                "neutral": 12.803920478173195,
+                "contradiction": 2.8485872521198607
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.5227342102342,
+                "neutral": 4.925252525252525,
+                "contradiction": 3.5520132645132643
+            },
+            "avg": {
+                "abstain": 3.3333333333333335,
+                "entailment": 67.09196240346057,
+                "neutral": 26.883386411378062,
+                "contradiction": 6.024651185161371
+            }
+        },
+        "Mistral 7B Instruct": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 22.038257757954728,
+                "neutral": 40.19017738714709,
+                "contradiction": 37.77156485489818
+            },
+            "msmarco": {
+                "abstain": 7.000000000000001,
+                "entailment": 82.92628303651476,
+                "neutral": 10.929168560872345,
+                "contradiction": 6.144548402612919
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 89.23142123614261,
+                "neutral": 6.38880129158767,
+                "contradiction": 4.379777472269732
+            },
+            "avg": {
+                "abstain": 2.666666666666667,
+                "entailment": 64.44203412345085,
+                "neutral": 19.29493276249129,
+                "contradiction": 16.26303311405786
+            }
+        },
+        "ERNIE Bot 4.0 (\u6587\u5fc3\u4e00\u8a004.0)": {
+            "nq": {
+                "abstain": 17.0,
+                "entailment": 36.236310389624414,
+                "neutral": 39.48460494592593,
+                "contradiction": 24.279084664449655
+            },
+            "msmarco": {
+                "abstain": 3.0,
+                "entailment": 84.34635482279727,
+                "neutral": 13.088403100294885,
+                "contradiction": 2.5652420769078392
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 95.51375944317121,
+                "neutral": 2.826283846872082,
+                "contradiction": 1.65995670995671
+            },
+            "avg": {
+                "abstain": 6.666666666666667,
+                "entailment": 74.07352187309743,
+                "neutral": 17.247948914027376,
+                "contradiction": 8.678529212875187
+            }
+        },
+        "Gemini Pro (Bard)*": {
+            "nq": {
+                "abstain": 2.0,
+                "entailment": 35.72629530578894,
+                "neutral": 56.24796027594946,
+                "contradiction": 8.025744418261608
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 67.06362111070854,
+                "neutral": 26.784287950951818,
+                "contradiction": 6.152090938339648
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 81.07176280231029,
+                "neutral": 15.255101992599624,
+                "contradiction": 3.6731352050900923
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 61.1256489320192,
+                "neutral": 32.92967139127088,
+                "contradiction": 5.944679676709912
+            }
+        },
+        "Phi-2": {
+            "nq": {
+                "abstain": 3.0,
+                "entailment": 17.055900773305265,
+                "neutral": 33.77093292799781,
+                "contradiction": 49.17316629869692
+            },
+            "msmarco": {
+                "abstain": 18.0,
+                "entailment": 68.90054051639417,
+                "neutral": 9.981573304744037,
+                "contradiction": 21.117886178861788
+            },
+            "dolly": {
+                "abstain": 3.0,
+                "entailment": 83.7804749759069,
+                "neutral": 10.46476432087879,
+                "contradiction": 5.754760703214312
+            },
+            "avg": {
+                "abstain": 8.0,
+                "entailment": 55.90932163049964,
+                "neutral": 18.512143638152327,
+                "contradiction": 25.57853473134803
+            }
+        }
+    },
+    "claude2###claude2": {
+        "Alpaca 7B": {
+            "nq": {
+                "abstain": 14.000000000000002,
+                "entailment": 23.131896603168833,
+                "neutral": 36.882768679109304,
+                "contradiction": 39.98533471772186
+            },
+            "msmarco": {
+                "abstain": 2.0,
+                "entailment": 59.7633404010955,
+                "neutral": 11.811224489795917,
+                "contradiction": 28.425435109108584
+            },
+            "dolly": {
+                "abstain": 8.0,
+                "entailment": 80.78606327247631,
+                "neutral": 10.320910973084887,
+                "contradiction": 8.893025754438797
+            },
+            "avg": {
+                "abstain": 8.0,
+                "entailment": 55.356769160317754,
+                "neutral": 19.126601144663805,
+                "contradiction": 25.516629695018445
+            }
+        },
+        "Baichuan 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 30.435129636445424,
+                "neutral": 34.451116573485,
+                "contradiction": 35.11375379006959
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 71.27010578764965,
+                "neutral": 12.857125006247813,
+                "contradiction": 15.872769206102538
+            },
+            "dolly": {
+                "abstain": 5.0,
+                "entailment": 84.05321978955268,
+                "neutral": 10.11703348341771,
+                "contradiction": 5.829746727029601
+            },
+            "avg": {
+                "abstain": 2.0,
+                "entailment": 61.51125617901144,
+                "neutral": 19.316616373781347,
+                "contradiction": 19.172127447207217
+            }
+        },
+        "ChatGLM 3 6B": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 18.26618590698691,
+                "neutral": 34.06163480866234,
+                "contradiction": 47.67217928435074
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 75.97180091246138,
+                "neutral": 8.206214380456805,
+                "contradiction": 15.82198470708181
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 88.08577812944205,
+                "neutral": 5.670668220668221,
+                "contradiction": 6.243553649889723
+            },
+            "avg": {
+                "abstain": 2.333333333333333,
+                "entailment": 61.59319992673943,
+                "neutral": 15.635753302888414,
+                "contradiction": 22.771046770372156
+            }
+        },
+        "GPT-3.5-Turbo": {
+            "nq": {
+                "abstain": 2.0,
+                "entailment": 63.29308580785488,
+                "neutral": 16.000023964578205,
+                "contradiction": 20.70689022756692
+            },
+            "msmarco": {
+                "abstain": 27.0,
+                "entailment": 79.9425347088522,
+                "neutral": 6.387141524127824,
+                "contradiction": 13.67032376701998
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 91.66077749411082,
+                "neutral": 4.603251686585019,
+                "contradiction": 3.7359708193041525
+            },
+            "avg": {
+                "abstain": 10.000000000000002,
+                "entailment": 78.19609042530726,
+                "neutral": 9.222168876895973,
+                "contradiction": 12.58174069779677
+            }
+        },
+        "Claude 2": {
+            "nq": {
+                "abstain": 4.0,
+                "entailment": 38.60519355808089,
+                "neutral": 39.31375041007514,
+                "contradiction": 22.08105603184398
+            },
+            "msmarco": {
+                "abstain": 5.0,
+                "entailment": 79.55886939360134,
+                "neutral": 8.077428019810291,
+                "contradiction": 12.363702586588362
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 94.08325518019396,
+                "neutral": 2.512476185945574,
+                "contradiction": 3.4042686338604704
+            },
+            "avg": {
+                "abstain": 3.6666666666666665,
+                "entailment": 70.88010443469517,
+                "neutral": 16.56643033727286,
+                "contradiction": 12.553465228031978
+            }
+        },
+        "InstructGPT": {
+            "nq": {
+                "abstain": 3.0,
+                "entailment": 28.028555064637533,
+                "neutral": 27.709495544547092,
+                "contradiction": 44.26194939081537
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 54.946923446923456,
+                "neutral": 17.627391127391125,
+                "contradiction": 27.425685425685426
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 81.99237911359123,
+                "neutral": 7.622007622007622,
+                "contradiction": 10.385613264401144
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 55.17915553754715,
+                "neutral": 17.58344413938819,
+                "contradiction": 27.23740032306466
+            }
+        },
+        "Falcon 40B Instruct": {
+            "nq": {
+                "abstain": 27.0,
+                "entailment": 44.33789954337899,
+                "neutral": 15.570776255707763,
+                "contradiction": 40.09132420091324
+            },
+            "msmarco": {
+                "abstain": 24.0,
+                "entailment": 66.20383679787703,
+                "neutral": 11.801071305715269,
+                "contradiction": 21.995091896407686
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 81.55825095219035,
+                "neutral": 10.279242362575696,
+                "contradiction": 8.162506685233957
+            },
+            "avg": {
+                "abstain": 17.333333333333336,
+                "entailment": 65.89687543375872,
+                "neutral": 12.303197902403308,
+                "contradiction": 21.799926663837955
+            }
+        },
+        "Gemini Pro (API)\u2020": {
+            "nq": {
+                "abstain": 16.0,
+                "entailment": 49.76190476190476,
+                "neutral": 12.612433862433864,
+                "contradiction": 37.62566137566137
+            },
+            "msmarco": {
+                "abstain": 23.0,
+                "entailment": 81.59493284493284,
+                "neutral": 6.024531024531025,
+                "contradiction": 12.380536130536129
+            },
+            "dolly": {
+                "abstain": 20.0,
+                "entailment": 91.03472222222223,
+                "neutral": 6.576388888888888,
+                "contradiction": 2.388888888888889
+            },
+            "avg": {
+                "abstain": 19.666666666666668,
+                "entailment": 73.63314359683655,
+                "neutral": 8.503918856615952,
+                "contradiction": 17.862937546547506
+            }
+        },
+        "GPT-4": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 75.47857142857143,
+                "neutral": 8.716269841269842,
+                "contradiction": 15.80515873015873
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 86.34002541142354,
+                "neutral": 4.581828515332352,
+                "contradiction": 9.078146073244111
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 93.8433196483468,
+                "neutral": 3.9120239663717924,
+                "contradiction": 2.2446563852813854
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 85.060902503939,
+                "neutral": 5.8026078716034535,
+                "contradiction": 9.136489624457537
+            }
+        },
+        "GPT-4-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 47.704400991165684,
+                "neutral": 39.265920435773374,
+                "contradiction": 13.029678573060924
+            },
+            "msmarco": {
+                "abstain": 2.0,
+                "entailment": 80.59393261993657,
+                "neutral": 8.396740776595946,
+                "contradiction": 11.009326603467484
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 89.68750150981764,
+                "neutral": 6.792575888164124,
+                "contradiction": 3.519922602018235
+            },
+            "avg": {
+                "abstain": 1.3333333333333335,
+                "entailment": 72.49331298592054,
+                "neutral": 18.29440904298589,
+                "contradiction": 9.212277971093558
+            }
+        },
+        "InternLM 20B Chat": {
+            "nq": {
+                "abstain": 5.0,
+                "entailment": 23.576730287256602,
+                "neutral": 15.753550543024227,
+                "contradiction": 60.66971916971916
+            },
+            "msmarco": {
+                "abstain": 17.0,
+                "entailment": 70.72327404857525,
+                "neutral": 7.331803404092561,
+                "contradiction": 21.944922547332183
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 91.82043650793652,
+                "neutral": 4.0476190476190474,
+                "contradiction": 4.131944444444445
+            },
+            "avg": {
+                "abstain": 8.666666666666668,
+                "entailment": 61.7685511973833,
+                "neutral": 9.101089097439463,
+                "contradiction": 29.130359705177224
+            }
+        },
+        "LLaMA 2 7B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 20.165469685466057,
+                "neutral": 42.98696428313368,
+                "contradiction": 36.84756603140028
+            },
+            "msmarco": {
+                "abstain": 4.0,
+                "entailment": 75.30955082765344,
+                "neutral": 10.283691584742575,
+                "contradiction": 14.406757587603975
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 87.78724526773746,
+                "neutral": 7.746635683910593,
+                "contradiction": 4.466119048351942
+            },
+            "avg": {
+                "abstain": 2.3333333333333335,
+                "entailment": 60.85067718277865,
+                "neutral": 20.485031239552075,
+                "contradiction": 18.664291577669278
+            }
+        },
+        "LLaMA 2 13B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 26.07997401740508,
+                "neutral": 44.20038213505851,
+                "contradiction": 29.719643847536414
+            },
+            "msmarco": {
+                "abstain": 7.000000000000001,
+                "entailment": 75.77361866479563,
+                "neutral": 9.280276018391467,
+                "contradiction": 14.946105316812911
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 86.54677660467827,
+                "neutral": 7.574860515363949,
+                "contradiction": 5.878362879957776
+            },
+            "avg": {
+                "abstain": 3.0,
+                "entailment": 62.53262834162282,
+                "neutral": 20.580119216846153,
+                "contradiction": 16.887252441531018
+            }
+        },
+        "LLaMA 2 70B Chat": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 33.07235038746468,
+                "neutral": 43.85382993047179,
+                "contradiction": 23.07381968206354
+            },
+            "msmarco": {
+                "abstain": 4.0,
+                "entailment": 80.47124980243186,
+                "neutral": 7.865185891001109,
+                "contradiction": 11.663564306567025
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 90.47362498612499,
+                "neutral": 5.87049062049062,
+                "contradiction": 3.6558843933843925
+            },
+            "avg": {
+                "abstain": 3.3333333333333335,
+                "entailment": 68.55656350368152,
+                "neutral": 18.842644555343156,
+                "contradiction": 12.600791940975334
+            }
+        },
+        "Mistral 7B Instruct": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 26.234458582943425,
+                "neutral": 31.157024793388427,
+                "contradiction": 42.608516623668145
+            },
+            "msmarco": {
+                "abstain": 7.000000000000001,
+                "entailment": 76.17962142979619,
+                "neutral": 9.420955037653329,
+                "contradiction": 14.399423532550468
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 87.43171194130947,
+                "neutral": 7.781636028230454,
+                "contradiction": 4.78665203046008
+            },
+            "avg": {
+                "abstain": 2.666666666666667,
+                "entailment": 63.099614338402034,
+                "neutral": 16.228965328322804,
+                "contradiction": 20.67142033327516
+            }
+        },
+        "ERNIE Bot 4.0 (\u6587\u5fc3\u4e00\u8a004.0)": {
+            "nq": {
+                "abstain": 17.0,
+                "entailment": 40.723308483646505,
+                "neutral": 28.522805470121586,
+                "contradiction": 30.753886046231898
+            },
+            "msmarco": {
+                "abstain": 3.0,
+                "entailment": 79.98144476863116,
+                "neutral": 8.58845965924939,
+                "contradiction": 11.430095572119445
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 92.04622697563875,
+                "neutral": 4.316796112384348,
+                "contradiction": 3.6369769119769115
+            },
+            "avg": {
+                "abstain": 6.666666666666667,
+                "entailment": 72.65306230094201,
+                "neutral": 12.971975186448992,
+                "contradiction": 14.374962512609017
+            }
+        },
+        "Gemini Pro (Bard)*": {
+            "nq": {
+                "abstain": 2.0,
+                "entailment": 42.163575617117935,
+                "neutral": 36.72106317841535,
+                "contradiction": 21.115361204466705
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 65.13759465932725,
+                "neutral": 18.44282241763677,
+                "contradiction": 16.419582923035982
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 82.61033199548214,
+                "neutral": 12.206766981099369,
+                "contradiction": 5.182901023418466
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 63.25254008872119,
+                "neutral": 22.5691656406285,
+                "contradiction": 14.1782942706503
+            }
+        },
+        "Phi-2": {
+            "nq": {
+                "abstain": 3.0,
+                "entailment": 20.55665158909549,
+                "neutral": 25.96141611908744,
+                "contradiction": 53.48193229181707
+            },
+            "msmarco": {
+                "abstain": 18.0,
+                "entailment": 67.97196908782274,
+                "neutral": 5.817229518449031,
+                "contradiction": 26.21080139372822
+            },
+            "dolly": {
+                "abstain": 3.0,
+                "entailment": 84.77256255240052,
+                "neutral": 9.687282540108704,
+                "contradiction": 5.5401549074907726
+            },
+            "avg": {
+                "abstain": 8.0,
+                "entailment": 57.21244651060354,
+                "neutral": 14.257016632082776,
+                "contradiction": 28.530536857313678
+            }
+        }
+    },
+    "claude2###nli": {
+        "Alpaca 7B": {
+            "nq": {
+                "abstain": 14.000000000000002,
+                "entailment": 43.753817431998,
+                "neutral": 38.88117354601622,
+                "contradiction": 17.36500902198577
+            },
+            "msmarco": {
+                "abstain": 2.0,
+                "entailment": 85.0101230968578,
+                "neutral": 5.3146258503401365,
+                "contradiction": 9.675251052802073
+            },
+            "dolly": {
+                "abstain": 8.0,
+                "entailment": 89.82052669552671,
+                "neutral": 3.7306292741075353,
+                "contradiction": 6.448844030365769
+            },
+            "avg": {
+                "abstain": 8.0,
+                "entailment": 73.75836528489981,
+                "neutral": 15.245768664886311,
+                "contradiction": 10.995866050213877
+            }
+        },
+        "Baichuan 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 46.60804809225861,
+                "neutral": 33.622420123735914,
+                "contradiction": 19.76953178400547
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 89.83985150651819,
+                "neutral": 5.972237638904306,
+                "contradiction": 4.187910854577521
+            },
+            "dolly": {
+                "abstain": 5.0,
+                "entailment": 89.98259998198893,
+                "neutral": 5.461597633261312,
+                "contradiction": 4.555802384749753
+            },
+            "avg": {
+                "abstain": 2.0,
+                "entailment": 75.18128267571466,
+                "neutral": 15.212058890424975,
+                "contradiction": 9.606658433860368
+            }
+        },
+        "ChatGLM 3 6B": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 40.78771579553808,
+                "neutral": 39.33744968006545,
+                "contradiction": 19.874834524396473
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 94.4033772064075,
+                "neutral": 2.7214059789817364,
+                "contradiction": 2.875216814610754
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.79145299145299,
+                "neutral": 4.430769230769231,
+                "contradiction": 3.7777777777777777
+            },
+            "avg": {
+                "abstain": 2.333333333333333,
+                "entailment": 76.31100657802124,
+                "neutral": 15.051933054342209,
+                "contradiction": 8.637060367636558
+            }
+        },
+        "GPT-3.5-Turbo": {
+            "nq": {
+                "abstain": 2.0,
+                "entailment": 70.24307071970874,
+                "neutral": 18.845966958211854,
+                "contradiction": 10.9109623220794
+            },
+            "msmarco": {
+                "abstain": 27.0,
+                "entailment": 93.63130780939002,
+                "neutral": 3.2496194824961946,
+                "contradiction": 3.1190727081138037
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 94.37582479249146,
+                "neutral": 2.4633237133237134,
+                "contradiction": 3.160851494184828
+            },
+            "avg": {
+                "abstain": 10.000000000000002,
+                "entailment": 85.41523353730956,
+                "neutral": 8.622207524985303,
+                "contradiction": 5.962558937705136
+            }
+        },
+        "Claude 2": {
+            "nq": {
+                "abstain": 4.0,
+                "entailment": 49.358368744934836,
+                "neutral": 42.2805749530059,
+                "contradiction": 8.361056302059255
+            },
+            "msmarco": {
+                "abstain": 5.0,
+                "entailment": 90.45094618053719,
+                "neutral": 3.8998626479887686,
+                "contradiction": 5.649191171474046
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 93.38884471537531,
+                "neutral": 2.951453308596166,
+                "contradiction": 3.6597019760285066
+            },
+            "avg": {
+                "abstain": 3.6666666666666665,
+                "entailment": 77.79705906149329,
+                "neutral": 16.327559070207354,
+                "contradiction": 5.875381868299366
+            }
+        },
+        "InstructGPT": {
+            "nq": {
+                "abstain": 3.0,
+                "entailment": 40.96019101173741,
+                "neutral": 33.48901384983859,
+                "contradiction": 25.55079513842401
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 88.10163910163911,
+                "neutral": 4.191290191290191,
+                "contradiction": 7.707070707070707
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 91.71777296777297,
+                "neutral": 4.379910213243546,
+                "contradiction": 3.9023168189834854
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 73.3648446541803,
+                "neutral": 14.193222278886616,
+                "contradiction": 12.441933066933068
+            }
+        },
+        "Falcon 40B Instruct": {
+            "nq": {
+                "abstain": 27.0,
+                "entailment": 58.81278538812785,
+                "neutral": 12.100456621004565,
+                "contradiction": 29.08675799086758
+            },
+            "msmarco": {
+                "abstain": 24.0,
+                "entailment": 87.42769914983538,
+                "neutral": 4.267961570593148,
+                "contradiction": 8.304339279571478
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 87.37540056167506,
+                "neutral": 8.171889838556506,
+                "contradiction": 4.452709599768423
+            },
+            "avg": {
+                "abstain": 17.333333333333336,
+                "entailment": 78.9838835658333,
+                "neutral": 8.131917365788333,
+                "contradiction": 12.884199068378383
+            }
+        },
+        "Gemini Pro (API)\u2020": {
+            "nq": {
+                "abstain": 16.0,
+                "entailment": 63.9616402116402,
+                "neutral": 27.003968253968253,
+                "contradiction": 9.034391534391533
+            },
+            "msmarco": {
+                "abstain": 23.0,
+                "entailment": 95.88383838383837,
+                "neutral": 0.2922077922077922,
+                "contradiction": 3.8239538239538233
+            },
+            "dolly": {
+                "abstain": 20.0,
+                "entailment": 95.04861111111111,
+                "neutral": 2.722222222222222,
+                "contradiction": 2.2291666666666665
+            },
+            "avg": {
+                "abstain": 19.666666666666668,
+                "entailment": 84.48017519594283,
+                "neutral": 10.409174734900875,
+                "contradiction": 5.110650069156293
+            }
+        },
+        "GPT-4": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 75.94603174603174,
+                "neutral": 17.39563492063492,
+                "contradiction": 6.658333333333333
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 96.2037037037037,
+                "neutral": 1.1111111111111112,
+                "contradiction": 2.685185185185185
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 93.81820436507935,
+                "neutral": 2.34375,
+                "contradiction": 3.8380456349206353
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 88.31987456987457,
+                "neutral": 7.218753468753468,
+                "contradiction": 4.461371961371961
+            }
+        },
+        "GPT-4-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 57.852571121688754,
+                "neutral": 36.04099674834969,
+                "contradiction": 6.106432129961542
+            },
+            "msmarco": {
+                "abstain": 2.0,
+                "entailment": 93.16440249093311,
+                "neutral": 2.3344155844155843,
+                "contradiction": 4.501181924651313
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 90.97237329830365,
+                "neutral": 5.412739188249392,
+                "contradiction": 3.614887513446937
+            },
+            "avg": {
+                "abstain": 1.3333333333333335,
+                "entailment": 80.50899033619622,
+                "neutral": 14.740948792419378,
+                "contradiction": 4.750060871384401
+            }
+        },
+        "InternLM 20B Chat": {
+            "nq": {
+                "abstain": 5.0,
+                "entailment": 47.806631964526694,
+                "neutral": 36.29053402737613,
+                "contradiction": 15.902834008097166
+            },
+            "msmarco": {
+                "abstain": 17.0,
+                "entailment": 96.56961178045515,
+                "neutral": 0.6024096385542169,
+                "contradiction": 2.8279785809906293
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 94.10389957264957,
+                "neutral": 2.690972222222222,
+                "contradiction": 3.205128205128205
+            },
+            "avg": {
+                "abstain": 8.666666666666668,
+                "entailment": 78.79884004884005,
+                "neutral": 13.707788561803161,
+                "contradiction": 7.49337138935679
+            }
+        },
+        "LLaMA 2 7B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 39.283824307910905,
+                "neutral": 43.16653367393302,
+                "contradiction": 17.549642018156074
+            },
+            "msmarco": {
+                "abstain": 4.0,
+                "entailment": 90.16009605803403,
+                "neutral": 5.1082535117861205,
+                "contradiction": 4.731650430179842
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 89.94203742102901,
+                "neutral": 6.747904872904874,
+                "contradiction": 3.310057706066109
+            },
+            "avg": {
+                "abstain": 2.3333333333333335,
+                "entailment": 72.89688564954024,
+                "neutral": 18.515951701008575,
+                "contradiction": 8.587162649451177
+            }
+        },
+        "LLaMA 2 13B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 43.25385499356581,
+                "neutral": 41.48118537755674,
+                "contradiction": 15.264959628877445
+            },
+            "msmarco": {
+                "abstain": 7.000000000000001,
+                "entailment": 89.29397828166928,
+                "neutral": 4.993593465579884,
+                "contradiction": 5.712428252750834
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 91.96779931628419,
+                "neutral": 4.387528857225827,
+                "contradiction": 3.644671826490008
+            },
+            "avg": {
+                "abstain": 3.0,
+                "entailment": 74.54049400986389,
+                "neutral": 17.20071100186393,
+                "contradiction": 8.258794988272184
+            }
+        },
+        "LLaMA 2 70B Chat": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 46.263535689767494,
+                "neutral": 44.118257573143616,
+                "contradiction": 9.618206737088892
+            },
+            "msmarco": {
+                "abstain": 4.0,
+                "entailment": 91.34825127318335,
+                "neutral": 3.8664840719867892,
+                "contradiction": 4.785264654829872
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.30055663290958,
+                "neutral": 4.725811606693959,
+                "contradiction": 3.9736317603964655
+            },
+            "avg": {
+                "abstain": 3.3333333333333335,
+                "entailment": 76.71813841501623,
+                "neutral": 17.209930494674577,
+                "contradiction": 6.071931090309208
+            }
+        },
+        "Mistral 7B Instruct": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 42.53210313816374,
+                "neutral": 35.6631976328946,
+                "contradiction": 21.80469922894165
+            },
+            "msmarco": {
+                "abstain": 7.000000000000001,
+                "entailment": 91.60184036686249,
+                "neutral": 4.9421711771490395,
+                "contradiction": 3.455988455988456
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 92.34455560779091,
+                "neutral": 4.48907383466207,
+                "contradiction": 3.1663705575470282
+            },
+            "avg": {
+                "abstain": 2.666666666666667,
+                "entailment": 75.2195374163545,
+                "neutral": 15.202691330813812,
+                "contradiction": 9.577771252831688
+            }
+        },
+        "ERNIE Bot 4.0 (\u6587\u5fc3\u4e00\u8a004.0)": {
+            "nq": {
+                "abstain": 17.0,
+                "entailment": 56.353780353795756,
+                "neutral": 31.15051824547094,
+                "contradiction": 12.495701400733292
+            },
+            "msmarco": {
+                "abstain": 3.0,
+                "entailment": 92.04375044963112,
+                "neutral": 3.905952859764579,
+                "contradiction": 4.050296690604317
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 93.20912698412698,
+                "neutral": 3.3912698412698417,
+                "contradiction": 3.3996031746031745
+            },
+            "avg": {
+                "abstain": 6.666666666666667,
+                "entailment": 81.8804295049713,
+                "neutral": 11.798205092493703,
+                "contradiction": 6.321365402534999
+            }
+        },
+        "Gemini Pro (Bard)*": {
+            "nq": {
+                "abstain": 2.0,
+                "entailment": 52.58517727956774,
+                "neutral": 38.94160858250274,
+                "contradiction": 8.47321413792953
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 79.42988099007772,
+                "neutral": 11.111471761758365,
+                "contradiction": 9.458647248163933
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 85.78617082162448,
+                "neutral": 9.282303892866539,
+                "contradiction": 4.931525285508984
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 72.40937553504835,
+                "neutral": 20.020894689316233,
+                "contradiction": 7.5697297756354125
+            }
+        },
+        "Phi-2": {
+            "nq": {
+                "abstain": 3.0,
+                "entailment": 42.40528607569238,
+                "neutral": 31.310681098431242,
+                "contradiction": 26.28403282587637
+            },
+            "msmarco": {
+                "abstain": 18.0,
+                "entailment": 89.76480836236934,
+                "neutral": 2.6132404181184667,
+                "contradiction": 7.621951219512195
+            },
+            "dolly": {
+                "abstain": 3.0,
+                "entailment": 89.4985599319208,
+                "neutral": 6.62513696952019,
+                "contradiction": 3.8763030985590112
+            },
+            "avg": {
+                "abstain": 8.0,
+                "entailment": 73.02676575526364,
+                "neutral": 14.108913285786246,
+                "contradiction": 12.864320958950112
+            }
+        }
+    },
+    "gpt4###ensemble": {
+        "Alpaca 7B": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 17.630373468139425,
+                "neutral": 52.47881967844421,
+                "contradiction": 29.89080685341637
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 65.9745670995671,
+                "neutral": 12.682142857142855,
+                "contradiction": 21.343290043290043
+            },
+            "dolly": {
+                "abstain": 6.0,
+                "entailment": 85.27159274499698,
+                "neutral": 6.905854113300921,
+                "contradiction": 7.822553141702078
+            },
+            "avg": {
+                "abstain": 4.0,
+                "entailment": 56.493894215248375,
+                "neutral": 23.78601952131364,
+                "contradiction": 19.72008626343798
+            }
+        },
+        "Baichuan 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 29.46922244422244,
+                "neutral": 39.1429057054057,
+                "contradiction": 31.387871850371845
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 84.6811115355233,
+                "neutral": 10.89693362193362,
+                "contradiction": 4.421954842543078
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 89.4821338961964,
+                "neutral": 7.672657203907204,
+                "contradiction": 2.8452088998964
+            },
+            "avg": {
+                "abstain": 1.3333333333333335,
+                "entailment": 67.58553463516698,
+                "neutral": 19.393780487530485,
+                "contradiction": 13.020684877302525
+            }
+        },
+        "ChatGLM 3 6B": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 17.956616896010832,
+                "neutral": 44.23574296568949,
+                "contradiction": 37.80764013829968
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 88.15196886446887,
+                "neutral": 6.351526251526252,
+                "contradiction": 5.4965048840048825
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 90.75256849623074,
+                "neutral": 2.8773445629849803,
+                "contradiction": 6.370086940784285
+            },
+            "avg": {
+                "abstain": 0.33333333333333337,
+                "entailment": 65.77979534707369,
+                "neutral": 17.73319610386081,
+                "contradiction": 16.4870085490655
+            }
+        },
+        "GPT-3.5-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 61.85544733044733,
+                "neutral": 18.538924963924963,
+                "contradiction": 19.605627705627704
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 75.2887955182073,
+                "neutral": 6.535014005602241,
+                "contradiction": 18.176190476190474
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 95.43484848484849,
+                "neutral": 2.5651515151515154,
+                "contradiction": 2.0
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 77.52636377783436,
+                "neutral": 9.213030161559573,
+                "contradiction": 13.260606060606062
+            }
+        },
+        "Claude 2": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 40.02383455378944,
+                "neutral": 48.03262041358283,
+                "contradiction": 11.943545032627718
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 88.78287717184774,
+                "neutral": 8.112981136510548,
+                "contradiction": 3.1041416916416917
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 95.06695997239476,
+                "neutral": 3.759555179120397,
+                "contradiction": 1.1734848484848486
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 74.62455723267732,
+                "neutral": 19.96838557640459,
+                "contradiction": 5.407057190918085
+            }
+        },
+        "InstructGPT": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 20.613888888888887,
+                "neutral": 24.323232323232325,
+                "contradiction": 55.06287878787878
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 70.83974358974359,
+                "neutral": 12.616666666666667,
+                "contradiction": 16.54358974358974
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 85.98766511266511,
+                "neutral": 4.345454545454545,
+                "contradiction": 9.666880341880344
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 59.147099197099195,
+                "neutral": 13.76178451178451,
+                "contradiction": 27.09111629111629
+            }
+        },
+        "Falcon 40B Instruct": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 33.08333333333333,
+                "neutral": 25.683333333333337,
+                "contradiction": 41.233333333333334
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 69.2890873015873,
+                "neutral": 12.878373015873015,
+                "contradiction": 17.832539682539682
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 84.19342161766404,
+                "neutral": 10.701525132121418,
+                "contradiction": 5.1050532502145405
+            },
+            "avg": {
+                "abstain": 0.33333333333333337,
+                "entailment": 62.115019410169914,
+                "neutral": 16.440206096992156,
+                "contradiction": 21.444774492837933
+            }
+        },
+        "Gemini Pro (API)\u2020": {
+            "nq": {
+                "abstain": 16.0,
+                "entailment": 46.48526077097506,
+                "neutral": 10.870181405895691,
+                "contradiction": 42.64455782312925
+            },
+            "msmarco": {
+                "abstain": 5.0,
+                "entailment": 85.34252297410193,
+                "neutral": 4.156223893065999,
+                "contradiction": 10.501253132832082
+            },
+            "dolly": {
+                "abstain": 21.0,
+                "entailment": 91.22362869198312,
+                "neutral": 5.822784810126583,
+                "contradiction": 2.953586497890295
+            },
+            "avg": {
+                "abstain": 14.000000000000002,
+                "entailment": 74.49212501538082,
+                "neutral": 6.852467085025225,
+                "contradiction": 18.655407899593946
+            }
+        },
+        "Gemini Pro (Bard)*": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 42.3192079188815,
+                "neutral": 49.54031618891121,
+                "contradiction": 8.14047589220728
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 72.08984085831608,
+                "neutral": 22.679601191721932,
+                "contradiction": 5.230557949961974
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 85.03484607896542,
+                "neutral": 11.418896529188963,
+                "contradiction": 3.546257391845627
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 66.48129828538767,
+                "neutral": 27.879604636607375,
+                "contradiction": 5.63909707800496
+            }
+        },
+        "GPT-4": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 76.50367965367965,
+                "neutral": 10.33073593073593,
+                "contradiction": 13.165584415584416
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 90.81666666666666,
+                "neutral": 6.011904761904762,
+                "contradiction": 3.1714285714285717
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 94.35,
+                "neutral": 1.874242424242424,
+                "contradiction": 3.7757575757575754
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 87.22344877344878,
+                "neutral": 6.072294372294372,
+                "contradiction": 6.704256854256855
+            }
+        },
+        "GPT-4-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 47.53210942936007,
+                "neutral": 46.04064378361053,
+                "contradiction": 6.427246787029395
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 91.68919342611292,
+                "neutral": 3.9656392412197365,
+                "contradiction": 4.345167332667333
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 93.33216301672185,
+                "neutral": 4.861454938934998,
+                "contradiction": 1.8063820443431613
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 77.5178219573983,
+                "neutral": 18.28924598792176,
+                "contradiction": 4.1929320546799635
+            }
+        },
+        "InternLM 20B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 17.36546562304138,
+                "neutral": 22.48258195227892,
+                "contradiction": 60.1519524246797
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 71.97857142857143,
+                "neutral": 9.125,
+                "contradiction": 18.896428571428572
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 95.89466089466089,
+                "neutral": 0.7215007215007215,
+                "contradiction": 3.383838383838384
+            },
+            "avg": {
+                "abstain": 0.6666666666666667,
+                "entailment": 61.78056935607271,
+                "neutral": 10.770819411759009,
+                "contradiction": 27.448611232168275
+            }
+        },
+        "LLaMA 2 7B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 17.863238299654707,
+                "neutral": 57.486501904329,
+                "contradiction": 24.65025979601629
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 84.42618947959507,
+                "neutral": 10.243142272244437,
+                "contradiction": 5.330668248160508
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.5319832944833,
+                "neutral": 5.90772422022422,
+                "contradiction": 2.5602924852924853
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 64.60713702457768,
+                "neutral": 24.545789465599224,
+                "contradiction": 10.847073509823096
+            }
+        },
+        "LLaMA 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 27.52490646608294,
+                "neutral": 52.27585404791286,
+                "contradiction": 20.199239486004195
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 84.40955523234933,
+                "neutral": 10.119819151436797,
+                "contradiction": 5.470625616213851
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 90.67812160062158,
+                "neutral": 6.539147241647241,
+                "contradiction": 2.782731157731158
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 67.53752776635127,
+                "neutral": 22.978273480332305,
+                "contradiction": 9.484198753316402
+            }
+        },
+        "LLaMA 2 70B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 29.7032482610269,
+                "neutral": 56.06171349720112,
+                "contradiction": 14.235038241771985
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 86.5586607836608,
+                "neutral": 7.181184093684094,
+                "contradiction": 6.260155122655123
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 94.01765873015874,
+                "neutral": 3.076388888888889,
+                "contradiction": 2.9059523809523813
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 70.09318925828215,
+                "neutral": 22.106428826591365,
+                "contradiction": 7.800381915126496
+            }
+        },
+        "Mistral 7B Instruct": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 24.200396825396826,
+                "neutral": 38.8416305916306,
+                "contradiction": 36.95797258297258
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 86.83447945816367,
+                "neutral": 5.975154475154475,
+                "contradiction": 7.1903660666818565
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 92.95665559930266,
+                "neutral": 3.7103216263702192,
+                "contradiction": 3.333022774327122
+            },
+            "avg": {
+                "abstain": 0.0,
+                "entailment": 67.99717729428772,
+                "neutral": 16.175702231051762,
+                "contradiction": 15.827120474660521
+            }
+        },
+        "ERNIE Bot 4.0 (\u6587\u5fc3\u4e00\u8a004.0)": {
+            "nq": {
+                "abstain": 9.0,
+                "entailment": 37.421324097148265,
+                "neutral": 39.20295211504003,
+                "contradiction": 23.375723787811705
+            },
+            "msmarco": {
+                "abstain": 0.0,
+                "entailment": 90.7903847184807,
+                "neutral": 7.111563333467358,
+                "contradiction": 2.098051948051948
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 95.01819112260289,
+                "neutral": 2.427474323062558,
+                "contradiction": 2.554334554334554
+            },
+            "avg": {
+                "abstain": 3.0,
+                "entailment": 75.55394528161116,
+                "neutral": 15.53736222722211,
+                "contradiction": 8.908692491166718
+            }
+        },
+        "Phi-2": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 15.346622495151907,
+                "neutral": 30.171047906342025,
+                "contradiction": 54.48232959850608
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 70.03491400043124,
+                "neutral": 5.658528359677784,
+                "contradiction": 24.306557639890972
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 87.42571822117277,
+                "neutral": 6.796859145343993,
+                "contradiction": 5.777422633483241
+            },
+            "avg": {
+                "abstain": 0.6666666666666667,
+                "entailment": 57.46062026662412,
+                "neutral": 14.262376354467648,
+                "contradiction": 28.27700337890824
+            }
+        }
+    },
+    "claude2###ensemble": {
+        "Alpaca 7B": {
+            "nq": {
+                "abstain": 14.000000000000002,
+                "entailment": 21.241871253841158,
+                "neutral": 49.81864284446363,
+                "contradiction": 28.9394859016952
+            },
+            "msmarco": {
+                "abstain": 2.0,
+                "entailment": 64.45051830255912,
+                "neutral": 14.173550372529963,
+                "contradiction": 21.375931324910912
+            },
+            "dolly": {
+                "abstain": 8.0,
+                "entailment": 84.25871682665161,
+                "neutral": 7.055512422360248,
+                "contradiction": 8.685770750988143
+            },
+            "avg": {
+                "abstain": 8.0,
+                "entailment": 57.5896872084532,
+                "neutral": 22.90767523184403,
+                "contradiction": 19.50263755970278
+            }
+        },
+        "Baichuan 2 13B Chat": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 28.73793238924818,
+                "neutral": 40.935400856453484,
+                "contradiction": 30.32666675429833
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 83.65797782464449,
+                "neutral": 9.18279251612585,
+                "contradiction": 7.15922965922966
+            },
+            "dolly": {
+                "abstain": 5.0,
+                "entailment": 89.22320636472502,
+                "neutral": 7.84657984321908,
+                "contradiction": 2.9302137920558975
+            },
+            "avg": {
+                "abstain": 2.0,
+                "entailment": 66.77597839528401,
+                "neutral": 19.551230033495308,
+                "contradiction": 13.67279157122068
+            }
+        },
+        "ChatGLM 3 6B": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 17.90577755925065,
+                "neutral": 48.04422058958979,
+                "contradiction": 34.05000185115955
+            },
+            "msmarco": {
+                "abstain": 1.0,
+                "entailment": 86.7038283944185,
+                "neutral": 6.39873594419049,
+                "contradiction": 6.897435661391005
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 92.25838656675637,
+                "neutral": 3.3035958924116824,
+                "contradiction": 4.438017540831942
+            },
+            "avg": {
+                "abstain": 2.333333333333333,
+                "entailment": 66.527852417381,
+                "neutral": 18.70304158067395,
+                "contradiction": 14.769106001945056
+            }
+        },
+        "GPT-3.5-Turbo": {
+            "nq": {
+                "abstain": 2.0,
+                "entailment": 63.65169336571055,
+                "neutral": 19.157318692764452,
+                "contradiction": 17.190987941524995
+            },
+            "msmarco": {
+                "abstain": 27.0,
+                "entailment": 91.13882059087538,
+                "neutral": 3.5897435897435894,
+                "contradiction": 5.271435819381025
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 96.6845037678371,
+                "neutral": 1.236772486772487,
+                "contradiction": 2.0787237453904117
+            },
+            "avg": {
+                "abstain": 10.000000000000002,
+                "entailment": 83.19542861477558,
+                "neutral": 8.37744070419509,
+                "contradiction": 8.427130681029317
+            }
+        },
+        "Claude 2": {
+            "nq": {
+                "abstain": 4.0,
+                "entailment": 37.258990243046604,
+                "neutral": 51.60815620775462,
+                "contradiction": 11.132853549198769
+            },
+            "msmarco": {
+                "abstain": 5.0,
+                "entailment": 88.64898350522435,
+                "neutral": 7.009393486132937,
+                "contradiction": 4.341623008642725
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 96.91521913460689,
+                "neutral": 1.7088127292208926,
+                "contradiction": 1.3759681361722178
+            },
+            "avg": {
+                "abstain": 3.6666666666666665,
+                "entailment": 74.38134246200782,
+                "neutral": 20.0267786318018,
+                "contradiction": 5.591878906190374
+            }
+        },
+        "InstructGPT": {
+            "nq": {
+                "abstain": 3.0,
+                "entailment": 26.36761577483227,
+                "neutral": 29.128025468231655,
+                "contradiction": 44.50435875693607
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 71.43980093980093,
+                "neutral": 11.610704110704113,
+                "contradiction": 16.94949494949495
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 87.37298195631529,
+                "neutral": 4.285914702581369,
+                "contradiction": 8.341103341103342
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 61.66841268676932,
+                "neutral": 15.016389496284601,
+                "contradiction": 23.315197816946068
+            }
+        },
+        "Falcon 40B Instruct": {
+            "nq": {
+                "abstain": 27.0,
+                "entailment": 44.65753424657534,
+                "neutral": 10.627853881278538,
+                "contradiction": 44.714611872146115
+            },
+            "msmarco": {
+                "abstain": 24.0,
+                "entailment": 71.2170131210379,
+                "neutral": 11.690255049388174,
+                "contradiction": 17.092731829573932
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 84.1018395185062,
+                "neutral": 10.461837545170878,
+                "contradiction": 5.436322936322936
+            },
+            "avg": {
+                "abstain": 17.333333333333336,
+                "entailment": 68.54264157068948,
+                "neutral": 10.887155782494967,
+                "contradiction": 20.570202646815545
+            }
+        },
+        "Gemini Pro (API)\u2020": {
+            "nq": {
+                "abstain": 16.0,
+                "entailment": 48.902116402116405,
+                "neutral": 12.36111111111111,
+                "contradiction": 38.736772486772495
+            },
+            "msmarco": {
+                "abstain": 23.0,
+                "entailment": 90.06715506715507,
+                "neutral": 2.762237762237762,
+                "contradiction": 7.1706071706071715
+            },
+            "dolly": {
+                "abstain": 20.0,
+                "entailment": 94.74305555555557,
+                "neutral": 4.381944444444445,
+                "contradiction": 0.8749999999999999
+            },
+            "avg": {
+                "abstain": 19.666666666666668,
+                "entailment": 77.2713409227932,
+                "neutral": 6.645565131042308,
+                "contradiction": 16.083093946164485
+            }
+        },
+        "Gemini Pro (Bard)*": {
+            "nq": {
+                "abstain": 2.0,
+                "entailment": 40.9417668484882,
+                "neutral": 49.41088946712112,
+                "contradiction": 9.647343684390677
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 73.31915173130437,
+                "neutral": 19.394666167025058,
+                "contradiction": 7.286182101670577
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 84.99209899446048,
+                "neutral": 12.136500863731229,
+                "contradiction": 2.871400141808305
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 66.22462415533693,
+                "neutral": 27.192881844250998,
+                "contradiction": 6.58249400041207
+            }
+        },
+        "GPT-4": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 77.38928571428572,
+                "neutral": 13.027380952380952,
+                "contradiction": 9.583333333333332
+            },
+            "msmarco": {
+                "abstain": 10.0,
+                "entailment": 97.28601137424667,
+                "neutral": 1.8152958152958154,
+                "contradiction": 0.8986928104575163
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 97.83887987012987,
+                "neutral": 1.3541666666666667,
+                "contradiction": 0.8069534632034631
+            },
+            "avg": {
+                "abstain": 4.666666666666667,
+                "entailment": 90.51469252672462,
+                "neutral": 5.580820694457058,
+                "contradiction": 3.90448677881833
+            }
+        },
+        "GPT-4-Turbo": {
+            "nq": {
+                "abstain": 0.0,
+                "entailment": 45.17507655742949,
+                "neutral": 49.37076461120579,
+                "contradiction": 5.454158831364714
+            },
+            "msmarco": {
+                "abstain": 2.0,
+                "entailment": 92.14598100312386,
+                "neutral": 4.956777349634493,
+                "contradiction": 2.8972416472416467
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 94.14953896976706,
+                "neutral": 4.708575704674144,
+                "contradiction": 1.141885325558795
+            },
+            "avg": {
+                "abstain": 1.3333333333333335,
+                "entailment": 76.94077234150764,
+                "neutral": 19.879327906901434,
+                "contradiction": 3.1798997515909284
+            }
+        },
+        "InternLM 20B Chat": {
+            "nq": {
+                "abstain": 5.0,
+                "entailment": 23.029946661525607,
+                "neutral": 21.126309363151467,
+                "contradiction": 55.843743975322916
+            },
+            "msmarco": {
+                "abstain": 17.0,
+                "entailment": 77.90208452859055,
+                "neutral": 4.962707974756167,
+                "contradiction": 17.13520749665328
+            },
+            "dolly": {
+                "abstain": 4.0,
+                "entailment": 95.14136904761905,
+                "neutral": 2.775297619047619,
+                "contradiction": 2.083333333333333
+            },
+            "avg": {
+                "abstain": 8.666666666666668,
+                "entailment": 64.91711451565466,
+                "neutral": 9.800484389900449,
+                "contradiction": 25.28240109444489
+            }
+        },
+        "LLaMA 2 7B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 17.622607560326042,
+                "neutral": 57.55738452779022,
+                "contradiction": 24.82000791188373
+            },
+            "msmarco": {
+                "abstain": 4.0,
+                "entailment": 84.32195584339527,
+                "neutral": 9.302483087949039,
+                "contradiction": 6.375561068655698
+            },
+            "dolly": {
+                "abstain": 2.0,
+                "entailment": 89.80463647330396,
+                "neutral": 6.685943108512136,
+                "contradiction": 3.5094204181839226
+            },
+            "avg": {
+                "abstain": 2.3333333333333335,
+                "entailment": 63.619113596662146,
+                "neutral": 24.731883513066656,
+                "contradiction": 11.649002890271198
+            }
+        },
+        "LLaMA 2 13B Chat": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 24.459323997575627,
+                "neutral": 57.05990065271198,
+                "contradiction": 18.4807753497124
+            },
+            "msmarco": {
+                "abstain": 7.000000000000001,
+                "entailment": 83.78834403664625,
+                "neutral": 11.065448181322541,
+                "contradiction": 5.146207782031211
+            },
+            "dolly": {
+                "abstain": 1.0,
+                "entailment": 91.25159415933285,
+                "neutral": 5.354805525216732,
+                "contradiction": 3.393600315450395
+            },
+            "avg": {
+                "abstain": 3.0,
+                "entailment": 66.14328829189705,
+                "neutral": 24.770249458687072,
+                "contradiction": 9.086462249415874
+            }
+        },
+        "LLaMA 2 70B Chat": {
+            "nq": {
+                "abstain": 6.0,
+                "entailment": 29.703146161087002,
+                "neutral": 58.07392593591626,
+                "contradiction": 12.22292790299674
+            },
+            "msmarco": {
+                "abstain": 4.0,
+                "entailment": 87.83553858078314,
+                "neutral": 9.12421831137864,
+                "contradiction": 3.040243107838216
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 94.5539751914752,
+                "neutral": 2.815133477633478,
+                "contradiction": 2.630891330891331
+            },
+            "avg": {
+                "abstain": 3.3333333333333335,
+                "entailment": 71.30932745532718,
+                "neutral": 22.815128771144224,
+                "contradiction": 5.875543773528604
+            }
+        },
+        "Mistral 7B Instruct": {
+            "nq": {
+                "abstain": 1.0,
+                "entailment": 25.40773900622385,
+                "neutral": 38.96468290407684,
+                "contradiction": 35.6275780896993
+            },
+            "msmarco": {
+                "abstain": 7.000000000000001,
+                "entailment": 85.77285591279899,
+                "neutral": 7.781711781553653,
+                "contradiction": 6.44543230564736
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 91.99693350165488,
+                "neutral": 5.269511267885881,
+                "contradiction": 2.7335552304592547
+            },
+            "avg": {
+                "abstain": 2.666666666666667,
+                "entailment": 67.43813394408204,
+                "neutral": 17.49367784238591,
+                "contradiction": 15.06818821353206
+            }
+        },
+        "ERNIE Bot 4.0 (\u6587\u5fc3\u4e00\u8a004.0)": {
+            "nq": {
+                "abstain": 17.0,
+                "entailment": 40.3128901692979,
+                "neutral": 36.4439475673414,
+                "contradiction": 23.243162263360706
+            },
+            "msmarco": {
+                "abstain": 3.0,
+                "entailment": 89.3060707172859,
+                "neutral": 8.29678943576417,
+                "contradiction": 2.397139846949939
+            },
+            "dolly": {
+                "abstain": 0.0,
+                "entailment": 95.77377344877344,
+                "neutral": 2.5912698412698414,
+                "contradiction": 1.63495670995671
+            },
+            "avg": {
+                "abstain": 6.666666666666667,
+                "entailment": 77.09298603037786,
+                "neutral": 14.602725741019448,
+                "contradiction": 8.30428822860269
+            }
+        },
+        "Phi-2": {
+            "nq": {
+                "abstain": 3.0,
+                "entailment": 20.20246867881798,
+                "neutral": 32.207070269532366,
+                "contradiction": 47.59046105164965
+            },
+            "msmarco": {
+                "abstain": 18.0,
+                "entailment": 76.65605735727686,
+                "neutral": 5.782967032967033,
+                "contradiction": 17.5609756097561
+            },
+            "dolly": {
+                "abstain": 3.0,
+                "entailment": 88.40307097807987,
+                "neutral": 7.849456563107469,
+                "contradiction": 3.7474724588126644
+            },
+            "avg": {
+                "abstain": 8.0,
+                "entailment": 60.94396394933259,
+                "neutral": 15.7959652154687,
+                "contradiction": 23.260070835198707
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "agent_name": "GenericAgent-AgentTrek-1.0-32b",
+        "study_id": "4c636aa0-ea52-429d-9d7e-301b7bf0ac74", 
+        "date_time": "2025-01-22 04:27:37",
+        "benchmark": "MiniWoB",
+        "score": 60.0,
+        "std_err": 2.0,
+        "benchmark_specific": "No",
+        "benchmark_tuned": "No",
+        "followed_evaluation_protocol": "Yes", 
+        "reproducible": "Yes",
+        "comments": "Additional details",
+        "original_or_reproduced": "Original"
+    }
+]

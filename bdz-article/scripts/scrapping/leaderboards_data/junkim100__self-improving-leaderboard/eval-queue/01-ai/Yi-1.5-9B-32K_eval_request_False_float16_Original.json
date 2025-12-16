@@ -1,0 +1,14 @@
+{
+  "model": "01-ai/Yi-1.5-9B-32K",
+  "base_model": "",
+  "revision": "c0239dbc923b8a2b5ca849763bdd592d39c60850",
+  "private": false,
+  "precision": "float16",
+  "weight_type": "Original",
+  "status": "FINISHED",
+  "submitted_time": "2024-07-29T13:10:13Z",
+  "model_type": "\ud83d\udfe2 : pretrained",
+  "likes": 18,
+  "params": 8.829,
+  "license": "apache-2.0"
+}

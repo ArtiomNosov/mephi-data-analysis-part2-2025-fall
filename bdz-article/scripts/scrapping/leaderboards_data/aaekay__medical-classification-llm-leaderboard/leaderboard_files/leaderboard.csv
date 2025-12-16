@@ -1,0 +1,7 @@
+Model name,parameters,data_type,Average,chexpert pulse 0 shot,chexpert pulse 1 shot,chexpert pulse 5 shots,ctrate 0 shot,ctrate 1 shot,ctrate 5 shots
+MedGPT-7B,7B,clinical,85.4,83.1,86.2,87.4,81.5,84.2,85.9
+BioMedLM-13B,13B,biomedical,88.1,85.7,89.3,89.4,83.9,87.1,88.7
+HealthLLM-30B,30B,clinical,91.2,90.0,91.9,92.5,89.0,90.5,91.3
+MediT5-3B,3B,biomedical,80.6,78.5,81.2,82.0,76.3,78.9,80.1
+Clinical-BERT,110M,clinical,74.8,73.2,75.0,76.1,70.5,73.1,74.3
+BioGPT-2.7B,2.7B,biomedical,77.5,75.8,78.2,79.0,73.4,75.9,77.0

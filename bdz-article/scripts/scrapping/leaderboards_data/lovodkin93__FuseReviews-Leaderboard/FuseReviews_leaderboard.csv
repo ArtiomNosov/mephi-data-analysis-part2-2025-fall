@@ -1,0 +1,4 @@
+﻿Model,Faithfulness,Coverage,F-1
+Flan-T5-Large (H),72.8,86.4,79
+Flan-T5-Large (H+Quark),54,82,65.1
+GPT-4,81.6,85.6,83.6

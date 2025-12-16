@@ -1,0 +1,37 @@
+Ranking,Model Name,Basic Logical Inference (Weighted Score)
+1,GPT-o3,97
+2,Doubao 1.5 Pro,96
+3,Doubao 1.5 Pro (Thinking),95
+4,GPT-5 (Auto),94
+5,DeepSeek-R1,92
+6,Qwen 3 (Thinking),90
+7,Gemini 2.5 Pro,88
+7,GPT-o4 mini,88
+7,Hunyuan-T1,88
+7,Ernie X1-Turbo,88
+11,GPT-4.1,87
+11,GPT-4o,87
+11,Qwen 3,87
+14,DeepSeek-V3,86
+14,Grok 3 (Thinking),86
+14,SenseChat V6 (Thinking),86
+17,Claude 4 Opus,85
+17,Claude 4 Opus thinking,85
+19,Gemini 2.5 Flash,84
+20,SenseChat V6 Pro,83
+21,Hunyuan-TurboS,81
+22,Baichuan4-Turbo,80
+22,Grok 3,80
+22,Grok 4,80
+22,Yi- Lightning,80
+26,MiniMax-01,79
+27,Spark 4.0 Ultra,77
+27,Step R1-V-Mini,77
+29,GLM-4-plus,76
+29,GLM-Z1-Air,76
+29,Kimi,76
+32,Ernie 4.5-Turbo,74
+33,Step 2,73
+34,Kimi-k1.5,72
+35,Llama 3.3 70B,64
+36,360 Zhinao 2-o1,59

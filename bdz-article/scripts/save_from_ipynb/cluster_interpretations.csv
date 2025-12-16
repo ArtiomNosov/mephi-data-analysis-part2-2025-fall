@@ -1,0 +1,4 @@
+﻿cluster_id,size,percentage,top_high_features,top_low_features
+1,3,2.127659574468085,pipeline tag_nan: +4600.0%; UGI-Leaderboard :: W/10-Adherence: +101.7%,pipeline tag_text-generation: -100.0%; architectural type_llama: -100.0%; real architecture_LlamaForCausalLM: -100.0%; datasets :: GSM8K: -55.5%; datasets :: MMLU: -24.1%
+2,24,17.02127659574468,datasets :: GSM8K: +130.7%; datasets :: MMLU: +41.3%; datasets :: ARC: +36.6%; datasets :: Average: +36.2%; datasets :: Winogrande: +16.3%,pipeline tag_nan: -100.0%; architectural type_llama: -86.8%; real architecture_LlamaForCausalLM: -86.6%
+3,114,80.85106382978722,architectural type_llama: +20.9%; real architecture_LlamaForCausalLM: +20.9%,pipeline tag_nan: -100.0%; datasets :: GSM8K: -30.8%; UGI-Leaderboard :: W/10-Adherence: -18.5%

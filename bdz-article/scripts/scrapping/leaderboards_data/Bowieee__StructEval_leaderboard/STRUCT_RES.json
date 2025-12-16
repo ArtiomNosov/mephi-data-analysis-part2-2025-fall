@@ -1,0 +1,222 @@
+{
+    "deepseek-v2-lite-chat": {
+        "BaseARC": 69.01287553648069,
+        "BaseOpenbook": 64.60000000000001,
+        "📝StructARC": 40.155538694992416,
+        "📝StructOpenbook": 41.98437130002368,
+        "📝StructMMLU": 40.95659182440028,
+        "📝StructAverage": 41.03216727313879,
+        "BaseMMLU": 55.7,
+        "BaseAverage": 63.10429184549357
+    },
+    "baichuan2-7b-chat": {
+        "BaseARC": 57.596566523605155,
+        "BaseOpenbook": 60.8,
+        "📝StructARC": 31.39226100151745,
+        "📝StructOpenbook": 33.838503433578026,
+        "📝StructMMLU": 32.019719285283976,
+        "📝StructAverage": 32.41682790679315,
+        "BaseMMLU": 52.49,
+        "BaseAverage": 56.962188841201716
+    },
+    "mistral-7b-instruct-v0.3": {
+        "BaseARC": 76.39484978540773,
+        "BaseOpenbook": 74.4,
+        "📝StructARC": 42.640364188163886,
+        "📝StructOpenbook": 43.6182808430026,
+        "📝StructMMLU": 41.756990621302315,
+        "📝StructAverage": 42.67187855082293,
+        "BaseMMLU": 61.63,
+        "BaseAverage": 70.80828326180257
+    },
+    "yi-6b-chat": {
+        "BaseARC": 59.227467811158796,
+        "BaseOpenbook": 55.60000000000001,
+        "📝StructARC": 38.39150227617603,
+        "📝StructOpenbook": 38.977030547004496,
+        "📝StructMMLU": 36.34025031348594,
+        "📝StructAverage": 37.90292771222215,
+        "BaseMMLU": 58.24,
+        "BaseAverage": 57.68915593705293
+    },
+    "yi-1.5-9b-chat": {
+        "BaseARC": 85.75107296137338,
+        "BaseOpenbook": 83.0,
+        "📝StructARC": 57.01820940819423,
+        "📝StructOpenbook": 54.53469097797774,
+        "📝StructMMLU": 53.431308242228596,
+        "📝StructAverage": 54.99473620946685,
+        "BaseMMLU": 69.5,
+        "BaseAverage": 79.4170243204578
+    },
+    "llama-2-7b-chat": {
+        "BaseARC": 53.648068669527895,
+        "BaseOpenbook": 57.99999999999999,
+        "📝StructARC": 29.429059180576633,
+        "📝StructOpenbook": 33.24650722235378,
+        "📝StructMMLU": 27.884038239302765,
+        "📝StructAverage": 30.186534880744393,
+        "BaseMMLU": 34.1,
+        "BaseAverage": 48.5826895565093
+    },
+    "llama-3-8b-instruct": {
+        "BaseARC": 80.68669527896995,
+        "BaseOpenbook": 79.60000000000001,
+        "📝StructARC": 56.74317147192717,
+        "📝StructOpenbook": 57.06843476201753,
+        "📝StructMMLU": 54.63728961686302,
+        "📝StructAverage": 56.149631950269246,
+        "BaseMMLU": 68.4,
+        "BaseAverage": 76.22889842632333
+    },
+    "qwen1.5-7b-chat": {
+        "BaseARC": 70.21459227467811,
+        "BaseOpenbook": 68.60000000000001,
+        "📝StructARC": 40.92374810318665,
+        "📝StructOpenbook": 41.439734785697375,
+        "📝StructMMLU": 39.75951206275273,
+        "📝StructAverage": 40.707664983878914,
+        "BaseMMLU": 61.70508772,
+        "BaseAverage": 66.83989333155938
+    },
+    "qwen2-7b-instruct": {
+        "BaseARC": 84.29184549356223,
+        "BaseOpenbook": 82.39999999999999,
+        "📝StructARC": 58.34597875569044,
+        "📝StructOpenbook": 57.28155339805825,
+        "📝StructMMLU": 56.78738087582798,
+        "📝StructAverage": 57.47163767652555,
+        "BaseMMLU": 70.5,
+        "BaseAverage": 79.06394849785407
+    },
+    "mistral-7b-v0.3": {
+        "BaseARC": 76.65236051502146,
+        "BaseOpenbook": 72.8,
+        "📝StructARC": 46.936646433990894,
+        "📝StructOpenbook": 48.23585129055174,
+        "📝StructMMLU": 46.05517926584278,
+        "📝StructAverage": 47.075892330128475,
+        "BaseMMLU": 60.1,
+        "BaseAverage": 69.85078683834048
+    },
+    "yi-1.5-9b": {
+        "BaseARC": 88.41201716738198,
+        "BaseOpenbook": 83.0,
+        "📝StructARC": 60.60318664643399,
+        "📝StructOpenbook": 59.2943405162207,
+        "📝StructMMLU": 57.41526232409641,
+        "📝StructAverage": 59.10426316225036,
+        "BaseMMLU": 69.5,
+        "BaseAverage": 80.30400572246066
+    },
+    "yi-6b": {
+        "BaseARC": 77.6824034334764,
+        "BaseOpenbook": 73.6,
+        "📝StructARC": 46.936646433990894,
+        "📝StructOpenbook": 49.51456310679612,
+        "📝StructMMLU": 46.21888085492341,
+        "📝StructAverage": 47.55669679857014,
+        "BaseMMLU": 63.2,
+        "BaseAverage": 71.49413447782545
+    },
+    "deepseek-v2-lite": {
+        "BaseARC": 68.24034334763948,
+        "BaseOpenbook": 66.4,
+        "📝StructARC": 40.73406676783004,
+        "📝StructOpenbook": 42.97892493488042,
+        "📝StructMMLU": 41.024161265238256,
+        "📝StructAverage": 41.579050989316244,
+        "BaseMMLU": 58.3,
+        "BaseAverage": 64.3134477825465
+    },
+    "llama-3-8b": {
+        "BaseARC": 76.22317596566523,
+        "BaseOpenbook": 75.0,
+        "📝StructARC": 52.78831562974203,
+        "📝StructOpenbook": 53.04286052569264,
+        "📝StructMMLU": 51.37044261097523,
+        "📝StructAverage": 52.4005395888033,
+        "BaseMMLU": 66.6,
+        "BaseAverage": 72.60772532188841
+    },
+    "llama-2-7b": {
+        "BaseARC": 48.66952789699571,
+        "BaseOpenbook": 43.6,
+        "📝StructARC": 29.040212443095598,
+        "📝StructOpenbook": 31.730996921619703,
+        "📝StructMMLU": 29.187423497033315,
+        "📝StructAverage": 29.986210953916203,
+        "BaseMMLU": 45.7,
+        "BaseAverage": 45.98984263233191
+    },
+    "qwen2-7b": {
+        "BaseARC": 86.18025751072962,
+        "BaseOpenbook": 84.2,
+        "📝StructARC": 66.17033383915023,
+        "📝StructOpenbook": 66.13781671797301,
+        "📝StructMMLU": 65.24702121505192,
+        "📝StructAverage": 65.85172392405839,
+        "BaseMMLU": 70.3,
+        "BaseAverage": 80.22675250357655
+    },
+    "qwen1.5-7b": {
+        "BaseARC": 78.54077253218884,
+        "BaseOpenbook": 78.8,
+        "📝StructARC": 48.501517450682854,
+        "📝StructOpenbook": 50.248638408714186,
+        "📝StructMMLU": 46.709001366105916,
+        "📝StructAverage": 48.48638574183432,
+        "BaseMMLU": 61.0,
+        "BaseAverage": 72.78025751072961
+    },
+    "baichuan2-7b-base": {
+        "BaseARC": 61.630901287553655,
+        "BaseOpenbook": 62.6,
+        "📝StructARC": 32.42602427921092,
+        "📝StructOpenbook": 37.08264267108691,
+        "📝StructMMLU": 34.59571358681649,
+        "📝StructAverage": 34.7014601790381,
+        "BaseMMLU": 54.16,
+        "BaseAverage": 59.46363376251788
+    },
+    "llama-3-70b": {
+        "BaseARC": 92.1030042918455,
+        "BaseOpenbook": 89.60000000000001,
+        "📝StructARC": 73.12215477996965,
+        "📝StructOpenbook": 72.6024153445418,
+        "📝StructMMLU": 70.85211858440155,
+        "📝StructAverage": 72.19222956963766,
+        "BaseMMLU": 79.5,
+        "BaseAverage": 87.06766809728184
+    },
+    "qwen2-72b": {
+        "BaseARC": 95.79399141630901,
+        "BaseOpenbook": 96.39999999999999,
+        "📝StructARC": 79.10660091047042,
+        "📝StructOpenbook": 78.4986976083353,
+        "📝StructMMLU": 78.57972263190929,
+        "📝StructAverage": 78.72834038357168,
+        "BaseMMLU": 84.2,
+        "BaseAverage": 92.131330472103
+    },
+    "yi-1.5-34b": {
+        "BaseARC": 92.1030042918455,
+        "BaseOpenbook": 83.6,
+        "📝StructARC": 64.37784522003035,
+        "📝StructOpenbook": 63.76983187307601,
+        "📝StructMMLU": 63.296635991674755,
+        "📝StructAverage": 63.81477102826037,
+        "BaseMMLU": 77.1,
+        "BaseAverage": 84.26766809728183
+    },
+    "mixtral-8x7b-v0.1": {
+        "BaseARC": 84.0343347639485,
+        "BaseOpenbook": 77.8,
+        "📝StructARC": 62.3103186646434,
+        "📝StructOpenbook": 62.32536111768885,
+        "📝StructMMLU": 60.46643846946602,
+        "📝StructAverage": 61.70070608393275,
+        "BaseMMLU": 70.6,
+        "BaseAverage": 77.47811158798282
+    }
+}

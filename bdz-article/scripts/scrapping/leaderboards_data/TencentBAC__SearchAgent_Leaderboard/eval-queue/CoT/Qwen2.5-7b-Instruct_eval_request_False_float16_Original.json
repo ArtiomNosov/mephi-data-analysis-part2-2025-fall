@@ -1,0 +1,12 @@
+{
+    "model": "CoT/Qwen2.5-7b-Instruct",
+    "revision": "main",
+    "precision": "float16",
+    "weight_type": "Original",
+    "status": "FINISHED",
+    "submitted_time": "2025-09-29T06:00:00.000Z",
+    "model_type": "pretrained",
+    "likes": 8,
+    "params": 7.0,
+    "license": "apache-2.0"
+}

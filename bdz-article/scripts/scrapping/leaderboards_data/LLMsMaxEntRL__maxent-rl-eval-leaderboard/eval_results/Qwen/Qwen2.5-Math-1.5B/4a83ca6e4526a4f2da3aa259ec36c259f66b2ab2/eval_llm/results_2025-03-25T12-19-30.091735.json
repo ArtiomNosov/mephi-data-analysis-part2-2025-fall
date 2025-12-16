@@ -1,0 +1,212 @@
+{
+  "config_general": {
+    "lighteval_sha": "?",
+    "num_fewshot_seeds": 1,
+    "override_batch_size": -1,
+    "max_samples": null,
+    "job_id": 0,
+    "start_time": 1021366.121250617,
+    "end_time": 1021500.044050314,
+    "total_evaluation_time_secondes": "133.9227996970294",
+    "model_name": "Qwen/Qwen2.5-Math-1.5B",
+    "model_sha": "",
+    "model_dtype": null,
+    "model_size": null
+  },
+  "results": {
+    "custom|aime24|0": {
+      "extractive_match": 0.06666666666666667,
+      "extractive_match_stderr": 0.046320555585310084
+    },
+    "custom|gpqa:diamond|0": {
+      "extractive_match": 0.22727272727272727,
+      "extractive_match_stderr": 0.02985751567338641
+    },
+    "custom|math_500|0": {
+      "extractive_match": 0.43,
+      "extractive_match_stderr": 0.022162634426652835
+    },
+    "all": {
+      "extractive_match": 0.24131313131313128,
+      "extractive_match_stderr": 0.03278023522844978
+    }
+  },
+  "versions": {
+    "custom|aime24|0": 1,
+    "custom|gpqa:diamond|0": 1,
+    "custom|math_500|0": 1
+  },
+  "config_tasks": {
+    "custom|aime24": {
+      "name": "aime24",
+      "prompt_function": "aime_prompt_fn",
+      "hf_repo": "HuggingFaceH4/aime_2024",
+      "hf_subset": "default",
+      "metric": [
+        {
+          "metric_name": "extractive_match",
+          "higher_is_better": true,
+          "category": "3",
+          "use_case": "1",
+          "sample_level_fn": "sample_level_fn",
+          "corpus_level_fn": "mean"
+        }
+      ],
+      "hf_revision": null,
+      "hf_filter": null,
+      "hf_avail_splits": [
+        "train"
+      ],
+      "trust_dataset": false,
+      "evaluation_splits": [
+        "train"
+      ],
+      "few_shots_split": null,
+      "few_shots_select": null,
+      "generation_size": 32768,
+      "generation_grammar": null,
+      "stop_sequence": [],
+      "num_samples": null,
+      "suite": [
+        "custom"
+      ],
+      "original_num_docs": 30,
+      "effective_num_docs": 30,
+      "must_remove_duplicate_docs": false,
+      "version": 1
+    },
+    "custom|gpqa:diamond": {
+      "name": "gpqa:diamond",
+      "prompt_function": "gpqa_prompt_fn",
+      "hf_repo": "Idavidrein/gpqa",
+      "hf_subset": "gpqa_diamond",
+      "metric": [
+        {
+          "metric_name": "extractive_match",
+          "higher_is_better": true,
+          "category": "3",
+          "use_case": "1",
+          "sample_level_fn": "sample_level_fn",
+          "corpus_level_fn": "mean"
+        }
+      ],
+      "hf_revision": null,
+      "hf_filter": null,
+      "hf_avail_splits": [
+        "train"
+      ],
+      "trust_dataset": true,
+      "evaluation_splits": [
+        "train"
+      ],
+      "few_shots_split": null,
+      "few_shots_select": null,
+      "generation_size": 32768,
+      "generation_grammar": null,
+      "stop_sequence": [],
+      "num_samples": null,
+      "suite": [
+        "custom"
+      ],
+      "original_num_docs": 198,
+      "effective_num_docs": 198,
+      "must_remove_duplicate_docs": false,
+      "version": 1
+    },
+    "custom|math_500": {
+      "name": "math_500",
+      "prompt_function": "math_prompt_fn",
+      "hf_repo": "HuggingFaceH4/MATH-500",
+      "hf_subset": "default",
+      "metric": [
+        {
+          "metric_name": "extractive_match",
+          "higher_is_better": true,
+          "category": "3",
+          "use_case": "1",
+          "sample_level_fn": "sample_level_fn",
+          "corpus_level_fn": "mean"
+        }
+      ],
+      "hf_revision": null,
+      "hf_filter": null,
+      "hf_avail_splits": [
+        "test"
+      ],
+      "trust_dataset": false,
+      "evaluation_splits": [
+        "test"
+      ],
+      "few_shots_split": null,
+      "few_shots_select": null,
+      "generation_size": 32768,
+      "generation_grammar": null,
+      "stop_sequence": [],
+      "num_samples": null,
+      "suite": [
+        "custom"
+      ],
+      "original_num_docs": 500,
+      "effective_num_docs": 500,
+      "must_remove_duplicate_docs": false,
+      "version": 1
+    }
+  },
+  "summary_tasks": {
+    "custom|aime24|0": {
+      "hashes": {
+        "hash_examples": "ddec8fc79d0a014b",
+        "hash_full_prompts": "fd2c067893d742e7",
+        "hash_input_tokens": "f6f823f35a4ceab6",
+        "hash_cont_tokens": "310ade57dc580002"
+      },
+      "truncated": 0,
+      "non_truncated": 30,
+      "padded": 0,
+      "non_padded": 30,
+      "effective_few_shots": 0.0,
+      "num_truncated_few_shots": 0
+    },
+    "custom|gpqa:diamond|0": {
+      "hashes": {
+        "hash_examples": "a8484840f7d489eb",
+        "hash_full_prompts": "9e057f89609d86c8",
+        "hash_input_tokens": "81be03ab7eefd7e9",
+        "hash_cont_tokens": "6e1d25c04e87c8e4"
+      },
+      "truncated": 0,
+      "non_truncated": 198,
+      "padded": 0,
+      "non_padded": 198,
+      "effective_few_shots": 0.0,
+      "num_truncated_few_shots": 0
+    },
+    "custom|math_500|0": {
+      "hashes": {
+        "hash_examples": "adf0cc8311011db2",
+        "hash_full_prompts": "361f515b5e9f6586",
+        "hash_input_tokens": "a8fc04351e3cac24",
+        "hash_cont_tokens": "51b6cebe56866f86"
+      },
+      "truncated": 0,
+      "non_truncated": 500,
+      "padded": 0,
+      "non_padded": 500,
+      "effective_few_shots": 0.0,
+      "num_truncated_few_shots": 0
+    }
+  },
+  "summary_general": {
+    "hashes": {
+      "hash_examples": "d501111a03dd5848",
+      "hash_full_prompts": "d3bde067f31b89c5",
+      "hash_input_tokens": "1423d7b185d365d2",
+      "hash_cont_tokens": "26802aa2be656766"
+    },
+    "truncated": 0,
+    "non_truncated": 728,
+    "padded": 0,
+    "non_padded": 728,
+    "num_truncated_few_shots": 0
+  }
+}

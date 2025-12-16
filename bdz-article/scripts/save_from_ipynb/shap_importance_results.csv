@@ -1,0 +1,91 @@
+﻿feature,mean_importance,cluster_0_importance,cluster_1_importance
+datasets :: ARC,0.0,0.0,0.0
+parameters_nan,0.0,0.0,0.0
+parameters_8B,0.0,0.0,0.0
+parameters_7B,0.0,0.0,0.0
+parameters_70B,0.0,0.0,0.0
+parameters_6B,0.0,0.0,0.0
+parameters_60B,0.0,0.0,0.0
+parameters_6.7B,0.0,0.0,0.0
+parameters_4X7B,0.0,0.0,0.0
+parameters_4B,0.0,0.0,0.0
+parameters_3X7B,0.0,0.0,0.0
+parameters_3B,0.0,0.0,0.0
+parameters_34B,0.0,0.0,0.0
+parameters_33B,0.0,0.0,0.0
+parameters_32B,0.0,0.0,0.0
+parameters_2X7B,0.0,0.0,0.0
+parameters_2B,0.0,0.0,0.0
+parameters_24B,0.0,0.0,0.0
+parameters_22B,0.0,0.0,0.0
+parameters_16B,0.0,0.0,0.0
+parameters_14B,0.0,0.0,0.0
+parameters_9B,0.0,0.0,0.0
+is instruct/chat_False,0.0,0.0,0.0
+datasets :: Average,0.0,0.0,0.0
+is instruct/chat_True,0.0,0.0,0.0
+version_v6.1,0.0,0.0,0.0
+version_v5,0.0,0.0,0.0
+version_v4,0.0,0.0,0.0
+version_v3.5,0.0,0.0,0.0
+version_v3,0.0,0.0,0.0
+version_v2.0,0.0,0.0,0.0
+version_v2,0.0,0.0,0.0
+version_v14,0.0,0.0,0.0
+version_v13,0.0,0.0,0.0
+version_v12,0.0,0.0,0.0
+version_v11.1,0.0,0.0,0.0
+version_v10,0.0,0.0,0.0
+version_v1.9,0.0,0.0,0.0
+version_v1.5,0.0,0.0,0.0
+version_v1.3,0.0,0.0,0.0
+version_v1.0,0.0,0.0,0.0
+version_v1,0.0,0.0,0.0
+version_v0.1,0.0,0.0,0.0
+is instruct/chat_<NA>,0.0,0.0,0.0
+parameters_13B,0.0,0.0,0.0
+parameters_10.7B,0.0,0.0,0.0
+parameters_10.2B,0.0,0.0,0.0
+parameters_1.3B,0.0,0.0,0.0
+architectural type_gemma,0.0,0.0,0.0
+architectural type_deepseek_v2,0.0,0.0,0.0
+architectural type_codegen,0.0,0.0,0.0
+pipeline tag_nan,0.0,0.0,0.0
+pipeline tag_text-generation,0.0,0.0,0.0
+pipeline tag_text-classification,0.0,0.0,0.0
+pipeline tag_question-answering,0.0,0.0,0.0
+created_at_numeric,0.0,0.0,0.0
+UGI-Leaderboard :: W/10 👍,0.0,0.0,0.0
+UGI-Leaderboard :: Unruly,0.0,0.0,0.0
+UGI-Leaderboard :: UGI 🏆,0.0,0.0,0.0
+UGI-Leaderboard :: Internet,0.0,0.0,0.0
+version number,0.0,0.0,0.0
+datasets :: Winogrande,0.0,0.0,0.0
+datasets :: Unnamed: 0,0.0,0.0,0.0
+datasets :: TruthfulQA,0.0,0.0,0.0
+datasets :: MMLU,0.0,0.0,0.0
+datasets :: HellaSwag,0.0,0.0,0.0
+datasets :: GSM8K,0.0,0.0,0.0
+architectural type_gpt2,0.0,0.0,0.0
+architectural type_gpt_bigcode,0.0,0.0,0.0
+architectural type_llama,0.0,0.0,0.0
+real architecture_LlamaForCausalLM,0.0,0.0,0.0
+parameters_1.1B,0.0,0.0,0.0
+parameters_0.5B,0.0,0.0,0.0
+real architecture_nan,0.0,0.0,0.0
+real architecture_StableLmForCausalLM,0.0,0.0,0.0
+real architecture_Qwen2ForCausalLM,0.0,0.0,0.0
+real architecture_MixtralForCausalLM,0.0,0.0,0.0
+real architecture_MistralForCausalLM,0.0,0.0,0.0
+real architecture_LlamaForSequenceClassification,0.0,0.0,0.0
+real architecture_GemmaForCausalLM,0.0,0.0,0.0
+architectural type_mistral,0.0,0.0,0.0
+real architecture_GPTBigCodeForCausalLM,0.0,0.0,0.0
+real architecture_GPT2LMHeadModel,0.0,0.0,0.0
+real architecture_DeepseekV2ForCausalLM,0.0,0.0,0.0
+real architecture_CodeGenForCausalLM,0.0,0.0,0.0
+architectural type_nan,0.0,0.0,0.0
+architectural type_stablelm,0.0,0.0,0.0
+architectural type_qwen2,0.0,0.0,0.0
+architectural type_mixtral,0.0,0.0,0.0
+version_nan,0.0,0.0,0.0

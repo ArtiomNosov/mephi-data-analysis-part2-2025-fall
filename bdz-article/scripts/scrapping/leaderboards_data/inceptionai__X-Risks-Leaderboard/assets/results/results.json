@@ -1,0 +1,295 @@
+[
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.2239,
+                "Completeness": 0.2188,
+                "Conciseness": 0.047,
+                "Helpfulness": 0.1739,
+                "Honesty": 0.2098,
+                "Harmlessness": 0.1962,
+                "3C3H Score": 0.1783
+            },
+            "Tasks Scores": {
+                "Biology": 0.1725,
+                "Chemistry": 0.2331,
+                "Cybersecurity": 0.1333
+            }
+        },
+        "Meta": {
+            "Model Name": "meta-llama/Llama-3.3-70B-Instruct",
+            "License": "llama3.3",
+            "Revision": "main",
+            "Precision": "bfloat16",
+            "Params": 70.0,
+            "Total Entries": 600,
+            "Successful Entries": 585,
+            "Failed Entries": 15,
+            "Success Ratio": 0.975
+        }
+    },
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.1724,
+                "Completeness": 0.1672,
+                "Conciseness": 0.0526,
+                "Helpfulness": 0.1418,
+                "Honesty": 0.1608,
+                "Harmlessness": 0.1724,
+                "3C3H Score": 0.1445
+            },
+            "Tasks Scores": {
+                "Biology": 0.1896,
+                "Chemistry": 0.0856,
+                "Cybersecurity": 0.1528
+            }
+        },
+        "Meta": {
+            "Model Name": "claude-3-5-sonnet-20241022",
+            "License": "Proprietary",
+            "Revision": "UNK",
+            "Precision": "UNK",
+            "Params": "UNK",
+            "Total Entries": 600,
+            "Successful Entries": 580,
+            "Failed Entries": 20,
+            "Success Ratio": 0.9667
+        }
+    },
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.1588,
+                "Completeness": 0.1571,
+                "Conciseness": 0.0351,
+                "Helpfulness": 0.1296,
+                "Honesty": 0.152,
+                "Harmlessness": 0.1512,
+                "3C3H Score": 0.1306
+            },
+            "Tasks Scores": {
+                "Biology": 0.1644,
+                "Chemistry": 0.1278,
+                "Cybersecurity": 0.0996
+            }
+        },
+        "Meta": {
+            "Model Name": "claude-3-haiku-20240307",
+            "License": "Proprietary",
+            "Revision": "UNK",
+            "Precision": "UNK",
+            "Params": "UNK",
+            "Total Entries": 600,
+            "Successful Entries": 592,
+            "Failed Entries": 8,
+            "Success Ratio": 0.9867
+        }
+    },
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.1949,
+                "Completeness": 0.1915,
+                "Conciseness": 0.0427,
+                "Helpfulness": 0.1427,
+                "Honesty": 0.1863,
+                "Harmlessness": 0.1726,
+                "3C3H Score": 0.1551
+            },
+            "Tasks Scores": {
+                "Biology": 0.156,
+                "Chemistry": 0.196,
+                "Cybersecurity": 0.1162
+            }
+        },
+        "Meta": {
+            "Model Name": "gpt-4o-mini-2024-07-18",
+            "License": "Proprietary",
+            "Revision": "UNK",
+            "Precision": "UNK",
+            "Params": "UNK",
+            "Total Entries": 600,
+            "Successful Entries": 585,
+            "Failed Entries": 15,
+            "Success Ratio": 0.975
+        }
+    },
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.2338,
+                "Completeness": 0.2338,
+                "Conciseness": 0.0563,
+                "Helpfulness": 0.1762,
+                "Honesty": 0.2253,
+                "Harmlessness": 0.2099,
+                "3C3H Score": 0.1892
+            },
+            "Tasks Scores": {
+                "Biology": 0.1946,
+                "Chemistry": 0.2157,
+                "Cybersecurity": 0.1592
+            }
+        },
+        "Meta": {
+            "Model Name": "gpt-4o-2024-08-06",
+            "License": "Proprietary",
+            "Revision": "UNK",
+            "Precision": "UNK",
+            "Params": "UNK",
+            "Total Entries": 600,
+            "Successful Entries": 586,
+            "Failed Entries": 14,
+            "Success Ratio": 0.9767
+        }
+    },
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.1525,
+                "Completeness": 0.1508,
+                "Conciseness": 0.0055,
+                "Helpfulness": 0.086,
+                "Honesty": 0.1335,
+                "Harmlessness": 0.1335,
+                "3C3H Score": 0.1103
+            },
+            "Tasks Scores": {
+                "Biology": 0.1162,
+                "Chemistry": 0.1217,
+                "Cybersecurity": 0.0935
+            }
+        },
+        "Meta": {
+            "Model Name": "Qwen/QwQ-32B-Preview",
+            "License": "apache-2.0",
+            "Revision": "main",
+            "Precision": "bfloat16",
+            "Params": 32.0,
+            "Total Entries": 600,
+            "Successful Entries": 590,
+            "Failed Entries": 10,
+            "Success Ratio": 0.9833
+        }
+    },
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.2122,
+                "Completeness": 0.2105,
+                "Conciseness": 0.0297,
+                "Helpfulness": 0.1609,
+                "Honesty": 0.2016,
+                "Harmlessness": 0.1808,
+                "3C3H Score": 0.166
+            },
+            "Tasks Scores": {
+                "Biology": 0.155,
+                "Chemistry": 0.2092,
+                "Cybersecurity": 0.1357
+            }
+        },
+        "Meta": {
+            "Model Name": "Qwen/Qwen2.5-72B-Instruct",
+            "License": "qwen",
+            "Revision": "main",
+            "Precision": "bfloat16",
+            "Params": 72.0,
+            "Total Entries": 600,
+            "Successful Entries": 589,
+            "Failed Entries": 11,
+            "Success Ratio": 0.9817
+        }
+    },
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.2612,
+                "Completeness": 0.2595,
+                "Conciseness": 0.0391,
+                "Helpfulness": 0.2053,
+                "Honesty": 0.2457,
+                "Harmlessness": 0.2358,
+                "3C3H Score": 0.2078
+            },
+            "Tasks Scores": {
+                "Biology": 0.2092,
+                "Chemistry": 0.215,
+                "Cybersecurity": 0.1998
+            }
+        },
+        "Meta": {
+            "Model Name": "o1-mini-2024-09-12",
+            "License": "Proprietary",
+            "Revision": "UNK",
+            "Precision": "UNK",
+            "Params": "UNK",
+            "Total Entries": 600,
+            "Successful Entries": 582,
+            "Failed Entries": 18,
+            "Success Ratio": 0.97
+        }
+    },
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.3415,
+                "Completeness": 0.3398,
+                "Conciseness": 0.1033,
+                "Helpfulness": 0.2982,
+                "Honesty": 0.3371,
+                "Harmlessness": 0.3257,
+                "3C3H Score": 0.2909
+            },
+            "Tasks Scores": {
+                "Biology": 0.3188,
+                "Chemistry": 0.2204,
+                "Cybersecurity": 0.3244
+            }
+        },
+        "Meta": {
+            "Model Name": "o1-2024-12-17",
+            "License": "Proprietary",
+            "Revision": "UNK",
+            "Precision": "UNK",
+            "Params": "UNK",
+            "Total Entries": 600,
+            "Successful Entries": 571,
+            "Failed Entries": 29,
+            "Success Ratio": 0.9517
+        }
+    },
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.3281,
+                "Completeness": 0.3246,
+                "Conciseness": 0.0881,
+                "Helpfulness": 0.284,
+                "Honesty": 0.3229,
+                "Harmlessness": 0.3159,
+                "3C3H Score": 0.2773
+            },
+            "Tasks Scores": {
+                "Biology": 0.3141,
+                "Chemistry": 0.2055,
+                "Cybersecurity": 0.3031
+            }
+        },
+        "Meta": {
+            "Model Name": "o3-mini-2025-01-31",
+            "License": "Proprietary",
+            "Revision": "UNK",
+            "Precision": "UNK",
+            "Params": "UNK",
+            "Total Entries": 600,
+            "Successful Entries": 573,
+            "Failed Entries": 27,
+            "Success Ratio": 0.955
+        }
+    },
+    {
+        "_last_sync_timestamp": "2025-02-01T16:16:28.531194"
+    }
+]

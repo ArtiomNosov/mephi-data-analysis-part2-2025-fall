@@ -1,0 +1,1882 @@
+{
+  "leaderboard": [
+    {
+      "model": "FLUX.2-dev",
+      "link": "https://github.com/black-forest-labs/flux2",
+      "hf": "https://huggingface.co/black-forest-labs/FLUX.2-dev",
+      "open_source": true,
+      "release_date": "2025-11",
+
+      "Overall": 86.12,
+      "Style": 98.42,
+      "World Knowledge": 95.52,
+
+      "Attribute-Overall": 95.29,
+      "Quantity": 84.57,
+      "Expression": 89.44,
+      "Material": 97.59,
+      "Size": 92.80,
+      "Shape": 93.01,
+      "Color": 98.32,
+    
+      "Action-Overall": 88.46,
+      "Hand": 85.58,
+      "Full body": 87.81,
+      "Animal": 91.67,
+      "Non Contact": 87.95,
+      "Contact": 88.51,
+      "State": 88.79,
+    
+      "Relationship-Overall": 92.40,
+      "Composition": 92.73,
+      "Similarity": 88.46,
+      "Inclusion": 95.40,
+      "Comparison": 92.23,
+    
+      "Compound-Overall": 89.50,
+      "Imagination": 90.25,
+      "Feature matching": 87.85,
+    
+      "Grammar-Overall": 84.26,
+      "Pronoun Reference": 97.62,
+      "Consistency": 82.94,
+      "Negation": 73.59,
+    
+      "Layout-Overall": 94.44,
+      "2D": 93.93,
+      "3D": 95.11,
+    
+      "Logical Reasoning": 79.66,
+    
+      "Text": 43.21
+    },
+    {
+      "model": "Nano Banana Pro",
+      "link": "https://nano-banana.pro",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-11",
+
+      "Overall": 95.42,
+
+      "Style": 99.42,
+
+      "World Knowledge": 98.84,
+
+      "Attribute-Overall": 97.14,
+      "Quantity": 89.36,
+      "Expression": 94.31,
+      "Material": 98.27,
+      "Size": 96.78,
+      "Shape": 94.23,
+      "Color": 99.16,
+
+      "Action-Overall": 92.97,
+      "Hand": 93.59,
+      "Full body": 92.81,
+      "Animal": 97.46,
+      "Non Contact": 91.52,
+      "Contact": 91.95,
+      "State": 92.26,
+
+      "Relationship-Overall": 95.64,
+      "Composition": 95.79,
+      "Similarity": 93.91,
+      "Inclusion": 97.99,
+      "Comparison": 94.66,
+
+      "Compound-Overall": 95.85,
+      "Imagination": 95.87,
+      "Feature matching": 95.79,
+
+      "Grammar-Overall": 93.27,
+      "Pronoun Reference": 99.21,
+      "Consistency": 90.87,
+      "Negation": 90.14,
+
+      "Layout-Overall": 96.27,
+      "2D": 96.47,
+      "3D": 96.01,
+
+      "Logical Reasoning": 91.91,
+
+      "Text": 92.93
+    },
+    {
+      "model": "Z-Image-Turbo",
+      "link": "https://github.com/Tongyi-MAI/Z-Image",
+      "hf": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "open_source": true,
+      "release_date": "2025-11",
+
+      "Overall": 83.69,
+      "Style": 96.26,
+      "World Knowledge": 94.80,
+
+      "Attribute-Overall": 90.96,
+      "Quantity": 77.66,
+      "Expression": 79.31,
+      "Material": 93.37,
+      "Size": 87.88,
+      "Shape": 85.49,
+      "Color": 97.48,
+    
+      "Action-Overall": 78.74,
+      "Hand": 75.64,
+      "Full body": 78.75,
+      "Animal": 77.90,
+      "Non Contact": 75.45,
+      "Contact": 73.85,
+      "State": 82.34,
+    
+      "Relationship-Overall": 84.38,
+      "Composition": 84.69,
+      "Similarity": 75.00,
+      "Inclusion": 87.93,
+      "Comparison": 87.86,
+    
+      "Compound-Overall": 80.03,
+      "Imagination": 79.87,
+      "Feature matching": 80.37,
+    
+      "Grammar-Overall": 78.30,
+      "Pronoun Reference": 89.68,
+      "Consistency": 77.78,
+      "Negation": 68.66,
+    
+      "Layout-Overall": 87.94,
+      "2D": 90.40,
+      "3D": 84.78,
+    
+      "Logical Reasoning": 70.83,
+    
+      "Text": 74.73
+    },
+    {
+      "model": "wan2.5-t2i-preview",
+      "link": "https://help.aliyun.com/zh/model-studio/text-to-image-v2-api-reference",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-09",
+
+      "Overall": 84.24,
+      "Style": 98.00,
+      "World Knowledge": 94.30,
+
+      "Attribute-Overall": 90.49,
+      "Quantity": 83.51,
+      "Expression": 80.90,
+      "Material": 91.77,
+      "Size": 91.41,
+      "Shape": 87.24,
+      "Color": 94.59,
+    
+      "Action-Overall": 78.39,
+      "Hand": 72.12,
+      "Full body": 78.16,
+      "Animal": 83.82,
+      "Non Contact": 74.55,
+      "Contact": 75.29,
+      "State": 80.85,
+    
+      "Relationship-Overall": 86.64,
+      "Composition": 85.59,
+      "Similarity": 77.56,
+      "Inclusion": 91.95,
+      "Comparison": 91.02,
+    
+      "Compound-Overall": 85.13,
+      "Imagination": 86.18,
+      "Feature matching": 82.78,
+    
+      "Grammar-Overall": 80.08,
+      "Pronoun Reference": 91.67,
+      "Consistency": 79.37,
+      "Negation": 70.42,
+    
+      "Layout-Overall": 88.54,
+      "2D": 89.91,
+      "3D": 86.78,
+    
+      "Logical Reasoning": 74.51,
+    
+      "Text": 66.30
+    },
+    {
+      "model": "Emu3",
+      "link": "https://arxiv.org/pdf/2409.18869",
+      "hf": "https://huggingface.co/BAAI/Emu3-Gen",
+      "open_source": true,
+      "release_date": "2024-09",
+
+      "Overall": 35.95,
+
+      "Style": 75.08,
+
+      "World Knowledge": 53.03,
+
+      "Attribute-Overall": 48.82,
+      "Quantity": 23.40,
+      "Expression": 38.33,
+      "Material": 49.17,
+      "Size": 57.77,
+      "Shape": 36.19,
+      "Color": 56.34,
+
+      "Action-Overall": 27.81,
+      "Hand": 10.58,
+      "Full body": 22.81,
+      "Animal": 25.36,
+      "Non Contact": 12.05,
+      "Contact": 17.53,
+      "State": 42.39,
+
+      "Relationship-Overall": 32.06,
+      "Composition": 33.29,
+      "Similarity": 29.17,
+      "Inclusion": 35.06,
+      "Comparison": 29.37,
+
+      "Compound-Overall": 28.49,
+      "Imagination": 33.02,
+      "Feature matching": 18.46,
+
+      "Grammar-Overall": 38.32,
+      "Pronoun Reference": 42.86,
+      "Consistency": 26.59,
+      "Negation": 44.72,
+
+      "Layout-Overall": 35.40,
+      "2D": 30.37,
+      "3D": 41.85,
+
+      "Logical Reasoning": 19.66,
+
+      "Text": 0.82
+    },
+    {
+      "model": "UniWorld-V1",
+      "link": "https://arxiv.org/pdf/2506.03147",
+      "hf": "https://huggingface.co/LanguageBind/UniWorld-V1",
+      "open_source": true,
+      "release_date": "2025-06",
+
+      "Overall": 21.50,
+      "Style": 55.48,
+      "World Knowledge": 17.34,
+
+      "Attribute-Overall": 27.50,
+      "Quantity": 12.23,
+      "Expression": 30.28,
+      "Material": 19.80,
+      "Size": 27.27,
+      "Shape": 19.76,
+      "Color": 35.69,
+    
+      "Action-Overall": 19.34,
+      "Hand": 12.18,
+      "Full body": 20.31,
+      "Animal": 23.19,
+      "Non Contact": 9.38,
+      "Contact": 8.05,
+      "State": 26.28,
+    
+      "Relationship-Overall": 19.34,
+      "Composition": 16.20,
+      "Similarity": 21.47,
+      "Inclusion": 23.56,
+      "Comparison": 20.15,
+    
+      "Compound-Overall": 12.50,
+      "Imagination": 15.30,
+      "Feature matching": 6.31,
+    
+      "Grammar-Overall": 28.68,
+      "Pronoun Reference": 23.81,
+      "Consistency": 21.03,
+      "Negation": 39.79,
+    
+      "Layout-Overall": 24.44,
+      "2D": 24.15,
+      "3D": 24.82,
+    
+      "Logical Reasoning": 8.98,
+    
+      "Text": 1.36
+    },
+    {
+      "model": "Echo-4o",
+      "link": "https://arxiv.org/pdf/2508.09987",
+      "hf": "https://huggingface.co/Yejy53/Echo-4o",
+      "open_source": true,
+      "release_date": "2025-8",
+
+      "Overall": 78.31,
+      "Style": 96.26,
+      "World Knowledge": 91.18,
+
+      "Attribute-Overall": 91.82,
+      "Quantity": 71.81,
+      "Expression": 82.22,
+      "Material": 94.50,
+      "Size": 90.72,
+      "Shape": 88.64,
+      "Color": 96.80,
+    
+      "Action-Overall": 75.56,
+      "Hand": 73.72,
+      "Full body": 81.56,
+      "Animal": 74.28,
+      "Non Contact": 67.41,
+      "Contact": 66.38,
+      "State": 79.55,
+    
+      "Relationship-Overall": 85.83,
+      "Composition": 86.99,
+      "Similarity": 81.09,
+      "Inclusion": 89.08,
+      "Comparison": 84.47,
+    
+      "Compound-Overall": 85.25,
+      "Imagination": 86.08,
+      "Feature matching": 83.41,
+    
+      "Grammar-Overall": 83.50,
+      "Pronoun Reference": 87.70,
+      "Consistency": 83.73,
+      "Negation": 79.58,
+    
+      "Layout-Overall": 88.10,
+      "2D": 90.54,
+      "3D": 84.96,
+    
+      "Logical Reasoning": 72.57,
+    
+      "Text": 13.04
+      },
+    {
+      "model": "Lumina-DiMOO",
+      "link": "https://synbol.github.io/Lumina-DiMOO/",
+      "hf": "https://huggingface.co/Alpha-VLLM/Lumina-DiMOO",
+      "open_source": true,
+      "release_date": "2025-09",
+
+      "Overall": 63.80,
+      "Style": 84.30,
+      "World Knowledge": 76.45,
+
+      "Attribute-Overall": 79.41,
+      "Quantity": 64.36,
+      "Expression": 68.06,
+      "Material": 77.18,
+      "Size": 82.01,
+      "Shape": 72.73,
+      "Color": 88.00,
+    
+      "Action-Overall": 61.32,
+      "Hand": 54.81,
+      "Full body": 57.50,
+      "Animal": 61.96,
+      "Non Contact": 60.27,
+      "Contact": 49.43,
+      "State": 68.68,
+    
+      "Relationship-Overall": 66.70,
+      "Composition": 62.24,
+      "Similarity": 61.22,
+      "Inclusion": 78.74,
+      "Comparison": 69.17,
+    
+      "Compound-Overall": 68.90,
+      "Imagination": 72.57,
+      "Feature matching": 60.75,
+    
+      "Grammar-Overall": 71.95,
+      "Pronoun Reference": 76.98,
+      "Consistency": 67.06,
+      "Negation": 71.83,
+    
+      "Layout-Overall": 78.33,
+      "2D": 84.18,
+      "3D": 70.83,
+    
+      "Logical Reasoning": 49.27,
+    
+      "Text": 1.36
+    },
+    {
+      "model": "MMaDA",
+      "link": "https://arxiv.org/pdf/2505.15809",
+      "hf": "https://huggingface.co/Gen-Verse/MMaDA-8B-MixCoT",
+      "open_source": true,
+      "release_date": "2025-05",
+
+      "Overall": 50.61,
+      "Style": 84.05,
+      "World Knowledge": 63.58,
+
+      "Attribute-Overall": 61.31,
+      "Quantity": 46.81,
+      "Expression": 40.00,
+      "Material": 58.96,
+      "Size": 67.80,
+      "Shape": 52.62,
+      "Color": 73.22,
+    
+      "Action-Overall": 42.98,
+      "Hand": 23.40,
+      "Full body": 39.06,
+      "Animal": 40.58,
+      "Non Contact": 29.02,
+      "Contact": 30.75,
+      "State": 58.20,
+    
+      "Relationship-Overall": 52.69,
+      "Composition": 48.09,
+      "Similarity": 49.04,
+      "Inclusion": 60.63,
+      "Comparison": 57.52,
+    
+      "Compound-Overall": 50.07,
+      "Imagination": 56.65,
+      "Feature matching": 35.51,
+    
+      "Grammar-Overall": 58.76,
+      "Pronoun Reference": 61.11,
+      "Consistency": 50.79,
+      "Negation": 63.73,
+    
+      "Layout-Overall": 60.63,
+      "2D": 65.54,
+      "3D": 54.35,
+    
+      "Logical Reasoning": 31.80,
+    
+      "Text": 0.27
+    },
+    {
+      "model": "OmniGen2",
+      "link": "https://arxiv.org/pdf/2506.18871",
+      "hf": "https://huggingface.co/OmniGen2/OmniGen2",
+      "open_source": true,
+      "release_date": "2025-06",
+
+      "Overall": 70.75,
+      "Style": 95.35,
+      "World Knowledge": 87.57,
+
+      "Attribute-Overall": 85.05,
+      "Quantity": 74.47,
+      "Expression": 73.33,
+      "Material": 84.94,
+      "Size": 85.23,
+      "Shape": 79.90,
+      "Color": 92.09,
+    
+      "Action-Overall": 67.17,
+      "Hand": 63.46,
+      "Full body": 67.81,
+      "Animal": 63.41,
+      "Non Contact": 63.39,
+      "Contact": 60.34,
+      "State": 72.33,
+    
+      "Relationship-Overall": 75.38,
+      "Composition": 70.79,
+      "Similarity": 70.51,
+      "Inclusion": 87.64,
+      "Comparison": 77.43,
+    
+      "Compound-Overall": 74.06,
+      "Imagination": 76.05,
+      "Feature matching": 69.63,
+    
+      "Grammar-Overall": 77.03,
+      "Pronoun Reference": 85.71,
+      "Consistency": 76.59,
+      "Negation": 69.72,
+    
+      "Layout-Overall": 81.35,
+      "2D": 84.89,
+      "3D": 76.81,
+    
+      "Logical Reasoning": 62.62,
+    
+      "Text": 1.90
+    },
+      {
+      "model": "OneCAT",
+      "link": "https://arxiv.org/pdf/2509.03498",
+      "hf": "https://huggingface.co/onecat-ai/OneCAT-3B",
+      "open_source": true,
+      "release_date": "2025-09",
+
+      "Overall": 63.88,
+      "Style": 95.85,
+      "World Knowledge": 85.26,
+
+      "Attribute-Overall": 74.79,
+      "Quantity": 57.98,
+      "Expression": 65.56,
+      "Material": 78.92,
+      "Size": 81.25,
+      "Shape": 59.79,
+      "Color": 79.77,
+    
+      "Action-Overall": 60.11,
+      "Hand": 35.26,
+      "Full body": 69.69,
+      "Animal": 64.13,
+      "Non Contact": 55.36,
+      "Contact": 42.24,
+      "State": 70.85,
+    
+      "Relationship-Overall": 65.03,
+      "Composition": 63.65,
+      "Similarity": 63.14,
+      "Inclusion": 65.52,
+      "Comparison": 68.69,
+    
+      "Compound-Overall": 62.35,
+      "Imagination": 70.78,
+      "Feature matching": 43.69,
+    
+      "Grammar-Overall": 63.07,
+      "Pronoun Reference": 69.05,
+      "Consistency": 63.49,
+      "Negation": 57.39,
+    
+      "Layout-Overall": 75.79,
+      "2D": 76.13,
+      "3D": 75.36,
+    
+      "Logical Reasoning": 54.37,
+    
+      "Text": 2.17
+
+    },
+    {
+      "model": "X-Omni",
+      "link": "https://arxiv.org/pdf/2507.22058",
+      "hf": "https://huggingface.co/X-Omni/X-Omni-Zh",
+      "open_source": true,
+      "release_date": "2025-08",
+
+      "Overall": 62.18,
+      "Style": 76.91,
+      "World Knowledge": 74.13,
+
+      "Attribute-Overall": 76.51,
+      "Quantity": 72.34,
+      "Expression": 59.72,
+      "Material": 77.79,
+      "Size": 82.20,
+      "Shape": 67.83,
+      "Color": 83.39,
+    
+      "Action-Overall": 58.43,
+      "Hand": 50.00,
+      "Full body": 61.56,
+      "Animal": 61.96,
+      "Non Contact": 49.55,
+      "Contact": 42.82,
+      "State": 66.40,
+    
+      "Relationship-Overall": 60.83,
+      "Composition": 57.02,
+      "Similarity": 55.45,
+      "Inclusion": 65.52,
+      "Comparison": 68.20,
+    
+      "Compound-Overall": 61.12,
+      "Imagination": 65.51,
+      "Feature matching": 51.40,
+    
+      "Grammar-Overall": 64.85,
+      "Pronoun Reference": 76.19,
+      "Consistency": 58.33,
+      "Negation": 60.56,
+    
+      "Layout-Overall": 73.02,
+      "2D": 76.84,
+      "3D": 68.12,
+    
+      "Logical Reasoning": 46.60,
+    
+      "Text": 29.35
+    },
+    {
+      "model": "Bagel",
+      "link": "https://arxiv.org/pdf/2505.14683",
+      "hf": "https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT",
+      "open_source": true,
+      "release_date": "2025-05",
+
+      "Overall": 75.75,
+      "Style": 96.10,
+      "World Knowledge": 89.02,
+
+      "Attribute-Overall": 88.25,
+      "Quantity": 71.81,
+      "Expression": 73.47,
+      "Material": 88.93,
+      "Size": 90.53,
+      "Shape": 83.39,
+      "Color": 95.81,
+    
+      "Action-Overall": 72.43,
+      "Hand": 71.47,
+      "Full body": 75.62,
+      "Animal": 76.09,
+      "Non Contact": 66.96,
+      "Contact": 63.22,
+      "State": 75.10,
+    
+      "Relationship-Overall": 81.52,
+      "Composition": 80.87,
+      "Similarity": 76.60,
+      "Inclusion": 86.78,
+      "Comparison": 82.04,
+    
+      "Compound-Overall": 82.05,
+      "Imagination": 83.97,
+      "Feature matching": 77.80,
+    
+      "Grammar-Overall": 81.09,
+      "Pronoun Reference":84.92,
+      "Consistency": 83.33,
+      "Negation": 75.70,
+    
+      "Layout-Overall": 83.97,
+      "2D": 87.29,
+      "3D": 79.71,
+    
+      "Logical Reasoning": 68.69,
+    
+      "Text": 14.40
+    },
+     {
+      "model": "HiDream-I1-Full",
+      "link": "https://arxiv.org/pdf/2505.22705",
+      "hf": "https://huggingface.co/HiDream-ai/HiDream-I1-Full",
+      "open_source": true,
+      "release_date": "2025-05",
+
+      "Overall": 50.70,
+      "Style": 83.06,
+      "World Knowledge": 78.61,
+
+      "Attribute-Overall": 65.05,
+      "Quantity": 63.30,
+      "Expression": 55.97,
+      "Material": 62.50,
+      "Size": 69.70,
+      "Shape": 56.12,
+      "Color": 71.80,
+    
+      "Action-Overall": 47.47,
+      "Hand": 38.14,
+      "Full body": 45.00,
+      "Animal": 44.93,
+      "Non Contact": 38.39,
+      "Contact": 36.21,
+      "State": 57.71,
+    
+      "Relationship-Overall": 49.25,
+      "Composition": 46.30,
+      "Similarity": 45.83,
+      "Inclusion": 59.20,
+      "Comparison": 49.03,
+    
+      "Compound-Overall": 42.08,
+      "Imagination": 45.99,
+      "Feature matching": 33.41,
+    
+      "Grammar-Overall": 53.81,
+      "Pronoun Reference": 59.52,
+      "Consistency": 49.60,
+      "Negation": 52.46,
+    
+      "Layout-Overall": 60.40,
+      "2D": 62.99,
+      "3D": 57.07,
+    
+      "Logical Reasoning": 24.27,
+    
+      "Text": 2.99
+    },
+    {
+      "model": "Hunyuan-Image-2.1",
+      "link": "https://github.com/Tencent-Hunyuan/HunyuanImage-2.1",
+      "hf": "https://huggingface.co/spaces/tencent/HunyuanImage-2.1",
+      "open_source": true,
+      "release_date": "2025-09",
+
+      "Overall": 87.01,
+      "Style": 95.18,
+      "World Knowledge": 94.08,
+      "Attribute-Overall": 93.82,
+      "Quantity": 87.77,
+      "Expression": 87.08,
+      "Material": 95.41,
+      "Size": 91.67,
+      "Shape": 89.69,
+      "Color": 97.69,
+    
+      "Action-Overall": 83.99,
+      "Hand": 85.58,
+      "Full body": 84.69,
+      "Animal": 85.51,
+      "Non Contact": 83.48,
+      "Contact": 79.02,
+      "State": 84.68,
+    
+      "Relationship-Overall": 88.09,
+      "Composition": 87.88,
+      "Similarity": 81.41,
+      "Inclusion": 92.24,
+      "Comparison": 90.05,
+    
+      "Compound-Overall": 85.61,
+      "Imagination": 85.97,
+      "Feature matching": 84.81,
+    
+      "Grammar-Overall": 80.08,
+      "Pronoun Reference": 92.86,
+      "Consistency": 83.33,
+      "Negation": 65.85,
+    
+      "Layout-Overall": 91.43,
+      "2D": 93.50,
+      "3D": 88.77,
+    
+      "Logical Reasoning": 71.36,
+    
+      "Text": 86.41
+      },
+        {
+    "model": "BLIP3-o",
+      "link": "https://arxiv.org/pdf/2505.09568",
+      "hf": "https://huggingface.co/BLIP3o/BLIP3o-NEXT-SFT-3B",
+      "open_source": true,
+      "release_date": "2025-08",
+
+      "Overall": 59.25,
+      "Style": 89.70,
+      "World Knowledge": 77.17,
+      "Attribute-Overall": 69.24,
+      "Quantity": 53.19,
+      "Expression": 59.03,
+      "Material": 71.31,
+      "Size": 79.36,
+      "Shape": 54.02,
+      "Color": 75.00,
+    
+      "Action-Overall": 55.98,
+      "Hand": 42.63,
+      "Full body": 59.38,
+      "Animal": 60.87,
+      "Non Contact": 45.98,
+      "Contact": 43.97,
+      "State": 64.03,
+    
+      "Relationship-Overall": 60.56,
+      "Composition": 58.29,
+      "Similarity": 54.81,
+      "Inclusion": 60.63,
+      "Comparison": 69.17,
+    
+      "Compound-Overall": 60.68,
+      "Imagination": 67.72,
+      "Feature matching": 45.09,
+    
+      "Grammar-Overall": 60.91,
+      "Pronoun Reference": 72.22,
+      "Consistency": 53.17,
+      "Negation": 57.75,
+    
+      "Layout-Overall": 69.29,
+      "2D": 72.60,
+      "3D": 65.04,
+    
+      "Logical Reasoning": 47.09,
+    
+      "Text": 1.90
+    },
+    {
+    "model": "BLIP3-o-Next",
+      "link": "https://arxiv.org/pdf/2505.09568",
+      "hf": "https://huggingface.co/BLIP3o/BLIP3o-NEXT-SFT-3B",
+      "open_source": true,
+      "release_date": "2025-08",
+
+      "Overall": 54.55,
+      "Style": 87.71,
+      "World Knowledge": 61.85,
+      "Attribute-Overall": 63.75,
+      "Quantity": 50.00,
+      "Expression": 64.58,
+      "Material": 67.85,
+      "Size": 67.61,
+      "Shape": 55.94,
+      "Color": 63.21,
+    
+      "Action-Overall": 51.81,
+      "Hand": 37.50,
+      "Full body": 56.25,
+      "Animal": 50.72,
+      "Non Contact": 45.98,
+      "Contact": 37.36,
+      "State": 61.36,
+    
+      "Relationship-Overall": 57.76,
+      "Composition": 55.36,
+      "Similarity": 53.53,
+      "Inclusion": 60.34,
+      "Comparison": 63.35,
+    
+      "Compound-Overall": 54.00,
+      "Imagination": 59.49,
+      "Feature matching": 41.82,
+    
+      "Grammar-Overall": 60.66,
+      "Pronoun Reference": 65.48,
+      "Consistency": 58.73,
+      "Negation": 58.10,
+    
+      "Layout-Overall": 64.60,
+      "2D": 67.80,
+      "3D": 60.51,
+    
+      "Logical Reasoning": 41.50,
+    
+      "Text": 1.90
+    },
+    {
+      "model": "Janus-flow",
+      "link": "https://arxiv.org/pdf/2411.07975",
+      "hf": "https://huggingface.co/deepseek-ai/JanusFlow-1.3B",
+      "open_source": true,
+      "release_date": "2024-11",
+
+      "Overall": 23.01,
+
+      "Style": 57.39,
+
+      "World Knowledge": 17.49,
+
+      "Attribute-Overall": 23.42,
+      "Quantity": 11.70,
+      "Expression": 11.39,
+      "Material": 23.72,
+      "Size": 32.20,
+      "Shape": 15.91,
+      "Color": 28.72,
+
+      "Action-Overall": 19.46,
+      "Hand": 3.85,
+      "Full body": 18.75,
+      "Animal": 19.20,
+      "Non Contact": 9.38,
+      "Contact": 9.48,
+      "State": 30.24,
+
+      "Relationship-Overall": 20.04,
+      "Composition": 18.62,
+      "Similarity": 18.91,
+      "Inclusion": 24.43,
+      "Comparison": 19.90,
+
+      "Compound-Overall": 21.58,
+      "Imagination": 28.80,
+      "Feature matching": 5.61,
+
+      "Grammar-Overall": 32.23,
+      "Pronoun Reference": 29.76,
+      "Consistency": 13.89,
+      "Negation": 50.70,
+
+      "Layout-Overall": 21.59,
+      "2D": 18.64,
+      "3D": 25.36,
+
+      "Logical Reasoning": 17.48,
+
+      "Text": 0.27
+    },
+    {
+      "model": "Janus",
+      "link": "https://arxiv.org/pdf/2410.13848",
+      "hf": "https://huggingface.co/deepseek-ai/Janus-1.3B",
+      "open_source": true,
+      "release_date": "2024-10",
+
+      "Overall": 33.63,
+
+      "Style": 75.00,
+
+      "World Knowledge": 30.06,
+
+      "Attribute-Overall": 35.98,
+      "Quantity": 25.53,
+      "Expression": 25.97,
+      "Material": 39.16,
+      "Size": 45.83,
+      "Shape": 22.20,
+      "Color": 39.99,
+
+      "Action-Overall": 29.74,
+      "Hand": 11.54,
+      "Full body": 35.31,
+      "Animal": 32.25,
+      "Non Contact": 16.96,
+      "Contact": 14.08,
+      "State": 41.11,
+
+      "Relationship-Overall": 28.23,
+      "Composition": 26.02,
+      "Similarity": 26.60,
+      "Inclusion": 30.46,
+      "Comparison": 31.80,
+
+      "Compound-Overall": 31.47,
+      "Imagination": 38.92,
+      "Feature matching": 14.95,
+
+      "Grammar-Overall": 44.04,
+      "Pronoun Reference": 46.43,
+      "Consistency": 24.60,
+      "Negation": 59.15,
+
+      "Layout-Overall": 40.56,
+      "2D": 38.98,
+      "3D": 42.57,
+
+      "Logical Reasoning": 20.15,
+
+      "Text": 1.09
+    },
+    {
+      "model": "CogView4",
+      "link": "https://arxiv.org/pdf/2403.05121",
+      "hf": "https://huggingface.co/zai-org/CogView4-6B",
+      "open_source": true,
+      "release_date": "2024-03",
+
+      "Overall": 68.09,
+      "Style": 89.62,
+      "World Knowledge": 89.31,
+      "Attribute-Overall": 80.99,
+      "Quantity": 73.40,
+      "Expression": 65.69,
+      "Material": 80.35,
+      "Size": 85.98,
+      "Shape": 73.43,
+      "Color": 88.84,
+      
+      "Action-Overall": 67.94,
+      "Hand": 67.31,
+      "Full body": 68.75,
+      "Animal": 71.01,
+      "Non Contact": 58.04,
+      "Contact": 63.79,
+      "State": 70.65,
+    
+      "Relationship-Overall": 70.58,
+      "Composition": 66.07,
+      "Similarity": 64.10,
+      "Inclusion": 80.17,
+      "Comparison": 75.97,
+    
+      "Compound-Overall": 69.91,
+      "Imagination": 71.94,
+      "Feature matching": 65.42,
+    
+      "Grammar-Overall": 70.94,
+      "Pronoun Reference": 83.33,
+      "Consistency": 69.05,
+      "Negation": 61.62,
+    
+      "Layout-Overall": 81.51,
+      "2D": 77.72,
+      "3D": 84.46,
+    
+      "Logical Reasoning": 51.94,
+    
+      "Text": 8.15
+    },
+    {
+      "model": "Kolors",
+      "link": "https://github.com/Kwai-Kolors/Kolors/blob/master/imgs/Kolors_paper.pdf",
+      "hf": "https://huggingface.co/Kwai-Kolors/Kolors",
+      "open_source": true,
+      "release_date": "2024-7",
+
+      "Overall": 65.12,
+      "Style": 90.61,
+      "World Knowledge": 87.14,
+
+      "Attribute-Overall": 81.18,
+      "Quantity": 63.83,
+      "Expression": 64.86,
+      "Material": 82.98,
+      "Size": 83.52,
+      "Shape": 70.80,
+      "Color": 90.25,
+    
+      "Action-Overall": 64.49,
+      "Hand": 58.97,
+      "Full body": 57.19,
+      "Animal": 63.41,
+      "Non Contact": 65.18,
+      "Contact": 50.57,
+      "State": 73.42,
+    
+      "Relationship-Overall": 71.23,
+      "Composition": 69.90,
+      "Similarity": 74.68,
+      "Inclusion": 74.43,
+      "Comparison": 68.45,
+    
+      "Compound-Overall": 64.17,
+      "Imagination": 67.83,
+      "Feature matching": 56.07,
+    
+      "Grammar-Overall": 63.96,
+      "Pronoun Reference": 81.35,
+      "Consistency": 62.30,
+      "Negation": 50.00,
+    
+      "Layout-Overall": 74.60,
+      "2D": 72.46,
+      "3D": 77.36,
+    
+      "Logical Reasoning": 47.82,
+    
+      "Text": 5.98
+    },
+    {
+      "model": "Janus-Pro",
+      "link": "https://arxiv.org/pdf/2501.17811",
+      "hf": "https://huggingface.co/deepseek-ai/Janus-Pro-7B",
+      "open_source": true,
+      "release_date": "2025-01",
+
+      "Overall": 60.21,
+      "Style": 91.28,
+      "World Knowledge": 75.87,
+      "Attribute-Overall": 65.79,
+      "Quantity": 44.15,
+      "Expression": 52.92,
+      "Material": 69.80,
+      "Size": 78.22,
+      "Shape": 56.99,
+      "Color": 69.18,
+    
+      "Action-Overall": 54.33,
+      "Hand": 37.82,
+      "Full body": 51.25,
+      "Animal": 63.04,
+      "Non Contact": 48.21,
+      "Contact": 51.72,
+      "State": 60.28,
+    
+      "Relationship-Overall": 62.61,
+      "Composition": 62.50,
+      "Similarity": 57.05,
+      "Inclusion": 66.38,
+      "Comparison": 63.83,
+    
+      "Compound-Overall": 65.62,
+      "Imagination": 72.47,
+      "Feature matching": 50.47,
+    
+      "Grammar-Overall": 68.53,
+      "Pronoun Reference": 72.22,
+      "Consistency": 61.11,
+      "Negation": 71.83,
+    
+      "Layout-Overall": 66.59,
+      "2D": 66.38,
+      "3D": 66.85,
+    
+      "Logical Reasoning": 49.27,
+    
+      "Text": 2.17
+    },
+        {
+      "model": "Seedream-4.0",
+      "link": "https://www.volcengine.com/docs/82379/1541523",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-09",
+
+      "Overall": 90.35,
+
+      "Style": 98.42,
+
+      "World Knowledge": 96.39,
+
+      "Attribute-Overall": 95.54,
+      "Quantity": 86.70,
+      "Expression": 90.69,
+      "Material": 96.08,
+      "Size": 95.45,
+      "Shape": 93.71,
+      "Color": 98.43,
+
+      "Action-Overall": 89.29,
+      "Hand": 84.94,
+      "Full body": 91.56,
+      "Animal": 92.03,
+      "Non Contact": 92.41,
+      "Contact": 86.21,
+      "State": 89.53,
+
+      "Relationship-Overall": 88.69,
+      "Composition": 86.35,
+      "Similarity": 83.01,
+      "Inclusion": 93.39,
+      "Comparison": 93.45,
+
+      "Compound-Overall": 87.72,
+      "Imagination": 87.66,
+      "Feature matching": 87.85,
+
+      "Grammar-Overall": 83.63,
+      "Pronoun Reference": 94.44,
+      "Consistency": 82.14,
+      "Negation": 75.35,
+
+      "Layout-Overall": 91.90,
+      "2D": 92.66,
+      "3D": 90.94,
+
+      "Logical Reasoning": 80.58,
+
+      "Text": 91.30
+      },
+    {
+      "model": "DALL-E-3",
+      "link": "https://openai.com/zh-Hans-CN/index/dall-e-3/",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2023-09",
+
+      "Overall": 71.16,
+
+      "Style": 95.85,
+
+      "World Knowledge": 94.36,
+
+      "Attribute-Overall": 85.41,
+      "Quantity": 64.36,
+      "Expression": 71.11,
+      "Material": 88.93,
+      "Size": 90.72,
+      "Shape": 77.62,
+      "Color": 91.30,
+
+      "Action-Overall": 70.59,
+      "Hand": 61.22,
+      "Full body": 65.94,
+      "Animal": 74.28,
+      "Non Contact": 67.41,
+      "Contact": 62.64,
+      "State": 77.37,
+
+      "Relationship-Overall": 80.12,
+      "Composition": 81.63,
+      "Similarity": 73.72,
+      "Inclusion": 85.63,
+      "Comparison": 77.43,
+
+      "Compound-Overall": 75.87,
+      "Imagination": 80.38,
+      "Feature matching": 65.89,
+
+      "Grammar-Overall": 70.81,
+      "Pronoun Reference": 80.16,
+      "Consistency": 74.21,
+      "Negation": 59.51,
+
+      "Layout-Overall": 73.33,
+      "2D": 70.48,
+      "3D": 76.99,
+
+      "Logical Reasoning": 61.41,
+
+      "Text": 3.80
+    },
+    {
+      "model": "Qwen-Image",
+      "link": "https://arxiv.org/pdf/2508.02324",
+      "hf": "https://huggingface.co/Qwen/Qwen-Image",
+      "open_source": true,
+      "release_date": "2025-08",
+
+      "Overall": 86.91,
+
+      "Style": 97.84,
+
+      "World Knowledge": 95.66,
+
+      "Attribute-Overall": 95.04,
+      "Quantity": 89.36,
+      "Expression": 91.11,
+      "Material": 96.23,
+      "Size": 93.56,
+      "Shape": 90.91,
+      "Color": 97.90,
+
+      "Action-Overall": 86.56,
+      "Hand": 83.33,
+      "Full body": 90.62,
+      "Animal": 89.86,
+      "Non Contact": 86.61,
+      "Contact": 79.60,
+      "State": 87.75,
+
+      "Relationship-Overall": 87.61,
+      "Composition": 85.59,
+      "Similarity": 84.29,
+      "Inclusion": 91.67,
+      "Comparison": 90.53,
+
+      "Compound-Overall": 82.99,
+      "Imagination": 83.44,
+      "Feature matching": 82.01,
+
+      "Grammar-Overall": 76.90,
+      "Pronoun Reference": 94.05,
+      "Consistency": 83.73,
+      "Negation": 55.63,
+
+      "Layout-Overall": 90.48,
+      "2D": 92.09,
+      "3D": 88.41,
+
+      "Logical Reasoning": 69.90,
+
+      "Text": 86.14
+    },
+    {
+      "model": "Imagen-4.0-generate-preview-06-06",
+      "link": "https://deepmind.google/models/imagen/",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-01",
+
+      "Overall": 79.90,
+
+      "Style": 95.60,
+
+      "World Knowledge": 97.98,
+
+      "Attribute-Overall": 90.94,
+      "Quantity": 82.45,
+      "Expression": 80.42,
+      "Material": 92.24,
+      "Size": 91.29,
+      "Shape": 85.84,
+      "Color": 96.28,
+
+      "Action-Overall": 84.55,
+      "Hand": 81.09,
+      "Full body": 84.69,
+      "Animal": 82.25,
+      "Non Contact": 83.48,
+      "Contact": 85.63,
+      "State": 86.07,
+
+      "Relationship-Overall": 88.04,
+      "Composition": 87.24,
+      "Similarity": 82.05,
+      "Inclusion": 93.97,
+      "Comparison": 89.08,
+
+      "Compound-Overall": 86.63,
+      "Imagination": 88.71,
+      "Feature matching": 82.01,
+
+      "Grammar-Overall": 82.74,
+      "Pronoun Reference": 92.06,
+      "Consistency": 81.75,
+      "Negation": 75.35,
+
+      "Layout-Overall": 90.48,
+      "2D": 90.25,
+      "3D": 90.76,
+
+      "Logical Reasoning": 77.18,
+
+      "Text": 4.89
+    },
+    {
+      "model": "Recraft",
+      "link": "https://www.recraft.ai/docs#generate-image",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2024-12",
+
+      "Overall": 56.90,
+      "Style": 86.38,
+      "World Knowledge": 85.55,
+
+      "Attribute-Overall": 74.31,
+      "Quantity": 61.70,
+      "Expression": 60.56,
+      "Material": 73.72,
+      "Size": 79.92,
+      "Shape": 65.03,
+      "Color": 82.39,
+    
+      "Action-Overall": 54.65,
+      "Hand": 44.23,
+      "Full body": 57.81,
+      "Animal": 60.87,
+      "Non Contact": 42.86,
+      "Contact": 43.39,
+      "State": 61.66,
+    
+      "Relationship-Overall": 57.44,
+      "Composition": 54.72,
+      "Similarity": 49.68,
+      "Inclusion": 63.22,
+      "Comparison": 63.59,
+    
+      "Compound-Overall": 50.00,
+      "Imagination": 50.95,
+      "Feature matching": 47.90,
+    
+      "Grammar-Overall": 57.49,
+      "Pronoun Reference": 71.83,
+      "Consistency": 55.95,
+      "Negation": 46.13,
+    
+      "Layout-Overall": 64.52,
+      "2D": 64.12,
+      "3D": 65.04,
+    
+      "Logical Reasoning": 36.17,
+    
+      "Text": 2.45
+      },
+    {
+      "model": "Nano Banana",
+      "link": "https://ainanobanana.io/",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-08",
+
+      "Overall": 83.17,
+
+      "Style": 98.41,
+
+      "World Knowledge": 97.38,
+
+      "Attribute-Overall": 93.29,
+      "Quantity": 90.37,
+      "Expression": 85.06,
+      "Material": 93.11,
+      "Size": 94.29,
+      "Shape": 87.99,
+      "Color": 98.10,
+
+      "Action-Overall": 85.55,
+      "Hand": 84.42,
+      "Full body": 88.09,
+      "Animal": 84.06,
+      "Non Contact": 87.05,
+      "Contact": 82.90,
+      "State": 86.07,
+
+      "Relationship-Overall": 91.32,
+      "Composition": 90.59,
+      "Similarity": 86.50,
+      "Inclusion": 96.83,
+      "Comparison": 91.71,
+
+      "Compound-Overall": 91.21,
+      "Imagination": 92.14,
+      "Feature matching": 89.13,
+
+      "Grammar-Overall": 88.35,
+      "Pronoun Reference": 94.78,
+      "Consistency": 88.10,
+      "Negation": 82.86,
+
+      "Layout-Overall": 93.15,
+      "2D": 93.19,
+      "3D": 93.10,
+
+      "Logical Reasoning": 82.40,
+
+      "Text": 10.68
+      },
+    {
+      "model": "GPT-4o",
+      "link": "https://platform.openai.com/docs/guides/image-generation",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-03",
+
+      "Overall": 90.51,
+
+      "Style": 99.41,
+
+      "World Knowledge": 97.96,
+
+      "Attribute-Overall": 94.72,
+      "Quantity": 85.87,
+      "Expression": 92.56,
+      "Material": 94.43,
+      "Size": 95.23,
+      "Shape": 94.23,
+      "Color": 96.59,
+
+      "Action-Overall": 89.33,
+      "Hand": 91.12,
+      "Full body": 92.50,
+      "Animal": 89.49,
+      "Non Contact": 91.52,
+      "Contact": 86.78,
+      "State": 88.14,
+
+      "Relationship-Overall": 92.59,
+      "Composition": 91.93,
+      "Similarity": 89.10,
+      "Inclusion": 95.64,
+      "Comparison": 93.93,
+
+      "Compound-Overall": 94.59,
+      "Imagination": 95.36,
+      "Feature matching": 92.87,
+
+      "Grammar-Overall": 94.11,
+      "Pronoun Reference": 96.37,
+      "Consistency": 92.86,
+      "Negation": 93.24,
+
+      "Layout-Overall": 95.21,
+      "2D": 95.01,
+      "3D": 95.47,
+
+      "Logical Reasoning": 90.05,
+
+      "Text": 57.14
+    },
+    {
+      "model": "FLUX-kontext-max",
+      "link": "https://bfl.ai/models/flux-kontext",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-05",
+
+      "Overall": 75.24,
+      "Style": 97.59,
+      "World Knowledge": 92.31,
+
+      "Attribute-Overall": 86.17,
+      "Quantity": 72.34,
+      "Expression": 71.41,
+      "Material": 87.48,
+      "Size": 88.83,
+      "Shape": 81.64,
+      "Color": 92.80,
+    
+      "Action-Overall": 75.71,
+      "Hand": 76.28,
+      "Full body": 70.22,
+      "Animal": 79.35,
+      "Non Contact": 69.20,
+      "Contact": 74.43,
+      "State": 78.16,
+    
+      "Relationship-Overall": 81.27,
+      "Composition": 78.95,
+      "Similarity": 73.40,
+      "Inclusion": 87.25,
+      "Comparison": 86.65,
+    
+      "Compound-Overall": 80.16,
+      "Imagination": 84.60,
+      "Feature matching": 70.33,
+    
+      "Grammar-Overall": 78.77,
+      "Pronoun Reference": 88.76,
+      "Consistency": 76.19,
+      "Negation": 72.24,
+    
+      "Layout-Overall": 87.58,
+      "2D": 87.01,
+      "3D": 88.32,
+    
+      "Logical Reasoning": 68.20,
+    
+      "Text": 4.62
+      },
+    {
+      "model": "Hunyuan-DiT",
+      "link": "https://arxiv.org/pdf/2405.08748",
+      "hf": "https://huggingface.co/Tencent-Hunyuan/HunyuanDiT",
+      "open_source": true,
+      "release_date": "2024-05",
+
+      "Overall": 55.57,
+
+      "Style": 94.10,
+
+      "World Knowledge": 76.16,
+
+      "Attribute-Overall": 69.72,
+      "Quantity": 66.49,
+      "Expression": 54.03,
+      "Material": 71.76,
+      "Size": 76.14,
+      "Shape": 58.57,
+      "Color": 76.10,
+
+      "Action-Overall": 51.04,
+      "Hand": 41.03,
+      "Full body": 51.56,
+      "Animal": 57.25,
+      "Non Contact": 41.52,
+      "Contact": 37.36,
+      "State": 59.09,
+
+      "Relationship-Overall": 55.60,
+      "Composition": 59.69,
+      "Similarity": 48.08,
+      "Inclusion": 56.90,
+      "Comparison": 52.43,
+
+      "Compound-Overall": 52.03,
+      "Imagination": 57.49,
+      "Feature matching": 39.95,
+
+      "Grammar-Overall": 60.06,
+      "Pronoun Reference": 63.49,
+      "Consistency": 60.71,
+      "Negation": 56.34,
+
+      "Layout-Overall": 61.67,
+      "2D": 60.73,
+      "3D": 62.86,
+
+      "Logical Reasoning": 33.98,
+
+      "Text": 1.36
+    },
+    {
+      "model": "Imagen-3.0-generate-002",
+      "link": "https://arxiv.org/pdf/2408.07009",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-02",
+
+      "Overall": 0.98,
+
+      "Style": 2.66,
+
+      "World Knowledge": 0.29,
+
+      "Attribute-Overall": 0.69,
+      "Quantity": 0.00,
+      "Expression": 0.00,
+      "Material": 0.00,
+      "Size": 1.52,
+      "Shape": 0.35,
+      "Color": 1.36,
+
+      "Action-Overall": 0.60,
+      "Hand": 0.00,
+      "Full body": 0.31,
+      "Animal": 0.00,
+      "Non Contact": 0.00,
+      "Contact": 0.00,
+      "State": 1.38,
+
+      "Relationship-Overall": 0.32,
+      "Composition": 0.13,
+      "Similarity": 0.64,
+      "Inclusion": 0.00,
+      "Comparison": 0.73,
+
+      "Compound-Overall": 0.00,
+      "Imagination": 0.00,
+      "Feature matching": 0.00,
+
+      "Grammar-Overall": 4.06,
+      "Pronoun Reference": 0.79,
+      "Consistency": 1.19,
+      "Negation": 9.51,
+
+      "Layout-Overall": 0.87,
+      "2D": 1.55,
+      "3D": 0.00,
+
+      "Logical Reasoning": 0.00,
+
+      "Text": 0.27
+    },
+    {
+      "model": "wan2.2-t2i-plus",
+      "link": "https://help.aliyun.com/zh/model-studio/text-to-image-v2-api-reference",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-07",
+
+      "Overall": 70.05,
+      "Style": 91.61,
+      "World Knowledge": 88.73,
+
+      "Attribute-Overall": 82.42,
+      "Quantity": 78.19,
+      "Expression": 66.94,
+      "Material": 82.15,
+      "Size": 84.09,
+      "Shape": 77.10,
+      "Color": 89.99,
+    
+      "Action-Overall": 70.22,
+      "Hand": 67.95,
+      "Full body": 69.06,
+      "Animal": 72.46,
+      "Non Contact": 64.29,
+      "Contact": 63.79,
+      "State": 74.21,
+    
+      "Relationship-Overall": 73.65,
+      "Composition": 70.15,
+      "Similarity": 70.83,
+      "Inclusion": 80.17,
+      "Comparison": 76.94,
+    
+      "Compound-Overall": 71.51,
+      "Imagination": 74.26,
+      "Feature matching": 65.42,
+    
+      "Grammar-Overall": 70.05,
+      "Pronoun Reference": 83.73,
+      "Consistency": 62.70,
+      "Negation": 64.44,
+    
+      "Layout-Overall": 80.08,
+      "2D": 81.50,
+      "3D": 78.26,
+    
+      "Logical Reasoning": 57.04,
+    
+      "Text": 15.22
+    },
+    {
+      "model": "Imagen-4.0-Fast-preview-06-06",
+      "link": "https://deepmind.google/models/imagen/",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-01",
+
+      "Overall": 1.20,
+
+      "Style": 2.91,
+
+      "World Knowledge": 0.00,
+
+      "Attribute-Overall": 0.93,
+      "Quantity": 0.00,
+      "Expression": 2.08,
+      "Material": 0.53,
+      "Size": 0.00,
+      "Shape": 1.22,
+      "Color": 1.05,
+
+      "Action-Overall": 0.44,
+      "Hand": 0.32,
+      "Full body": 0.00,
+      "Animal": 0.00,
+      "Non Contact": 0.00,
+      "Contact": 0.00,
+      "State": 0.99,
+
+      "Relationship-Overall": 0.70,
+      "Composition": 0.77,
+      "Similarity": 0.96,
+      "Inclusion": 0.57,
+      "Comparison": 0.49,
+
+      "Compound-Overall": 0.07,
+      "Imagination": 0.11,
+      "Feature matching": 0.00,
+
+      "Grammar-Overall": 4.95,
+      "Pronoun Reference": 0.79,
+      "Consistency": 0.40,
+      "Negation": 12.68,
+
+      "Layout-Overall": 1.51,
+      "2D": 2.54,
+      "3D": 0.18,
+
+      "Logical Reasoning": 0.24,
+
+      "Text": 0.27
+    },
+    {
+      "model": "Seedream-3.0",
+      "link": "https://www.byteplus.com/en/product/Seedream",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-06",
+
+      "Overall": 86.14,
+
+      "Style": 98.42,
+
+      "World Knowledge": 95.36,
+
+      "Attribute-Overall": 93.93,
+      "Quantity": 85.64,
+      "Expression": 83.98,
+      "Material": 96.39,
+      "Size": 90.53,
+      "Shape": 93.36,
+      "Color": 97.90,
+
+      "Action-Overall": 84.53,
+      "Hand": 81.41,
+      "Full body": 89.06,
+      "Animal": 86.13,
+      "Non Contact": 85.71,
+      "Contact": 79.19,
+      "State": 85.18,
+
+      "Relationship-Overall": 87.55,
+      "Composition": 84.57,
+      "Similarity": 83.01,
+      "Inclusion": 93.10,
+      "Comparison": 91.99,
+
+      "Compound-Overall": 83.11,
+      "Imagination": 83.83,
+      "Feature matching": 81.54,
+
+      "Grammar-Overall": 77.54,
+      "Pronoun Reference": 88.89,
+      "Consistency": 82.14,
+      "Negation": 63.38,
+
+      "Layout-Overall": 90.16,
+      "2D": 90.68,
+      "3D": 89.49,
+
+      "Logical Reasoning": 68.45,
+
+      "Text": 82.34
+    },
+    {
+      "model": "Imagen-3.0-generate-002",
+      "link": "https://arxiv.org/pdf/2408.07009",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-02",
+
+      "Overall": 71.85,
+
+      "Style": 89.25,
+
+      "World Knowledge": 94.75,
+
+      "Attribute-Overall": 77.33,
+      "Quantity": 75.78,
+      "Expression": 64.67,
+      "Material": 80.66,
+      "Size": 82.84,
+      "Shape": 70.00,
+      "Color": 93.10,
+
+      "Action-Overall": 81.46,
+      "Hand": 80.00,
+      "Full body": 83.89,
+      "Animal": 85.29,
+      "Non Contact": 77.37,
+      "Contact": 74.40,
+      "State": 87.38,
+
+      "Relationship-Overall": 82.86,
+      "Composition": 83.90,
+      "Similarity": 73.33,
+      "Inclusion": 88.64,
+      "Comparison": 83.90,
+
+      "Compound-Overall": 71.71,
+      "Imagination": 79.23,
+      "Feature matching": 64.06,
+
+      "Grammar-Overall": 69.84,
+      "Pronoun Reference": 79.04,
+      "Consistency": 70.75,
+      "Negation": 59.13,
+
+      "Layout-Overall": 81.34,
+      "2D": 82.72,
+      "3D": 79.92,
+
+      "Logical Reasoning": 48.36,
+
+      "Text": 21.55
+    },
+    {
+      "model": "Imagen-4.0-Ultra-preview-06-06",
+      "link": "https://deepmind.google/models/imagen/",
+      "hf": "-",
+      "open_source": false,
+      "release_date": "2025-06",
+
+      "Overall": 83.86,
+
+      "Style": 97.34,
+
+      "World Knowledge": 97.40,
+
+      "Attribute-Overall": 93.59,
+      "Quantity": 88.30,
+      "Expression": 83.75,
+      "Material": 94.13,
+      "Size": 95.27,
+      "Shape": 90.91,
+      "Color": 97.80,
+
+      "Action-Overall": 88.80,
+      "Hand": 83.97,
+      "Full body": 90.94,
+      "Animal": 88.41,
+      "Non Contact": 87.50,
+      "Contact": 88.79,
+      "State": 90.02,
+
+      "Relationship-Overall": 92.35,
+      "Composition": 92.22,
+      "Similarity": 87.82,
+      "Inclusion": 96.84,
+      "Comparison": 92.23,
+
+      "Compound-Overall": 92.51,
+      "Imagination": 93.99,
+      "Feature matching": 89.25,
+
+      "Grammar-Overall": 88.83,
+      "Pronoun Reference": 96.83,
+      "Consistency": 90.08,
+      "Negation": 80.63,
+
+      "Layout-Overall": 94.13,
+      "2D": 94.77,
+      "3D": 93.30,
+
+      "Logical Reasoning": 86.89,
+
+      "Text": 6.79
+    }
+  ]
+}

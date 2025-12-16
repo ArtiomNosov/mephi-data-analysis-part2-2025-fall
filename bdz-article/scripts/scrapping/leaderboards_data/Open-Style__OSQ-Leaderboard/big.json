@@ -1,0 +1,88 @@
+[
+
+  
+    {
+        "model": "GPT-4o",
+        "Average": 70.15,
+        "MMLU": 70.09,
+        "ARC":86.31,
+        "WinoGrande":72.22,
+        "PIQA":60.34,
+        "CommonsenseQA":70.28,
+        "Race":67.87 ,
+        "MedMCQA":57.85 ,
+        "OpenkookQA":67.21 
+    },
+  {
+        "model": "GPT-4-1106-preview",
+        "Average": 65.93,
+        "MMLU": 74.77,
+        "ARC":82.68,
+        "WinoGrande": 66.22,
+        "PIQA": 61.64,
+        "CommonsenseQA": 62.96,
+        "Race": 67.05,
+        "MedMCQA": 51.81,
+        "OpenkookQA": 60.29
+    },
+    {
+        "model": "Claude-3 Opus",
+        "Average": 62.53,
+        "MMLU": 70.23,
+        "ARC":75.47,
+        "WinoGrande": 63.54,
+        "PIQA": 59.05,
+        "CommonsenseQA": 63.66,
+        "Race": 66.22,
+        "MedMCQA": 49.14,
+        "OpenkookQA": 52.95
+    },
+    {
+        "model": "Mistral Large",
+        "Average": 60.48,
+        "MMLU": 68.76,
+        "ARC":72.32,
+        "WinoGrande": 56.83,
+        "PIQA": 61.21,
+        "CommonsenseQA": 55.35,
+        "Race": 70.17,
+        "MedMCQA": 43.44,
+        "OpenkookQA": 58.66
+    },
+    {
+        "model": "GPT-3.5",
+        "Average": 60.32,
+        "MMLU": 65.38,
+         "ARC":78.24,
+        "WinoGrande":  64.56,
+        "PIQA": 54.89,
+        "CommonsenseQA":  67.89,
+        "Race": 60.11,
+        "MedMCQA": 41.42,
+        "OpenkookQA": 49.90
+    },
+    {
+        "model": "Gemini 1.0 Pro",
+        "Average": 54.06,
+        "MMLU": 56.04,
+        "ARC":72.35,
+        "WinoGrande":  56.35,
+        "PIQA": 47.70,
+        "CommonsenseQA": 50.56,
+        "Race": 61.02,
+        "MedMCQA": 35.89,
+        "OpenkookQA": 52.55
+    },
+    {
+        "model": "Llama3-70b-instruct",
+        "Average": 52.92,
+        "MMLU": 59.67,
+        "ARC":67.09,
+        "WinoGrande": 57.14,
+        "PIQA": 43.10,
+        "CommonsenseQA": 55.49,
+        "Race": 58.21,
+        "MedMCQA": 41.67,
+        "OpenkookQA": 40.94
+    }
+]

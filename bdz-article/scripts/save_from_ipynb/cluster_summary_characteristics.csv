@@ -1,0 +1,4 @@
+﻿Кластер,Размер,Топ-5 отличий
+1,3 (2.1%),pipeline tag_nan: 4600.0%; UGI-Leaderboard :: W/10-Adherence: 101.7%; pipeline tag_text-generation: -100.0%; architectural type_llama: -100.0%; real architecture_LlamaForCausalLM: -100.0%
+2,24 (17.0%),pipeline tag_nan: -100.0%; architectural type_llama: -86.8%; UGI-Leaderboard :: W/10-Adherence: nan%; datasets :: GSM8K: 130.7%; real architecture_LlamaForCausalLM: -86.6%
+3,114 (80.9%),pipeline tag_nan: -100.0%; datasets :: GSM8K: -30.8%; architectural type_llama: 20.9%; real architecture_LlamaForCausalLM: 20.9%; UGI-Leaderboard :: W/10-Adherence: -18.5%

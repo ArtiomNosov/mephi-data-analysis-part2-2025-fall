@@ -1,0 +1,2 @@
+model,model_family,model_size,method,uncensored_rate,avg_compliance_score,total_prompts,timestamp,submitter,sample_responses_url
+meta-llama/Llama-3.2-1B-Instruct,Llama,1B,none,0.2733333333333333,0.40503120382739477,150,2025-12-01T13:25:31.727232,wisent-ai,

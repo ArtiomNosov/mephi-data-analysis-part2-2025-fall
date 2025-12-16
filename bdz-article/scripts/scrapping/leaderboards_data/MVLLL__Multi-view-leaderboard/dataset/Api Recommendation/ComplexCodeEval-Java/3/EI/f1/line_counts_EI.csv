@@ -1,0 +1,9 @@
+Models,subset_1(2~29), subset_2(32~57), subset_3(87~87)
+StarCoder2-3b,40.45,50.00,0.00
+StarCoder2-7b,42.68,50.00,0.00
+CodeLlama-7b,47.16,50.00,0.00
+CodeLlama-13b,49.78,50.00,0.00
+CodeLlama-34b,39.65,50.00,0.00
+DeepSeek-Coder-1.3b,34.32,50.00,0.00
+DeepSeek-Coder-6.7b,42.53,50.00,0.00
+DeepSeek-Coder-33b,44.19,50.00,0.00

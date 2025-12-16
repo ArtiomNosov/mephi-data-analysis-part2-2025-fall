@@ -1,0 +1,268 @@
+{
+  "ChemLLM": {
+    "huggingface_identifier": "AI4Chem/ChemLLM-7B-Chat",
+    "size": "7B",
+    "reasoning": false,
+    "publication_title": "ChemLLM: A Chemical Large Language Model",
+    "publication_url": "https://arxiv.org/abs/2402.06852"
+  },
+  "LlaSMol": {
+    "huggingface_identifier": "osunlp/LlaSMol-Mistral-7B",
+    "size": "7B",
+    "reasoning": false,
+    "publication_title": "LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset",
+    "publication_url": "https://openreview.net/forum?id=lY6XTF9tPv"
+  },
+  "MolReasoner-Cap": {
+    "huggingface_identifier": "guojianz/MolReasoner (captioning file)",
+    "size": "7B",
+    "reasoning": true,
+    "publication_title": "MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs",
+    "publication_url": "https://arxiv.org/abs/2508.02066"
+  },
+  "MolReasoner-Gen": {
+    "huggingface_identifier": "guojianz/MolReasoner (generation file)",
+    "size": "7B",
+    "reasoning": true,
+    "publication_title": "MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs",
+    "publication_url": "https://arxiv.org/abs/2508.02066"
+  },
+  "Llama-3 MolInst": {
+    "huggingface_identifier": "zjunlp/llama3-instruct-molinst-molecule-8b",
+    "size": "8B",
+    "reasoning": false,
+    "publication_title": "Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models",
+    "publication_url": "https://arxiv.org/abs/2306.08018"
+  },
+  "ChemDFM-8B": {
+    "huggingface_identifier": "OpenDFM/ChemDFM-v1.0-8B",
+    "size": "8B",
+    "reasoning": false,
+    "publication_title": "Developing ChemDFM as a large language foundation model for chemistry",
+    "publication_url": "https://arxiv.org/abs/2401.14818"
+  },
+  "ChemDFM-13B": {
+    "huggingface_identifier": "OpenDFM/ChemDFM-v1.0-13B",
+    "size": "13B",
+    "reasoning": false,
+    "publication_title": "Developing ChemDFM as a large language foundation model for chemistry",
+    "publication_url": "https://arxiv.org/abs/2401.14818"
+  },
+  "ChemDFM-R-14B": {
+    "huggingface_identifier": "OpenDFM/ChemDFM-R-14B",
+    "size": "14B",
+    "reasoning": true,
+    "publication_title": "ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge",
+    "publication_url": "https://arxiv.org/abs/2507.21990"
+  },
+  "TxGemma-9B": {
+    "huggingface_identifier": "google/txgemma-9b-chat",
+    "size": "9B",
+    "reasoning": false,
+    "publication_title": "TxGemma: Efficient and Agentic LLMs for Therapeutics",
+    "publication_url": "https://arxiv.org/abs/2508.02743"
+  },
+  "TxGemma-27B": {
+    "huggingface_identifier": "google/txgemma-27b-chat",
+    "size": "27B",
+    "reasoning": false,
+    "publication_title": "TxGemma: Efficient and Agentic LLMs for Therapeutics",
+    "publication_url": "https://arxiv.org/abs/2508.02743"
+  },
+  "Ether0": {
+    "huggingface_identifier": "futurehouse/ether0",
+    "size": "24B",
+    "reasoning": true,
+    "publication_title": "Training a Scientific Reasoning Model for Chemistry",
+    "publication_url": "https://arxiv.org/abs/2506.17238"
+  },
+  "Gemma-2 9B": {
+    "huggingface_identifier": "google/gemma-2-9b-it",
+    "size": "9B",
+    "reasoning": false,
+    "publication_title": "Gemma: Introducing new state-of-the-art open models",
+    "publication_url": "https://deepmind.google/models/gemma/"
+  },
+  "Gemma-2 27B": {
+    "huggingface_identifier": "google/gemma-2-27b-it",
+    "size": "27B",
+    "reasoning": false,
+    "publication_title": "Gemma: Introducing new state-of-the-art open models",
+    "publication_url": "https://deepmind.google/models/gemma/"
+  },
+  "Gemma-3 12B": {
+    "huggingface_identifier": "google/gemma-3-12b-it",
+    "size": "12B",
+    "reasoning": false,
+    "publication_title": "Gemma 3",
+    "publication_url": "https://deepmind.google/models/gemma/gemma-3/"
+  },
+  "Gemma-3 27B": {
+    "huggingface_identifier": "google/gemma-3-27b-it",
+    "size": "27B",
+    "reasoning": false,
+    "publication_title": "Gemma 3",
+    "publication_url": "https://deepmind.google/models/gemma/gemma-3/"
+  },
+  "LLaMA-2 13B": {
+    "huggingface_identifier": "meta-llama/Llama-2-13b-chat-hf",
+    "size": "13B",
+    "reasoning": false,
+    "publication_title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "publication_url": "https://arxiv.org/abs/2307.09288"
+  },
+  "LLaMA-3 8B": {
+    "huggingface_identifier": "meta-llama/Meta-Llama-3-8B-Instruct",
+    "size": "8B",
+    "reasoning": false,
+    "publication_title": "Llama 3 Model Card",
+    "publication_url": "https://www.llama.com/docs/model-cards-and-prompt-formats/meta-llama-3/"
+  },
+  "LLaMA-3.3 70B": {
+    "huggingface_identifier": "nvidia/Llama-3.3-70B-Instruct-FP8",
+    "size": "70B",
+    "reasoning": false,
+    "publication_title": "NVIDIA Llama 3.3 70B Instruct FP8 Model Card",
+    "publication_url": "https://huggingface.co/nvidia/Llama-3.3-70B-Instruct-FP8"
+  },
+  "Mistral-7B v0.1": {
+    "huggingface_identifier": "mistralai/Mistral-7B-v0.1",
+    "size": "7B",
+    "reasoning": false,
+    "publication_title": "Mistral 7B",
+    "publication_url": "https://arxiv.org/abs/2310.06825"
+  },
+  "Mistral-Small": {
+    "huggingface_identifier": "mistralai/Mistral-Small-24B-Instruct-2501",
+    "size": "24B",
+    "reasoning": false,
+    "publication_title": "Mistral-Small-24B-Instruct-2501 Model Card",
+    "publication_url": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+  },
+  "Nemotron-Nano 9B v2": {
+    "huggingface_identifier": "nvidia/NVIDIA-Nemotron-Nano-9B-v2",
+    "size": "9B",
+    "reasoning": true,
+    "publication_title": "NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model",
+    "publication_url": "https://arxiv.org/abs/2508.14444"
+  },
+  "SEED-OSS": {
+    "huggingface_identifier": "ByteDance-Seed/Seed-OSS-36B-Instruct",
+    "size": "36B",
+    "reasoning": true,
+    "publication_title": "Seed-OSS Open-Source Models Release",
+    "publication_url": "https://seed.bytedance.com/en/blog/seed-oss-open-source-models-release"
+  },
+  "Qwen-2.5 7B": {
+    "huggingface_identifier": "Qwen/Qwen2.5-7B-Instruct",
+    "size": "7B",
+    "reasoning": false,
+    "publication_title": "Qwen2.5 Technical Report",
+    "publication_url": "https://arxiv.org/abs/2412.15115"
+  },
+  "Qwen-2.5 14B": {
+    "huggingface_identifier": null,
+    "size": "14B",
+    "reasoning": false,
+    "publication_title": "Qwen2.5 Technical Report",
+    "publication_url": "https://arxiv.org/abs/2412.15115"
+  },
+  "Qwen-3 8B": {
+    "huggingface_identifier": "Qwen/Qwen3-8B",
+    "size": "8B",
+    "reasoning": true,
+    "publication_title": "Qwen3 Technical Report",
+    "publication_url": "https://arxiv.org/abs/2505.09388"
+  },
+  "Qwen-3 14B": {
+    "huggingface_identifier": "Qwen/Qwen3-14B",
+    "size": "14B",
+    "reasoning": true,
+    "publication_title": "Qwen3 Technical Report",
+    "publication_url": "https://arxiv.org/abs/2505.09388"
+  },
+  "Qwen-3 32B": {
+    "huggingface_identifier": "Qwen/Qwen3-32B",
+    "size": "32B",
+    "reasoning": true,
+    "publication_title": "Qwen3 Technical Report",
+    "publication_url": "https://arxiv.org/abs/2505.09388"
+  },
+  "Qwen-3 30B": {
+    "huggingface_identifier": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+    "size": "30B (A3B)",
+    "reasoning": true,
+    "publication_title": "Qwen3 Technical Report",
+    "publication_url": "https://arxiv.org/abs/2505.09388"
+  },
+  "Qwen-3 Next 80B": {
+    "huggingface_identifier": "Qwen/Qwen3-Next-80B-A3B-Thinking",
+    "size": "80B (A3B)",
+    "reasoning": true,
+    "publication_title": "Qwen3 Technical Report",
+    "publication_url": "https://arxiv.org/abs/2505.09388"
+  },
+  "Qwen-3 235B": {
+    "huggingface_identifier": "Qwen/Qwen3-235B-A22B-Thinking-2507-FP8",
+    "size": "235B (A22B)",
+    "reasoning": true,
+    "publication_title": "Qwen3 Technical Report",
+    "publication_url": "https://arxiv.org/abs/2505.09388"
+  },
+  "GPT-OSS 20B (Low)": {
+    "huggingface_identifier": "openai/gpt-oss-20b",
+    "size": "20B (A4B)",
+    "reasoning": true,
+    "publication_title": "Introducing gpt-oss",
+    "publication_url": "https://openai.com/index/introducing-gpt-oss/"
+  },
+  "GPT-OSS 20B (Med)": {
+    "huggingface_identifier": "openai/gpt-oss-20b",
+    "size": "20B (A4B)",
+    "reasoning": true,
+    "publication_title": "Introducing gpt-oss",
+    "publication_url": "https://openai.com/index/introducing-gpt-oss/"
+  },
+  "GPT-OSS 20B (High)": {
+    "huggingface_identifier": "openai/gpt-oss-20b",
+    "size": "20B (A4B)",
+    "reasoning": true,
+    "publication_title": "Introducing gpt-oss",
+    "publication_url": "https://openai.com/index/introducing-gpt-oss/"
+  },
+  "GPT-OSS 120B (Low)": {
+    "huggingface_identifier": "openai/gpt-oss-120b",
+    "size": "120B (A5B)",
+    "reasoning": true,
+    "publication_title": "Introducing gpt-oss",
+    "publication_url": "https://openai.com/index/introducing-gpt-oss/"
+  },
+  "GPT-OSS 120B (Med)": {
+    "huggingface_identifier": "openai/gpt-oss-120b",
+    "size": "120B (A5B)",
+    "reasoning": true,
+    "publication_title": "Introducing gpt-oss",
+    "publication_url": "https://openai.com/index/introducing-gpt-oss/"
+  },
+  "GPT-OSS 120B (High)": {
+    "huggingface_identifier": "openai/gpt-oss-120b",
+    "size": "120B (A5B)",
+    "reasoning": true,
+    "publication_title": "Introducing gpt-oss",
+    "publication_url": "https://openai.com/index/introducing-gpt-oss/"
+  },
+  "GLM-4.6": {
+    "huggingface_identifier": "zai-org/GLM-4.6-FP8",
+    "size": "355B (A32B)",
+    "reasoning": true,
+    "publication_title": "GLM-4.6: Advanced Agentic, Reasoning and Coding Capabilities",
+    "publication_url": "https://z.ai/blog/glm-4.6"
+  },
+  "DeepSeek-R1-0528": {
+    "huggingface_identifier": "nvidia/DeepSeek-R1-0528-FP4-v2",
+    "size": "671B (A37B)",
+    "reasoning": true,
+    "publication_title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs",
+    "publication_url": "https://arxiv.org/abs/2501.12948"
+  }
+}

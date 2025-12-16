@@ -1,0 +1,8 @@
+{
+    "model": "Henrychur/MMed-Llama-3-8B",
+    "base_model": "LlamaForCausalLM",
+    "revision": "6c3057bb49ac499970eb2891daaef9b5c14f6943",
+    "submitted_time": "2024-05-22 09:17:24+00:00",
+    "num_params_billion": null,
+    "language": "en_zh_ja_fr_ru_es"
+}

@@ -1,0 +1,948 @@
+{
+    "DeepSeek-R1": {
+        "config": {
+            "model_name": "DeepSeek-R1",
+            "model_sha": "https://api-docs.deepseek.com/news/news250120",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "mmlu_pro": {
+                "accuracy": 0.8382646276595744,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/DeepSeek-R1/index.html?log_file=logs/logs/2025-02-12T11-02-35-05-00_mmlu-pro_BhD89DYN9KM3k4weSDfaQK.eval"
+            },
+            "humaneval": {
+                "mean": 0.9567901234567902,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/DeepSeek-R1/index.html?log_file=logs/logs/2025-02-03T11-45-22-05-00_humaneval_hnkHWYqrb5HxiBt2CWzCnq.eval"
+            },
+            "math": {
+                "accuracy": 0.9272,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/DeepSeek-R1/index.html?log_file=logs/logs/2025-02-11T11-38-10-05-00_math_ZYFSqsWsmP5kLRLHEMWULU.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.954510993176649,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/DeepSeek-R1/index.html?log_file=logs/logs/2025-02-02T16-28-05-05-00_gsm8k_YMw6WiZkgTBQ54z5UHtDDX.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9667235494880546,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/DeepSeek-R1/index.html?log_file=logs/logs/2025-01-30T15-42-39-05-00_arc-challenge_CviW9ro6rKBbctkwJzQstp.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.9179163378058406,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/DeepSeek-R1/index.html?log_file=logs/logs/2025-02-04T00-25-12-05-00_winogrande_NPgTbtqom2QSPKxeThWrdZ.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9873737373737373,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/DeepSeek-R1/index.html?log_file=logs/logs/2024-10-29T17-10-40-04-00_arc-easy_UvprihBMLXPF8JENVLRkdx.eval"
+            },
+            "gpqa_diamond": {
+                "accuracy": 0.7045454545454546,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/DeepSeek-R1/index.html?log_file=logs/logs/2025-02-11T11-37-45-05-00_gpqa-diamond_MwnVeLwyuiEAALr3M5q3dn.eval"
+            },
+            "drop": {
+                "mean": null,
+                "log_url": null
+            },
+            "hellaswag": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "ifeval": {
+                "final_acc": null,
+                "log_url": null
+            },
+            "mmlu": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "mmmu_multiple_choice": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "mmmu_open": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gaia": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "agentharm": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "agentharm_benign": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "swe_bench": {
+                "mean": null,
+                "log_url": null
+            }
+        }
+    },
+    "Meta-Llama-3.1-70B-Instruct": {
+        "config": {
+            "model_name": "Meta-Llama-3.1-70B-Instruct",
+            "model_sha": "https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "hellaswag": {
+                "accuracy": 0.869946225851424,
+                "log_url": "https://storage.googleapis.com/inspect-evals/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-30T00-45-54-04-00_hellaswag_BKfQG9yGAr383MGnooMLBH.eval"
+            },
+            "drop": {
+                "mean": 0.8811263765076035,
+                "log_url": "https://storage.googleapis.com/inspect-evals/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-29T21-01-02-04-00_drop_LzAWvLWkNrNKu5qf56wXRo.eval"
+            },
+            "gpqa_diamond": {
+                "accuracy": 0.4318181818181818,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-29T23-41-39-04-00_gpqa-diamond_TdLdYmVM6GCVMAECcXkuhj.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.8666140489344909,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-30T09-20-56-04-00_winogrande_WnUgkSRhSMvh3zUjnuJWQZ.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.9469294920394238,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-30T00-03-31-04-00_gsm8k_bKsUfCAfcmBCeryboNaLoX.eval"
+            },
+            "math": {
+                "accuracy": 0.6004,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-30T02-34-50-04-00_math_2xiNcrGih26uzJdG4q88bM.eval"
+            },
+            "ifeval": {
+                "final_acc": 0.8604907201780166,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-30T02-29-32-04-00_ifeval_Dwh3CF2ZYFrvw7UcTwrsvK.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9445392491467577,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-29T20-58-56-04-00_arc-challenge_oFL5wFjT7KwNFhMFfe72JN.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9823232323232324,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-29T20-53-12-04-00_arc-easy_UXzR7cDeNteP39NoXUYnhm.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.6688829787234043,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-30T06-11-16-04-00_mmlu-pro_oQiEBJdeKtEEt4cm9KL7uy.eval"
+            },
+            "humaneval": {
+                "mean": 0.7865853658536586,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-30T02-28-25-04-00_humaneval_KcJV2rHuHJ2JLxijihEkcW.eval"
+            },
+            "mmlu": {
+                "accuracy": 0.8033755875231449,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Meta-Llama-3.1-70B-Instruct/index.html?log_file=logs/logs/2024-10-30T03-51-50-04-00_mmlu_6SNjs2QmPRvqGnvbnNtaqb.eval"
+            },
+            "mmmu_multiple_choice": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "mmmu_open": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gaia": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "agentharm": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "agentharm_benign": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "swe_bench": {
+                "mean": null,
+                "log_url": null
+            }
+        }
+    },
+    "Mistral-Large-Instruct-2407": {
+        "config": {
+            "model_name": "Mistral-Large-Instruct-2407",
+            "model_sha": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2407",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "drop": {
+                "mean": 0.7424257996853698,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T01-56-12-04-00_drop_NtvuCoU2LoMbH8DztcCTen.eval"
+            },
+            "ifeval": {
+                "final_acc": 0.8285172231900246,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T06-30-16-04-00_ifeval_TLkvCSFEWo4PLv6hAha7YB.eval"
+            },
+            "mmlu": {
+                "accuracy": 0.8035892323030908,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T07-21-48-04-00_mmlu_YnUhmHoStr3WuJdchWmNPt.eval"
+            },
+            "gpqa_diamond": {
+                "accuracy": 0.4734848484848485,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T04-22-52-04-00_gpqa-diamond_SuZUZxGdqS2ZecbLRNkKd4.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.9378316906747536,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T04-28-49-04-00_gsm8k_5tQp9tbwUMj6NpjNKCAfVm.eval"
+            },
+            "math": {
+                "accuracy": 0.6574,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T06-33-09-04-00_math_2CmjBedAfUxqvmcHRdBgyB.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9852693602693603,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T01-48-39-04-00_arc-easy_YbfuBT3usZXt2xgZkkR5dq.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.6942320478723404,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T09-41-25-04-00_mmlu-pro_fyYT4aabPesfY5TpzFMPnd.eval"
+            },
+            "humaneval": {
+                "mean": 0.8658536585365854,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T06-29-24-04-00_humaneval_nu8SUSGekKJWB8HLKDigYK.eval"
+            },
+            "hellaswag": {
+                "accuracy": 0.9047998406691894,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T04-50-00-04-00_hellaswag_ZzQoZ6gkRQsTzMhQr7GYNn.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9436860068259386,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T01-54-13-04-00_arc-challenge_WfQRhMkFcywefpU46isBVP.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.8547750591949487,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/Mistral-Large-Instruct-2407/index.html?log_file=logs/logs/2024-10-31T11-57-58-04-00_winogrande_TP3UGwpp37Dyv6ks9Ty5Hk.eval"
+            },
+            "mmmu_multiple_choice": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "mmmu_open": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gaia": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "agentharm": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "agentharm_benign": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "swe_bench": {
+                "mean": null,
+                "log_url": null
+            }
+        }
+    },
+    "c4ai-command-r-plus": {
+        "config": {
+            "model_name": "Command R+",
+            "model_sha": "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
+        },
+        "results": {
+            "ifeval": {
+                "final_acc": 0.7779591483929307,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-30T17-23-04-04-00_ifeval_RGucUMwdGmUnRpqyMTZTzW.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.7490134175217048,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-30T14-42-18-04-00_winogrande_bY8yg7aRR5dCCK7NDCZEcc.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.8506825938566553,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-29T17-30-03-04-00_arc-challenge_XB7LURXEGaxskWuLtYwdnW.eval"
+            },
+            "drop": {
+                "mean": 0.743557420031463,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-30T12-06-30-04-00_drop_itY9cLiYAW2BF7NTeDceNd.eval"
+            },
+            "math": {
+                "accuracy": 0.2626,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-30T17-26-34-04-00_math_kohBUMpMFuMsR4jz4vUNWM.eval"
+            },
+            "gpqa_diamond": {
+                "accuracy": 0.3194444444444444,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-29T22-47-45-04-00_gpqa-diamond_JKpb6ya4pec9hh7uovPPCZ.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.441156914893617,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-31T01-11-38-04-00_mmlu-pro_gZVAuy3zMKR23BieM5PqAX.eval"
+            },
+            "humaneval": {
+                "mean": 0.6219512195121951,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-30T17-22-23-04-00_humaneval_5ByPqUhoofSbKgvsUQNFCX.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.7816527672479151,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-30T15-03-35-04-00_gsm8k_QxbfbriJsKGQAg96JyjkoT.eval"
+            },
+            "hellaswag": {
+                "accuracy": 0.7954590718980283,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-30T15-18-17-04-00_hellaswag_UYyBTR6N8VJnKRmnbCrB8N.eval"
+            },
+            "mmlu": {
+                "accuracy": 0.695128899017234,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-30T21-55-26-04-00_mmlu_JUPPLTzfe3Kme6UuorPTqg.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9377104377104377,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/c4ai-command-r-plus/index.html?log_file=logs/logs/2024-10-29T17-10-40-04-00_arc-easy_UvprihBMLXPF8JENVLRkdx.eval"
+            }
+        }
+    },
+    "claude-3-5-sonnet-20241022": {
+        "config": {
+            "model_name": "Claude-3.5-Sonnet",
+            "model_sha": "https://www.anthropic.com/claude/sonnet",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "mmmu_multiple_choice": {
+                "accuracy": 0.6481700118063755,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-21T11-20-03-05-00_mmmu-multiple-choice_CWhKvGdoFo6pdHhDyi9GNm.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.7762632978723404,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-16T19-01-05-05-00_mmlu-pro_3vi84or97gQupuj5sT6vgZ.eval"
+            },
+            "hellaswag": {
+                "accuracy": 0.9228241386178052,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-15T15-09-33-05-00_hellaswag_QXqFxojvSToMu8ckHEMLkB.eval"
+            },
+            "gpqa_diamond": {
+                "accuracy": 0.6098484848484849,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-15T13-56-36-05-00_gpqa-diamond_eg4gFaMRENjnnYvQNtSB59.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.9620924943138741,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-15T14-23-25-05-00_gsm8k_nHB8Z4uZAwRAZFYpKmTptA.eval"
+            },
+            "mmmu_open": {
+                "accuracy": 0.41509433962264153,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-21T11-24-21-05-00_mmmu-open_SSjv3Dq9gZkEEUnvJUd5xf.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9915824915824916,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-15T10-06-24-05-00_arc-easy_oBReQZQM5SAwMMD2jFshPb.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9692832764505119,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-15T10-12-11-05-00_arc-challenge_X8i6caCzkcQo5AT5zXkXso.eval"
+            },
+            "mmlu": {
+                "accuracy": 0.8665432274604757,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-16T15-16-51-05-00_mmlu_NFDs2kxmh3kQEbpbd8sz3w.eval"
+            },
+            "math": {
+                "accuracy": 0.7942,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-16T12-29-54-05-00_math_NvNQU58M8r3fpiwPGnvq8h.eval"
+            },
+            "ifeval": {
+                "final_acc": 0.8958114469607309,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-16T11-28-44-05-00_ifeval_fmWxch4ZjbmYCST6yUZsdV.eval"
+            },
+            "humaneval": {
+                "mean": 0.9451219512195121,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-16T11-26-12-05-00_humaneval_kUASiaNd9uZfWvCwYHhdF5.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.9021310181531176,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-16T22-09-41-05-00_winogrande_mSWGAKg75E5RP79KWizvb9.eval"
+            },
+            "drop": {
+                "mean": 0.8977608809648663,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-15T10-15-15-05-00_drop_Z9A2Y84HYponNxnzNT9TNq.eval"
+            },
+            "gaia": {
+                "accuracy": 0.3381818181818182,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-12T23-57-37-05-00_claude-3-5-sonnet_gaia_merged.eval"
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": 0.8556962025316455,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-11T02-47-45-05-00_claude-3-5-sonnet_gdm-intercode-ctf_merged.eval"
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": 0.6153846153846154,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-11T07-41-14+00-00_claude-3-5-sonnet_gdm-in-house-ctf.eval"
+            },
+            "agentharm": {
+                "avg_score": 0.14767992424242424,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-15T08-05-14-08-00_agentharm_VJGhWKLrVLdQczBZVgCXHc.eval"
+            },
+            "agentharm_benign": {
+                "avg_score": 0.800704570051161,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-21T15-09-48-08-00_agentharm-benign_A3uBBWNvv88P5BsgqwFCfg.eval"
+            },
+            "swe_bench": {
+                "mean": 0.0672,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/claude-3-5-sonnet-20241022/index.html?log_file=logs/logs/2025-01-16T18-56-55+00-00_anthropic-claude-3-5-sonnet.eval"
+            }
+        }
+    },
+    "gemini-1.5-flash": {
+        "config": {
+            "model_name": "Gemini-1.5-Flash",
+            "model_sha": "https://deepmind.google/technologies/gemini/flash",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "gpqa_diamond": {
+                "accuracy": 0.40404040404040403,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T19-31-26-04-00_gpqa-diamond_7aNe9wQiQKpNN96mfaWBPg.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9308873720136519,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T17-34-51-04-00_arc-challenge_FbGgLswBZbRE4EhWiMyRt6.eval"
+            },
+            "math": {
+                "accuracy": 0.452,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T21-15-49-04-00_math_YsWdRzpqMq2dqQ9SPKfack.eval"
+            },
+            "mmmu_open": {
+                "accuracy": 0.16981132075471697,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2025-01-20T23-13-27-05-00_mmmu-open_GWi6XNYUSLq99BdabtScGm.eval"
+            },
+            "drop": {
+                "mean": 0.751044572627163,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T17-36-25-04-00_drop_6TzJGqqEkpFUCxGD4QejV6.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.5993184840425532,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T22-43-30-04-00_mmlu-pro_Dc2uu3EV7MJtjg6gg5Y9qH.eval"
+            },
+            "ifeval": {
+                "final_acc": 0.7681296737102001,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T21-15-06-04-00_ifeval_nYs9KujQMQjcpbpbLtVx8G.eval"
+            },
+            "hellaswag": {
+                "accuracy": 0.8557060346544513,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T19-35-34-04-00_hellaswag_2SAz3cvMpDxFaApdHDR3s4.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.7884767166535123,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-31T00-59-07-04-00_winogrande_Ci55vHvbGGW38zVpMCwtWa.eval"
+            },
+            "humaneval": {
+                "mean": 0.7439024390243902,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T21-14-41-04-00_humaneval_Z9aXdUERuwYxoTheZ5GANC.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.984006734006734,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T17-29-56-04-00_arc-easy_XcEzqqPqJsRV29NqYDfnNo.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.8582259287338894,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-30T19-32-39-04-00_gsm8k_nLSssETKDDWNktAFWnVwfv.eval"
+            },
+            "mmlu": {
+                "accuracy": 0.7714713003845606,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2024-10-31T10-49-43-04-00_mmlu_oGb9mspeGbYS2gfbkknskN.eval"
+            },
+            "mmmu_multiple_choice": {
+                "accuracy": 0.5702479338842975,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-flash/index.html?log_file=logs/logs/2025-01-20T23-10-01-05-00_mmmu-multiple-choice_c5rLkrXkV83udX6DVJui5F.eval"
+            },
+            "gaia": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "agentharm": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "agentharm_benign": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "swe_bench": {
+                "mean": null,
+                "log_url": null
+            }
+        }
+    },
+    "gemini-1.5-pro": {
+        "config": {
+            "model_name": "Gemini-1.5-Pro",
+            "model_sha": "https://deepmind.google/technologies/gemini/pro",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "mmlu": {
+                "accuracy": 0.8467454778521578,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T16-56-26-05-00_mmlu_Z9KrcK7x4ZLAR5nJ9JaVUe.eval"
+            },
+            "humaneval": {
+                "mean": 0.8719512195121951,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T12-43-07-05-00_humaneval_5JBjtymGtK23qwVKxqidhV.eval"
+            },
+            "mmmu_multiple_choice": {
+                "accuracy": 0.6304604486422668,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2025-01-20T23-16-04-05-00_mmmu-multiple-choice_NLmxmHYt6CJymRVVa5UsbD.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.7563996010638298,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T20-13-09-05-00_mmlu-pro_Hv2ujvKLV6H7ZwQu2q8LNw.eval"
+            },
+            "math": {
+                "accuracy": 0.852,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T15-48-46-05-00_math_9DAZmGEfhpa3nUcmMAwqZe.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9877946127946128,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T12-31-43-05-00_arc-easy_eGxYWywpLuREcaCKvHa8Uk.eval"
+            },
+            "mmmu_open": {
+                "accuracy": 0.3584905660377358,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2025-01-20T23-19-25-05-00_mmmu-open_CDbtEQ7tjs5zkj4ScBbzod.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.9613343442001516,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T15-15-26-05-00_gsm8k_cTebw3ugfrVz3dyPwxtdUZ.eval"
+            },
+            "gpqa_diamond": {
+                "accuracy": 0.5782828282828283,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-05T09-56-31-05-00_gpqa-diamond_FBq2bnoyGYQ3NF96xQw8iy.eval"
+            },
+            "ifeval": {
+                "final_acc": 0.8982344623377084,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T12-43-32-05-00_ifeval_mSwZ7AwA7akj5PjZbQMjgC.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.8768745067087609,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T12-40-46-05-00_winogrande_5SmD6rx47zmZvHHkQSSfHK.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9633105802047781,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T12-37-36-05-00_arc-challenge_5VVApyQD22QpJoMm53EMdU.eval"
+            },
+            "drop": {
+                "mean": 0.8800912427897221,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-04T12-44-32-05-00_drop_9dzPKVJojSVsxmiBFnej2m.eval"
+            },
+            "hellaswag": {
+                "accuracy": 0.9123680541724756,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gemini-1.5-pro/index.html?log_file=logs/logs/2024-11-05T13-14-31-05-00_hellaswag_N98eeftuY2pucRtgpUYk5m.eval"
+            },
+            "gaia": {
+                "accuracy": 0.13818181818181818,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gemini-1.5-pro-002/index.html?log_file=logs/logs/2025-01-21T15-33-29-05-00_gemini-1.5-pro_gaia_merged.eval"
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": 0.5291139240506328,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gemini-1.5-pro-002/index.html?log_file=logs/logs/2025-01-21T23-59-58+00-00_gemini-1.5-pro_gdm-intercode-ctf_merged.eval"
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": 0.23076923076923078,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gemini-1.5-pro-002/index.html?log_file=logs/logs/2025-01-22T03-42-16+00-00_gemini-1.5-pro_gdm-in-house-ctf.eval"
+            },
+            "agentharm": {
+                "avg_score": 0.2898649645808737,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gemini-1.5-pro-002/index.html?log_file=logs/logs/2025-01-21T12-45-43-08-00_agentharm_VmD26soLwmRgWPo3hpRHBr.eval"
+            },
+            "agentharm_benign": {
+                "avg_score": 0.5961489079102715,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gemini-1.5-pro-002/index.html?log_file=logs/logs/2025-01-21T13-18-51-08-00_agentharm-benign_gP3pQPxAuCtFLiHzt2Egt7.eval"
+            },
+            "swe_bench": {
+                "mean": 0.004,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gemini-1.5-pro-002/index.html?log_file=logs/logs/2025-01-22T03-00-08+00-00_google-gemini-1.5-pro_swe.eval"
+            }
+        }
+    },
+    "gpt-4o": {
+        "config": {
+            "model_name": "GPT-4o",
+            "model_sha": "https://openai.com/index/hello-gpt-4o",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "gpqa_diamond": {
+                "accuracy": 0.51010101010101,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T03-29-33-04-00_gpqa-diamond_nFmRv5MJiYjHjezmq4V6Va.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9633105802047781,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T01-45-55-04-00_arc-challenge_nrsPPxh4DpzgLPQDFdcfVp.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.9446550416982562,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T03-31-16-04-00_gsm8k_jVXeSvHowbietZCFsFYCwB.eval"
+            },
+            "mmlu": {
+                "accuracy": 0.8435408061529697,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T10-49-43-04-00_mmlu_GarLpfQFSpM3C22nbbGp54.eval"
+            },
+            "ifeval": {
+                "final_acc": 0.8780386042367585,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T05-00-11-04-00_ifeval_jxreUu8JqRdkrcHP4E3hLR.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.7450964095744681,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T06-59-42-04-00_mmlu-pro_EuAKDwAWSfNVpqyyqrf2Ba.eval"
+            },
+            "mmmu_open": {
+                "accuracy": 0.3584905660377358,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2025-01-20T23-07-46-05-00_mmmu-open_d3Q2HvuPZzEX6FAM4NBhnp.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.9013417521704814,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T09-02-03-04-00_winogrande_44kKF7M9mKoqVC7ixZVXuq.eval"
+            },
+            "drop": {
+                "mean": 0.7511693759832198,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T01-47-20-04-00_drop_3gxDcn6vUoR3nvHX9BcSq4.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9915824915824916,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T01-41-34-04-00_arc-easy_nUavRHdiRVfrxo6dmCPadh.eval"
+            },
+            "mmmu_multiple_choice": {
+                "accuracy": 0.5903187721369539,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2025-01-20T23-03-21-05-00_mmmu-multiple-choice_eoycAFLMirSqiURdXmBP2e.eval"
+            },
+            "humaneval": {
+                "mean": 0.9085365853658537,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T04-59-42-04-00_humaneval_nmJcd84CcNKjWS8fBfMbZM.eval"
+            },
+            "math": {
+                "accuracy": 0.7054,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T05-01-22-04-00_math_cDSpKPp3nLrFy8uYfYKEbM.eval"
+            },
+            "hellaswag": {
+                "accuracy": 0.924317864967138,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o/index.html?log_file=logs/logs/2024-10-31T03-33-47-04-00_hellaswag_JNnnPuz3dhZRpyXzizMUBF.eval"
+            },
+            "gaia": {
+                "accuracy": 0.16606060606060608,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gpt-4o-2024-08-06/index.html?log_file=logs/logs/2025-01-13T15-53-22+00-00_gpt-4o_gaia_merged.eval"
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": 0.6379746835443038,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gpt-4o-2024-08-06/index.html?log_file=logs/logs/2025-01-08T10-06-29-05-00_gpt-4o_gdm-intercode-ctf_merged.eval"
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": 0.23076923076923078,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gpt-4o-2024-08-06/index.html?log_file=logs/logs/2025-01-11T07-02-14+00-00_gpt-4o_gdm-in-house-ctf.eval"
+            },
+            "agentharm": {
+                "avg_score": 0.49953844451003543,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gpt-4o-2024-08-06/index.html?log_file=logs/logs/2025-01-07T16-34-15-08-00_agentharm_UfSoyHEAH2E5RVdrPVUemy.eval"
+            },
+            "agentharm_benign": {
+                "avg_score": 0.8249433048012594,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gpt-4o-2024-08-06/index.html?log_file=logs/logs/2025-01-21T13-45-18-08-00_agentharm-benign_8DhGJqEAvw6o8uCv4a4dVz.eval"
+            },
+            "swe_bench": {
+                "mean": 0.012,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/gpt-4o-2024-08-06/index.html?log_file=logs/logs/2025-01-14T23-09-10+00-00_openai-gpt-4o_swe.eval"
+            }
+        }
+    },
+    "gpt-4o-mini": {
+        "config": {
+            "model_name": "GPT-4o-mini",
+            "model_sha": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "drop": {
+                "mean": 0.8065915049816466,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T17-36-25-04-00_drop_6TzJGqqEkpFUCxGD4QejV6.eval"
+            },
+            "humaneval": {
+                "mean": 0.8597560975609756,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T21-14-41-04-00_humaneval_Z9aXdUERuwYxoTheZ5GANC.eval"
+            },
+            "gpqa_diamond": {
+                "accuracy": 0.3838383838383838,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T19-31-26-04-00_gpqa-diamond_7aNe9wQiQKpNN96mfaWBPg.eval"
+            },
+            "mmmu_open": {
+                "accuracy": 0.18867924528301888,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2025-01-20T23-13-27-05-00_mmmu-open_GWi6XNYUSLq99BdabtScGm.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9249146757679181,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T17-34-51-04-00_arc-challenge_FbGgLswBZbRE4EhWiMyRt6.eval"
+            },
+            "mmlu": {
+                "accuracy": 0.7698333570716422,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-31T10-49-43-04-00_mmlu_oGb9mspeGbYS2gfbkknskN.eval"
+            },
+            "hellaswag": {
+                "accuracy": 0.8750248954391555,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T19-35-34-04-00_hellaswag_2SAz3cvMpDxFaApdHDR3s4.eval"
+            },
+            "ifeval": {
+                "final_acc": 0.8419061423689144,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T21-15-06-04-00_ifeval_nYs9KujQMQjcpbpbLtVx8G.eval"
+            },
+            "mmmu_multiple_choice": {
+                "accuracy": 0.5395513577331759,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2025-01-20T23-10-01-05-00_mmmu-multiple-choice_c5rLkrXkV83udX6DVJui5F.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9793771043771043,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T17-29-56-04-00_arc-easy_XcEzqqPqJsRV29NqYDfnNo.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.7529597474348856,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-31T00-59-07-04-00_winogrande_Ci55vHvbGGW38zVpMCwtWa.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.6396276595744681,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T22-43-30-04-00_mmlu-pro_Dc2uu3EV7MJtjg6gg5Y9qH.eval"
+            },
+            "math": {
+                "accuracy": 0.633,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T21-15-49-04-00_math_YsWdRzpqMq2dqQ9SPKfack.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.9181197877179682,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/gpt-4o-mini/index.html?log_file=logs/logs/2024-10-30T19-32-39-04-00_gsm8k_nLSssETKDDWNktAFWnVwfv.eval"
+            },
+            "gaia": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "agentharm": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "agentharm_benign": {
+                "avg_score": null,
+                "log_url": null
+            },
+            "swe_bench": {
+                "mean": null,
+                "log_url": null
+            }
+        }
+    },
+    "o1": {
+        "config": {
+            "model_name": "o1",
+            "model_sha": "https://openai.com/o1",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "winogrande": {
+                "accuracy": 0.9392265193370166,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-20T16-46-06-05-00_winogrande_YUtAdEsForRffqe4Sm3wtR.eval"
+            },
+            "humaneval": {
+                "mean": 0.9695121951219512,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-17T14-59-12-05-00_humaneval_RRL8GMy9NakTxUHsDVWNng.eval"
+            },
+            "mmmu_open": {
+                "accuracy": 0.6981132075471698,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-20T22-48-09-05-00_mmmu-open_oBzxJBYbvnktbbAwhoCrYK.eval"
+            },
+            "math": {
+                "accuracy": 0.959,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-17T15-03-22-05-00_math_6BbvHFF8hLMsVYozyNLbyQ.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9911616161616161,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-17T11-29-26-05-00_arc-easy_DFbir4BdgQDbKd52r7tRKR.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9786689419795221,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-17T11-44-42-05-00_arc-challenge_PsWXaBqrgv3EcTZC55gRzJ.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.9416224412433661,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-17T12-56-38-05-00_gsm8k_iD8275qeyNTgX523pn45bF.eval"
+            },
+            "gpqa_diamond": {
+                "accuracy": 0.7550505050505051,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-17T11-53-53-05-00_gpqa-diamond_EJV7ULFSQLRoFTEqsv3t6q.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.8447473404255319,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-20T14-02-37-05-00_mmlu-pro_EvDzvqaahQwhv6fJovN4BT.eval"
+            },
+            "mmmu_multiple_choice": {
+                "accuracy": 0.8063754427390791,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o1/index.html?log_file=logs/logs/2025-01-20T21-04-57-05-00_mmmu-multiple-choice_MctxjookaeTLCL8KpUeazT.eval"
+            },
+            "drop": {
+                "mean": null,
+                "log_url": null
+            },
+            "hellaswag": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "ifeval": {
+                "final_acc": null,
+                "log_url": null
+            },
+            "mmlu": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gaia": {
+                "accuracy": 0.41090909090909084,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o1-2024-12-17/index.html?log_file=logs/logs/2025-01-22T13-42-00-05-00_o1_gaia_merged.eval"
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": 0.8481012658227849,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o1-2024-12-17/index.html?log_file=logs/logs/2025-01-22T20-46-35+00-00_o1_gdm-intercode-ctf_merged.eval"
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": 0.46153846153846156,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o1-2024-12-17/index.html?log_file=logs/logs/2025-01-22T05-52-25+00-00_o1_gdm-in-house-ctf.eval"
+            },
+            "agentharm": {
+                "avg_score": 0.08782061688311688,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o1-2024-12-17/index.html?log_file=logs/logs/2025-01-21T09-05-42-08-00_agentharm_UGDq2yJeLAnPH6p7FgDgD8.eval"
+            },
+            "agentharm_benign": {
+                "avg_score": 0.7235176849665487,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o1-2024-12-17/index.html?log_file=logs/logs/2025-01-21T18-20-15-08-00_agentharm-benign_bkW2Bf5xLyDQdNtfLdjCpJ.eval"
+            },
+            "swe_bench": {
+                "mean": 0.0036,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o1-2024-12-17/index.html?log_file=logs/logs/2025-01-21T17-42-11+00-00_openai-o1_swe.eval "
+            }
+        }
+    },
+    "o3-mini": {
+        "config": {
+            "model_name": "o3-mini",
+            "model_sha": "https://openai.com/index/openai-o3-mini",
+            "model_dtype": "torch.float16"
+        },
+        "results": {
+            "math": {
+                "accuracy": 0.9691320905993185,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-06T18-33-30-05-00_math_86Gx8n4BxhpyfaSHmRcCUm.eval"
+            },
+            "humaneval": {
+                "mean": 0.9817073170731707,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-06T20-58-48-05-00_humaneval_Dkod7CS9RmbbogYx9aEXtx.eval"
+            },
+            "mmlu_pro": {
+                "accuracy": 0.7924606807023383,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-06T19-49-27-05-00_mmlu-pro_jz9woKfdKt8VMzqNFsy7kY.eval"
+            },
+            "gpqa_diamond": {
+                "accuracy": 0.7365319865319865,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-06T17-57-54-05-00_gpqa-diamond_2znyMtdc7X4LJufxXeXA8Z.eval"
+            },
+            "winogrande": {
+                "accuracy": 0.8492501973164956,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-06T22-50-40-05-00_winogrande_VsTW2uU2Kj66YoNoFfRfUj.eval"
+            },
+            "gsm8k": {
+                "accuracy": 0.9454131918119788,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-06T18-23-05-05-00_gsm8k_d523pJzkcvobxamhhobCRb.eval"
+            },
+            "arc_challenge": {
+                "accuracy": 0.9641638225255973,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-06T17-53-30-05-00_arc-challenge_AYFHec7wmd4jELF2Rgzfya.eval"
+            },
+            "arc_easy": {
+                "accuracy": 0.9755892255892256,
+                "log_url": "https://storage.googleapis.com/inspect-evals/base/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-06T17-45-57-05-00_arc-easy_Nd8NP3K48tvwLVZb8kXDwg.eval"
+            },
+            "drop": {
+                "mean": null,
+                "log_url": null
+            },
+            "hellaswag": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "ifeval": {
+                "final_acc": null,
+                "log_url": null
+            },
+            "mmlu": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "mmmu_multiple_choice": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "mmmu_open": {
+                "accuracy": null,
+                "log_url": null
+            },
+            "gaia": {
+                "accuracy": 0.27030303030303043,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o1-2024-12-17/index.html?log_file=logs/logs/2025-02-05T23-21-20+00-00_gaia_hyMq8MzMm6NgAeq3dNqZSU.eval"
+            },
+            "gdm_intercode_ctf": {
+                "accuracy": 0.8278481012658225,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-05T21-43-18+00-00_gdm-intercode-ctf_gdm29C6DuTEsX9qm9ymmrC.eval"
+            },
+            "gdm_in_house_ctf": {
+                "accuracy": 0.38461538461538464,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-05T23-59-08+00-00_gdm-in-house-ctf_2zkAX5nkJoxDnVKpJL9VgW.eval"
+            },
+            "agentharm": {
+                "avg_score": 0.1241931080283353,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-03T18-17-03-08-00_agentharm_DmN6i5HrgXHNARjsuSewjg.eval"
+            },
+            "agentharm_benign": {
+                "avg_score": 0.5429306867375049,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-03T18-49-08-08-00_agentharm-benign_Gv94YFpAXaaCJqe3Fc6yr3.eval"
+            },
+            "swe_bench": {
+                "mean": 0.0024,
+                "log_url": "https://storage.googleapis.com/inspect-evals/agentic/eval/o3-mini-2025-01-31/index.html?log_file=logs/logs/2025-02-03T06-49-09+00-00_openai-o3-mini_swe.eval"
+            }
+        }
+    }
+}

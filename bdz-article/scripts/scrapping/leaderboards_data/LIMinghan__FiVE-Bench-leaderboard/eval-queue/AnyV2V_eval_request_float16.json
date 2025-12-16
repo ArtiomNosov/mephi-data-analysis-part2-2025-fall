@@ -1,0 +1,15 @@
+{
+    "model": "AnyV2V",
+    "model_type": "Diffusion-based",
+    "likes": 0,
+    "params": 0.0,
+    "license": "mit",
+    "publication": "TMLR24",
+    "inv_type": "PnP",
+    "attention_injection": "Yes",
+    "base_model": "I2VGen-XL",
+    "inv_free": "No",
+    "resolution": "(512, 512)",
+    "timesteps": "500 + 50",
+    "conditions": "InstrctPix2Pix"
+}

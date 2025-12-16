@@ -1,0 +1,14 @@
+Model Type,Setup,Audio Encoder,Remember,Understand,Apply,Speech IQ
+Agentic: ASR + LLM,Whisper_v2-1.5B + Qwen2_7B,Whisper_v2-1.5B,0.554,0.499,0.481,107.43
+Agentic: ASR + LLM,Whisper_v3-1.5B + Qwen2_7B,Whisper_v2-1.5B,0.553,0.433,0.432,106.49
+Agentic: ASR + LLM,Canary_1B + Qwen2_7B,Whisper_v2-1.5B,0.559,0.566,0.504,107.78
+Agentic: ASR + LLM,OWSM-CTC_v3.1-1B + Qwen2_7B,OWSM-CTC_v3.1-1B,0.534,0.151,0.353,103.05
+Agentic: ASR + GER + LLM,Whisper_v2-1.5B + GPT-4o + Qwen2_7B,Whisper_v2-1.5B,0.543,0.632,0.487,108.64
+End2End,Qwen2-Audio_7B ,1.5B Whisper,-0.187,0.366,0.011,103.88
+End2End,Qwen2.5-Omni_7B ,1.5B Whisper,0.472,0.41,0.509,105.74
+End2End,Salmonn_13B ,1.5B Whisper,0.508,0.381,-1.146,101.03
+End2End,Desta2_8B,1.5B Whisper,-2.575,-1.604,-0.233,79.69
+End2End,AnyGPT_7B,SpeechTokenizer,0.314,-2.718,-2.893,60.02
+End2End,Baichuan-omni-1.5_7B,1.5B Whisper,0.448,0.184,0.546,104.02
+End2End,Gemini-1.5-flash,Google_USM,-1.885,0.641,0.673,107.85
+End2End,Gemini-1.5-pro,Google_USM,0.492,0.409,0.71,107.08

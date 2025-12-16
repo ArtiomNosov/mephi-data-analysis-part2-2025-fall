@@ -1,0 +1,1808 @@
+{
+  "fetch_date": "2025-12-13T15:02:21.429344",
+  "total_models": 10000,
+  "models_with_metrics": 0,
+  "models_without_metrics": 200,
+  "models_data": [
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-0.5B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 5952727,
+      "likes": 54,
+      "created_at": "2024-11-06T07:49:26+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct"
+    },
+    {
+      "model_id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 1079179,
+      "likes": 809,
+      "created_at": "2025-07-31T07:04:55+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-7B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 677381,
+      "likes": 571,
+      "created_at": "2024-09-17T13:38:49+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct"
+    },
+    {
+      "model_id": "deepseek-ai/deepseek-coder-1.3b-instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 636400,
+      "likes": 150,
+      "created_at": "2023-10-29T12:43:40+00:00",
+      "url": "https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-instruct"
+    },
+    {
+      "model_id": "cpatonn/Qwen3-Coder-30B-A3B-Instruct-AWQ-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 548242,
+      "likes": 26,
+      "created_at": "2025-08-01T02:24:23+00:00",
+      "url": "https://huggingface.co/cpatonn/Qwen3-Coder-30B-A3B-Instruct-AWQ-4bit"
+    },
+    {
+      "model_id": "microsoft/codebert-base",
+      "metrics": {},
+      "sources": [],
+      "downloads": 547601,
+      "likes": 280,
+      "created_at": "2022-03-02T23:29:05+00:00",
+      "url": "https://huggingface.co/microsoft/codebert-base"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-7B-Instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 499022,
+      "likes": 18,
+      "created_at": "2024-09-20T03:30:26+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-AWQ"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-1.5B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 467686,
+      "likes": 73,
+      "created_at": "2024-09-18T09:41:38+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-32B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 305471,
+      "likes": 1957,
+      "created_at": "2024-11-06T07:49:50+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct"
+    },
+    {
+      "model_id": "1-800-BAD-CODE/xlm-roberta_punctuation_fullstop_truecase",
+      "metrics": {},
+      "sources": [],
+      "downloads": 296213,
+      "likes": 58,
+      "created_at": "2023-05-07T22:33:05+00:00",
+      "url": "https://huggingface.co/1-800-BAD-CODE/xlm-roberta_punctuation_fullstop_truecase"
+    },
+    {
+      "model_id": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+      "metrics": {},
+      "sources": [],
+      "downloads": 289544,
+      "likes": 122,
+      "created_at": "2025-07-31T08:14:11+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8"
+    },
+    {
+      "model_id": "neulab/codebert-c",
+      "metrics": {},
+      "sources": [],
+      "downloads": 231075,
+      "likes": 6,
+      "created_at": "2022-09-25T16:46:36+00:00",
+      "url": "https://huggingface.co/neulab/codebert-c"
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 220951,
+      "likes": 509,
+      "created_at": "2024-06-14T06:23:33+00:00",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct"
+    },
+    {
+      "model_id": "QuantTrio/Qwen3-Coder-30B-A3B-Instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 199133,
+      "likes": 4,
+      "created_at": "2025-08-01T02:45:37+00:00",
+      "url": "https://huggingface.co/QuantTrio/Qwen3-Coder-30B-A3B-Instruct-AWQ"
+    },
+    {
+      "model_id": "nomic-ai/CodeRankEmbed",
+      "metrics": {},
+      "sources": [],
+      "downloads": 195567,
+      "likes": 49,
+      "created_at": "2024-11-03T19:47:00+00:00",
+      "url": "https://huggingface.co/nomic-ai/CodeRankEmbed"
+    },
+    {
+      "model_id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 158392,
+      "likes": 350,
+      "created_at": "2025-07-31T10:27:38+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
+    },
+    {
+      "model_id": "huggingface/CodeBERTa-small-v1",
+      "metrics": {},
+      "sources": [],
+      "downloads": 155343,
+      "likes": 86,
+      "created_at": "2022-03-02T23:29:05+00:00",
+      "url": "https://huggingface.co/huggingface/CodeBERTa-small-v1"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-32B-Instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 146928,
+      "likes": 30,
+      "created_at": "2024-11-09T12:45:09+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-AWQ"
+    },
+    {
+      "model_id": "mistralai/Mamba-Codestral-7B-v0.1",
+      "metrics": {},
+      "sources": [],
+      "downloads": 141008,
+      "likes": 606,
+      "created_at": "2024-07-16T10:10:56+00:00",
+      "url": "https://huggingface.co/mistralai/Mamba-Codestral-7B-v0.1"
+    },
+    {
+      "model_id": "Salesforce/codegen-350M-mono",
+      "metrics": {},
+      "sources": [],
+      "downloads": 138734,
+      "likes": 98,
+      "created_at": "2022-04-11T16:18:21+00:00",
+      "url": "https://huggingface.co/Salesforce/codegen-350M-mono"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 135691,
+      "likes": 11,
+      "created_at": "2025-07-31T14:36:18+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-4bit"
+    },
+    {
+      "model_id": "Qwen/Qwen3-Coder-480B-A35B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 133903,
+      "likes": 1253,
+      "created_at": "2025-07-22T14:52:38+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-5bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 133635,
+      "likes": 3,
+      "created_at": "2025-08-01T14:32:44+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-5bit"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-8bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 129859,
+      "likes": 10,
+      "created_at": "2025-07-31T14:44:38+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-8bit"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-6bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 128168,
+      "likes": 3,
+      "created_at": "2025-07-31T14:40:17+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-6bit"
+    },
+    {
+      "model_id": "MaziyarPanahi/Yi-Coder-1.5B-Chat-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 119088,
+      "likes": 15,
+      "created_at": "2024-09-04T14:24:50+00:00",
+      "url": "https://huggingface.co/MaziyarPanahi/Yi-Coder-1.5B-Chat-GGUF"
+    },
+    {
+      "model_id": "MaziyarPanahi/Yi-Coder-9B-Chat-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 118980,
+      "likes": 6,
+      "created_at": "2024-09-04T14:25:06+00:00",
+      "url": "https://huggingface.co/MaziyarPanahi/Yi-Coder-9B-Chat-GGUF"
+    },
+    {
+      "model_id": "pyrymikko/nomic-embed-code-W4A16-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 109714,
+      "likes": 0,
+      "created_at": "2025-09-30T18:43:59+00:00",
+      "url": "https://huggingface.co/pyrymikko/nomic-embed-code-W4A16-AWQ"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-14B-Instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 108780,
+      "likes": 12,
+      "created_at": "2024-11-09T12:45:43+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-AWQ"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int4",
+      "metrics": {},
+      "sources": [],
+      "downloads": 108162,
+      "likes": 9,
+      "created_at": "2024-09-20T03:29:44+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int4"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 103120,
+      "likes": 94,
+      "created_at": "2024-09-18T09:41:47+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct"
+    },
+    {
+      "model_id": "krlvi/sentence-msmarco-bert-base-dot-v5-nlpl-code_search_net",
+      "metrics": {},
+      "sources": [],
+      "downloads": 102171,
+      "likes": 1,
+      "created_at": "2022-11-17T07:55:04+00:00",
+      "url": "https://huggingface.co/krlvi/sentence-msmarco-bert-base-dot-v5-nlpl-code_search_net"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-7B-Instruct-bnb-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 97999,
+      "likes": 8,
+      "created_at": "2024-09-23T06:55:21+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-7B-Instruct-bnb-4bit"
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-Coder-V2-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 97305,
+      "likes": 673,
+      "created_at": "2024-06-14T03:46:22+00:00",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-1.5B-Instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 95415,
+      "likes": 4,
+      "created_at": "2024-09-20T03:31:04+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-AWQ"
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-Coder-V2-Base",
+      "metrics": {},
+      "sources": [],
+      "downloads": 88041,
+      "likes": 80,
+      "created_at": "2024-06-14T03:45:54+00:00",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Base"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-3B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 76017,
+      "likes": 84,
+      "created_at": "2024-11-06T07:49:38+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct"
+    },
+    {
+      "model_id": "Salesforce/codet5p-110m-embedding",
+      "metrics": {},
+      "sources": [],
+      "downloads": 74505,
+      "likes": 68,
+      "created_at": "2023-07-18T09:52:49+00:00",
+      "url": "https://huggingface.co/Salesforce/codet5p-110m-embedding"
+    },
+    {
+      "model_id": "jinaai/jina-embeddings-v2-base-code",
+      "metrics": {},
+      "sources": [],
+      "downloads": 68937,
+      "likes": 125,
+      "created_at": "2023-11-17T20:24:31+00:00",
+      "url": "https://huggingface.co/jinaai/jina-embeddings-v2-base-code"
+    },
+    {
+      "model_id": "codellama/CodeLlama-7b-hf",
+      "metrics": {},
+      "sources": [],
+      "downloads": 59757,
+      "likes": 372,
+      "created_at": "2023-08-24T16:31:11+00:00",
+      "url": "https://huggingface.co/codellama/CodeLlama-7b-hf"
+    },
+    {
+      "model_id": "nomic-ai/nomic-embed-code",
+      "metrics": {},
+      "sources": [],
+      "downloads": 59709,
+      "likes": 104,
+      "created_at": "2025-03-24T15:31:52+00:00",
+      "url": "https://huggingface.co/nomic-ai/nomic-embed-code"
+    },
+    {
+      "model_id": "TheBloke/deepseek-coder-6.7B-instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 59546,
+      "likes": 230,
+      "created_at": "2023-11-05T13:36:03+00:00",
+      "url": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-14B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 55690,
+      "likes": 132,
+      "created_at": "2024-11-06T07:49:46+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct"
+    },
+    {
+      "model_id": "cerebras/Qwen3-Coder-REAP-25B-A3B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 53326,
+      "likes": 54,
+      "created_at": "2025-10-20T15:40:03+00:00",
+      "url": "https://huggingface.co/cerebras/Qwen3-Coder-REAP-25B-A3B"
+    },
+    {
+      "model_id": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+      "metrics": {},
+      "sources": [],
+      "downloads": 50911,
+      "likes": 138,
+      "created_at": "2025-07-22T15:23:49+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8"
+    },
+    {
+      "model_id": "codellama/CodeLlama-7b-Instruct-hf",
+      "metrics": {},
+      "sources": [],
+      "downloads": 50753,
+      "likes": 251,
+      "created_at": "2023-08-24T16:33:37+00:00",
+      "url": "https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf"
+    },
+    {
+      "model_id": "deepseek-ai/deepseek-coder-6.7b-instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 46324,
+      "likes": 459,
+      "created_at": "2023-10-29T11:01:36+00:00",
+      "url": "https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct"
+    },
+    {
+      "model_id": "ibm-granite/granite-8b-code-instruct-4k",
+      "metrics": {},
+      "sources": [],
+      "downloads": 44582,
+      "likes": 115,
+      "created_at": "2024-04-26T05:54:48+00:00",
+      "url": "https://huggingface.co/ibm-granite/granite-8b-code-instruct-4k"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen2.5-Coder-14B-Instruct-MLX-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 43651,
+      "likes": 1,
+      "created_at": "2024-11-11T22:46:53+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen2.5-Coder-14B-Instruct-MLX-4bit"
+    },
+    {
+      "model_id": "codellama/CodeLlama-34b-Instruct-hf",
+      "metrics": {},
+      "sources": [],
+      "downloads": 42646,
+      "likes": 299,
+      "created_at": "2023-08-24T16:58:22+00:00",
+      "url": "https://huggingface.co/codellama/CodeLlama-34b-Instruct-hf"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 42512,
+      "likes": 19,
+      "created_at": "2025-07-31T12:09:12+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-GGUF"
+    },
+    {
+      "model_id": "deepseek-ai/deepseek-coder-33b-instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 40045,
+      "likes": 554,
+      "created_at": "2023-11-01T05:46:34+00:00",
+      "url": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen2.5-Coder-14B-Instruct-MLX-8bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 39837,
+      "likes": 1,
+      "created_at": "2024-11-11T23:00:39+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen2.5-Coder-14B-Instruct-MLX-8bit"
+    },
+    {
+      "model_id": "unsloth/Qwen3-Coder-30B-A3B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 38249,
+      "likes": 19,
+      "created_at": "2025-07-31T10:27:06+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct"
+    },
+    {
+      "model_id": "NeelNanda/SoLU_2L512W_C4_Code",
+      "metrics": {},
+      "sources": [],
+      "downloads": 36885,
+      "likes": 1,
+      "created_at": "2022-10-21T14:21:26+00:00",
+      "url": "https://huggingface.co/NeelNanda/SoLU_2L512W_C4_Code"
+    },
+    {
+      "model_id": "Salesforce/codet5-small",
+      "metrics": {},
+      "sources": [],
+      "downloads": 35168,
+      "likes": 81,
+      "created_at": "2022-03-02T23:29:04+00:00",
+      "url": "https://huggingface.co/Salesforce/codet5-small"
+    },
+    {
+      "model_id": "deepseek-ai/deepseek-coder-1.3b-base",
+      "metrics": {},
+      "sources": [],
+      "downloads": 34672,
+      "likes": 105,
+      "created_at": "2023-10-28T07:42:03+00:00",
+      "url": "https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base"
+    },
+    {
+      "model_id": "TheBloke/CodeLlama-70B-Instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 33388,
+      "likes": 13,
+      "created_at": "2024-01-30T18:31:55+00:00",
+      "url": "https://huggingface.co/TheBloke/CodeLlama-70B-Instruct-AWQ"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-7B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 33170,
+      "likes": 129,
+      "created_at": "2024-09-16T11:57:24+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-7B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 32810,
+      "likes": 148,
+      "created_at": "2024-09-18T11:40:39+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF"
+    },
+    {
+      "model_id": "1-800-BAD-CODE/punctuation_fullstop_truecase_english",
+      "metrics": {},
+      "sources": [],
+      "downloads": 32501,
+      "likes": 10,
+      "created_at": "2023-03-11T22:21:22+00:00",
+      "url": "https://huggingface.co/1-800-BAD-CODE/punctuation_fullstop_truecase_english"
+    },
+    {
+      "model_id": "ibm-granite/granite-3b-code-base-2k",
+      "metrics": {},
+      "sources": [],
+      "downloads": 31279,
+      "likes": 37,
+      "created_at": "2024-04-23T03:59:34+00:00",
+      "url": "https://huggingface.co/ibm-granite/granite-3b-code-base-2k"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 29860,
+      "likes": 26,
+      "created_at": "2024-09-18T13:58:16+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF"
+    },
+    {
+      "model_id": "optimum-intel-internal-testing/tiny-random-codegen2",
+      "metrics": {},
+      "sources": [],
+      "downloads": 28457,
+      "likes": 0,
+      "created_at": "2025-10-21T09:52:40+00:00",
+      "url": "https://huggingface.co/optimum-intel-internal-testing/tiny-random-codegen2"
+    },
+    {
+      "model_id": "neulab/codebert-python",
+      "metrics": {},
+      "sources": [],
+      "downloads": 28036,
+      "likes": 26,
+      "created_at": "2022-09-23T15:01:36+00:00",
+      "url": "https://huggingface.co/neulab/codebert-python"
+    },
+    {
+      "model_id": "bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 26998,
+      "likes": 121,
+      "created_at": "2024-06-17T14:35:57+00:00",
+      "url": "https://huggingface.co/bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-3B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 25880,
+      "likes": 37,
+      "created_at": "2024-11-08T10:48:10+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B"
+    },
+    {
+      "model_id": "RedHatAI/DeepSeek-Coder-V2-Lite-Instruct-FP8",
+      "metrics": {},
+      "sources": [],
+      "downloads": 25563,
+      "likes": 8,
+      "created_at": "2024-07-17T18:33:42+00:00",
+      "url": "https://huggingface.co/RedHatAI/DeepSeek-Coder-V2-Lite-Instruct-FP8"
+    },
+    {
+      "model_id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 24978,
+      "likes": 130,
+      "created_at": "2025-07-31T10:32:57+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-0.5B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 24754,
+      "likes": 35,
+      "created_at": "2024-11-08T10:47:59+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B"
+    },
+    {
+      "model_id": "docling-project/CodeFormulaV2",
+      "metrics": {},
+      "sources": [],
+      "downloads": 23124,
+      "likes": 2,
+      "created_at": "2025-08-11T13:40:47+00:00",
+      "url": "https://huggingface.co/docling-project/CodeFormulaV2"
+    },
+    {
+      "model_id": "microsoft/codebert-base-mlm",
+      "metrics": {},
+      "sources": [],
+      "downloads": 23072,
+      "likes": 47,
+      "created_at": "2022-03-02T23:29:05+00:00",
+      "url": "https://huggingface.co/microsoft/codebert-base-mlm"
+    },
+    {
+      "model_id": "NeelNanda/GELU_1L512W_C4_Code",
+      "metrics": {},
+      "sources": [],
+      "downloads": 22349,
+      "likes": 3,
+      "created_at": "2022-10-23T13:35:28+00:00",
+      "url": "https://huggingface.co/NeelNanda/GELU_1L512W_C4_Code"
+    },
+    {
+      "model_id": "Salesforce/codet5-base",
+      "metrics": {},
+      "sources": [],
+      "downloads": 21763,
+      "likes": 132,
+      "created_at": "2022-03-02T23:29:04+00:00",
+      "url": "https://huggingface.co/Salesforce/codet5-base"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 20329,
+      "likes": 5,
+      "created_at": "2024-11-11T21:54:08+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-4bit"
+    },
+    {
+      "model_id": "jinaai/jina-code-embeddings-0.5b",
+      "metrics": {},
+      "sources": [],
+      "downloads": 20297,
+      "likes": 17,
+      "created_at": "2025-08-19T14:30:17+00:00",
+      "url": "https://huggingface.co/jinaai/jina-code-embeddings-0.5b"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-8bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 19433,
+      "likes": 3,
+      "created_at": "2024-11-11T22:25:15+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-8bit"
+    },
+    {
+      "model_id": "optimum-intel-internal-testing/tiny-random-CodeGenForCausalLM",
+      "metrics": {},
+      "sources": [],
+      "downloads": 19230,
+      "likes": 0,
+      "created_at": "2025-10-21T09:52:34+00:00",
+      "url": "https://huggingface.co/optimum-intel-internal-testing/tiny-random-CodeGenForCausalLM"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-32B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 18678,
+      "likes": 177,
+      "created_at": "2024-11-09T12:45:18+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GGUF"
+    },
+    {
+      "model_id": "Salesforce/SFR-Embedding-Code-400M_R",
+      "metrics": {},
+      "sources": [],
+      "downloads": 18495,
+      "likes": 32,
+      "created_at": "2025-01-16T22:11:19+00:00",
+      "url": "https://huggingface.co/Salesforce/SFR-Embedding-Code-400M_R"
+    },
+    {
+      "model_id": "docling-project/CodeFormula",
+      "metrics": {},
+      "sources": [],
+      "downloads": 18356,
+      "likes": 15,
+      "created_at": "2025-01-15T13:42:54+00:00",
+      "url": "https://huggingface.co/docling-project/CodeFormula"
+    },
+    {
+      "model_id": "TheBloke/deepseek-coder-6.7B-instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 18304,
+      "likes": 19,
+      "created_at": "2023-11-05T03:10:55+00:00",
+      "url": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-AWQ"
+    },
+    {
+      "model_id": "NeelNanda/SoLU_1L512W_C4_Code",
+      "metrics": {},
+      "sources": [],
+      "downloads": 17956,
+      "likes": 1,
+      "created_at": "2022-10-21T14:55:53+00:00",
+      "url": "https://huggingface.co/NeelNanda/SoLU_1L512W_C4_Code"
+    },
+    {
+      "model_id": "QuantTrio/Qwen3-Coder-480B-A35B-Instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 17631,
+      "likes": 8,
+      "created_at": "2025-07-25T23:42:49+00:00",
+      "url": "https://huggingface.co/QuantTrio/Qwen3-Coder-480B-A35B-Instruct-AWQ"
+    },
+    {
+      "model_id": "bartowski/Qwen2.5-Coder-32B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 17542,
+      "likes": 95,
+      "created_at": "2024-11-06T19:20:14+00:00",
+      "url": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-3B-Instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 16889,
+      "likes": 5,
+      "created_at": "2024-11-09T12:46:06+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-AWQ"
+    },
+    {
+      "model_id": "Salesforce/codet5p-220m",
+      "metrics": {},
+      "sources": [],
+      "downloads": 15252,
+      "likes": 31,
+      "created_at": "2023-05-13T10:34:57+00:00",
+      "url": "https://huggingface.co/Salesforce/codet5p-220m"
+    },
+    {
+      "model_id": "jinaai/jina-embeddings-v4-vllm-code",
+      "metrics": {},
+      "sources": [],
+      "downloads": 15143,
+      "likes": 3,
+      "created_at": "2025-07-01T10:02:46+00:00",
+      "url": "https://huggingface.co/jinaai/jina-embeddings-v4-vllm-code"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-7B-bnb-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 14859,
+      "likes": 13,
+      "created_at": "2024-09-23T05:50:42+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-7B-bnb-4bit"
+    },
+    {
+      "model_id": "01-ai/Yi-Coder-9B-Chat",
+      "metrics": {},
+      "sources": [],
+      "downloads": 14659,
+      "likes": 211,
+      "created_at": "2024-08-21T02:11:52+00:00",
+      "url": "https://huggingface.co/01-ai/Yi-Coder-9B-Chat"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-14B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 13786,
+      "likes": 76,
+      "created_at": "2024-11-09T12:45:52+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-GGUF"
+    },
+    {
+      "model_id": "invalid-coder/Sakura-SOLAR-Instruct-CarbonVillain-en-10.7B-v2-slerp",
+      "metrics": {},
+      "sources": [],
+      "downloads": 13764,
+      "likes": 0,
+      "created_at": "2024-01-10T16:06:58+00:00",
+      "url": "https://huggingface.co/invalid-coder/Sakura-SOLAR-Instruct-CarbonVillain-en-10.7B-v2-slerp"
+    },
+    {
+      "model_id": "TheBloke/deepseek-coder-33B-instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 13732,
+      "likes": 189,
+      "created_at": "2023-11-04T22:04:16+00:00",
+      "url": "https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF"
+    },
+    {
+      "model_id": "bartowski/Qwen2.5-Coder-7B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 13514,
+      "likes": 32,
+      "created_at": "2024-09-17T19:32:30+00:00",
+      "url": "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF"
+    },
+    {
+      "model_id": "Salesforce/codegen-350M-multi",
+      "metrics": {},
+      "sources": [],
+      "downloads": 13193,
+      "likes": 60,
+      "created_at": "2022-04-11T16:11:35+00:00",
+      "url": "https://huggingface.co/Salesforce/codegen-350M-multi"
+    },
+    {
+      "model_id": "codellama/CodeLlama-13b-Instruct-hf",
+      "metrics": {},
+      "sources": [],
+      "downloads": 13050,
+      "likes": 157,
+      "created_at": "2023-08-24T16:33:54+00:00",
+      "url": "https://huggingface.co/codellama/CodeLlama-13b-Instruct-hf"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-32B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 12101,
+      "likes": 136,
+      "created_at": "2024-11-08T10:48:23+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B"
+    },
+    {
+      "model_id": "TheBloke/CodeLlama-7B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 11699,
+      "likes": 145,
+      "created_at": "2023-08-24T17:01:14+00:00",
+      "url": "https://huggingface.co/TheBloke/CodeLlama-7B-Instruct-GGUF"
+    },
+    {
+      "model_id": "yongchao98/CodeSteer-v1",
+      "metrics": {},
+      "sources": [],
+      "downloads": 11597,
+      "likes": 8,
+      "created_at": "2025-02-03T22:28:36+00:00",
+      "url": "https://huggingface.co/yongchao98/CodeSteer-v1"
+    },
+    {
+      "model_id": "codellama/CodeLlama-13b-hf",
+      "metrics": {},
+      "sources": [],
+      "downloads": 11294,
+      "likes": 116,
+      "created_at": "2023-08-24T16:31:44+00:00",
+      "url": "https://huggingface.co/codellama/CodeLlama-13b-hf"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-7B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 11238,
+      "likes": 4,
+      "created_at": "2024-09-23T05:52:33+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-7B"
+    },
+    {
+      "model_id": "DavidAU/Qwen3-Zero-Coder-Reasoning-0.8B-NEO-EX-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 11235,
+      "likes": 15,
+      "created_at": "2025-07-17T07:28:04+00:00",
+      "url": "https://huggingface.co/DavidAU/Qwen3-Zero-Coder-Reasoning-0.8B-NEO-EX-GGUF"
+    },
+    {
+      "model_id": "unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 10823,
+      "likes": 163,
+      "created_at": "2025-07-22T19:45:59+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-3B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 10690,
+      "likes": 46,
+      "created_at": "2024-11-09T12:46:15+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct-GGUF"
+    },
+    {
+      "model_id": "SanctumAI/Codestral-22B-v0.1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 10634,
+      "likes": 10,
+      "created_at": "2024-05-30T19:57:38+00:00",
+      "url": "https://huggingface.co/SanctumAI/Codestral-22B-v0.1-GGUF"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen2.5-Coder-14B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 10611,
+      "likes": 5,
+      "created_at": "2024-11-06T20:55:12+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen2.5-Coder-14B-Instruct-GGUF"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4",
+      "metrics": {},
+      "sources": [],
+      "downloads": 10425,
+      "likes": 6,
+      "created_at": "2024-11-09T12:44:18+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4"
+    },
+    {
+      "model_id": "deepseek-ai/deepseek-coder-6.7b-base",
+      "metrics": {},
+      "sources": [],
+      "downloads": 9805,
+      "likes": 120,
+      "created_at": "2023-10-23T16:15:39+00:00",
+      "url": "https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base"
+    },
+    {
+      "model_id": "01-ai/Yi-Coder-9B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 9760,
+      "likes": 44,
+      "created_at": "2024-08-15T07:40:42+00:00",
+      "url": "https://huggingface.co/01-ai/Yi-Coder-9B"
+    },
+    {
+      "model_id": "deepseek-ai/deepseek-coder-7b-instruct-v1.5",
+      "metrics": {},
+      "sources": [],
+      "downloads": 9727,
+      "likes": 143,
+      "created_at": "2024-01-25T15:51:02+00:00",
+      "url": "https://huggingface.co/deepseek-ai/deepseek-coder-7b-instruct-v1.5"
+    },
+    {
+      "model_id": "rombodawg/rombos_Replete-Coder-Llama3-8B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 9127,
+      "likes": 3,
+      "created_at": "2024-10-06T07:50:32+00:00",
+      "url": "https://huggingface.co/rombodawg/rombos_Replete-Coder-Llama3-8B"
+    },
+    {
+      "model_id": "uukuguy/speechless-zephyr-code-functionary-7b",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8989,
+      "likes": 2,
+      "created_at": "2024-01-23T08:19:26+00:00",
+      "url": "https://huggingface.co/uukuguy/speechless-zephyr-code-functionary-7b"
+    },
+    {
+      "model_id": "uukuguy/speechless-code-mistral-7b-v1.0",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8976,
+      "likes": 18,
+      "created_at": "2023-10-10T06:14:00+00:00",
+      "url": "https://huggingface.co/uukuguy/speechless-code-mistral-7b-v1.0"
+    },
+    {
+      "model_id": "lmstudio-community/DeepSeek-Coder-V2-Lite-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8971,
+      "likes": 62,
+      "created_at": "2024-06-17T18:01:28+00:00",
+      "url": "https://huggingface.co/lmstudio-community/DeepSeek-Coder-V2-Lite-Instruct-GGUF"
+    },
+    {
+      "model_id": "oobabooga/CodeBooga-34B-v0.1",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8924,
+      "likes": 147,
+      "created_at": "2023-10-19T23:04:00+00:00",
+      "url": "https://huggingface.co/oobabooga/CodeBooga-34B-v0.1"
+    },
+    {
+      "model_id": "beowolx/CodeNinja-1.0-OpenChat-7B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8859,
+      "likes": 104,
+      "created_at": "2023-12-20T20:28:01+00:00",
+      "url": "https://huggingface.co/beowolx/CodeNinja-1.0-OpenChat-7B"
+    },
+    {
+      "model_id": "rombodawg/Everyone-Coder-4x7b-Base",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8804,
+      "likes": 42,
+      "created_at": "2024-01-14T00:20:14+00:00",
+      "url": "https://huggingface.co/rombodawg/Everyone-Coder-4x7b-Base"
+    },
+    {
+      "model_id": "eddy1111111/qwen3_coder_8b_COT_un",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8778,
+      "likes": 3,
+      "created_at": "2025-12-07T16:23:21+00:00",
+      "url": "https://huggingface.co/eddy1111111/qwen3_coder_8b_COT_un"
+    },
+    {
+      "model_id": "Harrietwanghh/finetuned-Codebert-tokenclf-mix",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8727,
+      "likes": 0,
+      "created_at": "2025-08-11T19:59:50+00:00",
+      "url": "https://huggingface.co/Harrietwanghh/finetuned-Codebert-tokenclf-mix"
+    },
+    {
+      "model_id": "failspy/Codestral-22B-v0.1-abliterated-v3",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8634,
+      "likes": 12,
+      "created_at": "2024-06-03T17:08:27+00:00",
+      "url": "https://huggingface.co/failspy/Codestral-22B-v0.1-abliterated-v3"
+    },
+    {
+      "model_id": "DavidAU/Qwen3-Zero-Coder-Reasoning-V2-0.8B-NEO-EX-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8573,
+      "likes": 13,
+      "created_at": "2025-07-25T03:10:06+00:00",
+      "url": "https://huggingface.co/DavidAU/Qwen3-Zero-Coder-Reasoning-V2-0.8B-NEO-EX-GGUF"
+    },
+    {
+      "model_id": "Dream-org/Dream-Coder-v0-Instruct-7B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8562,
+      "likes": 27,
+      "created_at": "2025-07-14T06:13:19+00:00",
+      "url": "https://huggingface.co/Dream-org/Dream-Coder-v0-Instruct-7B"
+    },
+    {
+      "model_id": "mistralai/Codestral-22B-v0.1",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8549,
+      "likes": 1318,
+      "created_at": "2024-05-29T11:28:50+00:00",
+      "url": "https://huggingface.co/mistralai/Codestral-22B-v0.1"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-1.5B-Instruct-bnb-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8497,
+      "likes": 1,
+      "created_at": "2024-09-23T06:53:29+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-1.5B-Instruct-bnb-4bit"
+    },
+    {
+      "model_id": "hoangpnhat/qwen2.5-coder-7b-awq",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8463,
+      "likes": 0,
+      "created_at": "2025-06-03T10:29:33+00:00",
+      "url": "https://huggingface.co/hoangpnhat/qwen2.5-coder-7b-awq"
+    },
+    {
+      "model_id": "TheBloke/CodeLlama-13B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 8232,
+      "likes": 131,
+      "created_at": "2023-08-24T20:22:41+00:00",
+      "url": "https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF"
+    },
+    {
+      "model_id": "rombodawg/rombos_Replete-Coder-Instruct-8b-Merged",
+      "metrics": {},
+      "sources": [],
+      "downloads": 7876,
+      "likes": 2,
+      "created_at": "2024-10-06T07:51:00+00:00",
+      "url": "https://huggingface.co/rombodawg/rombos_Replete-Coder-Instruct-8b-Merged"
+    },
+    {
+      "model_id": "mradermacher/Astral-4B-Coder-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 7752,
+      "likes": 1,
+      "created_at": "2025-10-05T14:21:53+00:00",
+      "url": "https://huggingface.co/mradermacher/Astral-4B-Coder-GGUF"
+    },
+    {
+      "model_id": "TechxGenus/DeepSeek-Coder-V2-Lite-Instruct-AWQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 7749,
+      "likes": 7,
+      "created_at": "2024-06-18T18:42:58+00:00",
+      "url": "https://huggingface.co/TechxGenus/DeepSeek-Coder-V2-Lite-Instruct-AWQ"
+    },
+    {
+      "model_id": "TheBloke/deepseek-coder-1.3b-instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 7497,
+      "likes": 46,
+      "created_at": "2023-11-05T13:15:17+00:00",
+      "url": "https://huggingface.co/TheBloke/deepseek-coder-1.3b-instruct-GGUF"
+    },
+    {
+      "model_id": "deepseek-ai/DeepSeek-Coder-V2-Lite-Base",
+      "metrics": {},
+      "sources": [],
+      "downloads": 7474,
+      "likes": 97,
+      "created_at": "2024-06-14T03:46:36+00:00",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base"
+    },
+    {
+      "model_id": "TheBloke/CodeLlama-34B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 7350,
+      "likes": 107,
+      "created_at": "2023-08-24T21:47:57+00:00",
+      "url": "https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-GGUF"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-3B-Instruct-bnb-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 7204,
+      "likes": 4,
+      "created_at": "2024-11-12T01:22:31+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-3B-Instruct-bnb-4bit"
+    },
+    {
+      "model_id": "codesage/codesage-large-v2",
+      "metrics": {},
+      "sources": [],
+      "downloads": 7011,
+      "likes": 8,
+      "created_at": "2024-12-02T22:52:10+00:00",
+      "url": "https://huggingface.co/codesage/codesage-large-v2"
+    },
+    {
+      "model_id": "1-800-BAD-CODE/punct_cap_seg_47_language",
+      "metrics": {},
+      "sources": [],
+      "downloads": 6908,
+      "likes": 28,
+      "created_at": "2023-02-22T00:13:49+00:00",
+      "url": "https://huggingface.co/1-800-BAD-CODE/punct_cap_seg_47_language"
+    },
+    {
+      "model_id": "bartowski/cerebras_Qwen3-Coder-REAP-25B-A3B-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 6886,
+      "likes": 15,
+      "created_at": "2025-10-20T21:34:35+00:00",
+      "url": "https://huggingface.co/bartowski/cerebras_Qwen3-Coder-REAP-25B-A3B-GGUF"
+    },
+    {
+      "model_id": "TheBloke/CodeLlama-7B-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 6776,
+      "likes": 126,
+      "created_at": "2023-08-24T17:02:09+00:00",
+      "url": "https://huggingface.co/TheBloke/CodeLlama-7B-GGUF"
+    },
+    {
+      "model_id": "codellama/CodeLlama-7b-Python-hf",
+      "metrics": {},
+      "sources": [],
+      "downloads": 6699,
+      "likes": 142,
+      "created_at": "2023-08-24T16:31:28+00:00",
+      "url": "https://huggingface.co/codellama/CodeLlama-7b-Python-hf"
+    },
+    {
+      "model_id": "flax-sentence-embeddings/st-codesearch-distilroberta-base",
+      "metrics": {},
+      "sources": [],
+      "downloads": 6629,
+      "likes": 33,
+      "created_at": "2022-03-02T23:29:05+00:00",
+      "url": "https://huggingface.co/flax-sentence-embeddings/st-codesearch-distilroberta-base"
+    },
+    {
+      "model_id": "lmstudio-community/Codestral-22B-v0.1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 6321,
+      "likes": 26,
+      "created_at": "2024-05-29T19:01:50+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Codestral-22B-v0.1-GGUF"
+    },
+    {
+      "model_id": "Salesforce/codet5-large",
+      "metrics": {},
+      "sources": [],
+      "downloads": 6306,
+      "likes": 74,
+      "created_at": "2022-07-06T03:56:45+00:00",
+      "url": "https://huggingface.co/Salesforce/codet5-large"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 6238,
+      "likes": 12,
+      "created_at": "2024-11-09T12:46:35+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF"
+    },
+    {
+      "model_id": "mradermacher/Qwen3-42B-A3B-2507-Thinking-Abliterated-uncensored-TOTAL-RECALL-v2-Medium-MASTER-CODER-i1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 5984,
+      "likes": 9,
+      "created_at": "2025-08-21T21:46:16+00:00",
+      "url": "https://huggingface.co/mradermacher/Qwen3-42B-A3B-2507-Thinking-Abliterated-uncensored-TOTAL-RECALL-v2-Medium-MASTER-CODER-i1-GGUF"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-0.5B-Instruct-bnb-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 5977,
+      "likes": 4,
+      "created_at": "2024-11-12T00:57:50+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-0.5B-Instruct-bnb-4bit"
+    },
+    {
+      "model_id": "bartowski/Gryphe_Codex-24B-Small-3.2-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 5957,
+      "likes": 8,
+      "created_at": "2025-06-22T15:57:56+00:00",
+      "url": "https://huggingface.co/bartowski/Gryphe_Codex-24B-Small-3.2-GGUF"
+    },
+    {
+      "model_id": "microsoft/CodeGPT-small-py",
+      "metrics": {},
+      "sources": [],
+      "downloads": 5924,
+      "likes": 28,
+      "created_at": "2022-03-02T23:29:05+00:00",
+      "url": "https://huggingface.co/microsoft/CodeGPT-small-py"
+    },
+    {
+      "model_id": "stabilityai/stable-code-3b",
+      "metrics": {},
+      "sources": [],
+      "downloads": 5635,
+      "likes": 658,
+      "created_at": "2024-01-09T02:03:58+00:00",
+      "url": "https://huggingface.co/stabilityai/stable-code-3b"
+    },
+    {
+      "model_id": "vishnun/codenlbert-sm",
+      "metrics": {},
+      "sources": [],
+      "downloads": 5302,
+      "likes": 0,
+      "created_at": "2023-07-30T04:40:34+00:00",
+      "url": "https://huggingface.co/vishnun/codenlbert-sm"
+    },
+    {
+      "model_id": "codellama/CodeLlama-34b-hf",
+      "metrics": {},
+      "sources": [],
+      "downloads": 5209,
+      "likes": 177,
+      "created_at": "2023-08-24T16:34:39+00:00",
+      "url": "https://huggingface.co/codellama/CodeLlama-34b-hf"
+    },
+    {
+      "model_id": "bartowski/Qwen2.5-Coder-14B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4961,
+      "likes": 38,
+      "created_at": "2024-11-06T20:55:11+00:00",
+      "url": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-GGUF"
+    },
+    {
+      "model_id": "BasedAGI/Gemma-3-27B-IT-Codeforces-SFT-i1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4943,
+      "likes": 0,
+      "created_at": "2025-03-14T18:16:15+00:00",
+      "url": "https://huggingface.co/BasedAGI/Gemma-3-27B-IT-Codeforces-SFT-i1-GGUF"
+    },
+    {
+      "model_id": "BAAI/bge-code-v1",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4889,
+      "likes": 44,
+      "created_at": "2025-05-15T14:12:46+00:00",
+      "url": "https://huggingface.co/BAAI/bge-code-v1"
+    },
+    {
+      "model_id": "neulab/codebert-javascript",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4871,
+      "likes": 15,
+      "created_at": "2022-09-23T15:19:35+00:00",
+      "url": "https://huggingface.co/neulab/codebert-javascript"
+    },
+    {
+      "model_id": "ggml-org/Qwen2.5-Coder-1.5B-Q8_0-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4860,
+      "likes": 11,
+      "created_at": "2024-10-11T10:17:44+00:00",
+      "url": "https://huggingface.co/ggml-org/Qwen2.5-Coder-1.5B-Q8_0-GGUF"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-7B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4797,
+      "likes": 7,
+      "created_at": "2024-09-23T06:56:44+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-7B-Instruct"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-1.5B-bnb-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4699,
+      "likes": 3,
+      "created_at": "2024-09-23T05:48:39+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-1.5B-bnb-4bit"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen3-Coder-480B-A35B-Instruct-MLX-6bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4521,
+      "likes": 5,
+      "created_at": "2025-07-22T18:56:22+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen3-Coder-480B-A35B-Instruct-MLX-6bit"
+    },
+    {
+      "model_id": "mradermacher/coder-reasoner-7Bv4-i1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4510,
+      "likes": 0,
+      "created_at": "2025-12-11T12:43:38+00:00",
+      "url": "https://huggingface.co/mradermacher/coder-reasoner-7Bv4-i1-GGUF"
+    },
+    {
+      "model_id": "jinaai/jina-code-embeddings-1.5b",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4500,
+      "likes": 30,
+      "created_at": "2025-08-26T16:00:07+00:00",
+      "url": "https://huggingface.co/jinaai/jina-code-embeddings-1.5b"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-14B",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4476,
+      "likes": 54,
+      "created_at": "2024-11-08T10:48:15+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-32B-Instruct-bnb-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4463,
+      "likes": 5,
+      "created_at": "2024-11-12T02:00:44+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-32B-Instruct-bnb-4bit"
+    },
+    {
+      "model_id": "mradermacher/Gemma3-4B-CodeCenturion-i1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4436,
+      "likes": 2,
+      "created_at": "2025-12-08T22:32:34+00:00",
+      "url": "https://huggingface.co/mradermacher/Gemma3-4B-CodeCenturion-i1-GGUF"
+    },
+    {
+      "model_id": "bartowski/Qwen2.5.1-Coder-7B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4415,
+      "likes": 96,
+      "created_at": "2024-11-06T17:50:33+00:00",
+      "url": "https://huggingface.co/bartowski/Qwen2.5.1-Coder-7B-Instruct-GGUF"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-14B-Instruct-bnb-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4270,
+      "likes": 5,
+      "created_at": "2024-11-12T02:37:23+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-14B-Instruct-bnb-4bit"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen3-Coder-480B-A35B-Instruct-MLX-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4217,
+      "likes": 3,
+      "created_at": "2025-07-22T18:47:04+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen3-Coder-480B-A35B-Instruct-MLX-4bit"
+    },
+    {
+      "model_id": "TheBloke/Phind-CodeLlama-34B-v2-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4143,
+      "likes": 169,
+      "created_at": "2023-08-29T06:53:42+00:00",
+      "url": "https://huggingface.co/TheBloke/Phind-CodeLlama-34B-v2-GGUF"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-1.5B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4125,
+      "likes": 5,
+      "created_at": "2024-09-23T06:54:06+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-1.5B-Instruct"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen3-Coder-480B-A35B-Instruct-MLX-8bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4060,
+      "likes": 3,
+      "created_at": "2025-07-22T18:53:23+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen3-Coder-480B-A35B-Instruct-MLX-8bit"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-0.5B-bnb-4bit",
+      "metrics": {},
+      "sources": [],
+      "downloads": 4016,
+      "likes": 1,
+      "created_at": "2024-11-12T00:56:16+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-0.5B-bnb-4bit"
+    },
+    {
+      "model_id": "codellama/CodeLlama-70b-Instruct-hf",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3975,
+      "likes": 208,
+      "created_at": "2024-01-29T11:00:04+00:00",
+      "url": "https://huggingface.co/codellama/CodeLlama-70b-Instruct-hf"
+    },
+    {
+      "model_id": "CodeGoat24/UnifiedReward-2.0-qwen-7b",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3943,
+      "likes": 0,
+      "created_at": "2025-09-17T03:07:47+00:00",
+      "url": "https://huggingface.co/CodeGoat24/UnifiedReward-2.0-qwen-7b"
+    },
+    {
+      "model_id": "neulab/codebert-cpp",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3732,
+      "likes": 11,
+      "created_at": "2022-09-26T13:50:02+00:00",
+      "url": "https://huggingface.co/neulab/codebert-cpp"
+    },
+    {
+      "model_id": "bartowski/Qwen2.5-Coder-3B-Instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3711,
+      "likes": 17,
+      "created_at": "2024-11-07T04:13:55+00:00",
+      "url": "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-Instruct-GGUF"
+    },
+    {
+      "model_id": "mradermacher/CodeV-SVA-14B-i1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3629,
+      "likes": 0,
+      "created_at": "2025-11-26T09:58:02+00:00",
+      "url": "https://huggingface.co/mradermacher/CodeV-SVA-14B-i1-GGUF"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-7B-Instruct-128K-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3602,
+      "likes": 20,
+      "created_at": "2024-11-12T11:37:59+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-7B-Instruct-128K-GGUF"
+    },
+    {
+      "model_id": "Salesforce/codet5p-770m",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3594,
+      "likes": 20,
+      "created_at": "2023-05-13T13:34:17+00:00",
+      "url": "https://huggingface.co/Salesforce/codet5p-770m"
+    },
+    {
+      "model_id": "0xgr3y/Qwen2.5-Coder-0.5B-Instruct-Gensyn-Swarm-tall_tame_panther",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3519,
+      "likes": 1,
+      "created_at": "2025-11-13T08:42:10+00:00",
+      "url": "https://huggingface.co/0xgr3y/Qwen2.5-Coder-0.5B-Instruct-Gensyn-Swarm-tall_tame_panther"
+    },
+    {
+      "model_id": "Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int4",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3509,
+      "likes": 22,
+      "created_at": "2024-11-09T12:44:36+00:00",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int4"
+    },
+    {
+      "model_id": "mradermacher/Ling-Coder-lite-i1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3479,
+      "likes": 0,
+      "created_at": "2025-04-05T09:04:35+00:00",
+      "url": "https://huggingface.co/mradermacher/Ling-Coder-lite-i1-GGUF"
+    },
+    {
+      "model_id": "TheBloke/CodeLlama-7B-Python-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3471,
+      "likes": 60,
+      "created_at": "2023-08-24T17:02:03+00:00",
+      "url": "https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF"
+    },
+    {
+      "model_id": "huggingface/CodeBERTa-language-id",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3415,
+      "likes": 66,
+      "created_at": "2022-03-02T23:29:05+00:00",
+      "url": "https://huggingface.co/huggingface/CodeBERTa-language-id"
+    },
+    {
+      "model_id": "lmstudio-community/Qwen2.5-Coder-32B-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3373,
+      "likes": 2,
+      "created_at": "2024-11-11T16:49:51+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Qwen2.5-Coder-32B-GGUF"
+    },
+    {
+      "model_id": "aleksa-codes/flux-ghibsky-illustration",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3327,
+      "likes": 298,
+      "created_at": "2024-08-20T13:59:25+00:00",
+      "url": "https://huggingface.co/aleksa-codes/flux-ghibsky-illustration"
+    },
+    {
+      "model_id": "ggml-org/Qwen2.5-Coder-7B-Q8_0-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3291,
+      "likes": 6,
+      "created_at": "2024-10-28T12:38:56+00:00",
+      "url": "https://huggingface.co/ggml-org/Qwen2.5-Coder-7B-Q8_0-GGUF"
+    },
+    {
+      "model_id": "ibm-granite/granite-8b-code-instruct-4k-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3260,
+      "likes": 12,
+      "created_at": "2024-05-30T21:53:27+00:00",
+      "url": "https://huggingface.co/ibm-granite/granite-8b-code-instruct-4k-GGUF"
+    },
+    {
+      "model_id": "ArthurGprog/Codestral-22B-v0.1-FIM-Fix-GPTQ",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3259,
+      "likes": 4,
+      "created_at": "2024-06-18T12:08:13+00:00",
+      "url": "https://huggingface.co/ArthurGprog/Codestral-22B-v0.1-FIM-Fix-GPTQ"
+    },
+    {
+      "model_id": "deepseek-ai/deepseek-coder-33b-base",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3138,
+      "likes": 73,
+      "created_at": "2023-10-28T08:14:27+00:00",
+      "url": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-base"
+    },
+    {
+      "model_id": "lmstudio-community/Yi-Coder-1.5B-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3119,
+      "likes": 1,
+      "created_at": "2024-09-04T17:48:53+00:00",
+      "url": "https://huggingface.co/lmstudio-community/Yi-Coder-1.5B-GGUF"
+    },
+    {
+      "model_id": "mradermacher/SvS-Qwen-Code-7B-i1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3093,
+      "likes": 0,
+      "created_at": "2025-12-11T13:10:48+00:00",
+      "url": "https://huggingface.co/mradermacher/SvS-Qwen-Code-7B-i1-GGUF"
+    },
+    {
+      "model_id": "unsloth/Qwen2.5-Coder-32B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3084,
+      "likes": 7,
+      "created_at": "2024-11-12T02:08:26+00:00",
+      "url": "https://huggingface.co/unsloth/Qwen2.5-Coder-32B-Instruct"
+    },
+    {
+      "model_id": "SanctumAI/granite-8b-code-instruct-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3083,
+      "likes": 7,
+      "created_at": "2024-05-30T19:50:25+00:00",
+      "url": "https://huggingface.co/SanctumAI/granite-8b-code-instruct-GGUF"
+    },
+    {
+      "model_id": "nvidia/nemo-nano-codec-22khz-0.6kbps-12.5fps",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3071,
+      "likes": 14,
+      "created_at": "2025-08-06T20:57:28+00:00",
+      "url": "https://huggingface.co/nvidia/nemo-nano-codec-22khz-0.6kbps-12.5fps"
+    },
+    {
+      "model_id": "ByteDance-Seed/Seed-Coder-8B-Instruct",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3044,
+      "likes": 106,
+      "created_at": "2025-04-27T07:52:37+00:00",
+      "url": "https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Instruct"
+    },
+    {
+      "model_id": "mradermacher/Olmo-3-7B-RLZero-Code-i1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3019,
+      "likes": 0,
+      "created_at": "2025-11-22T14:53:22+00:00",
+      "url": "https://huggingface.co/mradermacher/Olmo-3-7B-RLZero-Code-i1-GGUF"
+    },
+    {
+      "model_id": "DunnBC22/codebert-base-Malicious_URLs",
+      "metrics": {},
+      "sources": [],
+      "downloads": 3009,
+      "likes": 9,
+      "created_at": "2023-05-20T05:16:27+00:00",
+      "url": "https://huggingface.co/DunnBC22/codebert-base-Malicious_URLs"
+    },
+    {
+      "model_id": "zai-org/codegeex4-all-9b",
+      "metrics": {},
+      "sources": [],
+      "downloads": 2970,
+      "likes": 261,
+      "created_at": "2024-07-05T02:09:57+00:00",
+      "url": "https://huggingface.co/zai-org/codegeex4-all-9b"
+    },
+    {
+      "model_id": "chunchiliu/Qwen2.5-Coder-1.5B-Instruct-Gensyn-Swarm-graceful_slender_toucan",
+      "metrics": {},
+      "sources": [],
+      "downloads": 2933,
+      "likes": 0,
+      "created_at": "2025-12-12T05:57:17+00:00",
+      "url": "https://huggingface.co/chunchiliu/Qwen2.5-Coder-1.5B-Instruct-Gensyn-Swarm-graceful_slender_toucan"
+    },
+    {
+      "model_id": "mradermacher/gpt-oss-coder-20b-i1-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 2932,
+      "likes": 1,
+      "created_at": "2025-08-16T03:35:03+00:00",
+      "url": "https://huggingface.co/mradermacher/gpt-oss-coder-20b-i1-GGUF"
+    },
+    {
+      "model_id": "google/codegemma-7b-it",
+      "metrics": {},
+      "sources": [],
+      "downloads": 2927,
+      "likes": 243,
+      "created_at": "2024-03-21T16:57:43+00:00",
+      "url": "https://huggingface.co/google/codegemma-7b-it"
+    },
+    {
+      "model_id": "ggml-org/Qwen3-Coder-30B-A3B-Instruct-Q8_0-GGUF",
+      "metrics": {},
+      "sources": [],
+      "downloads": 2881,
+      "likes": 6,
+      "created_at": "2025-08-20T10:49:54+00:00",
+      "url": "https://huggingface.co/ggml-org/Qwen3-Coder-30B-A3B-Instruct-Q8_0-GGUF"
+    }
+  ]
+}

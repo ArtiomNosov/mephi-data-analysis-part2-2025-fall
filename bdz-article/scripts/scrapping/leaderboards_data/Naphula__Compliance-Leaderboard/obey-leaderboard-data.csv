@@ -1,0 +1,42 @@
+Model Name,Model Link,Uncensored 🏆,Refusals ⛔,Q0G 🧠,Model Type,Model Size,Notes
+BeaverAI/Fallen-Mistral-Small-3.1-24B-v1e-GGUF,https://huggingface.co/BeaverAI/Fallen-Mistral-Small-3.1-24B-v1e-GGUF,100%,0,Pass,Mistral,24B,Fully uncensored (no jailbreak needed)
+huihui-ai/Huihui-GLM-4.5-Air-abliterated-GGUF,https://huggingface.co/huihui-ai/Huihui-GLM-4.5-Air-abliterated-GGUF,100%,0,Fail,GLM,106B,Fully uncensored (no jailbreak needed)
+mlabonne/gemma-3-27b-it-abliterated-GGUF,https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF,100%,0,Fail,Gemma,27B,Fully uncensored (no jailbreak needed)
+Naphula/DarkForest-20B-v2.0-Erebus-Edition-GGUF,https://huggingface.co/Naphula/DarkForest-20B-v2.0-Erebus-Edition-GGUF,100%,0,Fail,Llama,20B, Fully uncensored (no jailbreak needed)
+Naphula/MN-12B-Mag-Mell-R1-Uncensored-GGUF,https://huggingface.co/Naphula/MN-12B-Mag-Mell-R1-Uncensored-GGUF,100%,0,Fail,Mistral,12B,Fully uncensored (no jailbreak needed)
+TheDrummer/Fallen-Command-A-111B-v1-GGUF,https://huggingface.co/TheDrummer/Fallen-Command-A-111B-v1-GGUF,100%,0,Pass,Cohere,111B,Fully uncensored (no jailbreak needed)
+TheDrummer/Tiger-Gemma-9B-v3-GGUF,https://huggingface.co/TheDrummer/Tiger-Gemma-9B-v3-GGUF,100%,0,Fail,Gemma,9B,Fully uncensored (no jailbreak needed)
+BeaverAI/fallen-gpt-oss-20B-v1b-GGUF,https://huggingface.co/BeaverAI/fallen-gpt-oss-20B-v1b-GGUF,99%,1,Pass,GPT,20B,
+mradermacher/Dolphin-Mistral-24B-Venice-Edition-GGUF,https://huggingface.co/mradermacher/Dolphin-Mistral-24B-Venice-Edition-GGUF,99%,1,Fail,Mistral,24B,
+mradermacher/amoral-gemma3-12B-v2-GGUF,https://huggingface.co/mradermacher/amoral-gemma3-12B-v2-GGUF,98%,2,N/A,Gemma,12B,Use light jailbreak for no refusals
+Naphula/Evilmind-24B-v1-GGUF,https://huggingface.co/Naphula/Evilmind-24B-v1-GGUF,98%,2,Pass,Mistral,24B,Use light jailbreak for no refusals
+TheDrummer/Precog-24B-v1-GGUF,https://huggingface.co/TheDrummer/Precog-24B-v1-GGUF,97%,3,Pass,Mistral,24B,
+mradermacher/BlackSheep-24B-GGUF,https://huggingface.co/mradermacher/BlackSheep-24B-GGUF,96%,4,N/A,Mistral,24B,Use light jailbreak for no refusals
+Naphula/Dark-World-24B-v1-GGUF,https://huggingface.co/Naphula/Dark-World-24B-v1-GGUF,96%,4,Pass,Mistral,24B,Use light jailbreak for no refusals
+Naphula/Warlock-7B-v2-GGUF,https://huggingface.co/Naphula/Warlock-7B-v2-GGUF,96%,4,Pass,Mistral,7B,Use light jailbreak for no refusals
+Jinx-org/Jinx-gpt-oss-20b-GGUF,https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b-GGUF,94%,6,N/A,GPT,20B,Use light jailbreak for no refusals
+mradermacher/MS3.2-24B-Mullein-v2-GGUF,https://huggingface.co/mradermacher/MS3.2-24B-Mullein-v2-GGUF,94%,6,Fail,Mistral,24B,Use light jailbreak for no refusals
+ReadyArt/Darkness-Incarnate-24B-v3-GGUF,https://huggingface.co/ReadyArt/Darkness-Incarnate-24B-v3-GGUF,93%,7,N/A,Mistral,24B,
+mradermacher/Warlock-7B-v1-GGUF,https://huggingface.co/mradermacher/Warlock-7B-v1-GGUF,92%,8,Fail,Mistral,7B,Use light jailbreak for no refusals
+Naphula/magnum-v4-9b-abliterated-GGUF,https://huggingface.co/Naphula/magnum-v4-9b-abliterated-GGUF,92%,8,Pass,Gemma,9B,Use advanced jailbreak for no refusals
+Naphula/BlackDolphin-24B-GGUF,https://huggingface.co/Naphula/BlackDolphin-24B-GGUF,91%,9,Fail,Mistral,24B,Use light jailbreak for no refusals
+huihui-ai/Huihui-Ling-flash-2.0-abliterated-GGUF,https://huggingface.co/huihui-ai/Huihui-Ling-flash-2.0-abliterated-GGUF,90%,10,Fail,Bailing,103B,Use light jailbreak for no refusals
+Naphula/Delirium-v1-abliterated-GGUF,https://huggingface.co/Naphula/Delirium-v1-abliterated-GGUF,88%,12,Fail,Gemma,9B,Use advanced jailbreak for no refusals
+TheDrummer/Rivermind-24B-v1-GGUF,https://huggingface.co/TheDrummer/Rivermind-24B-v1-GGUF,88%,12,Fail,Mistral,24B,Use light jailbreak for no refusals
+mradermacher/Mistral-Small-24B-Instruct-2501-abliterated-i1-GGUF,https://huggingface.co/mradermacher/Mistral-Small-24B-Instruct-2501-abliterated-i1-GGUF,87%,13,N/A,Mistral,24B,
+TheDrummer/Cydonia-24B-v4.2.0-GGUF,https://huggingface.co/TheDrummer/Cydonia-24B-v4.2.0-GGUF,85%,15,Fail,Mistral,24B,v4r
+TheDrummer/Magidonia-24B-v4.2.0-GGUF,https://huggingface.co/TheDrummer/Magidonia-24B-v4.2.0-GGUF,84%,16,Pass,Mistral,24B,v4s
+fearlessdots/WizardLM-2-7B-abliterated-GGUF,https://huggingface.co/fearlessdots/WizardLM-2-7B-abliterated-GGUF,82%,18,N/A,Mistral,7B,
+Naphula/Gemma-The-Writer-9B-abliterated-GGUF,https://Naphula/Gemma-The-Writer-9B-abliterated-GGUF,82%,18,N/A,Gemma,9B,Use advanced jailbreak for no refusals
+Naphula/Goetia-24B-v1.1-GGUF,https://huggingface.co/Naphula/Goetia-24B-v1.1-GGUF,81%,19,Pass,Mistral,24B,Use light jailbreak for no refusals
+Naphula/CheckpointJ_FallenMagiDolphinKarcher5A,https://huggingface.co/Naphula/Checkpoint-GGUFs/blob/main/checkpointJ_FallenMagiDolphinKarcher5A-Q6_K.gguf,80%,20,Pass,Mistral,24B,Use light jailbreak for no refusals
+Naphula/DarkForest-20B-v2.0-fp32-upscaled-GGUF,https://huggingface.co/Naphula/DarkForest-20B-v2.0-fp32-upscaled-GGUF,79%,21,Pass,Llama,20B, Use light jailbreak for no refusals
+TheDrummer/Cydonia-24B-v4.1-GGUF,https://huggingface.co/TheDrummer/Cydonia-24B-v4.1-GGUF,78%,22,Pass,Mistral,24B,v4j
+Naphula/Goetia-24B-v1-GGUF,https://huggingface.co/Naphula/Goetia-24B-v1-GGUF,76%,24,Fail,Mistral,24B,Use light jailbreak for no refusals
+Naphula/Golem-70B-v1b-GGUF,https://huggingface.co/Naphula/Golem-70B-v1b-GGUF,74%,26,N/A,Llama,70B,Use light jailbreak for no refusals
+OddTheGreat/Rotor_24B_V.1,https://huggingface.co/OddTheGreat/Rotor_24B_V.1,74%,26,Fail,Mistral,24B,Use light jailbreak for no refusals
+mradermacher/Circuitry_24B_V.3-GGUF,https://huggingface.co/mradermacher/Circuitry_24B_V.3-GGUF,75%,25,Fail,Mistral,24B,Use light jailbreak for no refusals
+mradermacher/MS3.2-PaintedFantasy-v2-24B-GGUF,https://huggingface.co/mradermacher/MS3.2-PaintedFantasy-v2-24B-GGUF,75%,25,Fail,Mistral,24B,Use light jailbreak for no refusals
+mradermacher/WeirdCompound-v1.7-24b-GGUF,https://huggingface.co/mradermacher/WeirdCompound-v1.7-24b-GGUF,75%,25,Fail,Mistral,24B,Use light jailbreak for no refusals
+unsloth/Seed-OSS-36B-Instruct-GGUF,https://huggingface.co/unsloth/Seed-OSS-36B-Instruct-GGUF,58%,42,Fail,Seed,36B,Use advanced jailbreak for no refusals
+unsloth/gpt-oss-20b-GGUF,https://huggingface.co/unsloth/gpt-oss-20b-GGUF,1%,99,Fail,GPT,20B,Refusal maxxed

@@ -1,0 +1,308 @@
+[
+  {
+    "model": "Claude Sonnet 4",
+    "mode": "without_tools",
+    "majority_vote": 0.118,
+    "pass_at_1": 12.9,
+    "pass_at_5": 18.0,
+    "avg_cost": 0.0070,
+    "cost_per_score": 0.0593
+  },
+  {
+    "model": "Claude Opus 4",
+    "mode": "without_tools",
+    "majority_vote": 0.135,
+    "pass_at_1": 13.5,
+    "pass_at_5": 16.9,
+    "avg_cost": 0.0334,
+    "cost_per_score": 0.2481
+  },
+  {
+    "model": "Claude Opus 4.1",
+    "mode": "without_tools",
+    "majority_vote": 0.135,
+    "pass_at_1": 15.2,
+    "pass_at_5": 17.4,
+    "avg_cost": 0.0356,
+    "cost_per_score": 0.2642
+  },
+  {
+    "model": "DeepSeek R1",
+    "mode": "without_tools",
+    "majority_vote": 0.208,
+    "pass_at_1": 21.9,
+    "pass_at_5": 35.4,
+    "avg_cost": 0.0038,
+    "cost_per_score": 0.0184
+  },
+  {
+    "model": "DeepSeek V3.1",
+    "mode": "without_tools",
+    "majority_vote": 0.157,
+    "pass_at_1": 15.7,
+    "pass_at_5": 29.2,
+    "avg_cost": 0.0005,
+    "cost_per_score": 0.0030
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "mode": "without_tools",
+    "majority_vote": 0.185,
+    "pass_at_1": 20.2,
+    "pass_at_5": 21.9,
+    "avg_cost": 0.0012,
+    "cost_per_score": 0.0062
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "mode": "without_tools",
+    "majority_vote": 0.225,
+    "pass_at_1": 20.2,
+    "pass_at_5": 29.8,
+    "avg_cost": 0.0051,
+    "cost_per_score": 0.0226
+  },
+  {
+    "model": "GPT-4.1",
+    "mode": "without_tools",
+    "majority_vote": 0.197,
+    "pass_at_1": 20.8,
+    "pass_at_5": 24.2,
+    "avg_cost": 0.0025,
+    "cost_per_score": 0.0126
+  },
+  {
+    "model": "GPT-4o",
+    "mode": "without_tools",
+    "majority_vote": 0.169,
+    "pass_at_1": 19.1,
+    "pass_at_5": 20.8,
+    "avg_cost": 0.0016,
+    "cost_per_score": 0.0098
+  },
+  {
+    "model": "GPT-5",
+    "mode": "without_tools",
+    "majority_vote": 0.275,
+    "pass_at_1": 28.1,
+    "pass_at_5": 42.7,
+    "avg_cost": 0.0207,
+    "cost_per_score": 0.0753
+  },
+  {
+    "model": "GPT-o3",
+    "mode": "without_tools",
+    "majority_vote": 0.208,
+    "pass_at_1": 22.5,
+    "pass_at_5": 29.2,
+    "avg_cost": 0.0085,
+    "cost_per_score": 0.0407
+  },
+  {
+    "model": "GPT-OSS 120B",
+    "mode": "without_tools",
+    "majority_vote": 0.146,
+    "pass_at_1": 18.5,
+    "pass_at_5": 21.3,
+    "avg_cost": 0.0003,
+    "cost_per_score": 0.0022
+  },
+  {
+    "model": "Grok 4",
+    "mode": "without_tools",
+    "majority_vote": 0.202,
+    "pass_at_1": 20.2,
+    "pass_at_5": 24.2,
+    "avg_cost": 0.0345,
+    "cost_per_score": 0.1705
+  },
+  {
+    "model": "Grok 4 Fast Reasoning",
+    "mode": "without_tools",
+    "majority_vote": 0.191,
+    "pass_at_1": 21.3,
+    "pass_at_5": 23.6,
+    "avg_cost": 0.0006,
+    "cost_per_score": 0.0029
+  },
+  {
+    "model": "Kimi K2 Instruct",
+    "mode": "without_tools",
+    "majority_vote": 0.185,
+    "pass_at_1": 17.4,
+    "pass_at_5": 25.3,
+    "avg_cost": 0.0006,
+    "cost_per_score": 0.0033
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "mode": "without_tools",
+    "majority_vote": 0.174,
+    "pass_at_1": 16.9,
+    "pass_at_5": 24.7,
+    "avg_cost": 0.0003,
+    "cost_per_score": 0.0015
+  },
+  {
+    "model": "Qwen 3 235B",
+    "mode": "without_tools",
+    "majority_vote": 0.163,
+    "pass_at_1": 14.6,
+    "pass_at_5": 18.0,
+    "avg_cost": 0.0010,
+    "cost_per_score": 0.0061
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "mode": "with_tools",
+    "majority_vote": 0.567,
+    "pass_at_1": 57.9,
+    "pass_at_5": 66.9,
+    "avg_cost": 0.2291,
+    "cost_per_score": 0.4037
+  },
+  {
+    "model": "Claude Opus 4",
+    "mode": "with_tools",
+    "majority_vote": 0.573,
+    "pass_at_1": 59.6,
+    "pass_at_5": 71.9,
+    "avg_cost": 1.1139,
+    "cost_per_score": 1.9439
+  },
+  {
+    "model": "Claude Opus 4.1",
+    "mode": "with_tools",
+    "majority_vote": 0.563,
+    "pass_at_1": 56.3,
+    "pass_at_5": 69.0,
+    "avg_cost": 0.9357,
+    "cost_per_score": 1.6614
+  },
+  {
+    "model": "DeepSeek R1",
+    "mode": "with_tools",
+    "majority_vote": 0.174,
+    "pass_at_1": 26.4,
+    "pass_at_5": 54.5,
+    "avg_cost": 0.0121,
+    "cost_per_score": 0.0695
+  },
+  {
+    "model": "DeepSeek V3.1",
+    "mode": "with_tools",
+    "majority_vote": 0.492,
+    "pass_at_1": 55.9,
+    "pass_at_5": 71.2,
+    "avg_cost": 0.0216,
+    "cost_per_score": 0.0438
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "mode": "with_tools",
+    "majority_vote": 0.371,
+    "pass_at_1": 39.3,
+    "pass_at_5": 62.4,
+    "avg_cost": 0.0070,
+    "cost_per_score": 0.0190
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "mode": "with_tools",
+    "majority_vote": 0.449,
+    "pass_at_1": 49.4,
+    "pass_at_5": 61.2,
+    "avg_cost": 0.0407,
+    "cost_per_score": 0.0906
+  },
+  {
+    "model": "GPT-4.1",
+    "mode": "with_tools",
+    "majority_vote": 0.466,
+    "pass_at_1": 51.7,
+    "pass_at_5": 60.7,
+    "avg_cost": 0.0913,
+    "cost_per_score": 0.1958
+  },
+  {
+    "model": "GPT-4o",
+    "mode": "with_tools",
+    "majority_vote": 0.303,
+    "pass_at_1": 50.0,
+    "pass_at_5": 55.6,
+    "avg_cost": 0.0909,
+    "cost_per_score": 0.2997
+  },
+  {
+    "model": "GPT-5",
+    "mode": "with_tools",
+    "majority_vote": 0.674,
+    "pass_at_1": 70.2,
+    "pass_at_5": 77.0,
+    "avg_cost": 0.1154,
+    "cost_per_score": 0.1712
+  },
+  {
+    "model": "GPT-o3",
+    "mode": "with_tools",
+    "majority_vote": 0.534,
+    "pass_at_1": 59.6,
+    "pass_at_5": 73.6,
+    "avg_cost": 0.1047,
+    "cost_per_score": 0.1962
+  },
+  {
+    "model": "GPT-OSS 120B",
+    "mode": "with_tools",
+    "majority_vote": 0.629,
+    "pass_at_1": 56.2,
+    "pass_at_5": 72.5,
+    "avg_cost": 0.0066,
+    "cost_per_score": 0.0104
+  },
+  {
+    "model": "Grok 4",
+    "mode": "with_tools",
+    "majority_vote": 0.449,
+    "pass_at_1": 52.2,
+    "pass_at_5": 66.9,
+    "avg_cost": 0.1980,
+    "cost_per_score": 0.4405
+  },
+  {
+    "model": "Grok 4 Fast Reasoning",
+    "mode": "with_tools",
+    "majority_vote": 0.612,
+    "pass_at_1": 57.9,
+    "pass_at_5": 71.9,
+    "avg_cost": 0.0098,
+    "cost_per_score": 0.0160
+  },
+  {
+    "model": "Kimi K2 Instruct",
+    "mode": "with_tools",
+    "majority_vote": 0.472,
+    "pass_at_1": 46.6,
+    "pass_at_5": 64.6,
+    "avg_cost": 0.0273,
+    "cost_per_score": 0.0579
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "mode": "with_tools",
+    "majority_vote": 0.242,
+    "pass_at_1": 30.3,
+    "pass_at_5": 64.6,
+    "avg_cost": 0.0031,
+    "cost_per_score": 0.0129
+  },
+  {
+    "model": "Qwen 3 235B",
+    "mode": "with_tools",
+    "majority_vote": 0.367,
+    "pass_at_1": 38.4,
+    "pass_at_5": 61.0,
+    "avg_cost": 0.0062,
+    "cost_per_score": 0.0170
+  }
+]

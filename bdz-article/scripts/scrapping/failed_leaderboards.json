@@ -1,0 +1,4146 @@
+[
+  {
+    "url": "https://huggingface.co/spaces/0x1668/open_llm_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/0x9/finetuning_subnet_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/0x9/pretraining-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/1tbfree/LeaderboardTest",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/21world/bigcode-models-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/21world/chatbot-arena-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/3DTopia/3DGen-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AE1999/leaderboard_yourbench_AE1999_yourbench_test2",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AI-Vietnam/prompt-translation-vie-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AI4Math/IneqMath-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AIEnergyScore/Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AIM-Harvard/rabbits-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AIR-Bench/leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AIR-Bench/leaderboard_backend",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AISport/AI-Sport-models-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/APINOW-service/leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ARtOrias11/App_Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AV-Odyssey/AV_Odyssey_Bench_Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Aarifkhan/leaderboard-results-to-modelcard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AbnormalDocs/Medical_NLP_Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Adeco/open_llm_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Adeco/open_medical_llm_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Adeco/rabbits-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Ai-Pro/Open_LLM_Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AiCoderv2/Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Aiera/aiera-finance-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Akulyat/kvpress-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AlcaJack/neuroglow-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Alfasign/open_llm_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Amanvp/rank-shine-the-glorious-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AmenRa/guardbench-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AndrewNanu-app/leaderboard_yourbench_AndrewNanu-app_brushy-creek",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AngoHF/ANGO-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Ankit23116/Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ArtificialAnalysis/Music-Arena-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ArtificialAnalysis/Speech-Arena-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ArtificialAnalysis/Video-Generation-Arena-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AssistantBench/leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Atharv756/leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard-Extend",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Auto-Arena/Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AutoBench/AutoBench-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Autonomous-Scientific-Agents/chemgraph-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/AyushM6/leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/BAAI/MVRB_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/BAAI/open_cn_llm_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/BAAI/open_flageval_vlm_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/BUT-FIT/EMMA_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/BabyLM-community/babylm-leaderboard-2025-all-tasks",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Beijing-AISI/Panda-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Beijing-AISI/PandaGuard-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Bekhouche/ImageNet-1k_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/BeyondHsueh/ReliableMath-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Bgswahyup/leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Bias-Leaderboard/leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/BjornMelin/leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Booking-com/rectour24-review-ranking-leaderboard-test",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/BounharAbdelaziz/Open-Arabic-Dialect-Identification-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Bowieee/StructEval_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CALCS2025/leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CCPowersports/scoresync-leaderboard-wizard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CDT-BMAI-GP/biomed_probing_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CIIRC-NLP/czechbench_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CVPR/Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Canstralian/Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CathieDaDa/LLM_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CathieDaDa/LLM_leaderboard_en",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CathieDaDa/Reasoning_Capability_Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CathieDaDa/Reasoning_Capability_Leaderboard_en",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CathieDaDa/image_understanding_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ChaosCraftAI/llm-perf-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CharlotteHan/car-risk-classification-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ChenYi99/EgoPlan-Bench_Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ChillThrills/Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Classroom-workshop/assignments-leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CodeGoat24/UniGenBench_Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CodeGoat24/UniGenBench_Leaderboard_Chinese",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CodeGoat24/UniGenBench_Leaderboard_Chinese_Long",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CodeGoat24/UniGenBench_Leaderboard_English_Long",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Cognitive-Lab/indic_llm_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CraftJarvis/Minecraft-VLM-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Crisp-Unimib/ITALIC-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CultriX/Alt_LLM_LeaderBoard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CultriX/Tiny-LeaderBoard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/CultriX/open_medical_llm_leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DBD-research-group/BirdSet-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DEADLYFEET1001/leaderboard-legends",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DEEPCALL-tech/Dr-Yohann-Missiak-Healthcare-Medical-FAIRNESS-Discrimination-Leaderboard-EU-PUBLIC",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DEEPCALL-tech/Dr-Yohann-Missiak-Medicine-Genetics-LLM-EVAL-LEADERBOARD",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DEEPCALL-tech/Dr-Yohann-Missiak-Medicine-LEADERBOARD-Private-Evals",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DFBench/Leaderboard-Image-2025",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DFBench/Leaderboard-Speech-2025",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DR4G4NS/leaderboard_yourbench_DR4G4NS_RoxBench",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DataAttributionEval/DATE-LM-Leaderboard",
+    "error": "no_leaderboard_table"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DavidVivancos/MindBigData-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Davlan/msteb_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Deddy/Best-LLM-and-AI-chatbots-leaderboard-UPDATED",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Deddy/leaderboard-popular-spaces",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DeepBrainz/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Deepmama/LLM-FR_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DippyResearch/dippy-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Docfile/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/DynamicSuperb/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ECCV2022/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ESpeech/open_tts_leaderboard_ru",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/EffiBench/effibench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/EmbodiedAgentInterface/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Enderchef/AI-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Enderchef/LM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Enderchef/NPFL-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Eosforus/stickman-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/EuroEval/euroeval_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/EuroPython2022/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/EuroSciPy2022/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Eurolingua/european-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Exploration-Lab/BookSQL-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Exploration-Lab/IL-TUR-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/FSMBench/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Fadil369/LEADERBOARD",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Fallomai/pathfinding-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Fancyssc/open_ethics_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Forrest-Gao/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/FreeProtect/leaderboard-test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/FrontierAICybersecurity/Cybersecurity_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/GPTEval3D/Leaderboard_dev",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/GenSEC-LLM/task2_speaker_tagging_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/HARRY07979/Search-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/HPAI-BSC/TuRTLe-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Heartsync/Papers-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/HeshamHaroon/Arabic-Function-Calling-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/HiTZ/Critical_Questions_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/HiddenRAD/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/HuggingFaceH4/human_eval_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/HuggingFaceVLA/libero-vla-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ICML2022/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/IndoorOutdoor/Indoor-Outdoor-Detection-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Infin/ai-detection-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Infin/sn32-testnet-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/InfiniAILab/GSM-Infinite-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/InstaDeepAI/mlipaudit-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Intel/low_bit_open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Intel/powered_by_intel_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/InternScience/SGI-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/InternScience/SciEval-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/IqraEval/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/IronaAI/hindi_asr_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/JMMMU/JMMMU_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/JarvisKi/Stable_Tool_Bench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Jipriel/leaderboard_yourbench_Jipriel_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/JixinLi/leaderboard_yourbench_JixinLi_resume_demo",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/JoeNakmaura1204/leaderboard_yourbench_JoeNakmaura1204_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/JunNK/leaderboard_yourbench_JunNK_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/KG0101/Diagnosis_Please-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/KL4805/shopping_mmlu_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/KPR-Hockey/GameScore-LeaderBoard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Kaiyue/T2V-CompBench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Kinguyen/Llama-3-8B_model_leaderboardtest",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/KirillWinCode/rankrush-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Knarc/billionaire-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/KoLMogorov-Test/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Korean-AI-Malpyeong-Leaderboard/Korean-AI-Malpyeong-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Koshti10/clem-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Koshti10/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Koshti10/multimodal-clem-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Krisseck/IFEval-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Kvikontent/open-text2image-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LDCC/vision_studio_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LIMinghan/FiVE-Bench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LLM-Beetle/azerbaijani-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LLMsMaxEntRL/maxent-rl-eval-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LPX55/Deepfake-Detection-Leaderboard-v0",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LPX55/leaderboard_yourbench_LPX55_test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Laurie/leaderboard_yourbench_Laurie_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LeonardoChrtti2/farmhands-leaderboard-revamp",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LiangGou/leaderboard_yourbench_LeonGou_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Lihuchen/pearl_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LunaticHipster/leaderboard_yourbench_LunaticHipster_Codes_and_Stds",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Lyleregenwetter/BikeBench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/LyraxiZen/UGI-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Lyte/tokenizer-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MALIBA-AI/bambara-asr-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MCINext/mizan-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MERaLiON/AudioBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MERaLiON/SeaEval_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MIMIC-CDM/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MJ-Bench/MJ-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MLE-Dojo/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MLSB/leaderboard2024",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MM-UPD/MM-UPD_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MMIE/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MMTU-benchmark/mmtu-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MTSAIR/ru_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MVLLL/Multi-view-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Mandoline/Refusals-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Maqsam/Arabic_PII_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MarcAmil/gLM_Genomic_Leaderboard_Model",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Marexx/leaderboard_yourbench_Marexx_web_data",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MasterANK/Escape-Protocol-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Mat289374/leaderboard_yourbench_Mat289374_yourbench111",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MatinaAI/persian_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MaziyarPanahi/FACTS-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/McGill-NLP/msteb_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/McGill-NLP/safearena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Mehrdad-S/Persian_embedding_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Merlintxu/leaderboard_yourbench_Merlintxu_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MichiganNLP/Chumor-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MoElgouhary/Deep-Reinforcement-Learning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MohamedRashad/arabic-tokenizers-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/MohamedRashad/timm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Mollel/swahili-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/NAACL2022/Spaces-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/NAMAA-Space/English-to-Egyptian-Arabic-Translation-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/NAMAA-Space/SAFIR-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/NLP-UNED/dipromats2024-task2-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Naphula/Compliance-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Natchapat/leaderboard_yourbench_Natchapat_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Navid-AI/The-Arabic-RAG-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/NeoDiscovery/Neoantigen_Immunogenicity_Prediction_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/NexaAI/domain_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/NextGenWhu/DITING-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Nionio/leaderboard-test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Nymbo/LeaderboardsExplorer",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Nymbo/Space-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Nymbo/followers-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Nyx-Soulkyn/Soulkyn-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard-v1",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Olivew/NPPC-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Open-Style/OSQ-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/OpenEvals/find-a-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/OpenGenAI/parti-prompts-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PANZL/RBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PCA-Bench/PCA-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PIA-SPACE-LAB/PIA-SPACE_LeaderBoard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PKU-Alignment/EvalAnything-LeaderBoard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PKU-Alignment/ProgressGym-LeaderBoard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PL-MTEB/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ParsBench/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PartAI/open-persian-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PartAI/pteb-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PatrickHaller/pecc-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PatronusAI/BLUR-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PeepDaSlan9/B2BMGMT_chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Peiyan/GVAL-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PetruZetta/open_multilingual_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PisaBench/pisa-bench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/PlixAI/pixel-subnet-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ProcurementSciences/awardbench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ProlificAI/humaine-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/QCRI/aiXamine-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/RUCKBReasoning/spreadsheetbench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Randolphzeng/Meta-Reasoning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/RaoFoundation/pretraining-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Renegadesales/unified-health-heroes-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Rival0023/leaderboard_yourbench_Rival0023_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/SASLeaderboard/leaderboard_backend",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/SASLeaderboard/urology_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/SDTS666/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/SIGGRAPH2022/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Sahabat-AI/Sahabat-AI-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Sahana31/flex_fitness_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Sakalti/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Sakalti/Saka-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Salesforce/CRMArena-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Salesforce/ContextualBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Salesforce/crm_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/SanGabby/leaderboard_yourbench_SanGabby_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/SeaLLMs/LLM_Leaderboard_for_SEA",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Shitqq/Openness-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Short-Answer-Feedback/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/SisinfLab/multimodal-recommendation-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Slep/LRVSF-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/SmileXing/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Spagedicode/dna-seg-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/StarscreamDeceptions/Multilingual-MMLU-Benchmark-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Steveeeeeeen/Open_ASR_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Steveeeeeeen/open_asr_leaderboard_longform",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/SyntheRela/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/T145/open-llm-leaderboard-results-to-modelcard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TAG-Research/TAG-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TIGER-Lab/LongICL-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TIGER-Lab/MMEB-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TJStatsApps/2025_mlb_statcast_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TJStatsApps/spring_statcast_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TJStatsApps/statcast_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TJStatsAppsWP/2025_mlb_statcast_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TJStatsHockey/nhl_leaderboards",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TNE-AI/chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TabArena/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TachyHealth/open-r1-eval-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TachyHealth/open_medical_llm_leaderboard_by_openlifescienceai",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TemryL/LLM-Disease-Risk-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TencentBAC/SearchAgent_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Tenkoi/fitfrenzy-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TenzoAoki/skylexmc-tier-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Tesslate/UIGENEVAL-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ThaiLLM-Leaderboard/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Thanvish07/EB_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Thanvish07/Energy_Bench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TheFey/MNB-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TheFinAI/Open-FinLLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TheFinAI/Open-Greek-Financial-LLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TheFinAI/open-finllm-reasoning-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Tho22/leaderboard_yourbench_Tho22_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ThomasSimonini/Deep-Reinforcement-Learning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ThomasSimonini/Deep-Reinforcement-Learning-Leaderboard-test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Thvital/holyscore-divine-leaderboards",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TitanCAProject/TITAN-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TogetherAI/chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Tonic/leaderboard_yourbench_Tonic_ESMA-Auto-Bench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Tooru-Tooru/leaderboard_yourbench_Tooru-Tooru_yourbench-F1-1",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Tooru-Tooru/leaderboard_yourbench_Tooru-Tooru_yourbench-F1-2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Tooru-Tooru/leaderboard_yourbench_Tooru-Tooru_yourbench-F1-3",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TorpedoSoftware/Roblox-LLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ToughStone/ContextualBench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Trelis/leaderboard_yourbench_Trelis_touch-rugby-yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Trelis/leaderboard_yourbench_Trelis_yourbench-ait",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Trelis/leaderboard_yourbench_Trelis_yourbench-ait2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Trelis/leaderboard_yourbench_Trelis_yourbench-touch-rugby-2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/TwinDoc/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/UBC-NLP-C/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ULTRAPAO/Leaderboard-1365800000587-2025",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ULTRAPAO/leaderboard-hackaton-2025",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/UniVA-Agent/UniVA-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Ur-Local-Jay/LeaderboardOfFriends",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/UwUtismXD/MNB-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/V-STaR-Bench/V-STaR-LeaderBoard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/VGCQ/submission-template_test_for_submission_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/VIDraft/Space-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/VOIDER/UGI-Leaderboard-Presets",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Vare/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Vchitect/VBench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Vchitect/VBench_Leaderboard_backup",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Vikhrmodels/Russian_ASR_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Vyshnavi-k/leaderboard_yourbench_Vyshnavi-k_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Wemmbu/minecraft-iq-leaderboard-unleashed",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Werve/leaderboard_yourbench_Werve_ccnl",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Weyaxi/data-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Weyaxi/followers-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Weyaxi/huggingface-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Weyaxi/leaderboard-results-to-modelcard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Weyaxi/open-llm-leaderboard-renamer",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Wh1isper/mini-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Writer/Financial_LLM_Performance_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Wwwduojin/MLLM_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/XMMR12/demo-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Xueqing/Leaderboard-Template",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Xzazel/slither-roll-snake-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/YLab-Open/BRIDGE-Medical-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/YLab-Open/BRIDGE-OPEN-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/YT410/leaderboard_yourbench_YT410_SME-UG-StudyQA",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Yannael/leaderboard_yourbench_Yannael_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Yhhhhhhhhh/effibench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Yk8746/leaderboard-v2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/YouWuZi/leaderboard-popular-spaces",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Yuldoshev99/leaderboard_yourbench_Yuldoshev99_ifad-ar-2024-benchmark",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Yyy0530/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ZENLLC/ZEN_Hosted_Text-to-Image-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ZENLLC/chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ZENLLC/zen-chatbot-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/Zomba/Retinal-Vessel-Segmentation-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/a-ghorbani/ai-phone-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/aaadsdad/gangster-glory-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/aaekay/medical-classification-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/abidlabs/chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/abidlabs/mteb-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/agent-evals/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/agents-course/Students_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/agicommies/synthia_subnet_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ahmedheakl/CAMEL-Bench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ahmedheakl/SVRP-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ai-forever/LIBRA-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ai-forever/rag-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ai-shopping/ai-shopping-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/aialliance/GEO-Bench-2-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/aichampions/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/aiqtech/Contributors-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/aiqtech/Heatmap-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/aircpm2025/leaderboard_yourbench_aircpm2025_the_wandering_earth",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/airlsyn/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ajayyy12/vidwaan-celebrations-epic-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/akera/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/albertvillanova/open-llm-leaderboard-results-compare-json",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/albertvillanova/open-llm-leaderboard-results-explore-dataframe",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/albertvillanova/open-llm-leaderboard-results-explore-json",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/albertvillanova/tmp-ds-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alekgomez/leaderboard_yourbench_alekgomez_ExamenUMONS",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alekgomez/leaderboard_yourbench_alekgomez_IA_UMONS",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alekgomez/leaderboard_yourbench_alekgomez_budgetdef",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alekgomez/leaderboard_yourbench_alekgomez_methodenum",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alekgomez/leaderboard_yourbench_alekgomez_umons_sidi",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alekgomez/leaderboard_yourbench_alekgomez_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alexiptakis/tigerstake-leagues-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alibayram/turkish_mmlu_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/allenai/asta-bench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/allenai/super_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alvaro-francisco-gil/mentor-eval-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/alvations/test-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ameerazam08/Paper-LeaderBoard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/aminabbasi/psycholex_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/aminbaybon/persian_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/amu-cai/LLMZSZL_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/amu-cai/Open_Voice_Cloning_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/amu-cai/cameo-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/amu-cai/pl-asr-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/andrewrreed/leaderboard_yourbench_andrewrreed_nationalgrid-specs-for-electrical-installations-2024",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/anglesplato/Deep-Reinforcement-Learning-Leaderboard-V2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/anirudh937/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/anonymoussssssss/ThaiSafetyBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/antoineedy/demo-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ariakang/test_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/arshy/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/arshy/leaderboard-docker",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/arshy/leaderboard-gradio",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/artisticTuna2/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/asdfAda/leaderboard-labs",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/asdfasdfasdfadeeee/dle_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ashikshaffi08/Synthia_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ashikshaffi08/Zangief-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/asir0z/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/atahanuz/YKS2025_LLM_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/atlasas/bigcode-models-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/atlasia/DarijaLID-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/atlasia/darija-tokenizers-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/autoevaluate/leaderboards",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/autogenCTF/agent_ctf_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/automerger/Yet_Another_LLM_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/autorl-org/arlbench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/averoo/test-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/awacke1/CanAICode-Leaderboard-Customized",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/awacke1/Leaderboard-Deepseek-Gemini-Grok-GPT-Qwen",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/awacke1/lmsys-chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/b1sheng/kg_llm_leaderboard_test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/babylm/leaderboard-2024",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bangdedadi/TwinVoice-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/banglawiki/open_bd_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bartmch/leaderboard_yourbench_bartmch_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bdx33/GLUE-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/beepbeepbruh/UGI-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bench-llms/or-bench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/besenkmehmet/leaderboard_yourbench_besenkmehmet_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bgamazay/Leaderboard_test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bharatgenai/BhashaBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bhaskartripathi/llm_leaderboards360",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/birder-project/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bitmind/dfd-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bitopsy/AGI-questions-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bittensor-dataset/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bjoffe/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/blacksunfm/BinaryLLM_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bloodyopium/datavanguard-leaderboard-rag-arena",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bodieedelbach/attractrank-local-beauty-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/boyiwei/CoTaEval_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/braindao/soliditybench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/burkimbia/leaderboard-asr",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/burkimbia/leaderboard-mt",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/burkimbia/leaderboard-speech",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/burtenshaw/distributed-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/bytedance-research/Web-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/c7flat13-2/toxic-love-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/caliangandrew/dfd-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/caliangandrew/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cambioml/parser-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/carlos123santos/leaderboard_yourbench_carlos123santos_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cautiousShads0/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cdavm/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cess-nuffield-oxford/ai-social-science-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/chan030609/muse_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/charlesellenburg/object_detection_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cheerfulMussel9/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/chentong00/CopyBench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/choco9966/open-ko-llm-leaderboard-old",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/christophercosgrove/smolagents-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/chuxuecao/Leaderboard-test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/colab-potsdam/clem-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/colab-potsdam/multimodal-clem-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/comfortably-dumb/dedeucebench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/consumerarena/consumerarena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cpayne1303/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cruelBobolink8/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/crynux-ai/genki-dama-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cyberco/CAIA-Benchmark-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cyberco/CAIA_0927_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cynicalChough9/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/cynicalCoati6/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/d0rj/romb-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/d2dgod/aquachampions-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/d2dgod/aquatrack-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/d2dgod/knock-knock-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/d2dgod/solar-sales-leaderboard-hub",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/david-thomas/leaderboard_yourbench_david-thomas_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dawnbeckem/Text-to-Image-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dawood/mini_leaderboard_main",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dbasu/multilingual-chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dbenayou/LeaderBoardTest_Gradio",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/deep-analysis-research/open-japanese-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/deepcode-ai/deepcode-models-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/deepdml/open_universal_arabic_quranic_asr_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dejectedLapwing0/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/demo-crafters/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/demo-leaderboard-backend/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/deprem-ml/intent-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/deprem-ml/intent-leaderboard-v13",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/devingulliver/subquadratic-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dimbyTa/open-llm-leaderboard-viz",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dongXL/leaderboard_yourbench_dongXL_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/doubao-bench/web-bench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/double-ai/FormulaOne-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dprat0821/sample-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dreambooth-hackathon/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/driller/agent-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/dtcxzyw/llvm-apr-benchmark-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/duckdb-nsql-hub/DuckDB-NSQL-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/duguyue100/leaderboard_yourbench_duguyue100_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/e2lmc-competition/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/echo840/ocrbench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ecstaticRelish9/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/eduagarcia-temp/portuguese-leaderboard-results-to-modelcard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/egekabapinar/leaderboard_yourbench_egekabapinar_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/elmresearchcenter/open_universal_arabic_asr_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ema-arte/LRS-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/emwebaze/SB_ASR_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/enigma-data/kybvals-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/enochsj/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/enragedSyrup4/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/esb/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/euphoricMandrill5/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/evalitahf/evalita_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/evilfreelancer/msnp-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/evilfreelancer/rrr-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/facebook/fairchem_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/facebook/physical_reasoning_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/fangyali/leaderboard_yourbench_fangyali_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/fantaxy/AGI-LEADERBOARD",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/fantaxy/Model-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/fantaxy/Space-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/fantos/Heatmap-Leaderboard-KOREA",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/fdeniz/safety-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/felixz/meta_open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/felixz/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/fenglinliu/medical_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/fgazan/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/filbench/filbench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/financebench/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/finosfoundation/Open-Financial-LLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/flash-36/leaderboard_yourbench_flash-36_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/fr-gouv-coordination-ia/llm_leaderboard_fr",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/freddyaboulton/gradio_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/freddyaboulton/gradio_leaderboard_demo",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/frimelle/companionship-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/g8a9/fair-asr-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/galileo-ai/agent-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gaojiaran/LeaderBoard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gbalaji/leaderboard_yourbench_gbalaji_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gblazex/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gfvcd/sample-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/giddyChowder6/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ginkgo-datapoints/abdev-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/girishf/leaderboard_yourbench_girishf_worldcup2025dataset",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/girishf/leaderboard_yourbench_girishf_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/girishkalesh/leaderboard_yourbench_girishkalesh_worldcup2025dataset",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/giux78/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gleefulPorpoise0/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/glitchbench/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gmmcleod/leaderboard2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gmmcleod/leaderboard3",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gorilla-llm/berkeley-function-calling-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gperdrizet/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gradio-templates/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/grahamom/leaderboard_yourbench_grahamom_yourbench-rc-doc-demo",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gsaivinay/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/guanyu615/BMMR_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/guanyu615/MMMR_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/guanyu615/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/guanyu615/test_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/guppie1015/golf-masters-leaderboard-hub",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/gutturalSalami6/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hSterz/leaderboard2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hackathonM/Roleplay_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hamedkhaledi/IRUEX_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/haroldmiller/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hasan-trash/leaderboard_yourbench_hasan-trash_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hasan7n/leaderboardbackend",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hebrew-llm-leaderboard/chat-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hebrew-llm-leaderboard/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/heiditeng25/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/heiditeng25/leaderboard2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/heiditeng25/leaderboard3",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/heig-vd-geo/GridNet-HD-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hf-skills/distributed-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hf-skills/hacker_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hf-vision/object_detection_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hivex-research/hivex-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hjzhou/chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hmb/chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hmb/chatbot-arena-leaderboard2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hmb/leaderboard_dataframe",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/homunculus/Deep-Reinforcement-Learning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hou12q/sample-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hoyinleo/leaderboard-backend",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/huggingface-projects/Leaderboard-Restart",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hugginglearners/Hearts_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hungyilee/SpeechLLM_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hungyilee/spoken-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/huph22/Deep-Reinforcement-Learning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/hynky/hynek_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/iberbench/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ichigoberry/Yet_Another_LLM_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/idsudd/open_asr_leaderboard_cl",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/igmeMarcial/leaderboard_yourbench_igmeMarcial_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/inceptionai/Arabic-Leaderboards",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/inceptionai/X-Risks-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/innerspeech/open-speechbci-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/innocentLlama1/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/instructkr/LogicKor-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/instructkr/ko-chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/iproskurina/dike-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/issf/linearhead-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ivrit-ai/hebrew-transcription-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jablonkagroup/ChemBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jablonkagroup/MaCBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jakal24/leaderboard_yourbench_jakal24_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jatinganhotra/swe-bench-verified-discriminative-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jax-diffusers-event/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jcuenod/lrl-mt-bible-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jenesys-ai/ai_bookkeeper_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jerome-white/leaderboard-item-response",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jialicheng/MU-Bench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jisu82/Nexus_Function_Calling_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/joyceoneill/agent-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/joymcfalls/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jszheng/RACE_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/juancauma/TD-EVAL_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/juancauma/maxima-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/juancauma/rome-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/juancauma/td-eval-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jubilantCrane9/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/juncliu/demo_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/junkim100/self-improving-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/justus-tobias/Open_ASR_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/jwilles/leaderboard-test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/k8si/mteb_leaderboard_mtr",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kalkhorayef/open_universal_arabic_asr_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kangshijia/NUPA-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kbmlcoding/open_llm_leaderboard_free",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/keras-dreambooth/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kevinconka/leaderboard-test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kevinpro/Open-Multilingual-Reasoning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kevinwang676/ocrbench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/khhuiyh/AutoEval-Video_LeaderBoard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ki-medizin/medical_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kilian-group/arxiv-classifier-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kilian-group/arxiv-classifier-leaderboard-backend",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kimw/open-ko-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kitab-bench/KITAB-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kluster-ai/LLM-Hallucination-Detection-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/knt0613/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kostis-init/CP-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kotohogi5/leaderboard_yourbench_kotohogi5_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kunato-lab/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/kunli-cs/MA-52_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/la-leaderboard/la-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lake-synctv/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lakhera2023/IdeaWeaver-Kubernetes-LLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lakhera2023/ideaweaver-devops-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lanwudawn/bigwork1-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lataon/Phoneme_Detection_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/launch/ManyICLBench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/laurahicks/companionship-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lczerolens/puzzles-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/leaderboardzzl/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/leggedrobotics/navitrace_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/legolasyiu/EpistemeAI-open-r1-eval-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/leukas/cute_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lindamccoy/open_tts_leaderboard_ru",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lindaritchie/open_vlm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ling99/OCRBench-v2-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lingxiaoduan/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/liujiaxiang/sample-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/livecodebench/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/llm-jp/open-japanese-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lmarena-ai/lmarena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lmarena/chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lmms-lab-si/EASI-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/locuslab/tofu_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/logikon/open_cot_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/logits-blog/cot-spanish-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/longcodeu/longcodeu-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/longdiyao/sample-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lovesickCaviar6/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/loveu-tgve/loveu-tgve-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/lovodkin93/FuseReviews-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ltelte999/Contributors-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ludwigstumpp/llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/luel/msteb_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/m42-health/clinical_ner_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/m4rtemyanovm/sales-champions-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/macixcn/kvpress-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/macrocosm-os/finetuning-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/macrocosm-os/pretraining-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/makarismov/ai-safety-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mangopy/ToolRet-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/maplebb/UniREditBench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/margretsmith/open_asr_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/maum-ai/KOFFVQA-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/maxbsdv/leaderboard_yourbench_maxbsdv_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/meddaly/naija-influence-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/meg/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/meldynamics/lt-whisper-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mellowJaguar7/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/meta-agents-research-environments/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mib-bench/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/microsoft/MageBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mideind/icelandic-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mii-llm/open_ita_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mii-llm/pinocchio-ita-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ministere-culture/comparia-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/miracl-benchmark/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mirageco/Finos-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mirageco/Open-FinLLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/miyuna/leaderboard_yourbench_miyuna_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ml-energy/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ml-jku/chemsets_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ml-jku/molecularIQ_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ml-jku/tox21_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mlfoundations-cua-dev/leaderboard-viewer",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mlfoundations/VisIT-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mmkkkaa/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mrfakename/open-leaderboards-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ms180/draft_espnet_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/msalhab96/open_universal_arabic_asr_leaderboard_all",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mshamrai/KAU-RL-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mteb/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mteb/leaderboard_dev",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/mteb/leaderboard_legacy",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/muneshmeena/branch-champions-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/murkyHeron8/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/murkyPepper4/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/muse-bench/MUSE-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/myshell-test/tts-subnet-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nan/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nancygalvan/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nanoman1/lizard-kernel-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/naruto169/Chatbot-Arena-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/navidved/open_persian_asr_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/needfulCheetah7/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/neelalex/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nesticot/2025_mlb_statcast_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/neurotechnology/open-lithuanian-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nexar-ai/nexar-driving-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nikshep01/IL-TUR-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nlpetprolific/user-experience-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nlphuji/WHOOPS-Leaderboard-Full",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nnilayy/Deep-Reinforcement-Learning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nnilayy/Deep-Reinforcement-Learning-Leaderboard-1",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nnilayy/powered_by_intel_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nookbe/german_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/not-lain/solidity-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nouamanetazi/mteb-leaderboard-old",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nova-ai-labs/NovaMind-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nutrientdocs/LLM-PII-Detection-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nvidia/Speech-IQ-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nvidia/kvpress-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nvidia/llm-robustness-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nvidia/lotus-vlm-bias-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/nyunai/edge-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/obadx/qdat_bench_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/occiglot/euro-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/oggata/gracio-leaderboard-demo",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/omlab/open-agent-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/onekq-ai/WebApp1K-models-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/open-r1/open-r1-eval-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/open-rl-leaderboard/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/CompassAcademic-Leaderboard-Full-Version",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/Compass_Academic_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/Open_LMM_Reasoning_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/compassjudger_subj_eval_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/judgerbench_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/medbench_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/opencompass-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/openlmm_spatial_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/openlmm_subjective_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opencompass/openvlm_video_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openeurollm/LLM-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openfree/Commits-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openfree/Creative-Arena-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openfree/Korea-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openfree/Korean-Exam-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openfree/Korean-Leaderboard-backup1",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openfree/Korean-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openfree/Papers-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/openskyml/diffusion-models-leaderboard-template",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opi78901/Text-to-Image-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opioidarchive/argilla-image-preference-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/opll-org/Open-Persian-LLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/optimum/llm-perf-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/orbtailwaves23/open_dutch_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/orinnebula/HF_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/orinnebula/hf3_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/orinnebula/test_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/orionai/model-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/osanseviero/llama-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/osl-ai/leaderboard_yourbench_osl-ai_Artscape",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/oslook/chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/osunlp/Online_Mind2Web_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/otellm/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/otellm/open-telecom-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ought/raft-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/outlyingDunbird2/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/outlyingUnicorn1/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/patrickvonplaten/parti-prompts-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/paulml/Yet_Another_LLM_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/philipbown/lmarena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/philipp-zettl/whisper-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pidipirmansyah/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pkalkman/Deep-Reinforcement-Learning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pkalkman/leaderboard-updater",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/platzi/platzi-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pngwn/2024_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pngwn/2024_Leaderboard_again",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pngwn/LeaderboardsExplorer",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pngwn/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pngwn/open_llm_leaderboard-check",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/pngwn/open_llm_leaderboard_two",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/polats/gradio-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/porinhaoriginal/leaderboard_yourbench_porinhaoriginal_skriptbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/prayerdan/RagLLM_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/preslaff/Deep-Reinforcement-Learning-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/prometheus-eval/BiGGen-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/psoubrie/leaderboard_yourbench_psoubrie_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/puzzledCheese6/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/q-future/Q-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/q275343119/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/qanta-challenge/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/qiantong-xu/toolbench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/quadjo/zoomtime-leaderboard-pro",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/racineai/Open-VLM-Retrieval-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/radiata-ai/brain2vec_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ramiroluo/LLMHallucination_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ratnadiraw/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ratnadiraw/open_medical_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/reach-vb/leaderboards",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/relbench/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/resolvedPiglet2/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ricdomolm/caselawqa_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/rishitdagli/airletters-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/riui801908/OCRBench-v2-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/rntc/leaderboard-test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/robertduarte/UGI-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/rodrigomasini/data_only_enterprise_scenarios_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/rodrigomasini/data_only_hallucination_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/rodrigomasini/data_only_llm_trustworthy_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/rodrigomasini/data_only_open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/rombodawg/Open-Schizo-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ronanarraig/leaderboard_yourbench_ronanarraig_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/rstless-research/italian_open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sachAI7/leaderboard_yourbench_sachAI7_SwissEquestrian-poc",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sachAI7/leaderboard_yourbench_sachAI7_SwissEquestrian-poc2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/saeedfarzi/MediLingua_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/saeedfarzi/eCREAM_LLM_Leaderboard_Beta",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/saeedfarzi/trail_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/safe-challenge/leaderboard-public",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/safe-challenge/video-challenge-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sai9949/Gradio-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sakaltcommunity/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sakaltcommunity/Saka-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/saleml/babyai-ml8103-leaderboard-2026",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sam-paech/EQ-Bench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/samNakamoto/nya-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/samNakamoto/yama-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sanchit-gandhi/leaderboards",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/saneowl/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sapienzanlp/ea-mt-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sartifyllc/Swahili-Text-Embeddings-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sartifyllc/Swahili_LLM_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sasha/leaderboard_yourbench_sasha_ipcc-eval-new",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sasha/leaderboard_yourbench_sasha_ipcc_docs_test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sasha/leaderboard_yourbench_sasha_ipcc_full_eval",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sasha/leaderboard_yourbench_sasha_who2024report",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sasha/leaderboard_yourbench_sasha_worldbank2024report",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/scb10x/multimodal-hallucination-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sealical/PhysCodeBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/seawolf2357/Heatmap-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/seawolf2357/leaderboard_llm_price",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sebakc/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/seikwan/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sergak0/ai-detection-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/shayasd/SearchAgent_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sheepishTuna9/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/shezamunir/test-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/shi-labs/physical-ai-bench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/shivay00001/UGI-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/shiwan7788/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/shiwan7788/leaderboard-uni",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/silma-ai/Arabic-LLM-Broad-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/similarSnail6/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/singhsidhukuldeep/posts_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/siro1/amd-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/siro1/kernelbot-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/skadio/text2zinc-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/skyleraiguy/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sled-umich/3D-POPE-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/smainye/AQI_leaderboard_NBO",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/smol-course/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/smolagents/smolagents-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/smothiki/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/smothiki/open_llm_leaderboard2",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/smothiki/open_llm_leaderboard_old",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/snap-stanford/stark-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/solemnMussel8/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/somberCheetah1/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/somosnlp-hackathon-2023/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/somosnlp/leaderboard-hackaton-2025",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/somosnlp/likes_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/songlab/TraitGym-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sovanleng/leaderboard_yourbench_sovanleng_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/speakleash/european_leaderboard_bielik",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/speakleash/open_pl_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/speakleash/polish_medical_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/speech-recognition-community-v2/Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sq66/leaderboard_legacy",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sronger/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/stabletoolbench/Stable_Tool_Bench_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/starmorph/open_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/stemdataset/stem-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/stevenmorton/turkish_mmlu_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/stevevaius/leaderboard_yourbench_stevevaius_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/studentistest/timewarp-leaderboard-legends",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sudoping01/bam-asr-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sultanfaizar/predictmaster-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sunghepfer/physical_reasoning_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/sureshimprint/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/taresco/open_african_languages_eval_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/tautChough0/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/terrytrevino/CRMArena-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/tfrere/leaderboard-parser-agent",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/thinszx/open_vlm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/thrilledBobolink1/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/timm/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/toloka/u-math-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/tomarni/open_pl_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/tonymwt/LVU_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/travian777/open_dutch_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ucla-contextual/contextual_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/uiuc-convai/TD-EVAL_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/uonlp/open_multilingual_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/upstage/ko-freshqa-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/valory/olas-prediction-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/vectara/Hallucination-evaluation-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/vectara/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/vector-institute/eval-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/verilog-llm/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/vidore/vidore-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/vietgpt/VLLMs-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/vinid/kable-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/visual-riddles/Visual-Riddles-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/vivekvermaiit/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/vlsp-2023-vllm/VLLMs-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/vsd-benchmark/vsd_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/w601sxs/SLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/wakefulLlama3/DeepResearch-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/wangrongsheng/RS-Medical-LLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/wangty22/open_medical_llm_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/wasertech/open_asr_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/weizhenbian/leaderboard_yourbench_weizhenbian_yourbench",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/wenhu/Science-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/whisper-event/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/whitphx/transformersjs-bench-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/whitphx/transformersjs-performance-leaderboard-backend",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/williamwark/malaysian-embedding-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/winglian/finetuning_subnet_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/wisent-ai/UncensorBench-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/wishwork/Persian-LLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/wissamantoun/arabic-tokenizers-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/wzxii/Memorization-or-Generation-of-Big-Code-Models-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/xiaozheyao/Efficient-LLM-Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/xin0920/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/xinnn32/noderank-leaderboard-dashboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/xtreme-s/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yajuniverse/BlinkCode_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yanirmr/hebrew-ASR-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yaz23/leaderboard-poc",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ybjeong/leaderboard_kr",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ybjeong/leaderboard_kr_static",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yentinglin/open-tw-llm-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yentinglin/zhtw-reasoning-eval-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yeqingzhao/open-ko-llm-leaderboard-old",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yesyesw/epic-leaderboard-dashboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yjernite/leaderboard_yourbench_yjernite_yourbench-ipcc-QA",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/you2who/leaderboard_test",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/youzhatudou/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/ysdede/turkish_asr_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yulianashakhvalievaaa/leaderboard-dev",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yutohub/japanese-chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/yzeng58/CoBSAT_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zein123/leaderboard123",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zera09/Efficient_VLM_Leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zeyad-mansour/lmarena-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zhangzw16/ProbTS_leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zhaorui-nb/de-identification-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zhenghaozhu/llm-hkmmlu-leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zhiminy/awesome-large-AI-model-leaderboard-search",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zhouzl/leaderboard",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zures69/gamesphere-unleashed-leaderboards",
+    "error": "status_code_429"
+  },
+  {
+    "url": "https://huggingface.co/spaces/zweifisch/chatbot-arena-leaderboard",
+    "error": "status_code_429"
+  }
+]

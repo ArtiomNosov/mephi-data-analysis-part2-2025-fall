@@ -1,0 +1,97 @@
+dataset,subset,modality,model,score,se,metric
+Mendelian traits,All,Zero-shot,CADD,0.7121847808331817,0.0384478771586992,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,CADD,0.6940837189931337,0.0234811157134514,AUPRC
+Mendelian traits,All,Zero-shot,GPN-MSA,0.6944749707632801,0.0419068884991881,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,GPN-MSA,0.688384396309609,0.0231876708027866,AUPRC
+Mendelian traits,All,Zero-shot,Enformer,0.4182136158421484,0.036752253751883,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,Enformer,0.3795083114426378,0.0241912996488739,AUPRC
+Mendelian traits,All,Zero-shot,Borzoi,0.4355656136169956,0.0515970042833217,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,Borzoi,0.4113764643246665,0.0235202593524466,AUPRC
+Mendelian traits,All,Zero-shot,GPN-Promoter,0.4216763931462392,0.0696638713065584,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,GPN-Promoter,0.4149916150209518,0.0240016430935816,AUPRC
+Mendelian traits,All,Zero-shot,NT,0.1876440479025814,0.022908295350402,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,NT,0.1495144110054476,0.011415773103193,AUPRC
+Mendelian traits,All,Zero-shot,HyenaDNA,0.1648169866140681,0.031015495478498,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,HyenaDNA,0.1218312106695442,0.0073615183121713,AUPRC
+Mendelian traits,All,Zero-shot,Caduceus,0.1348979849349413,0.0090447075751751,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,Caduceus,0.113874964184974,0.0073635858923064,AUPRC
+Mendelian traits,All,Zero-shot,Sei,0.2910748849534799,0.0268680094559574,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,Sei,0.2417628538383958,0.0199853632664993,AUPRC
+Mendelian traits,All,Zero-shot,SpeciesLM,0.3271058971491111,0.028514046890249,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,SpeciesLM,0.2959191158354045,0.0223351349572341,AUPRC
+Mendelian traits,All,Zero-shot,AIDO.DNA,0.173425849465225,0.0167672003888293,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,AIDO.DNA,0.138446186455716,0.0074024812707011,AUPRC
+Mendelian traits,All,Zero-shot,Evo2 1B,0.2544122656681232,0.0261587937428827,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,Evo2 1B,0.2140538721690102,0.0173973702557503,AUPRC
+Mendelian traits,All,Zero-shot,Evo2 7B,0.3849223418865337,0.0648242069694169,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,Evo2 7B,0.3805541928670587,0.0266784226891062,AUPRC
+Mendelian traits,All,Zero-shot,Evo2 40B,0.5565372191993592,0.05117276390136,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,Evo2 40B,0.533905952631976,0.0258256795675611,AUPRC
+Mendelian traits,All,Zero-shot,phyloP-100v,0.6548314743518011,0.0430791418018165,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,phyloP-100v,0.6525822262306776,0.0275752815025286,AUPRC
+Mendelian traits,All,Zero-shot,phyloP-241m,0.695963582170531,0.0398134347776414,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,phyloP-241m,0.6731957080008781,0.025559319157285,AUPRC
+Mendelian traits,All,Zero-shot,phastCons-43p,0.5274899628348737,0.046676308001594,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Zero-shot,phastCons-43p,0.4969091413637552,0.0255353218925855,AUPRC
+Mendelian traits,All,Linear probing,CADD,0.8746598261796723,0.0305333483062891,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,GPN-MSA,0.6850085954976142,0.0674501053545171,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,Enformer,0.4457897978393392,0.0379767674085471,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,Borzoi,0.4929802668282597,0.0338796239229068,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,GPN-Promoter,0.352844949202222,0.0583212250339244,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,NT,0.170866439370323,0.029693800657723,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,HyenaDNA,0.1456482219013238,0.0138894724554164,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,Caduceus,0.2371783835116701,0.0659529424131491,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,Sei,0.348621531009276,0.0323052187360163,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,SpeciesLM,0.1928157486052764,0.021165323395609,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,AIDO.DNA,0.1794784728839155,0.0396167773748244,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,Evo2 1B,0.1335917330078525,0.017139381662932,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,Evo2 7B,0.3390281086817232,0.0636712521974299,AUPRC_by_chrom_weighted_average
+Mendelian traits,All,Linear probing,Evo2 40B,0.4887015016045433,0.0531791422192428,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,CADD,0.2498996585166739,0.0101834623490797,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,CADD,0.2358880521056909,0.0121909664431096,AUPRC
+Complex traits,All,Zero-shot,GPN-MSA,0.2236430396877579,0.0093962458055151,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,GPN-MSA,0.208109596528438,0.011977737616822,AUPRC
+Complex traits,All,Zero-shot,Enformer,0.2451151236884673,0.007670187349607,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,Enformer,0.22420697354761,0.0115522484171614,AUPRC
+Complex traits,All,Zero-shot,Borzoi,0.2357392672647489,0.0091546073341701,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,Borzoi,0.2165195513094459,0.0107862535328516,AUPRC
+Complex traits,All,Zero-shot,GPN-Promoter,0.1262525274469381,0.0041433016553042,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,GPN-Promoter,0.114251298721238,0.0041616693858754,AUPRC
+Complex traits,All,Zero-shot,NT,0.1355220489796844,0.0055293108574211,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,NT,0.1215130891477854,0.0042195911749008,AUPRC
+Complex traits,All,Zero-shot,HyenaDNA,0.1177462550466632,0.0036304953769477,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,HyenaDNA,0.1081703180230931,0.0035512566546544,AUPRC
+Complex traits,All,Zero-shot,Caduceus,0.1166763284027333,0.0062486759457332,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,Caduceus,0.1008279533228013,0.0027223919545202,AUPRC
+Complex traits,All,Zero-shot,Sei,0.1927537062151046,0.007876738607038,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,Sei,0.1740458956178185,0.0084140664428293,AUPRC
+Complex traits,All,Zero-shot,SpeciesLM,0.1347795649420593,0.0053588353982469,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,SpeciesLM,0.1217951954991291,0.0039417175246584,AUPRC
+Complex traits,All,Zero-shot,AIDO.DNA,0.1092199249668592,0.0039034835817166,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,AIDO.DNA,0.1002374167981689,0.0026002817905028,AUPRC
+Complex traits,All,Zero-shot,Evo2 1B,0.1221764588925482,0.0045420079807488,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,Evo2 1B,0.1102975479129712,0.0038831602942721,AUPRC
+Complex traits,All,Zero-shot,Evo2 7B,0.1244663609015688,0.0056132540491427,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,Evo2 7B,0.1129973925564387,0.0053798759630334,AUPRC
+Complex traits,All,Zero-shot,Evo2 40B,0.1388052970595873,0.0056872406633927,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,Evo2 40B,0.128126683464624,0.0070048505807476,AUPRC
+Complex traits,All,Zero-shot,phyloP-100v,0.1839256378462665,0.0069420672348536,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,phyloP-100v,0.1713631877704854,0.0089455711029323,AUPRC
+Complex traits,All,Zero-shot,phyloP-241m,0.2273603468075458,0.0084838162495702,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,phyloP-241m,0.2122830412435965,0.011063701514952,AUPRC
+Complex traits,All,Zero-shot,phastCons-43p,0.2370561239210065,0.0092057015288115,AUPRC_by_chrom_weighted_average
+Complex traits,All,Zero-shot,phastCons-43p,0.2245318283875286,0.0114433113045489,AUPRC
+Complex traits,All,Linear probing,CADD,0.2838578271769417,0.0124061503301549,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,GPN-MSA,0.2693823806941055,0.0115201070889376,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,Enformer,0.3033492001739871,0.0104471152627665,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,Borzoi,0.2966878778665942,0.0140706127824204,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,GPN-Promoter,0.1866158177112148,0.0069752425989201,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,NT,0.1634136399926268,0.0059491083615816,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,HyenaDNA,0.1359482557408183,0.0083213828963946,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,Caduceus,0.1508372665334505,0.0067128078812664,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,Sei,0.1838824130267244,0.008017256843127,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,SpeciesLM,0.184829995158741,0.0075546675232692,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,AIDO.DNA,0.1520891209961166,0.0050497138635639,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,Evo2 1B,0.1430104239850286,0.005252745453127,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,Evo2 7B,0.1499249574883719,0.0049818275493332,AUPRC_by_chrom_weighted_average
+Complex traits,All,Linear probing,Evo2 40B,0.1526967491484385,0.0070422929285694,AUPRC_by_chrom_weighted_average

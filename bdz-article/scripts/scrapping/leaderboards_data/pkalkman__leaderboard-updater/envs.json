@@ -1,0 +1,128 @@
+[
+    {
+        "rl_env_beautiful": "LunarLander-v2 🚀",
+        "rl_env": "LunarLander-v2",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "CartPole-v1",
+        "rl_env": "CartPole-v1",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "FrozenLake-v1-4x4-no_slippery ❄️",
+        "rl_env": "FrozenLake-v1-4x4-no_slippery",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "FrozenLake-v1-8x8-no_slippery ❄️",
+        "rl_env": "FrozenLake-v1-8x8-no_slippery",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "FrozenLake-v1-4x4 ❄️",
+        "rl_env": "FrozenLake-v1-4x4",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "FrozenLake-v1-8x8 ❄️",
+        "rl_env": "FrozenLake-v1-8x8",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "Taxi-v3 🚖",
+        "rl_env": "Taxi-v3",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "CarRacing-v0 🏎️",
+        "rl_env": "CarRacing-v0",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "CarRacing-v2 🏎️",
+        "rl_env": "CarRacing-v2",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "MountainCar-v0 ⛰️",
+        "rl_env": "MountainCar-v0",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "SpaceInvadersNoFrameskip-v4 👾",
+        "rl_env": "SpaceInvadersNoFrameskip-v4",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "PongNoFrameskip-v4 🎾",
+        "rl_env": "PongNoFrameskip-v4",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "BreakoutNoFrameskip-v4 🧱",
+        "rl_env": "BreakoutNoFrameskip-v4",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "QbertNoFrameskip-v4 🐦",
+        "rl_env": "QbertNoFrameskip-v4",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "BipedalWalker-v3",
+        "rl_env": "BipedalWalker-v3",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "Walker2DBulletEnv-v0",
+        "rl_env": "Walker2DBulletEnv-v0",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "AntBulletEnv-v0",
+        "rl_env": "AntBulletEnv-v0",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "HalfCheetahBulletEnv-v0",
+        "rl_env": "HalfCheetahBulletEnv-v0",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "PandaReachDense-v2",
+        "rl_env": "PandaReachDense-v2",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "PandaReachDense-v3",
+        "rl_env": "PandaReachDense-v3",
+        "video_link": "",
+        "global": null
+    },
+    {
+        "rl_env_beautiful": "Pixelcopter-PLE-v0",
+        "rl_env": "Pixelcopter-PLE-v0",
+        "video_link": "",
+        "global": null
+    }
+]

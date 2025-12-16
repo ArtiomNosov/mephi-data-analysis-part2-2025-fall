@@ -1,0 +1,12 @@
+{
+  "Provider": 360,
+  "Openness": "Closed",
+  "Thinking": false,
+  "Agent": "Web-Agent",
+  "Model": "360-gpt2-o1",
+  "ModelLink": "https://aiplus.360.cn/tags/360gpt2-o1.html",
+  "Version": "v1.0.0",
+  "Pass@2": 14.46,
+  "Pass@1": 8.26,
+  "Error@1": 7.39
+}

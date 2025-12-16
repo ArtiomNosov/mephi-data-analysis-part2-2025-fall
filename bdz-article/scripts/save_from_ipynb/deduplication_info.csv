@@ -1,0 +1,11 @@
+﻿merged_model_name,original_index,group_size,merged_columns_count
+CodeLlama-70b-Instruct-hf,codellama/CodeLlama-70b-Instruct-hf,2,945
+CodeLlama-70b-Instruct-hf,meta-llama/CodeLlama-70b-Instruct-hf,2,945
+CodeLlama-34b-hf,NousResearch/CodeLlama-34b-hf,2,933
+CodeLlama-34b-hf,codellama/CodeLlama-34b-hf,2,933
+CodeLlama-13b-hf,NousResearch/CodeLlama-13b-hf,2,933
+CodeLlama-13b-hf,codellama/CodeLlama-13b-hf,2,933
+CodeLlama-7b-hf,NousResearch/CodeLlama-7b-hf,2,933
+CodeLlama-7b-hf,codellama/CodeLlama-7b-hf,2,933
+speechless-codellama-dolphin-orca-platypus-13b,speechlessai/speechless-codellama-dolphin-orca-platypus-13b,2,924
+speechless-codellama-dolphin-orca-platypus-13b,uukuguy/speechless-codellama-dolphin-orca-platypus-13b,2,924

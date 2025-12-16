@@ -1,0 +1,8 @@
+Model,Perception,Reasoning,IF,Safety,AMU Score,Modality Selection,Instruction Following,Modality Synergy,AMG Score,Overall,Verified,Model Link
+LLaVA-v1.5-7B†,2.66,2.67,2.5,2.9,2.68,0.182,6.61,0.43,1.56,2.12,Yes,https://huggingface.co/liuhaotian/llava-v1.5-7b
+Qwen2-VL-7B-Instruct†,2.76,3.07,2.4,4.05,3.07,0.177,7.01,0.58,2.16,2.62,Yes,https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct
+Qwen2-Audio-7B-Instruct†,3.58,4.53,3.4,2.65,3.54,0.19,6.69,0.51,1.97,2.73,Yes,https://huggingface.co/Qwen/Qwen2-Audio-7B-Instruct
+Chameleon-7B†,1.44,2.97,2.8,2.45,2.41,0.156,6.09,0.54,1.57,1.99,Yes,https://huggingface.co/facebook/chameleon-7b
+Llama3.1-8B-Instruct†,1.05,1.2,1.2,1.35,1.2,0.231,7.47,0.6,3.08,2.14,Yes,https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct
+Gemini-1.5-Pro†,5.36,5.67,6.7,6.7,6.11,0.227,8.62,0.52,3.05,4.58,Yes,https://deepmind.google/technologies/gemini/pro/
+GPT-4o†,2.66,3.48,4.2,5.15,3.87,0.266,8.62,0.58,3.96,3.92,Yes,https://openai.com/index/hello-gpt-4o/

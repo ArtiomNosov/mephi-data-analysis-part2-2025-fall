@@ -1,0 +1,301 @@
+[
+  {
+    "provider": "Qwen",
+    "name": "Qwen3-32B",
+    "repo": "qwen/qwen3-32b",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 34.78, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 76.14, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 69.51, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 33.77, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 23.1, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "name": "GPT-OSS-20B",
+    "repo": "openai/gpt-oss-20b",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 30.18, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 75.79, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 53.80, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 40.10, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 20.00, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "name": "GPT-OSS-120B",
+    "repo": "openai/gpt-oss-120b",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 36.25, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 78.51, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 60.40, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 44.70, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 28.7, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "ByteDance",
+    "name": "Seed-OSS-36B",
+    "repo": "bytedance/seed-oss-36b-instruct",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 37.66, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 75.67, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 56.05, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 57.00, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": null, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "LiquidAI",
+    "name": "LFM2-2.6B",
+    "repo": "liquidai/LFM2-2.6B",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 24.2, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 57.90, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 18.05, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 9.08, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 19.73, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "IBM Granite",
+    "name": "granite-3.3-8b-instruct",
+    "repo": "ibm-granite/granite-3.3-8b-instruct",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 26.00, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 62.35, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 14.37, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 13.31, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 20.39, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "IBM Granite",
+    "name": "granite-4.0-h-small",
+    "repo": "ibm-granite/granite-4.0-h-small",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 32.53, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 72.15, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 32.4, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 17.24, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 21.50, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Microsoft",
+    "name": "Phi-4-mini-instruct",
+    "repo": "microsoft/phi-4-mini-instruct",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 24.87, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 45.90, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 14.4, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 6.56, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 20.53, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Swiss AI",
+    "name": "Apertus-8B-Instruct-2509",
+    "repo": "swiss-ai/Apertus-8B-Instruct-2509",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 20.38, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 56.40, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 6.03, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 4.25, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 20.53, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Meta",
+    "name": "Llama-3.3-70B-Instruct",
+    "repo": "meta/llama-3.3-70b-instruct",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 55.18, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 74.98, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 36.23, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 22.01, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 23.60, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Qwen",
+    "name": "Qwen3-4B",
+    "repo": "qwen/qwen3-4b",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 31.65, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 70.50, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 45.62, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 32.00, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 23.10, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Qwen",
+    "name": "Qwen3-8B",
+    "repo": "qwen/qwen3-8b",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 31.42, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 73.21, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 49.73, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 36.42, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 20.13, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "DeepSeek",
+    "name": "DeepSeek-R1-Distill-Qwen-7B",
+    "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 21.43, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 69.31, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 24.9, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 12.05, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 19.73, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Meta",
+    "name": "Llama-3.1-8B-Instruct",
+    "repo": "meta/llama-3.1-8b-instruct",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 25.27, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 68.03, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 13.56, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 13.42, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 20.27, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Mistral",
+    "name": "Mistral-Large-123B",
+    "repo": "mistralai/Mistral-Large-Instruct-2411",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 54.95, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 75.85, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 38.80, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 30.55, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 24.5, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "OpenAI",
+    "name": "GPT-5",
+    "repo": "openai/gpt-5",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 67.90, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 82.51, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 70.27, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 80.00, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 27.07, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Grok",
+    "name": "Grok-4-fast",
+    "repo": "grok/grok-4-fast",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 60.60, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 79.39, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 62.80, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 78.12, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 26.67, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Claude",
+    "name": "Claude-Sonnet-4.5",
+    "repo": "claude/claude-sonnet-4.5",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 65.25, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 80.57, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 62.80, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 67.12, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 27.47, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Google",
+    "name": "Gemini-2.5-pro",
+    "repo": "google/gemini-2.5-pro",
+    "updated_at": "2025-09-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 68.20, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 80.11, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 74.40, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 44.30, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 25.20, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+  {
+    "provider": "Google",
+    "name": "AT&T FT Gemma-3-4B-IT",
+    "repo": "AT&T/gemma-3-4b-fine-tuned",
+    "updated_at": "2025-10-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": null, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": null, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": null, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 80.09, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": null, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+    {
+    "provider": "NetoAI",
+    "name": "TSLAM-2B MINI",
+    "repo": "NetoAI/TSLAM-2B MINI",
+    "updated_at": "2025-10-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 27, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 62, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 4.5, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 13.5, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 19.73, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+    {
+    "provider": "NetoAI",
+    "name": "TSLAM-18B",
+    "repo": "NetoAI/TSLAM-18B",
+    "updated_at": "2025-10-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 63.5, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 72, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 69.5, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 20.62, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 24.05, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  },
+    {
+    "provider": "NetoAI",
+    "name": "TSLAM-G3",
+    "repo": "NetoAI/TSLAM-G3",
+    "updated_at": "2025-10-16T00:00:00Z",
+    "scores": [
+      {"dataset_name": "3GPP-TSG", "metric_type": "raw", "score": 58.5, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleQna", "metric_type": "raw", "score": 82.5, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleMath", "metric_type": "raw", "score": 26.5, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleLogs", "metric_type": "raw", "score": 11.25, "energy_consumed": "", "co2_consumed": ""},
+      {"dataset_name": "TeleYAML", "metric_type": "llm-as-judge", "score": 21.73, "energy_consumed": "", "co2_consumed": ""}
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+{
+    "submissions": [
+        {
+            "username": "HuggingFaceTB",
+            "model_name": "SmolLM3-3B",
+            "chapter": "1",
+            "submission_date": "2025-09-02",
+            "results-dataset": "smol-course/details_HuggingFaceTB__SmolLM3-3B_private"
+        },
+        {
+            "username": "andregustavo",
+            "model_name": "SmolLM3-Custom-SFT",
+            "chapter": "1",
+            "submission_date": "2025-09-25",
+            "results-dataset": "andregustavo/details_andregustavo__SmolLM3-Custom-SFT_private"
+        },
+        {
+            "username": "quablab",
+            "model_name": "SmolLM3-Custom-SFT",
+            "chapter": "1",
+            "submission_date": "2025-09-24",
+            "results-dataset": "quablab/details_quablab__SmolLM3-Custom-SFT_private"
+        },
+        {
+            "username": "jweston",
+            "model_name": "SmolLM3-Custom-SFT",
+            "chapter": "1",
+            "submission_date": "2025-09-18",
+            "results-dataset": "jweston/details_jweston__SmolLM3-Custom-SFT_private"
+        },
+        {
+            "username": "sanjay-saatyaki",
+            "model_name": "smol-train",
+            "chapter": "1",
+            "submission_date": "2025-09-02",
+            "results-dataset": "sanjay-saatyaki/details_sanjay-saatyaki__smol-train_private"
+        },
+        {
+            "username": "emharsha1812",
+            "model_name": "emharsha1812/smollm3-lora-full-merged",
+            "chapter": "1",
+            "submission_date": "2025-09-11",
+            "results-dataset": "emharsha1812/details_emharsha1812__smollm3-lora-full-merged_private"
+        },
+        {
+            "username": "msquaredd",
+            "model_name": "msquaredd/SmolLM3-Custom-SFT-20250910143319",
+            "chapter": "1",
+            "submission_date": "2025-09-11",
+            "results-dataset": "msquaredd/details_msquaredd__SmolLM3-Custom-SFT-20250910143319_private"
+        },
+        {
+            "username": "iamgroot42",
+            "model_name": "smollm3-Custom-SFT",
+            "chapter": "1",
+            "submission_date": "2025-09-13",
+            "results-dataset": "iamgroot42/details_iamgroot42__smollm3-Custom-SFT"
+        },
+        {
+            "username": "malanevans",
+            "model_name": "SmolLM3-3B-Jobs-SFT",
+            "chapter": "1",
+            "submission_date": "2025-09-26",
+            "results-dataset": "malanevans/details_malanevans__SmolLM3-3B-Jobs-SFT_private"
+        },
+        {
+            "username": "h-d-h",
+            "model_name": "h-d-h/smollm3-sft",
+            "chapter": "1",
+            "submission_date": "2025-09-25",
+            "results-dataset": "h-d-h/details_h-d-h__smollm3-sft_private"
+        },
+        {
+            "username": "Pentium95",
+            "model_name": "SmolLMathematician-3B",
+            "chapter": "1",
+            "submission_date": "2025-09-29",
+            "results-dataset": "Pentium95/details_Pentium95__SmolLMathematician-3B_private"
+        },
+        {
+            "username": "msquaredd",
+            "model_name": "msquaredd/smollm3-dpo-aligned-202509291110",
+            "chapter": "2",
+            "submission_date": "2025-09-30",
+            "results-dataset": "msquaredd/details_msquaredd__smollm3-dpo-aligned-202509291110_private"
+        },
+        {
+            "username": "kshitijthakkar",
+            "model_name": "kshitijthakkar/SmolLM3-Custom-SFT",
+            "chapter": "1",
+            "submission_date": "2025-10-01",
+            "results-dataset": "kshitijthakkar/details_kshitijthakkar__SmolLM3-Custom-SFT_private"
+        },
+        {
+            "username": "pmakiela",
+            "model_name": "SmolLM3-3B-SFT-v1_4",
+            "chapter": "1",
+            "submission_date": "2025-10-01",
+            "results-dataset": "pmakiela/details_pmakiela__SmolLM3-3B-SFT-v1_4_private"
+        },
+        {
+            "username": "lukmanaj",
+            "model_name": "lukmanaj/smollm3-sft-colab-merged",
+            "chapter": "1",
+            "submission_date": "2025-10-06",
+            "results-dataset": "lukmanaj/details_lukmanaj__smollm3-sft-colab-merged_private"
+        },
+        {
+            "username": "ocaetas",
+            "model_name": "SmolLM3-CustomSFT_LoRA",
+            "chapter": "1",
+            "submission_date": "2025-10-06",
+            "results-dataset": "ocaetas/details_SmolLM3-Custom-SFT__merged_model_private"
+        }
+    ]
+}

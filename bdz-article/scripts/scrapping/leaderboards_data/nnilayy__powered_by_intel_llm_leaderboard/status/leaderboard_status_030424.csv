@@ -1,0 +1,5 @@
+Model,Average,Hardware,Model Type,Precision,Size,Infrastructure,ARC,HellaSwag,MMLU,TruthfulQA,Winogrande,GSM8K,Affiliation
+Intel/neural-chat-7b-v3-3,69.83,Gaudi,fine-tuned,fp16,7,Intel Developer Cloud,66.89,85.26,63.07,63.01,79.64,61.11,Intel Engineering
+Intel/neural-chat-7b-v3-2,68.29,Gaudi,fine-tuned,fp16,7,Intel Developer Cloud,67.49,83.92,63.55,59.68,79.65,55.12,Intel Engineering
+Intel/neural-chat-7b-v3-1,61.59,Gaudi,fine-tuned,fp16,7,Intel Developer Cloud,66.21,83.64,62.37,59.65,78.14,19.56,Intel Engineering
+Intel/neural-chat-7b-v3,58.46,Gaudi,fine-tuned,fp16,7,Intel Developer Cloud,67.15,83.29,62.26,58.77,78.06,1.21,Intel Engineering

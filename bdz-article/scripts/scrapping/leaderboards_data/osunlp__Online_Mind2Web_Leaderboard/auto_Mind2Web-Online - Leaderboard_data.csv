@@ -1,0 +1,7 @@
+Agent,Model,Organization,Source,Easy,Medium,Hard,Average SR,Date
+Operator,OpenAI Computer-Using Agent,OpenAI,OSU NLP,80.3,73.4,59,71.8,2025-3-22
+SeeAct,gpt-4o-2024-08-06,OSU,OSU NLP,65.1,36.1,18.5,39.8,2025-3-22
+Browser Use,gpt-4o-2024-08-06,Browser Use,OSU NLP,58.6,37.5,24.3,40.1,2025-3-22
+Claude Computer Use 3.5,claude-3-5-sonnet-20241022,Anthropic,OSU NLP,61.9,28.1,21.2,35.8,2025-3-22
+Agent-E,gpt-4o-2024-08-06,Emergence AI,OSU NLP,57.4,31.9,14.4,34.7,2025-3-22
+Claude Computer Use 3.7 (w/o thinking),Claude-3-7-sonnet-20250219,Anthropic,OSU NLP,81.5,56.2,42,59.7,2025-4-20

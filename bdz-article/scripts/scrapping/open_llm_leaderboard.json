@@ -1,0 +1,364 @@
+{
+  "source": "HuggingFaceH4/open_llm_leaderboard",
+  "url": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+  "fetched_at": "2025-12-13T16:23:27.170702",
+  "models": [],
+  "raw_json": [
+    {
+      "_id": "643d3016d2c1e08a5eca0c22",
+      "id": "open-llm-leaderboard/open_llm_leaderboard",
+      "sdk": "docker",
+      "likes": 13717,
+      "tags": [
+        "docker",
+        "leaderboard",
+        "modality:text",
+        "submission:automatic",
+        "test:public",
+        "language:english",
+        "eval:code",
+        "eval:math",
+        "region:us"
+      ],
+      "private": false,
+      "author": "open-llm-leaderboard",
+      "sha": "6ee9164f8a40124224ffd0ca2be9d859f048dacb",
+      "lastModified": "2025-03-25T09:02:15.000Z",
+      "cardData": {
+        "title": "Open LLM Leaderboard",
+        "emoji": "🏆",
+        "colorFrom": "blue",
+        "colorTo": "red",
+        "sdk": "docker",
+        "hf_oauth": true,
+        "pinned": true,
+        "license": "apache-2.0",
+        "duplicated_from": "open-llm-leaderboard/open_llm_leaderboard",
+        "tags": [
+          "leaderboard",
+          "modality:text",
+          "submission:automatic",
+          "test:public",
+          "language:english",
+          "eval:code",
+          "eval:math"
+        ],
+        "short_description": "Track, rank and evaluate open LLMs and chatbots"
+      },
+      "subdomain": "open-llm-leaderboard-open-llm-leaderboard",
+      "gated": false,
+      "disabled": false,
+      "host": "https://open-llm-leaderboard-open-llm-leaderboard.hf.space",
+      "runtime": {
+        "stage": "RUNNING",
+        "hardware": {
+          "current": "cpu-upgrade",
+          "requested": "cpu-upgrade"
+        },
+        "storage": {
+          "current": "small",
+          "requested": "small"
+        },
+        "gcTimeout": 172800,
+        "replicas": {
+          "current": 1,
+          "requested": 1
+        },
+        "devMode": false,
+        "domains": [
+          {
+            "domain": "open-llm-leaderboard-open-llm-leaderboard.hf.space",
+            "stage": "READY"
+          }
+        ],
+        "sha": "6ee9164f8a40124224ffd0ca2be9d859f048dacb"
+      },
+      "siblings": [
+        {
+          "rfilename": ".env.example"
+        },
+        {
+          "rfilename": ".gitignore"
+        },
+        {
+          "rfilename": "Dockerfile"
+        },
+        {
+          "rfilename": "README.md"
+        },
+        {
+          "rfilename": "backend/Dockerfile.dev"
+        },
+        {
+          "rfilename": "backend/README.md"
+        },
+        {
+          "rfilename": "backend/app/api/__init__.py"
+        },
+        {
+          "rfilename": "backend/app/api/dependencies.py"
+        },
+        {
+          "rfilename": "backend/app/api/endpoints/leaderboard.py"
+        },
+        {
+          "rfilename": "backend/app/api/endpoints/models.py"
+        },
+        {
+          "rfilename": "backend/app/api/endpoints/votes.py"
+        },
+        {
+          "rfilename": "backend/app/api/router.py"
+        },
+        {
+          "rfilename": "backend/app/asgi.py"
+        },
+        {
+          "rfilename": "backend/app/config/__init__.py"
+        },
+        {
+          "rfilename": "backend/app/config/base.py"
+        },
+        {
+          "rfilename": "backend/app/config/hf_config.py"
+        },
+        {
+          "rfilename": "backend/app/config/logging_config.py"
+        },
+        {
+          "rfilename": "backend/app/core/cache.py"
+        },
+        {
+          "rfilename": "backend/app/core/fastapi_cache.py"
+        },
+        {
+          "rfilename": "backend/app/core/formatting.py"
+        },
+        {
+          "rfilename": "backend/app/main.py"
+        },
+        {
+          "rfilename": "backend/app/services/__init__.py"
+        },
+        {
+          "rfilename": "backend/app/services/hf_service.py"
+        },
+        {
+          "rfilename": "backend/app/services/leaderboard.py"
+        },
+        {
+          "rfilename": "backend/app/services/models.py"
+        },
+        {
+          "rfilename": "backend/app/services/rate_limiter.py"
+        },
+        {
+          "rfilename": "backend/app/services/votes.py"
+        },
+        {
+          "rfilename": "backend/app/utils/__init__.py"
+        },
+        {
+          "rfilename": "backend/app/utils/logging.py"
+        },
+        {
+          "rfilename": "backend/app/utils/model_validation.py"
+        },
+        {
+          "rfilename": "backend/pyproject.toml"
+        },
+        {
+          "rfilename": "backend/utils/analyze_prod_datasets.py"
+        },
+        {
+          "rfilename": "backend/utils/analyze_prod_models.py"
+        },
+        {
+          "rfilename": "backend/utils/fix_wrong_model_size.py"
+        },
+        {
+          "rfilename": "backend/utils/last_activity.py"
+        },
+        {
+          "rfilename": "backend/utils/sync_datasets_locally.py"
+        },
+        {
+          "rfilename": "docker-compose.yml"
+        },
+        {
+          "rfilename": "frontend/Dockerfile.dev"
+        },
+        {
+          "rfilename": "frontend/README.md"
+        },
+        {
+          "rfilename": "frontend/package.json"
+        },
+        {
+          "rfilename": "frontend/public/index.html"
+        },
+        {
+          "rfilename": "frontend/public/logo256.png"
+        },
+        {
+          "rfilename": "frontend/public/logo32.png"
+        },
+        {
+          "rfilename": "frontend/public/og-image.jpg"
+        },
+        {
+          "rfilename": "frontend/public/robots.txt"
+        },
+        {
+          "rfilename": "frontend/server.js"
+        },
+        {
+          "rfilename": "frontend/src/App.js"
+        },
+        {
+          "rfilename": "frontend/src/components/Footer/Footer.js"
+        },
+        {
+          "rfilename": "frontend/src/components/Logo/HFLogo.js"
+        },
+        {
+          "rfilename": "frontend/src/components/Logo/Logo.js"
+        },
+        {
+          "rfilename": "frontend/src/components/Navigation/Navigation.js"
+        },
+        {
+          "rfilename": "frontend/src/components/shared/AuthContainer.js"
+        },
+        {
+          "rfilename": "frontend/src/components/shared/CodeBlock.js"
+        },
+        {
+          "rfilename": "frontend/src/components/shared/FilterTag.js"
+        },
+        {
+          "rfilename": "frontend/src/components/shared/InfoIconWithTooltip.js"
+        },
+        {
+          "rfilename": "frontend/src/components/shared/PageHeader.js"
+        },
+        {
+          "rfilename": "frontend/src/config/auth.js"
+        },
+        {
+          "rfilename": "frontend/src/config/theme.js"
+        },
+        {
+          "rfilename": "frontend/src/hooks/useAuth.js"
+        },
+        {
+          "rfilename": "frontend/src/hooks/useThemeMode.js"
+        },
+        {
+          "rfilename": "frontend/src/index.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/AddModelPage/AddModelPage.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/AddModelPage/components/EvaluationQueues/EvaluationQueues.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/AddModelPage/components/ModelSubmissionForm/ModelSubmissionForm.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/AddModelPage/components/SubmissionGuide/SubmissionGuide.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/AddModelPage/components/SubmissionLimitChecker/SubmissionLimitChecker.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/LeaderboardPage.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/Leaderboard.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/ColumnSelector/ColumnSelector.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/DisplayOptions/DisplayOptions.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/Filters/FilteredModelCount.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/Filters/Filters.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/Filters/QuickFilters.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/Filters/SearchBar.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/Filters/hooks/useOfficialProvidersMode.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/Filters/hooks/usePresets.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/PerformanceMonitor.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/Table/Table.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/Table/hooks/useDataProcessing.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/Table/hooks/useSorting.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/components/shared/DropdownButton.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/constants/defaults.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/constants/modelTypes.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/constants/quickFilters.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/constants/tooltips.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/context/LeaderboardContext.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/hooks/useBatchedState.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/hooks/useDataUtils.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/hooks/useLeaderboardData.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/styles/common.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/utils/columnUtils.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/LeaderboardPage/components/Leaderboard/utils/searchUtils.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/QuotePage/QuotePage.js"
+        },
+        {
+          "rfilename": "frontend/src/pages/VoteModelPage/VoteModelPage.js"
+        }
+      ],
+      "createdAt": "2023-04-17T11:40:06.000Z",
+      "usedStorage": 180996299
+    }
+  ]
+}

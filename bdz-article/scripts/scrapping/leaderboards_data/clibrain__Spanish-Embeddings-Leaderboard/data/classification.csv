@@ -1,0 +1,16 @@
+Model name,Average,MTEB AmazonReviewsClassification (es),MTEB MTOPDomainClassification (es),MTEB MTOPIntentClassification (es),MTEB MassiveIntentClassification (es),MTEB MassiveScenarioClassification (es)
+bge-large-en-v1.5,52.27,34.63,78.8,47.4,45.58,54.95
+e5-large-v2,56.15,40.01,82.74,49.66,49.82,58.5
+multilingual-e5-base,63.88,42.47,89.62,60.27,60.51,66.52
+multilingual-e5-LARGE-tuned-double-dataset-b16-e5,62.65,42.33,85.21,57.01,62.09,66.61
+multilingual-e5-large,66.6,42.66,89.95,66.84,64.68,68.85
+paraphrase-multilingual-mpnet-base-v2,65.68,39.99,86.96,66.59,64.43,70.42
+paraphrase-spanish-distilroberta,63.98,38.25,86.81,65.95,60.51,68.39
+retromae_es_67000,58.27,33.14,84.09,62.75,51.93,59.45
+RetroMAE-finetuned-stsb_multi_es_aug_gpt3.5-turbo_v2,59.63,29.7,87.64,60.15,55.43,65.22
+sentence_similarity_spanish_es,61.77,35.08,85.86,65.21,58.49,64.21
+sentence-t5-xl,61.64,45.01,85.32,57.38,57.97,62.52
+bert-base-spanish-wwm-uncased,57.35,33.94,79.68,61.96,52.54,58.61
+bertin-roberta-base-spanish,28.57,23.4,39.95,22.77,25.32,31.41
+roberta-base-bne,56.27,34.15,78.91,63.17,50.3,54.82
+multilingual-e5-LARGE-stsb-tuned-b16-e5,66.33,43.02,89.71,64.4,64.8,69.72

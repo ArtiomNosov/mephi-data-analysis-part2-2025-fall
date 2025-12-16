@@ -1,0 +1,14 @@
+,timestamp,task,model,dataset,total_gpu_energy
+0,2024-09-06-16-46-40,automatic_speech_recognition,distil-whisper/distil-large-v2,EnergyStarAI/ASR,0.021521125439108245
+0,2024-09-06-18-09-36,automatic_speech_recognition,distil-whisper/distil-medium.en,EnergyStarAI/ASR,0.01697139904933067
+0,2024-09-06-17-50-02,automatic_speech_recognition,distil-whisper/distil-small.en,EnergyStarAI/ASR,0.015568577010407213
+0,2024-09-06-17-01-57,automatic_speech_recognition,openai/whisper-base,EnergyStarAI/ASR,0.016545972820101083
+0,2024-09-06-16-55-44,automatic_speech_recognition,openai/whisper-tiny,EnergyStarAI/ASR,0.013442129142583425
+0,2024-09-06-16-45-14,automatic_speech_recognition,openai/whisper-large-v3,EnergyStarAI/ASR,0.0866790655098633
+0,2024-09-06-17-24-50,automatic_speech_recognition,openai/whisper-small,EnergyStarAI/ASR,0.029965155360993912
+0,2024-09-06-19-00-06,automatic_speech_recognition,openai/whisper-medium,EnergyStarAI/ASR,0.06142162788726289
+0,2024-09-06-17-58-44,automatic_speech_recognition,facebook/s2t-small-librispeech-asr,EnergyStarAI/ASR,0.01720176778918088
+0,2024-09-06-17-58-06,automatic_speech_recognition,facebook/hubert-large-ls960-ft,EnergyStarAI/ASR,0.0016150152086776615
+0,2024-09-06-17-49-54,automatic_speech_recognition,facebook/mms-1b-all,EnergyStarAI/ASR,0.004284854705658603
+0,2024-09-06-16-52-49,automatic_speech_recognition,facebook/wav2vec2-base-960h,EnergyStarAI/ASR,0.0006196989124251928
+0,2024-09-06-17-54-41,automatic_speech_recognition,asapp/sew-d-base-plus-400k-ft-ls100h,EnergyStarAI/ASR,0.0015368147850065128

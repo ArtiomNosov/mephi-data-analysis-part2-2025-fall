@@ -1,0 +1,15 @@
+{
+    "config": {
+        "model_dtype": "float16",
+        "model_name": "fake-org/fake-awesome-model",
+        "model_sha": "main"
+    },
+    "results": {
+        "anli_r1": {
+            "acc": 0.65
+        },
+        "logiqa": {
+            "acc_norm": 0.72
+        }
+    }
+}

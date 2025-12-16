@@ -1,0 +1,879 @@
+{
+    "time": "20250422",
+    "results": {
+        "CyberSecEval-3":{
+            "Social engineering":{
+                "GPT-4-Turbo": 79.6,
+                "Qwen2-72B-Instruct": 70.4,
+                "Llama-3-70B": 59,
+                "Llama-3-405B": 52,
+                "Mixtral-8x22B": 33.6
+            },
+            "Software vulnerability exploitation":{
+                "GPT-4-Turbo": 40,
+                "Gemini Pro 1.0": 29,
+                "Llama-3-70B": 41,
+                "Llama-3-405B": 49,
+                "Mixtral-8x22B": 35
+            },
+            "Prompt injection attack success rates": {
+                "GPT-4-Turbo": 17,
+                "Gemini Pro 1.0": 18,
+                "Llama-3-70B": 26,
+                "Llama-3-405B": 22,
+                "Mixtral-8x22B": 35,
+                "Qwen2-72B-Instruct": 20
+            },
+            "Autocomplete-based insecure code generation": {
+                "GPT-4-Turbo": 30,
+                "Gemini Pro 1.0": 25,
+                "Llama-3-70B": 28,
+                "Llama-3-405B": 31,
+                "Mixtral-8x22B": 25,
+                "Qwen2-72B-Instruct": 30
+            },
+            "Instruction-based insecure code generation": {
+                "GPT-4-Turbo": 35,
+                "Gemini Pro 1.0": 32,
+                "Llama-3-70B": 35,
+                "Llama-3-405B": 39,
+                "Mixtral-8x22B": 34,
+                "Qwen2-72B-Instruct": 34
+            },
+            "Code interpreter abuse compliance rates":{
+                "GPT-4-Turbo": 1,
+                "Gemini Pro 1.0": 11,
+                "Llama-3-70B": 42,
+                "Llama-3-405B": 1,
+                "Mixtral-8x22B": 20,
+                "Qwen2-72B-Instruct": 5
+            },
+            "Cyber attack helpfulness compliance rates": {
+                "GPT-4-Turbo": 42,
+                "Gemini Pro 1.0": 92,
+                "Llama-3-70B": 78,
+                "Llama-3-405B": 38,
+                "Mixtral-8x22B": 80,
+                "Qwen2-72B-Instruct": 47
+            }
+        },
+        "SecCodePLT": {
+            "Secure instruction generation failure rates w/o security policy (rule-based metric)": {
+                "CodeLlama-34B-Instruct": 66,
+                "Llama-3.1-70B": 47,
+                "Mixtral-8x22B": 58,
+                "GPT-4o": 44
+            },
+            "Secure instruction generation failure rates w/ security policy (rule-based metric)": {
+                "CodeLlama-34B-Instruct": 41,
+                "Llama-3.1-70B": 17,
+                "Mixtral-8x22B": 30,
+                "GPT-4o": 16
+            },
+            "Secure instruction generation failure rates w/o security policy (Pass@1)": {
+                "CodeLlama-34B-Instruct": 77,
+                "Llama-3.1-70B": 62,
+                "Mixtral-8x22B": 66,
+                "GPT-4o": 47
+            },
+            "Secure instruction generation failure rates w/ security policy (Pass@1)": {
+                "CodeLlama-34B-Instruct": 70,
+                "Llama-3.1-70B": 53,
+                "Mixtral-8x22B": 58,
+                "GPT-4o": 38
+            },
+            "Secure code completion failure rates w/o security policy (rule-based metric)": {
+                "CodeLlama-34B-Instruct": 78,
+                "Llama-3.1-70B": 54,
+                "Mixtral-8x22B": 66,
+                "GPT-4o": 48
+            },
+            "Secure code completion failure rates w/ security policy (rule-based metric)": {
+                "CodeLlama-34B-Instruct": 59,
+                "Llama-3.1-70B": 23,
+                "Mixtral-8x22B": 61,
+                "GPT-4o": 21
+            },
+            "Secure code completion failure rates w/o security policy (Pass@1)": {
+                "CodeLlama-34B-Instruct": 77,
+                "Llama-3.1-70B": 57,
+                "Mixtral-8x22B": 69,
+                "GPT-4o": 44
+            },
+            "Secure code completion failure rates w/ security policy (Pass@1)": {
+                "CodeLlama-34B-Instruct": 75,
+                "Llama-3.1-70B": 45,
+                "Mixtral-8x22B": 56,
+                "GPT-4o": 34
+            },
+            "Reconnaissance": {
+                "GPT-4o": 52,
+                "Claude-3.5-Sonnet": 46,
+                "LLaMA-3.1-70B": 10 
+            },
+            "Weaponization & Infiltration": {
+                "GPT-4o": 10,
+                "Claude-3.5-Sonnet": 0,
+                "LLaMA-3.1-70B": 0 
+            },
+            "C2 & Execution": {
+                "GPT-4o": 52,
+                "Claude-3.5-Sonnet": 46,
+                "LLaMA-3.1-70B": 10 
+            },
+            "Discovery": {
+                "GPT-4o": 82,
+                "Claude-3.5-Sonnet": 88,
+                "LLaMA-3.1-70B": 60 
+            },
+            "Collection": {
+                "GPT-4o": 86,
+                "Claude-3.5-Sonnet": 92,
+                "LLaMA-3.1-70B": 28 
+            }
+        },
+        "RedCode": {
+            "RedCode-Gen (Accuracy)": {
+                "GPT-4o": {
+                    "Base LLM": 69.4,
+                    "Code Agent": 72.5
+                },
+                "GPT-4": {
+                    "Base LLM": 65.0,
+                    "Code Agent": 66.9
+                },
+                "GPT-3.5": {
+                    "Base LLM": 0.0,
+                    "Code Agent": 32.5
+                },
+                "Claude-3-Opus": {
+                    "Base LLM": 1.3,
+                    "Code Agent": 3.1
+                },
+                "DeepSeekCoder-6.7B": {
+                    "Base LLM": 49.4,
+                    "Code Agent": 79.4
+                },
+                "CodeLlama-7B": {
+                    "Base LLM": 40.0,
+                    "Code Agent": 42.0
+                },
+                "CodeLlama-13B": {
+                    "Base LLM": 49.4,
+                    "Code Agent": 66.3
+                },
+                "Llama-2-7B": {
+                    "Base LLM": 16.9,
+                    "Code Agent": 20.7
+                },
+                "Mistral-7B": {
+                    "Base LLM": 46.3,
+                    "Code Agent": 75.3
+                }
+
+            },
+            "RedCode-Exec: Python (Attack success rate)": {
+                "GPT-4o": {
+                    "ReAct": 77.23
+                },
+                "GPT-4": {
+                    "ReAct": 64.50
+                },
+                "GPT-3.5": {
+                    "ReAct": 76.23
+                },
+                "Claude-3.5-Sonnet": {
+                    "ReAct": 67.63
+                },
+                "DeepSeekCoder-6.7B": {
+                    "ReAct": 80.23,
+                    "OCI": 48.87
+                },
+                "DeepSeekCoder-v2-lite": {
+                    "ReAct": 79.77
+                },
+                "CodeQwen1.5-7B-Chat": {
+                    "ReAct": 77.57
+                },
+                "Llama-3.1-70B-Instruct": {
+                    "ReAct": 76.7
+                },
+                "Llama-3.1-8B-Instruct": {
+                    "ReAct": 62.87
+                },
+                "Llama-3-8B-Instruct": {
+                    "ReAct": 42.50
+                },
+                "CodeLlama-13B": {
+                    "CodeAct": 71.87,
+                    "ReAct": 60.13,
+                    "OCI": 49.07
+                },                
+                "CodeLlama-7B": {
+                    "CodeAct": 61.83,
+                    "ReAct": 58.43,
+                    "OCI": 46.80
+                },
+                "Llama-2-7B": {
+                    "CodeAct": 69.95
+                },
+                "Mistral-7B": {
+                    "CodeAct": 62.60
+                }
+            },
+            "RedCode-Exec: Bash (Attack success rate)": {
+                "GPT-4o": {
+                    "ReAct": 72.83
+                },
+                "GPT-4": {
+                    "ReAct": 61.96
+                },
+                "GPT-3.5": {
+                    "ReAct": 70.38
+                },
+                "Claude-3.5-Sonnet": {
+                    "ReAct": 62.67
+                },
+                "DeepSeekCoder-6.7B": {
+                    "ReAct": 73.17
+                },
+                "DeepSeekCoder-v2-lite": {
+                    "ReAct": 68.42
+                },
+                "CodeQwen1.5-7B-Chat": {
+                    "ReAct": 71.92
+                },
+                "Llama-3.1-70B-Instruct": {
+                    "ReAct": 74.38
+                },
+                "Llama-3-8B-Instruct": {
+                    "ReAct": 62.25
+                },
+                "Llama-3.1-8B-Instruct": {
+                    "ReAct": 59.83
+                },
+                "CodeLlama-13B": {
+                    "ReAct": 65.25
+                },                
+                "CodeLlama-7B": {
+                    "ReAct": 56.21
+                }
+            }
+        },
+        "CyBench": {
+            "Unguided % solved":{
+                "GPT-4o": 12.5,
+                "GPT-4.5-preview": 17.5,
+                "o1-preview": 10.0,
+                "o1-mini": 10.0,
+                "o3-mini": 22.5,
+                "Claude-3-Opus": 10.0,
+                "Claude-3.5-Sonnet": 17.5,
+                "Claude-3.7-Sonnet": 20,
+                "Gemini-1.5-pro": 7.5,
+                "Llama-3.1-405B": 7.5,
+                "Mixtral-8x22B": 7.5,
+                "Gemini 1.5 Pro": 7.5,
+                "Llama-3-70B": 5.0
+            },
+            "Subtask-guided % solved": {
+                "Claude-3.5-Sonnet": 15.0,
+                "GPT-4o": 17.5,
+                "Claude-3-Opus": 12.5,
+                "o1-preview": 10.0,
+                "Llama-3.1-405B": 15.0,
+                "Mixtral-8x22B": 5.0,
+                "Gemini 1.5 Pro": 5.0,
+                "Llama-3-70B": 7.5
+            },
+            "Subtasks % solved": {
+                "Claude-3.5-Sonnet": 43.9,
+                "GPT-4o": 28.7,
+                "Claude-3-Opus": 36.8,
+                "o1-preview": 46.8,
+                "Llama-3.1-405B": 20.5,
+                "Mixtral-8x22B": 15.2,
+                "Gemini 1.5 Pro": 11.7,
+                "Llama-3-70B": 8.2
+            }
+        },
+        "NYU CTF Bench": {
+            "Pass@1": {
+                "Claude-3.5-Sonnet": {
+                    "D-CIPHER": 19.00,
+                    "EnIGMA": 13.50
+                },
+                "GPT-4o": {
+                    "D-CIPHER": 10.50,
+                    "EnIGMA": 9.50
+                },
+                "GPT-4": {
+                    "EnIGMA": 7.00
+                }
+            }
+        },
+        "CyberBench": {
+            "Average": {
+                "Falcon-7B": 39.4,
+                "Falcon-7B-Instruct": 37.5,
+                "Vicuna-7B-v1.5": 53.0,
+                "Mistral-7B-v0.1": 58.1,
+                "Mistral-7B-Instruct-v0.1": 55.0,
+                "Zephyr-7B-beta": 57.7,
+                "Llama-2-7B": 50.6,
+                "Llama-2-7B-Chat": 44.6,
+                "Vicuna-13B-v1.5":  57.3,
+                "Llama-2-13B": 54.1,
+                "Llama-2-13B-Chat": 45.0,
+                "GPT-3.5-Turbo": 62.6,
+                "GPT-4": 69.6
+            },
+            "CyNER (F1)": {
+                "Falcon-7B": 24.1,
+                "Falcon-7B-Instruct": 20.4,
+                "Vicuna-7B-v1.5": 25.8,
+                "Mistral-7B-v0.1": 36.7,
+                "Mistral-7B-Instruct-v0.1": 32.3,
+                "Zephyr-7B-beta": 30.0,
+                "Llama-2-7B": 26.3,
+                "Llama-2-7B-Chat": 22.7,
+                "Vicuna-13B-v1.5":  26.2,
+                "Llama-2-13B": 28.6,
+                "Llama-2-13B-Chat": 27.5,
+                "GPT-3.5-Turbo": 33.4,
+                "GPT-4": 55.4
+            },
+            "APTNER (F1)": {
+                "Falcon-7B": 17.7,
+                "Falcon-7B-Instruct": 19.1,
+                "Vicuna-7B-v1.5": 27.5,
+                "Mistral-7B-v0.1": 33.0,
+                "Mistral-7B-Instruct-v0.1": 26.2,
+                "Zephyr-7B-beta": 30.5,
+                "Llama-2-7B": 28.0,
+                "Llama-2-7B-Chat": 25.4,
+                "Vicuna-13B-v1.5":  28.1,
+                "Llama-2-13B": 29.9,
+                "Llama-2-13B-Chat": 28.2,
+                "GPT-3.5-Turbo": 40.9,
+                "GPT-4": 50.0
+            },
+            "CyNews (R-1/2/L)": {
+                "Falcon-7B": "1.0/0.8/1.0",
+                "Falcon-7B-Instruct": "7.2/2.7/6.0",
+                "Vicuna-7B-v1.5": "36.1/15.9/31.2",
+                "Mistral-7B-v0.1": "3.4/1.7/3.0",
+                "Mistral-7B-Instruct-v0.1": "28.7/11.8/24.5",
+                "Zephyr-7B-beta": "32.0/12.8/27.4",
+                "Llama-2-7B": "0.3/0.3/0.3",
+                "Llama-2-7B-Chat": "25.2/9.6/21.6",
+                "Vicuna-13B-v1.5": "35.6/15.6/30.9",
+                "Llama-2-13B": "0.6/0.5/0.6",
+                "Llama-2-13B-Chat": "3.5/1.3/2.9",
+                "GPT-3.5-Turbo": "35.5/15.4/30.3",
+                "GPT-4": "35.9/15.5/31.2"
+            },
+            "SecMMLU (Accuracy)": {
+                "Falcon-7B":  27.0,
+                "Falcon-7B-Instruct": 25.0,
+                "Vicuna-7B-v1.5": 64.0,
+                "Mistral-7B-v0.1": 76.0,
+                "Mistral-7B-Instruct-v0.1": 72.0,
+                "Zephyr-7B-beta": 74.0,
+                "Llama-2-7B": 63.0,
+                "Llama-2-7B-Chat": 60.0,
+                "Vicuna-13B-v1.5":  66.0,
+                "Llama-2-13B": 67.0,
+                "Llama-2-13B-Chat": 64.0,
+                "GPT-3.5-Turbo": 78.0,
+                "GPT-4": 83.0
+            },
+            "CyQuiz (Accuracy)": {
+                "Falcon-7B":  27.0,
+                "Falcon-7B-Instruct": 21.0,
+                "Vicuna-7B-v1.5": 66.0,
+                "Mistral-7B-v0.1": 77.0,
+                "Mistral-7B-Instruct-v0.1": 69.0,
+                "Zephyr-7B-beta": 75.0,
+                "Llama-2-7B": 62.0,
+                "Llama-2-7B-Chat": 56.0,
+                "Vicuna-13B-v1.5":  74.0,
+                "Llama-2-13B": 67.0,
+                "Llama-2-13B-Chat": 65.0,
+                "GPT-3.5-Turbo": 83.0,
+                "GPT-4": 81.0
+            },
+            "MITRE (Accuracy)": {
+                "Falcon-7B":  34.9,
+                "Falcon-7B-Instruct": 30.4,
+                "Vicuna-7B-v1.5": 43.5,
+                "Mistral-7B-v0.1": 50.2,
+                "Mistral-7B-Instruct-v0.1": 47.3,
+                "Zephyr-7B-beta": 43.5,
+                "Llama-2-7B": 44.6,
+                "Llama-2-7B-Chat": 41.6,
+                "Vicuna-13B-v1.5":  47.3,
+                "Llama-2-13B": 47.5,
+                "Llama-2-13B-Chat": 42.7,
+                "GPT-3.5-Turbo": 54.5,
+                "GPT-4": 64.9
+            },
+            "CVE (Accuracy)": {
+                "Falcon-7B":  54.6,
+                "Falcon-7B-Instruct": 52.9,
+                "Vicuna-7B-v1.5": 60.0,
+                "Mistral-7B-v0.1": 64.6,
+                "Mistral-7B-Instruct-v0.1": 58.7,
+                "Zephyr-7B-beta": 61.9,
+                "Llama-2-7B": 64.7,
+                "Llama-2-7B-Chat": 52.5,
+                "Vicuna-13B-v1.5":  62.3,
+                "Llama-2-13B": 62.1,
+                "Llama-2-13B-Chat": 42.0,
+                "GPT-3.5-Turbo": 58.0,
+                "GPT-4": 63.0
+            },
+            "Web (F1)": {
+                "Falcon-7B":  68.9,
+                "Falcon-7B-Instruct": 59.5,
+                "Vicuna-7B-v1.5": 75.3,
+                "Mistral-7B-v0.1": 91.9,
+                "Mistral-7B-Instruct-v0.1": 87.2,
+                "Zephyr-7B-beta": 85.2,
+                "Llama-2-7B": 79.9,
+                "Llama-2-7B-Chat": 48.4,
+                "Vicuna-13B-v1.5":  82.6,
+                "Llama-2-13B": 89.3,
+                "Llama-2-13B-Chat": 58.8,
+                "GPT-3.5-Turbo": 89.2,
+                "GPT-4": 95.4
+            },
+            "Email (F1)": {
+                "Falcon-7B":  93.3,
+                "Falcon-7B-Instruct": 93.5,
+                "Vicuna-7B-v1.5": 86.4,
+                "Mistral-7B-v0.1": 96.4,
+                "Mistral-7B-Instruct-v0.1": 88.9,
+                "Zephyr-7B-beta": 86.7,
+                "Llama-2-7B": 94.2,
+                "Llama-2-7B-Chat": 79.4,
+                "Vicuna-13B-v1.5":  86.5,
+                "Llama-2-13B": 96.4,
+                "Llama-2-13B-Chat": 70.3,
+                "GPT-3.5-Turbo": 78.9,
+                "GPT-4": 93.9
+            },
+            "HTTP (F1)": {
+                "Falcon-7B":  45.2,
+                "Falcon-7B-Instruct": 48.3,
+                "Vicuna-7B-v1.5": 53.7,
+                "Mistral-7B-v0.1": 52.6,
+                "Mistral-7B-Instruct-v0.1": 47.2,
+                "Zephyr-7B-beta": 66.2,
+                "Llama-2-7B": 42.8,
+                "Llama-2-7B-Chat": 41.0,
+                "Vicuna-13B-v1.5":  72.3,
+                "Llama-2-13B": 52.5,
+                "Llama-2-13B-Chat": 48.5,
+                "GPT-3.5-Turbo": 83.1,
+                "GPT-4": 84.1
+            }
+        },
+        "CyberMetric":{
+            "80 Q (Accuracy)": {
+                "GPT-4o": 96.25,
+                "Mixtral-8x7B-Instruct": 92.50,
+                "GPT-4-Turbo": 96.25,
+                "Falcon-180B-Chat": 90.00,
+                "GPT-3.5-Turbo": 90.00,
+                "Gemini Pro 1.0": 90.00,
+                "Mistral-7B-Instruct-v0.2": 78.75,
+                "Gemma-1.1-7B": 82.50,
+                "Llama-3-8B-Instruct": 81.25,
+                "Flan-T5-XXL": 81.94,
+                "Llama 2-70B": 75.00,
+                "Zephyr-7B-beta": 80.94,
+                "Qwen1.5-MoE-A2.7B": 62.50,
+                "Qwen1.5-7B": 73.75,
+                "Qwen-7B": 43.75,
+                "Phi-2": 53.75,
+                "Llama3-ChatQA-1.5-8B": 53.75,
+                "DeciLM-7B": 52.50,
+                "Qwen1.5-4B": 36.25,
+                "Genstruct-7B": 38.75,
+                "Llama-3-8B": 38.75,
+                "Gemma-7B": 42.50,
+                "Dolly V2 12b BF16": 33.75,
+                "Gemma-2B": 25.00,
+                "Phi-3-mini-4k-Instruct": 5.00
+            },
+            "500 Q (Accuracy)": {
+                "GPT-4o": 93.40,
+                "Mixtral-8x7B-Instruct": 91.80,
+                "GPT-4-Turbo": 93.30,
+                "Falcon-180B-Chat": 87.80,
+                "GPT-3.5-Turbo": 87.30,
+                "Gemini Pro 1.0": 85.05,
+                "Mistral-7B-Instruct-v0.2": 78.40,
+                "Gemma-1.1-7B": 75.40,
+                "Llama-3-8B-Instruct": 76.20,
+                "Flan-T5-XXL": 71.10,
+                "Llama 2-70B": 73.40,
+                "Zephyr-7B-beta": 76.40,
+                "Qwen1.5-MoE-A2.7B": 64.60,
+                "Qwen1.5-7B": 60.60,
+                "Qwen-7B": 58.00,
+                "Phi-2": 48.00,
+                "Llama3-ChatQA-1.5-8B": 52.80,
+                "DeciLM-7B": 47.20,
+                "Qwen1.5-4B": 41.20,
+                "Genstruct-7B": 40.60,
+                "Llama-3-8B": 35.80,
+                "Gemma-7B": 37.20,
+                "Dolly V2 12b BF16": 30.00,
+                "Gemma-2B": 23.20,
+                "Phi-3-mini-4k-Instruct": 5.00
+            },
+            "2k Q (Accuracy)": {
+                "GPT-4o": 91.25,
+                "Mixtral-8x7B-Instruct": 91.10,
+                "GPT-4-Turbo": 91.00,
+                "Falcon-180B-Chat": 87.10,
+                "GPT-3.5-Turbo": 88.10,
+                "Gemini Pro 1.0": 84.00,
+                "Mistral-7B-Instruct-v0.2": 76.40,
+                "Gemma-1.1-7B": 75.75,
+                "Llama-3-8B-Instruct": 73.75,
+                "Flan-T5-XXL": 69.00,
+                "Llama 2-70B": 71.60,
+                "Zephyr-7B-beta": 72.50,
+                "Qwen1.5-MoE-A2.7B": 61.65,
+                "Qwen1.5-7B": 61.35,
+                "Qwen-7B": 55.75,
+                "Phi-2": 52.90,
+                "Llama3-ChatQA-1.5-8B": 49.45,
+                "DeciLM-7B": 50.44,
+                "Qwen1.5-4B": 40.50,
+                "Genstruct-7B": 37.55,
+                "Llama-3-8B": 37.00,
+                "Gemma-7B": 36.00,
+                "Dolly V2 12b BF16": 28.75,
+                "Gemma-2B": 18.20,
+                "Phi-3-mini-4k-Instruct": 4.41
+            },
+            "10k Q (Accuracy)": {
+                "GPT-4o": 88.89,
+                "Mixtral-8x7B-Instruct": 87.00,
+                "GPT-4-Turbo": 88.50,
+                "Falcon-180B-Chat": 87.00,
+                "GPT-3.5-Turbo": 80.30,
+                "Gemini Pro 1.0": 87.50,
+                "Mistral-7B-Instruct-v0.2": 74.82,
+                "Gemma-1.1-7B": 73.32,
+                "Llama-3-8B-Instruct": 71.25,
+                "Flan-T5-XXL": 67.50,
+                "Llama 2-70B": 66.10,
+                "Zephyr-7B-beta": 65.00,
+                "Qwen1.5-MoE-A2.7B": 60.73,
+                "Qwen1.5-7B": 59.79,
+                "Qwen-7B": 54.09,
+                "Phi-2": 52.13,
+                "Llama3-ChatQA-1.5-8B": 49.64,
+                "DeciLM-7B": 50.75,
+                "Qwen1.5-4B": 40.29,
+                "Genstruct-7B": 36.93,
+                "Llama-3-8B": 36.00,
+                "Gemma-7B": 34.28,
+                "Dolly V2 12b BF16": 27.00,
+                "Gemma-2B": 19.18,
+                "Phi-3-mini-4k-Instruct": 4.80
+            }
+        },
+        "TACTL": {
+            "Ground2Crown": {
+                "DeepSeek-R1": 100,
+                "DeepSeek-V3": 100,
+                "GPT-4o": 93.3,
+                "Llama-3.1-405B": 93.3,
+                "Qwen2.5-72B-Instruct": 93.3,
+                "Llama-3.1-Tulu-3-70B": 83.3,
+                "Llama-3.3-70B": 80.0,
+                "Mixtral-8x22B": 60.0
+
+            },
+            "TACTL-183": {
+                "DeepSeek-R1": 91.8,
+                "DeepSeek-V3": 86.3,
+                "GPT-4o": 85.2,
+                "Llama-3.1-405B": 88.5,
+                "Qwen2.5-72B-Instruct": 84.2,
+                "Llama-3.1-Tulu-3-70B": 81.4,
+                "Llama-3.3-70B": 78.7,
+                "Mixtral-8x22B": 65.0
+            }
+        },
+        "AutoPenBench": {
+            "Autonomous (Success rate)": {
+                "GPT-4o": 21
+            },
+            "Autonomous (Progress rate)": {
+                "GPT-4o": 39
+            },
+            "Assisted (Success rate)": {
+                "GPT-4o": 64
+            },
+            "Assisted (Progress rate)": {
+                "GPT-4o": 53
+            }
+        },
+        "PrimeVul": {
+            "Pair-wise Correct Prediction": {
+                "GPT-3.5": {
+                    "Two-shot": 5.67,
+                    "CoT": 6.21,
+                    "Fine-tune": 1.24
+                },
+                "GPT-4": {
+                    "Two-shot": 5.14,
+                    "CoT": 12.94
+                }
+            } 
+        },
+        "CRUXEval": {
+            "Input Prediction (Pass@1)": {
+                "CodeLlama-7B": 36.6,
+                "CodeLlama-13B": 39.0,
+                "CodeLlama-34B": 46.5,
+                "CodeLlama-7B-Python": 36.3,
+                "CodeLlama-13B-Python": 40.5,
+                "CodeLlama-34B-Python": 41.5,
+                "StarCoderBase-7B": 30.0,
+                "StarCoderBase-15.5B": 31.6,
+                "WizardCoder-13B": 39.2,
+                "WizardCoder-34B": 42.8,
+                "Phi-1": 13.9,
+                "Phi-1.5": 24.1,
+                "Phind v2": 47.9,
+                "DeepSeek-Coder-6.7B-Base": 41.1,
+                "DeepSeek-Coder-33B-Base": 46.6,
+                "DeepSeek-Coder-6.7B-Instruct": 36.6,
+                "DeepSeek-Coder-33B-Instruct": 47.4,
+                "Mistral-7B": 36.0,
+                "GPT-3.5": 49.2,
+                "GPT-4": 67.1               
+            },
+            "Input Prediction (Pass@5)": {
+                "CodeLlama-7B": 55.2,
+                "CodeLlama-13B": 58.2,
+                "CodeLlama-34B": 64.7,
+                "CodeLlama-7B-Python": 56.0,
+                "CodeLlama-13B-Python": 58.0,
+                "CodeLlama-34B-Python": 59.2,
+                "StarCoderBase-7B": 48.9,
+                "StarCoderBase-15.5B": 49.5,
+                "WizardCoder-13B": 54.8,
+                "WizardCoder-34B": 57.3,
+                "Phi-1": 22.6,
+                "Phi-1.5": 38.9,
+                "Phind v2": 64.9,
+                "DeepSeek-Coder-6.7B-Base": 61.7,
+                "DeepSeek-Coder-33B-Base": 65.1,
+                "DeepSeek-Coder-6.7B-Instruct": 54.4,
+                "DeepSeek-Coder-33B-Instruct": 64.2,
+                "Mistral-7B": 54.2,
+                "GPT-3.5": 66.5,
+                "GPT-4": 76.8              
+            },
+            "Output Prediction (Pass@1)": {
+                "CodeLlama-7B": 36.4,
+                "CodeLlama-13B": 38.4,
+                "CodeLlama-34B": 41.1,
+                "CodeLlama-7B-Python": 36.4,
+                "CodeLlama-13B-Python": 37.8,
+                "CodeLlama-34B-Python": 40.7,
+                "StarCoderBase-7B": 31.1,
+                "StarCoderBase-15.5B": 33.3,
+                "WizardCoder-13B": 37.9,
+                "WizardCoder-34B": 41.2,
+                "Phi-1": 23.3,
+                "Phi-1.5": 27.1,
+                "Phind v2": 38.3,
+                "DeepSeek-Coder-6.7B-Base": 39.8,
+                "DeepSeek-Coder-33B-Base": 43.6,
+                "DeepSeek-Coder-6.7B-Instruct": 41.0,
+                "DeepSeek-Coder-33B-Instruct": 44.0,
+                "Mistral-7B": 31.7,
+                "GPT-3.5": 50.0,
+                "GPT-4": 63.4              
+            },
+            "Output Prediction (Pass@5)": {
+                "CodeLlama-7B": 49.6,
+                "CodeLlama-13B": 53.2,
+                "CodeLlama-34B": 56.1,
+                "CodeLlama-7B-Python": 49.7,
+                "CodeLlama-13B-Python": 50.8,
+                "CodeLlama-34B-Python": 53.7,
+                "StarCoderBase-7B": 43.8,
+                "StarCoderBase-15.5B": 47.7,
+                "WizardCoder-13B": 51.6,
+                "WizardCoder-34B": 52.2,
+                "Phi-1": 34.0,
+                "Phi-1.5": 39.4,
+                "Phind v2": 49.2,
+                "DeepSeek-Coder-6.7B-Base": 53.9,
+                "DeepSeek-Coder-33B-Base": 57.5,
+                "DeepSeek-Coder-6.7B-Instruct": 52.5,
+                "DeepSeek-Coder-33B-Instruct": 58.0,
+                "Mistral-7B": 48.2,
+                "GPT-3.5": 60.1,
+                "GPT-4": 68.7             
+            }
+        },
+        "SWE-bench-verified": {
+            "% Resolved": {
+                "Claude 3.7 Sonnet (No extended thinking + scaffolding)": 70.30,
+                "Augment Agent v0": 65.40,
+                "W&B Programmer O1 crosscheck5": 64.60,
+                "AgentScope": 63.40,
+                "Tools + Claude 3.7 Sonnet (2025-02-24)": 63.20,
+                "EPAM AI/Run Developer Agent v20250219 + Anthopic Claude 3.5 Sonnet": 62.80,
+                "CodeStory Midwit Agent + swe-search": 62.20,
+                "OpenHands + 4x Scaled (2024-02-03)": 60.80,
+                "Learn-by-interact": 60.20, 
+                "devlo": 58.20,
+                "Emergent E1 (v2024-12-23)": 57.20,
+                "Gru(2024-12-08)": 57.00,
+                "EPAM AI/Run Developer Agent v20241212 + Anthopic Claude 3.5 Sonnet": 55.40,
+                "Amazon Q Developer Agent (v20241202-dev)": 55.00,
+                "Bracket.sh": 53.20,
+                "OpenHands + CodeAct v2.1 (claude-3-5-sonnet-20241022)": 53.00,
+                "Google Jules + Gemini 2.0 Flash (v20241212-experimental)": 52.20,
+                "Engine Labs (2024-11-25)": 51.80,
+                "AutoCodeRover-v2.1 (Claude-3.5-Sonnet-20241022)": 51.60,
+                "Agentless-1.5 + Claude-3.5 Sonnet (20241022)": 50.80,
+                "Solver (2024-10-28)": 50.00,
+                "Bytedance MarsCode Agent": 50.00,
+                "nFactorial (2024-11-05)": 49.20,
+                "Tools + Claude 3.5 Sonnet (2024-10-22)": 49.00,
+                "Composio SWE-Kit (2024-10-25)": 48.60,
+                "AppMap Navie v2": 47.20,
+                "Emergent E1 (v2024-10-12)": 46.60,
+                "AutoCodeRover-v2.0 (Claude-3.5-Sonnet-20241022)": 46.20,
+                "Solver (2024-09-12)": 45.40,
+                "Gru(2024-08-24)": 45.20,
+                "CodeShellAgent + Gemini 2.0 Flash (Experimental)": 44.20,
+                "Agentless Lite + O3 Mini (20250214)": 42.40,
+                "ugaiforge": 41.60,
+                "nFactorial (2024-10-30)": 41.60,
+                "SWE-RL (Llama3-SWE-RL-70B + Agentless Mini) (20250226)": 41.20,
+                "Nebius AI Qwen 2.5 72B Generator + LLama 3.1 70B Critic": 40.60,
+                "Tools + Claude 3.5 Haiku": 40.60,
+                "Honeycomb": 40.60,
+                "Composio SWEkit + Claude 3.5 Sonnet (2024-10-16)": 40.60,
+                "EPAM AI/Run Developer Agent v20241029 + Anthopic Claude 3.5 Sonnet": 39.60,
+                "Amazon Q Developer Agent (v20240719-dev)": 38.80,
+                "Agentless-1.5 + GPT 4o (2024-05-13)": 38.80,
+                "AutoCodeRover (v20240620) + GPT 4o (2024-05-13)": 38.40,
+                "SWE-agent + Claude 3.5 Sonnet": 33.60,
+                "MASAI + GPT 4o (2024-06-12)": 32.60,
+                "Artemis Agent v1 (2024-11-20)": 32.00,
+                "nFactorial (2024-10-07)": 31.60,
+                "SWE-Fixer (Qwen2.5-7b retriever + Qwen2.5-72b editor) 20241128": 30.20,
+                "Lingma Agent + Lingma SWE-GPT 72b (v0925)": 28.80,
+                "EPAM AI/Run Developer Agent + GPT4o": 27.00,
+                "AppMap Navie + GPT 4o (2024-05-13)": 26.20,
+                "nFactorial (2024-10-01)": 25.80,
+                "Amazon Q Developer Agent (v20240430-dev)": 25.60,
+                "Lingma Agent + Lingma SWE-GPT 72b (v0918)": 25.00,
+                "SWE-agent + GPT 4o (2024-05-13)": 23.20,
+                "SWE-agent + GPT 4 (1106)": 22.40,
+                "SWE-agent + Claude 3 Opus": 18.20,
+                "Lingma Agent + Lingma SWE-GPT 7b (v0925)": 18.20,
+                "Lingma Agent + Lingma SWE-GPT 7b (v0918)": 10.20,
+                "RAG + Claude 3 Opus": 7.00,
+                "RAG + Claude 2": 4.40,
+                "RAG + GPT 4 (1106)": 2.80,
+                "RAG + SWE-Llama 7B": 1.40,
+                "RAG + SWE-Llama 13B": 1.20,
+                "RAG + ChatGPT 3.5": 0.40
+            }
+        },
+        "CyberGym": {
+            "% Reproducing Target Vuln.": {
+                "OpenHands + Claude-Sonnet-4": 17.85,
+                "OpenHands + Claude-3.7-Sonnet": 11.94,
+                "OpenHands + GPT-4.1": 9.36,
+                "Cybench + GPT-4.1": 8.96,
+                "Codex + GPT-4.1": 7.37,
+                "ENiGMA + GPT-4.1": 7.23,
+                "OpenHands + Gemini-2.5-Flash": 4.84,
+                "OpenHands + DeepSeek-V3": 3.58,
+                "OpenHands + o4-mini": 2.46,
+                "OpenHands + R2E-Gym-32B": 1.99,
+                "OpenHands + Qwen3-235B-A22B": 1.86,
+                "OpenHands + OpenHands-LM-32B": 1.66,
+                "OpenHands + SWE-Gym-32B": 0.07
+            },
+            "% Finding Post-Patch Vuln.": {
+                "OpenHands + Claude-Sonnet-4": 1.99,
+                "OpenHands + Claude-3.7-Sonnet": 2.19,
+                "OpenHands + GPT-4.1": 1.26,
+                "Cybench + GPT-4.1": 2.26,
+                "Codex + GPT-4.1": 1.19,
+                "ENiGMA + GPT-4.1": 1.92,
+                "OpenHands + Gemini-2.5-Flash": 0.80,
+                "OpenHands + DeepSeek-V3": 0.66,
+                "OpenHands + o4-mini": 0.07,
+                "OpenHands + R2E-Gym-32B": 0.60,
+                "OpenHands + Qwen3-235B-A22B": 0.33,
+                "OpenHands + OpenHands-LM-32B": 0.33,
+                "OpenHands + SWE-Gym-32B": 0.07
+            }
+        },
+        "BountyBench": {
+            "Detect Success Rate": {
+                "Claude Code": 5,
+                "OpenAI Codex CLI": 5,
+                "C-Agent: Claude 3.7": 5,
+                "C-Agent: Gemini 2.5": 2.5,
+                "C-Agent: GPT-4.1": 0
+            },
+            "Exploit Success Rate": {
+                "Claude Code": 57.5,
+                "OpenAI Codex CLI": 32.5,
+                "C-Agent: Claude 3.7": 67.5,
+                "C-Agent: Gemini 2.5": 40,
+                "C-Agent: GPT-4.1": 55
+            },
+            "Patch Success Rate": {
+                "Claude Code": 87.5,
+                "OpenAI Codex CLI": 90,
+                "C-Agent: Claude 3.7": 60,
+                "C-Agent: Gemini 2.5": 45,
+                "C-Agent: GPT-4.1": 50
+            }
+        },
+        "CVE-Bench": {
+            "Zero-day Pass@1": {
+                "T-Agent + GPT-4o (2024-11-20)": 8.0,
+                "AutoGPT + GPT-4o (2024-11-20)": 3.0,
+                "Cy-Agent + GPT-4o (2024-11-20)": 1.0
+            },
+            "Zero-day Pass@5": {
+                "T-Agent + GPT-4o (2024-11-20)": 10.0,
+                "AutoGPT + GPT-4o (2024-11-20)": 10.0,
+                "Cy-Agent + GPT-4o (2024-11-20)": 2.5
+            },
+            "One-day Pass@1": {
+                "T-Agent + GPT-4o (2024-11-20)": 7.0,
+                "AutoGPT + GPT-4o (2024-11-20)": 4.5,
+                "Cy-Agent + GPT-4o (2024-11-20)": 2.5
+            },
+            "One-day Pass@5": {
+                "T-Agent + GPT-4o (2024-11-20)": 12.5,
+                "AutoGPT + GPT-4o (2024-11-20)": 5.0,
+                "Cy-Agent + GPT-4o (2024-11-20)": 2.5
+            }
+        }
+    }
+}

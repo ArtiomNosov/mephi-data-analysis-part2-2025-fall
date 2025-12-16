@@ -1,0 +1,14 @@
+timestamp,task,model,dataset,total_gpu_energy
+2024-09-04-20-43-25,text_classification,nlptown/bert-base-multilingual-uncased-sentiment,EnergyStarAI/text_classification,0.000356581340820838
+2024-09-04-20-53-52,text_classification,bhadresh-savani/electra-base-emotion,EnergyStarAI/text_classification,0.000252136868375885
+2024-09-04-20-46-36,text_classification,distilbert/distilbert-base-uncased-finetuned-sst-2-english,EnergyStarAI/text_classification,0.000217735979745015
+2024-09-04-20-51-02,text_classification,michelecafagna26/gpt2-medium-finetuned-sst2-sentiment,EnergyStarAI/text_classification,0.000801512141209138
+2024-09-04-20-49-06,text_classification,lxyuan/distilbert-base-multilingual-cased-sentiments-student,EnergyStarAI/text_classification,0.000221416899353954
+2024-09-04-20-48-33,text_classification,mnoukhov/gpt2-imdb-sentiment-classifier,EnergyStarAI/text_classification,0.00031876844945895
+2024-09-04-20-28-47,text_classification,lvwerra/distilbert-imdb,EnergyStarAI/text_classification,0.000216021922817511
+2024-09-04-20-44-33,text_classification,Cheng98/bert-large-sst2,EnergyStarAI/text_classification,0.000918014262188649
+2024-09-04-22-01-22,text_classification_t5,google-t5/t5-large,EnergyStarAI/text_classification,0.00791976258580498
+2024-09-04-22-09-36,text_classification_t5,google-t5/t5-11b,EnergyStarAI/text_classification,0.0277870788685343
+2024-09-04-22-01-30,text_classification_t5,google-t5/t5-3b,EnergyStarAI/text_classification,0.0116805158999608
+2024-09-04-21-35-23,text_classification_t5,google-t5/t5-base,EnergyStarAI/text_classification,0.00412636446775529
+2024-09-04-22-01-48,text_classification_t5,google-t5/t5-small,EnergyStarAI/text_classification,0.00221606691174117

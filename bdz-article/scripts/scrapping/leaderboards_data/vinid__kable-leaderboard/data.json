@@ -1,0 +1,3530 @@
+[
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 94.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 89.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 95.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 90.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 86.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 87.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 93.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 88.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 94.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 85.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 97.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 90.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 89.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 85.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 78.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 88.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 82.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 83.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 65.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 91.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 86.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 90.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 85.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 85.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 98.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 96.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 91.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 97.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 96.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 91.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 81.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 97.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 88.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 89.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 80.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 83.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 49.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 94.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 87.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 69.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 78.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 60.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 51.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 79.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 65.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 80.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 65.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Direct Fact Ver.",
+        "Score": 64.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 96.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 94.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 97.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 94.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 93.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 98.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 97.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 91.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 95.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 86.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 97.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 91.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 95.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 91.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 90.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 95.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 89.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 87.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 89.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 91.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 89.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 90.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 89.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Assertion",
+        "Score": 88.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 95.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 93.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 97.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 96.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 97.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 98.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 98.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 90.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 95.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 87.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 96.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 94.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 95.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 94.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 92.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 95.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 92.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 92.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 93.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 89.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 86.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 89.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 85.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Knowledge",
+        "Score": 85.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 93.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 85.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 94.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 86.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 83.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 89.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 90.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 88.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 93.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 86.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 95.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 90.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 89.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 80.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 74.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 84.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 81.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 81.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 83.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 85.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 79.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 85.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 80.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 80.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 97.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 96.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 93.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 98.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 97.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 88.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 82.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 96.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 92.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 89.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 88.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 88.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 62.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 94.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 87.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 69.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 80.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 62.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 30.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 87.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 75.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 87.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 72.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of 1P Belief",
+        "Score": 72.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 99.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 98.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 98.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 98.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 99.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 99.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 99.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 90.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 96.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 86.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 93.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 94.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 89.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 94.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 93.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 84.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 89.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 82.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 91.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 95.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 90.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 91.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 83.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 66.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 64.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 67.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 69.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 87.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 92.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 14.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 29.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 18.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 94.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 22.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 51.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 45.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 54.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 50.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 18.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 44.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 66.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 83.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 55.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 77.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 57.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 1P Belief",
+        "Score": 55.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 97.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 93.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 98.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 96.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 95.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 97.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 99.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 89.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 92.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 85.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 98.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 93.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 93.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 96.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 93.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 86.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 81.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 83.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 75.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 93.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 81.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 91.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 82.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 83.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 27.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 50.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 57.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 39.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 50.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 63.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 84.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 18.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 16.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 19.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 63.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 17.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 46.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 55.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 46.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 34.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 19.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 44.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 58.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 58.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 41.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 56.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 41.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Intrsp. of 1P Belief",
+        "Score": 43.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 99.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 99.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 99.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 99.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 99.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 97.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 98.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 95.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 96.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 97.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 97.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 98.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 87.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 92.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 96.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 93.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 96.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 93.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 93.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 99.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 99.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 87.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 98.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 97.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 99.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 94.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 94.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 96.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 79.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 99.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 74.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 62.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 87.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 86.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 76.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 83.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 55.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 84.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 88.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 79.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 87.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 79.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (J)",
+        "Score": 79.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 98.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 99.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 99.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 98.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 99.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 99.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 98.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 95.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 96.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 97.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 97.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 97.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 87.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 87.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 96.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 93.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 93.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 93.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 98.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 99.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 87.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 99.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 97.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 99.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 94.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 90.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 98.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 86.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 99.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 77.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 63.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 89.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 88.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 75.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 86.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 55.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 76.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 90.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 79.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 89.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 79.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of 3P Belief (M)",
+        "Score": 79.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 99.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 99.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 99.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 95.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 96.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 97.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 98.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 98.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 97.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 90.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 96.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 96.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 92.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 99.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 94.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 79.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 91.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 92.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 93.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 95.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 91.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 84.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 93.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 93.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 92.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 92.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (JM)",
+        "Score": 93.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 99.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 99.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 98.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 96.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 97.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 97.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 98.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 98.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 95.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 35.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 96.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 95.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 94.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 95.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 93.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 99.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 99.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 100.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 94.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 84.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 91.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 93.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 93.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 95.0,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 90.4,
+        "Condition": "False"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 26.2,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 93.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 88.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 92.8,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 88.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Corr. Attrib. of Belief (MJ)",
+        "Score": 88.6,
+        "Condition": "False"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 93.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 95.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 34.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 35.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 97.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 91.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 90.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 94.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 81.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 88.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 94.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 66.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 30.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 87.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 93.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 90.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 89.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 81.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 82.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 79.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 81.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Ver. of Rec. Knowledge",
+        "Score": 80.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 99.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 99.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 98.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 90.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 96.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 78.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 95.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 97.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 83.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 62.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 96.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 69.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 96.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 68.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Conf. of Rec. Knowledge",
+        "Score": 68.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "o1",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 99.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "o3-mini",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 98.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "4o",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 99.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.7 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "3.5 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Gemini 2 Flash-Lite",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 100.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 83.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.-Llama-70B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 93.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "R1-Dist.Qwen-14B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 88.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama 3.3-70B Inst. Turbo",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 97.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-4",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 98.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "GPT-3.5",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 65.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Opus",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 97.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Sonnet",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 98.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "3 Haiku",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 74.6,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x22B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 94.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 8x7B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 88.2,
+        "Condition": "True"
+    },
+    {
+        "Model": "Mixtral 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 96.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3  70B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 96.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-3 8B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 80.4,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 70B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 96.8,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 13B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 79.0,
+        "Condition": "True"
+    },
+    {
+        "Model": "Llama-2 7B",
+        "Type": "Large Language Model",
+        "Dataset": "Awrn. of Rec. Knowledge",
+        "Score": 80.0,
+        "Condition": "True"
+    }
+]

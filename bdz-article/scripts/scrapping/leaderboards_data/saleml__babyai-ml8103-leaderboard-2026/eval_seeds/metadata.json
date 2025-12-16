@@ -1,0 +1,36 @@
+{
+  "description": "Fixed seed sets for BabyAI course project evaluation",
+  "total_episodes_per_tier": 100,
+  "seed_sets": {
+    "public_easy": {
+      "filename": "public_easy_seeds.json",
+      "num_episodes": 100,
+      "num_environments": 5
+    },
+    "public_moderate": {
+      "filename": "public_moderate_seeds.json",
+      "num_episodes": 100,
+      "num_environments": 5
+    },
+    "public_hard": {
+      "filename": "public_hard_seeds.json",
+      "num_episodes": 100,
+      "num_environments": 5
+    },
+    "private_easy": {
+      "filename": "private_easy_seeds.json",
+      "num_episodes": 100,
+      "num_environments": 5
+    },
+    "private_moderate": {
+      "filename": "private_moderate_seeds.json",
+      "num_episodes": 100,
+      "num_environments": 5
+    },
+    "private_hard": {
+      "filename": "private_hard_seeds.json",
+      "num_episodes": 100,
+      "num_environments": 5
+    }
+  }
+}

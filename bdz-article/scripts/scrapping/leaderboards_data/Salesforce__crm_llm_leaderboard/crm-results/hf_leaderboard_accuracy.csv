@@ -1,0 +1,280 @@
+Use Case Name,Use Case Type,Accuracy Method,Model Name,Model Version,LLM Provider,Factuality,Instruction Following,Conciseness,Completeness,Accuracy
+Service: Conversation Summary,Summary,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.871720116618076,3.9834791059280854,3.847424684159378,3.9193391642371234,3.9054907677356656
+Service: Conversation Summary,Summary,Auto,GPT4-o,GPT4-o,OpenAI,3.9669582118561713,3.9961127308066082,3.9300291545189503,3.9844509232264333,3.9693877551020407
+Service: Conversation Summary,Summary,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.9310009718172982,3.998056365403304,3.8104956268221573,3.9737609329446064,3.9283284742468414
+Service: Conversation Summary,Summary,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.9504373177842567,4.0,3.9067055393586005,3.9805636540330416,3.9594266277939747
+Service: Conversation Summary,Summary,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.9591836734693877,3.998056365403304,3.881438289601555,3.992225461613217,3.957725947521866
+Service: Conversation Summary,Summary,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.9591836734693877,3.999028182701652,3.6997084548104957,3.993197278911565,3.912779397473275
+Service: Conversation Summary,Summary,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.954324586977648,4.0,3.8328474246841595,3.9951409135082603,3.945578231292517
+Service: Conversation Summary,Summary,Auto,XGen 2,XGen 2 (1228),Salesforce,3.880466472303207,3.9941690962099123,3.9047619047619047,3.836734693877551,3.9040330417881437
+Service: Conversation Summary,Summary,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.8746355685131197,3.991253644314869,3.7862001943634596,3.9407191448007777,3.898202137998057
+Service: Conversation Summary,Summary,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.9591836734693877,3.999028182701652,3.9280855199222544,3.990281827016521,3.9691448007774537
+Service: Conversation Summary,Summary,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.7560738581146746,3.938775510204082,3.6530612244897958,3.938775510204082,3.8216715257531586
+Service: Conversation Summary,Summary,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.9310009718172982,3.9961127308066082,3.9834791059280854,3.935860058309038,3.961613216715257
+Service: Conversation Summary,Summary,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.9640427599611274,3.998056365403304,3.7657920310981536,3.989310009718173,3.9293002915451893
+Service: Conversation Summary,Summary,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.9494655004859087,3.9961127308066082,3.943634596695821,3.9727891156462585,3.9655004859086493
+Service: Conversation Summary,Summary,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.922254616132167,4.0,3.565597667638484,3.9961127308066082,3.8709912536443145
+Service: Conversation Summary,Summary,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.7764820213799806,3.927113702623907,3.327502429543246,3.924198250728863,3.738824101068999
+Service: Conversation Summary,Summary,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.9115646258503403,3.987366375121477,3.3751214771622933,3.9825072886297375,3.814139941690962
+Service: Conversation Summary,Summary,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.9037900874635567,3.997084548104956,3.7755102040816326,3.9280855199222544,3.9011175898931
+Sales: Email Generation,Generation,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,2.2452830188679247,1.9811320754716981,1.8867924528301887,2.018867924528302,2.0330188679245285
+Sales: Email Generation,Generation,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.188679245283019,3.207547169811321,3.0754716981132075,3.0377358490566038,3.1273584905660377
+Sales: Email Generation,Generation,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.660377358490566,3.7358490566037736,3.5849056603773586,3.0754716981132075,3.5141509433962264
+Sales: Email Generation,Generation,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.4716981132075473,3.4150943396226414,3.5283018867924527,2.9245283018867925,3.334905660377359
+Sales: Email Generation,Generation,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.0377358490566038,2.5283018867924527,2.5283018867924527,2.811320754716981,2.7264150943396226
+Sales: Email Generation,Generation,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.7358490566037736,3.6792452830188678,3.547169811320755,3.018867924528302,3.4952830188679247
+Sales: Email Generation,Generation,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,2.7547169811320753,2.358490566037736,2.2641509433962264,2.452830188679245,2.4575471698113205
+Sales: Email Generation,Generation,Auto,XGen 2,XGen 2 (1228),Salesforce,2.509433962264151,2.339622641509434,2.3962264150943398,2.2830188679245285,2.3820754716981134
+Sales: Email Generation,Generation,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.811320754716981,3.849056603773585,3.69811320754717,3.018867924528302,3.5943396226415096
+Sales: Email Generation,Generation,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.811320754716981,3.849056603773585,3.7358490566037736,3.0,3.599056603773585
+Sales: Email Generation,Generation,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.452830188679245,3.056603773584906,3.509433962264151,3.0,3.2547169811320753
+Sales: Email Generation,Generation,Auto,GPT4-o,GPT4-o,OpenAI,3.792452830188679,3.830188679245283,3.4716981132075473,3.0377358490566038,3.533018867924528
+Sales: Email Generation,Generation,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.0377358490566038,2.9245283018867925,2.7547169811320753,2.69811320754717,2.8537735849056607
+Sales: Email Generation,Generation,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.6792452830188678,3.7735849056603774,3.69811320754717,3.0,3.537735849056604
+Sales: Email Generation,Generation,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.4339622641509435,3.056603773584906,3.056603773584906,2.69811320754717,3.061320754716981
+Sales: Email Generation,Generation,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.7358490566037736,3.547169811320755,3.30188679245283,3.0,3.3962264150943398
+Sales: Email Generation,Generation,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,2.6226415094339623,2.169811320754717,2.150943396226415,2.490566037735849,2.3584905660377355
+Sales: Email Generation,Generation,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.4716981132075473,3.150943396226415,3.150943396226415,2.8867924528301887,3.165094339622642
+Service: Reply Recommendations,Generation,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,2.7777777777777777,3.3333333333333335,2.9444444444444446,2.7222222222222223,2.9444444444444446
+Service: Reply Recommendations,Generation,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.1666666666666665,3.7222222222222223,2.611111111111111,3.5,3.25
+Service: Reply Recommendations,Generation,Auto,GPT4-o,GPT4-o,OpenAI,3.388888888888889,3.9444444444444446,3.8333333333333335,3.111111111111111,3.5694444444444446
+Service: Reply Recommendations,Generation,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.2222222222222223,3.9444444444444446,3.6666666666666665,3.3333333333333335,3.541666666666667
+Service: Reply Recommendations,Generation,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.111111111111111,3.9444444444444446,3.5555555555555554,3.111111111111111,3.4305555555555554
+Service: Reply Recommendations,Generation,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.111111111111111,3.7777777777777777,3.2777777777777777,3.1666666666666665,3.333333333333333
+Service: Reply Recommendations,Generation,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.0,3.611111111111111,2.888888888888889,3.1666666666666665,3.1666666666666665
+Service: Reply Recommendations,Generation,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.0555555555555554,3.2777777777777777,2.5555555555555554,3.1666666666666665,3.013888888888889
+Service: Reply Recommendations,Generation,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.2777777777777777,3.5555555555555554,3.111111111111111,2.8333333333333335,3.1944444444444446
+Service: Reply Recommendations,Generation,Auto,XGen 2,XGen 2 (1228),Salesforce,3.0,3.7222222222222223,3.2777777777777777,3.111111111111111,3.2777777777777777
+Service: Reply Recommendations,Generation,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.1666666666666665,4.0,3.888888888888889,3.2777777777777777,3.583333333333333
+Service: Reply Recommendations,Generation,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.3333333333333335,4.0,3.388888888888889,3.5555555555555554,3.5694444444444446
+Service: Reply Recommendations,Generation,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.2222222222222223,3.888888888888889,3.611111111111111,3.1666666666666665,3.4722222222222223
+Service: Reply Recommendations,Generation,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.2777777777777777,3.7777777777777777,3.8333333333333335,2.888888888888889,3.4444444444444446
+Service: Reply Recommendations,Generation,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.1666666666666665,3.888888888888889,3.7777777777777777,3.0555555555555554,3.472222222222222
+Service: Reply Recommendations,Generation,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.2222222222222223,3.9444444444444446,3.5,3.1666666666666665,3.458333333333333
+Service: Reply Recommendations,Generation,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.0,3.8333333333333335,3.2777777777777777,3.2222222222222223,3.333333333333333
+Service: Reply Recommendations,Generation,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.2777777777777777,3.888888888888889,3.2777777777777777,3.1666666666666665,3.4027777777777777
+Sales & Service: Update CRM Info,Generation,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.466666666666667,3.4,3.4451219512195124,3.4242424242424243,3.434007760532151
+Sales & Service: Update CRM Info,Generation,Auto,GPT4-o,GPT4-o,OpenAI,3.909090909090909,3.8848484848484848,3.915151515151515,3.6484848484848484,3.83939393939394
+Sales & Service: Update CRM Info,Generation,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.6787878787878787,3.581818181818182,3.709090909090909,3.533333333333333,3.625757575757576
+Sales & Service: Update CRM Info,Generation,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.7333333333333334,3.709090909090909,3.806060606060606,3.6363636363636362,3.7212121212121216
+Sales & Service: Update CRM Info,Generation,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.806060606060606,3.824242424242424,3.83030303030303,3.775757575757576,3.809090909090909
+Sales & Service: Update CRM Info,Generation,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.6666666666666665,3.618181818181818,3.7151515151515153,3.624242424242424,3.656060606060606
+Sales & Service: Update CRM Info,Generation,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.812121212121212,3.7636363636363637,3.757575757575758,3.624242424242424,3.7393939393939393
+Sales & Service: Update CRM Info,Generation,Auto,XGen 2,XGen 2 (1228),Salesforce,3.7454545454545456,3.7333333333333334,3.7818181818181817,3.6787878787878787,3.734848484848485
+Sales & Service: Update CRM Info,Generation,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.096969696969697,2.9696969696969697,2.8,3.0545454545454547,2.9803030303030305
+Sales & Service: Update CRM Info,Generation,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.812121212121212,3.806060606060606,3.8181818181818183,3.7515151515151515,3.796969696969697
+Sales & Service: Update CRM Info,Generation,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,2.903030303030303,2.909090909090909,2.8666666666666667,2.896969696969697,2.893939393939394
+Sales & Service: Update CRM Info,Generation,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.7515151515151515,3.703030303030303,3.7515151515151515,3.6606060606060606,3.716666666666667
+Sales & Service: Update CRM Info,Generation,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.7636363636363637,3.7454545454545456,3.812121212121212,3.606060606060606,3.731818181818182
+Sales & Service: Update CRM Info,Generation,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.503030303030303,3.478787878787879,3.5393939393939395,3.3575757575757574,3.4696969696969697
+Sales & Service: Update CRM Info,Generation,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.3575757575757574,2.787878787878788,2.3333333333333335,3.242424242424242,2.93030303030303
+Sales & Service: Update CRM Info,Generation,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,1.6787878787878787,1.6606060606060606,1.6424242424242423,1.6848484848484848,1.6666666666666667
+Sales & Service: Update CRM Info,Generation,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.690909090909091,3.6666666666666665,3.690909090909091,3.6363636363636362,3.6712121212121214
+Sales & Service: Update CRM Info,Generation,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.1575757575757577,2.981818181818182,3.012121212121212,3.139393939393939,3.0727272727272728
+Service: Live Chat Summary,Summary,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.381,3.542,3.303,3.479,3.42625
+Service: Live Chat Summary,Summary,Auto,GPT4-o,GPT4-o,OpenAI,3.641,3.965,3.946,3.436,3.747
+Service: Live Chat Summary,Summary,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.6236236236236237,3.715,3.714,3.331,3.595905905905906
+Service: Live Chat Summary,Summary,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.718,3.882,3.904,3.4004004004004003,3.7261001001001
+Service: Live Chat Summary,Summary,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.588,3.927,3.607,3.566,3.6720000000000006
+Service: Live Chat Summary,Summary,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.453,3.945,3.666,3.725,3.69725
+Service: Live Chat Summary,Summary,Auto,XGen 2,XGen 2 (1228),Salesforce,3.605,3.703,3.689,3.247,3.561
+Service: Live Chat Summary,Summary,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.593,3.694,3.75,3.158,3.54875
+Service: Live Chat Summary,Summary,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.765,3.903,3.947,3.309,3.731
+Service: Live Chat Summary,Summary,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.502,3.744,3.533,3.497,3.569
+Service: Live Chat Summary,Summary,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.587,3.992,3.914,3.822,3.82875
+Service: Live Chat Summary,Summary,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.717,3.835,3.891,3.164164164164164,3.651791041041041
+Service: Live Chat Summary,Summary,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.574,3.862,3.864,3.492,3.698
+Service: Live Chat Summary,Summary,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.396,3.724,3.567,3.635,3.5805
+Service: Live Chat Summary,Summary,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.681,3.93,3.772,3.7,3.7707500000000005
+Service: Live Chat Summary,Summary,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.492,3.942,3.831,3.353,3.6544999999999996
+Service: Live Chat Summary,Summary,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.609,3.866,3.846,3.379,3.6750000000000003
+Service: Live Chat Summary,Summary,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.504,3.595,3.709,3.129129129129129,3.4842822822822823
+Service: Email Summary,Summary,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.561224489795918,3.7755102040816326,3.4285714285714284,3.7857142857142856,3.6377551020408165
+Service: Email Summary,Summary,Auto,GPT4-o,GPT4-o,OpenAI,3.752577319587629,3.9381443298969074,3.8762886597938144,3.9587628865979383,3.8814432989690726
+Service: Email Summary,Summary,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.377551020408163,3.6122448979591835,3.4285714285714284,3.5306122448979593,3.4872448979591835
+Service: Email Summary,Summary,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.673469387755102,3.989795918367347,3.9693877551020407,3.979591836734694,3.9030612244897958
+Service: Email Summary,Summary,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.857142857142857,3.979591836734694,3.673469387755102,3.9591836734693877,3.86734693877551
+Service: Email Summary,Summary,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.693877551020408,4.0,3.857142857142857,4.0,3.8877551020408165
+Service: Email Summary,Summary,Auto,XGen 2,XGen 2 (1228),Salesforce,3.288659793814433,3.5670103092783507,3.5463917525773194,3.268041237113402,3.4175257731958766
+Service: Email Summary,Summary,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.479591836734694,3.7755102040816326,3.5816326530612246,3.8979591836734695,3.683673469387755
+Service: Email Summary,Summary,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.622448979591837,4.0,3.979591836734694,3.989795918367347,3.8979591836734695
+Service: Email Summary,Summary,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.3877551020408165,3.9591836734693877,3.7448979591836733,3.836734693877551,3.732142857142857
+Service: Email Summary,Summary,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.795918367346939,3.989795918367347,3.8469387755102042,4.0,3.908163265306123
+Service: Email Summary,Summary,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.5918367346938775,3.989795918367347,3.9693877551020407,3.86734693877551,3.854591836734694
+Service: Email Summary,Summary,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.795918367346939,4.0,3.8469387755102042,3.979591836734694,3.9056122448979593
+Service: Email Summary,Summary,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.5510204081632653,3.989795918367347,3.938775510204082,3.9183673469387754,3.849489795918367
+Service: Email Summary,Summary,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.693877551020408,4.0,3.86734693877551,3.979591836734694,3.885204081632653
+Service: Email Summary,Summary,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.642857142857143,3.8877551020408165,3.520408163265306,3.8979591836734695,3.737244897959184
+Service: Email Summary,Summary,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.673469387755102,3.979591836734694,3.7346938775510203,3.9591836734693877,3.836734693877551
+Service: Email Summary,Summary,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.377551020408163,3.377551020408163,3.36734693877551,3.6530612244897958,3.443877551020408
+Service: Knowledge Creation from Case Info,Generation,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.0,3.1875,2.8125,3.0625,3.015625
+Service: Knowledge Creation from Case Info,Generation,Auto,GPT4-o,GPT4-o,OpenAI,3.3125,3.625,3.1875,3.6875,3.453125
+Service: Knowledge Creation from Case Info,Generation,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.125,3.125,2.8125,3.125,3.046875
+Service: Knowledge Creation from Case Info,Generation,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.1875,3.5625,3.25,3.4375,3.359375
+Service: Knowledge Creation from Case Info,Generation,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.125,3.5625,3.1875,3.25,3.28125
+Service: Knowledge Creation from Case Info,Generation,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.0,3.5625,3.125,3.1875,3.21875
+Service: Knowledge Creation from Case Info,Generation,Auto,XGen 2,XGen 2 (1228),Salesforce,3.1875,3.25,3.0,3.1875,3.15625
+Service: Knowledge Creation from Case Info,Generation,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.3125,3.5625,3.0625,3.375,3.328125
+Service: Knowledge Creation from Case Info,Generation,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.0625,2.4375,2.0625,2.3125,2.46875
+Service: Knowledge Creation from Case Info,Generation,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.125,3.0625,2.8125,3.0625,3.015625
+Service: Knowledge Creation from Case Info,Generation,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.3125,3.6875,3.1875,3.375,3.390625
+Service: Knowledge Creation from Case Info,Generation,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.25,3.5625,3.3125,3.4375,3.390625
+Service: Knowledge Creation from Case Info,Generation,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.125,3.375,2.9375,3.1875,3.15625
+Service: Knowledge Creation from Case Info,Generation,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.1875,3.4375,3.125,3.125,3.21875
+Service: Knowledge Creation from Case Info,Generation,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.1875,3.5625,3.0,3.4375,3.296875
+Service: Knowledge Creation from Case Info,Generation,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.0625,3.5625,2.9375,3.375,3.234375
+Service: Knowledge Creation from Case Info,Generation,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.25,3.4375,3.125,3.375,3.296875
+Service: Knowledge Creation from Case Info,Generation,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.125,3.4375,3.0,3.3125,3.21875
+Sales: Email Summary,Summary,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.377551020408163,3.3877551020408165,3.193877551020408,3.4285714285714284,3.346938775510204
+Sales: Email Summary,Summary,Auto,GPT4-o,GPT4-o,OpenAI,3.8877551020408165,3.9693877551020407,3.86734693877551,3.8979591836734695,3.9056122448979593
+Sales: Email Summary,Summary,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.5714285714285716,3.8979591836734695,3.9183673469387754,3.663265306122449,3.7627551020408165
+Sales: Email Summary,Summary,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.663265306122449,3.979591836734694,3.9591836734693877,3.836734693877551,3.8596938775510203
+Sales: Email Summary,Summary,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.857142857142857,3.989795918367347,3.9183673469387754,3.7653061224489797,3.88265306122449
+Sales: Email Summary,Summary,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.7244897959183674,3.8979591836734695,3.795918367346939,3.7551020408163267,3.793367346938776
+Sales: Email Summary,Summary,Auto,XGen 2,XGen 2 (1228),Salesforce,3.2783505154639174,2.979381443298969,3.142857142857143,2.8969072164948453,3.0743740795287184
+Sales: Email Summary,Summary,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.357142857142857,3.6020408163265305,3.663265306122449,3.510204081632653,3.5331632653061225
+Sales: Email Summary,Summary,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.642857142857143,3.9693877551020407,3.9591836734693877,3.8979591836734695,3.86734693877551
+Sales: Email Summary,Summary,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.154639175257732,2.9690721649484537,2.649484536082474,3.2783505154639174,3.0128865979381443
+Sales: Email Summary,Summary,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.826530612244898,4.0,3.9285714285714284,3.9591836734693877,3.928571428571429
+Sales: Email Summary,Summary,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.7857142857142856,3.9591836734693877,3.9693877551020407,3.693877551020408,3.8520408163265305
+Sales: Email Summary,Summary,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.826530612244898,4.0,3.9183673469387754,3.938775510204082,3.920918367346939
+Sales: Email Summary,Summary,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.7653061224489797,3.9285714285714284,3.9183673469387754,3.663265306122449,3.8188775510204085
+Sales: Email Summary,Summary,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.7346938775510203,4.0,3.9693877551020407,3.806122448979592,3.877551020408163
+Sales: Email Summary,Summary,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.6288659793814433,3.948453608247423,3.7653061224489797,3.948453608247423,3.822769829581317
+Sales: Email Summary,Summary,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.5306122448979593,3.9591836734693877,3.8469387755102042,3.816326530612245,3.788265306122449
+Sales: Email Summary,Summary,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.5306122448979593,3.836734693877551,3.7346938775510203,3.642857142857143,3.686224489795918
+Service: Call Summary,Summary,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.75,3.95,3.925,3.925,3.8875
+Service: Call Summary,Summary,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.775,3.95,3.9,3.85,3.8687500000000004
+Service: Call Summary,Summary,Auto,GPT4-o,GPT4-o,OpenAI,3.925,3.95,3.95,3.925,3.9375
+Service: Call Summary,Summary,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.975,3.95,3.95,3.95,3.9562500000000003
+Service: Call Summary,Summary,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.9,3.95,3.95,3.95,3.9375000000000004
+Service: Call Summary,Summary,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.8,3.925,3.775,3.925,3.85625
+Service: Call Summary,Summary,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.925,3.95,3.95,3.925,3.9375
+Service: Call Summary,Summary,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.6,3.75,3.675,3.85,3.7187499999999996
+Service: Call Summary,Summary,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.95,4.0,3.975,3.875,3.95
+Service: Call Summary,Summary,Auto,XGen 2,XGen 2 (1228),Salesforce,3.65,3.95,3.95,3.8,3.8375
+Service: Call Summary,Summary,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.875,3.95,3.95,3.925,3.925
+Service: Call Summary,Summary,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.95,4.0,4.0,4.0,3.9875
+Service: Call Summary,Summary,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.825,3.975,3.95,3.925,3.91875
+Service: Call Summary,Summary,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.95,3.95,4.0,3.925,3.95625
+Service: Call Summary,Summary,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.85,3.95,3.95,3.875,3.90625
+Service: Call Summary,Summary,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.9,3.95,3.95,3.925,3.93125
+Service: Call Summary,Summary,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.825,3.95,3.925,3.9,3.8999999999999995
+Service: Call Summary,Summary,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.875,3.95,3.95,3.875,3.9125
+Sales: Call Summary,Summary,Auto,Gemini Pro 1,Gemini Pro 1,Google,2.789473684210526,3.0526315789473686,2.473684210526316,2.8947368421052633,2.8026315789473686
+Sales: Call Summary,Summary,Auto,GPT4-o,GPT4-o,OpenAI,3.9473684210526314,3.9473684210526314,3.473684210526316,3.210526315789474,3.6447368421052633
+Sales: Call Summary,Summary,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.3684210526315788,3.3157894736842106,3.1052631578947367,3.0,3.1973684210526314
+Sales: Call Summary,Summary,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.6842105263157894,3.3684210526315788,3.263157894736842,2.789473684210526,3.276315789473684
+Sales: Call Summary,Summary,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.6315789473684212,3.473684210526316,3.3157894736842106,3.0526315789473686,3.368421052631579
+Sales: Call Summary,Summary,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.789473684210526,3.6842105263157894,2.8421052631578947,3.0526315789473686,3.3421052631578942
+Sales: Call Summary,Summary,Auto,XGen 2,XGen 2 (1228),Salesforce,2.789473684210526,2.736842105263158,2.5789473684210527,2.6315789473684212,2.6842105263157894
+Sales: Call Summary,Summary,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.210526315789474,3.1052631578947367,3.210526315789474,2.6315789473684212,3.0394736842105265
+Sales: Call Summary,Summary,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.4210526315789473,3.263157894736842,3.473684210526316,2.8421052631578947,3.2499999999999996
+Sales: Call Summary,Summary,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,1.7894736842105263,2.473684210526316,2.1052631578947367,2.3157894736842106,2.1710526315789473
+Sales: Call Summary,Summary,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,4.0,3.736842105263158,3.3157894736842106,3.0,3.513157894736842
+Sales: Call Summary,Summary,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.8421052631578947,3.3684210526315788,3.8421052631578947,2.888888888888889,3.485380116959064
+Sales: Call Summary,Summary,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.9473684210526314,3.8947368421052633,3.5789473684210527,3.0,3.605263157894737
+Sales: Call Summary,Summary,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.736842105263158,3.6315789473684212,3.0526315789473686,3.0526315789473686,3.3684210526315788
+Sales: Call Summary,Summary,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,2.9473684210526314,3.1578947368421053,2.6315789473684212,2.8947368421052633,2.9078947368421053
+Sales: Call Summary,Summary,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.5555555555555554,3.4210526315789473,3.210526315789474,3.1052631578947367,3.323099415204678
+Sales: Call Summary,Summary,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.263157894736842,3.263157894736842,2.6315789473684212,3.0,3.0394736842105265
+Sales: Call Summary,Summary,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.0526315789473686,2.9473684210526314,3.0,2.736842105263158,2.9342105263157894
+Service: Live Chat Insights,Summary,Auto,Gemini Pro 1,Gemini Pro 1,Google,3.76953125,3.97265625,3.87109375,3.8359375,3.8623046875
+Service: Live Chat Insights,Summary,Auto,GPT4-o,GPT4-o,OpenAI,3.91015625,4.0,3.9765625,3.91796875,3.951171875
+Service: Live Chat Insights,Summary,Auto,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.859375,3.97265625,3.8515625,3.8203125,3.8759765625
+Service: Live Chat Insights,Summary,Auto,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.85546875,3.99609375,3.94140625,3.96875,3.9404296875
+Service: Live Chat Insights,Summary,Auto,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.8828125,4.0,3.796875,3.98046875,3.9150390625
+Service: Live Chat Insights,Summary,Auto,Cohere Command R+,cohere.cmd-R+,Cohere AI,3.87109375,3.984375,3.8671875,3.9375,3.9150390625
+Service: Live Chat Insights,Summary,Auto,XGen 2,XGen 2 (1228),Salesforce,3.74609375,3.9765625,3.921875,3.4375,3.7705078125
+Service: Live Chat Insights,Summary,Auto,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.71484375,3.97265625,3.90625,3.6875,3.8203125
+Service: Live Chat Insights,Summary,Auto,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.85546875,3.9921875,3.97265625,3.93359375,3.9384765625
+Service: Live Chat Insights,Summary,Auto,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.51171875,3.9375,3.484375,3.8671875,3.7001953125
+Service: Live Chat Insights,Summary,Auto,GPT 4 Turbo,gpt-4-0613,OpenAI,3.91015625,3.9921875,3.93359375,3.9375,3.943359375
+Service: Live Chat Insights,Summary,Auto,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.90234375,3.96875,4.0,3.71875,3.8974609375
+Service: Live Chat Insights,Summary,Auto,Claude 3 Opus,Claude 3 (Opus),Anthropic,3.9140625,4.0,3.82421875,3.98046875,3.9296875
+Service: Live Chat Insights,Summary,Auto,Gemini Pro 1.5,Gemini Pro 1.5,Google,3.77734375,3.98828125,3.9375,3.88671875,3.8974609375
+Service: Live Chat Insights,Summary,Auto,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.8359375,3.9921875,3.62890625,3.96484375,3.85546875
+Service: Live Chat Insights,Summary,Auto,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.8125,3.9921875,3.7734375,3.875,3.86328125
+Service: Live Chat Insights,Summary,Auto,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.8046875,3.96875,3.6015625,3.953125,3.83203125
+Service: Live Chat Insights,Summary,Auto,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.80859375,3.9765625,3.92578125,3.7734375,3.87109375
+Service: Knowledge Creation from Case Info,Generation,Manual,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.3125,3.1250000000000004,3.15625,3.0208333333333335,3.1536458333333335
+Service: Knowledge Creation from Case Info,Generation,Manual,GPT 4 Turbo,gpt-4-0613,OpenAI,3.2604166666666665,3.078125,3.3125,3.375,3.2565104166666665
+Service: Knowledge Creation from Case Info,Generation,Manual,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.354166666666667,3.1197916666666665,3.0729166666666665,3.223958333333333,3.192708333333333
+Service: Knowledge Creation from Case Info,Generation,Manual,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.1770833333333335,2.9010416666666665,3.0416666666666665,2.901041666666667,3.005208333333333
+Service: Knowledge Creation from Case Info,Generation,Manual,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.234375,3.0364583333333335,3.1666666666666665,3.0885416666666665,3.1315104166666665
+Service: Knowledge Creation from Case Info,Generation,Manual,XGen 2,XGen 2 (1228),Salesforce,2.880208333333333,2.921875,3.0416666666666665,2.84375,2.921875
+Service: Knowledge Creation from Case Info,Generation,Manual,Claude 3 Haiku,Claude 3 Haiku,Anthropic,2.979166666666667,3.1562499999999996,2.8125000000000004,2.8385416666666665,2.946614583333333
+Service: Knowledge Creation from Case Info,Generation,Manual,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.03125,2.8177083333333335,3.09375,2.6822916666666665,2.90625
+Service: Knowledge Creation from Case Info,Generation,Manual,Gemini Pro 1,Gemini Pro 1,Google,3.213541666666667,2.869791666666667,3.1093750000000004,2.9427083333333335,3.033854166666667
+Service: Knowledge Creation from Case Info,Generation,Manual,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.0729166666666665,2.4687500000000004,2.9947916666666665,2.416666666666667,2.73828125
+Service: Knowledge Creation from Case Info,Generation,Manual,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.0572916666666665,2.770833333333333,3.0520833333333335,2.8489583333333335,2.932291666666667
+Service: Knowledge Creation from Case Info,Generation,Manual,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.1562500000000004,2.927083333333333,3.1197916666666665,3.0989583333333335,3.0755208333333335
+Service: Knowledge Creation from Case Info,Generation,Manual,GPT4-o,GPT4-o,OpenAI,3.3020833333333335,3.296875,3.171875,3.380208333333334,3.287760416666667
+Service: Knowledge Creation from Case Info,Generation,Manual,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.1510416666666665,2.9114583333333335,3.046875,2.96875,3.01953125
+Service: Knowledge Creation from Case Info,Generation,Manual,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.208333333333333,3.057291666666667,3.114583333333333,3.0000000000000004,3.095052083333333
+Service: Reply Recommendations,Generation,Manual,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.0935185185185183,3.22037037037037,3.443518518518519,3.0453703703703705,3.2006944444444443
+Service: Reply Recommendations,Generation,Manual,GPT 4 Turbo,gpt-4-0613,OpenAI,3.525925925925926,3.3203703703703704,3.5129629629629635,3.52962962962963,3.4722222222222228
+Service: Reply Recommendations,Generation,Manual,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.015740740740741,3.0203703703703706,3.2111111111111112,2.837037037037037,3.021064814814815
+Service: Reply Recommendations,Generation,Manual,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.175,2.733333333333333,2.977777777777778,3.0962962962962965,2.995601851851852
+Service: Reply Recommendations,Generation,Manual,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,2.5185185185185186,2.4657407407407406,2.660185185185185,2.4314814814814816,2.5189814814814815
+Service: Reply Recommendations,Generation,Manual,XGen 2,XGen 2 (1228),Salesforce,2.892592592592593,2.9074074074074074,3.1231481481481485,2.486111111111111,2.852314814814815
+Service: Reply Recommendations,Generation,Manual,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.3435185185185192,3.1203703703703702,3.184259259259259,3.28425925925926,3.233101851851852
+Service: Reply Recommendations,Generation,Manual,Cohere Command Text,cohere.command-text-v14,Cohere AI,2.3768518518518515,2.8157407407407415,2.813888888888889,2.641666666666667,2.6620370370370376
+Service: Reply Recommendations,Generation,Manual,Gemini Pro 1,Gemini Pro 1,Google,2.851851851851852,2.761111111111111,2.2962962962962963,3.2379629629629627,2.7868055555555555
+Service: Reply Recommendations,Generation,Manual,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.2796296296296297,3.2101851851851846,3.230555555555556,3.021296296296297,3.185416666666667
+Service: Reply Recommendations,Generation,Manual,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.087037037037037,3.1166666666666667,3.249074074074074,2.888888888888889,3.0854166666666667
+Service: Call Summary,Summary,Manual,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.5694444444444446,3.3541666666666665,3.7948717948717947,3.4193548387096775,3.534459436173146
+Service: Call Summary,Summary,Manual,GPT 4 Turbo,gpt-4-0613,OpenAI,3.4805194805194803,3.4935064935064934,3.5194805194805197,3.4675324675324677,3.4902597402597406
+Service: Call Summary,Summary,Manual,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,2.721518987341772,2.6962025316455698,2.779220779220779,2.6835443037974684,2.7201216505013974
+Service: Call Summary,Summary,Manual,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,2.5844155844155843,2.7088607594936707,2.74025974025974,2.6493506493506493,2.6707216833799112
+Service: Call Summary,Summary,Manual,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,2.7468354430379747,2.7721518987341773,2.8666666666666667,2.6962025316455698,2.770464135021097
+Service: Call Summary,Summary,Manual,XGen 2,XGen 2 (1228),Salesforce,2.6962025316455698,2.810126582278481,2.961038961038961,2.6962025316455698,2.7908926516521455
+Service: Call Summary,Summary,Manual,Claude 3 Haiku,Claude 3 Haiku,Anthropic,2.518987341772152,2.5949367088607596,2.7183098591549295,2.5822784810126582,2.603628097700125
+Service: Call Summary,Summary,Manual,Cohere Command Text,cohere.command-text-v14,Cohere AI,2.3417721518987342,2.4050632911392404,2.5205479452054793,2.367088607594937,2.4086179989595977
+Service: Call Summary,Summary,Manual,Gemini Pro 1,Gemini Pro 1,Google,2.2051282051282053,2.3684210526315788,2.442857142857143,2.217948717948718,2.3085887796414113
+Service: Call Summary,Summary,Manual,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,2.7435897435897436,2.769230769230769,2.9285714285714284,2.6666666666666665,2.777014652014652
+Service: Call Summary,Summary,Manual,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,2.5135135135135136,2.6052631578947367,2.6818181818181817,2.4871794871794872,2.57194358510148
+Service: Live Chat Insights,Summary,Manual,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.72,3.7,3.7,3.74,3.7150000000000003
+Service: Live Chat Insights,Summary,Manual,GPT 4 Turbo,gpt-4-0613,OpenAI,3.72,3.72,3.04,3.68,3.54
+Service: Live Chat Insights,Summary,Manual,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.56,3.6,3.1,3.68,3.485
+Service: Live Chat Insights,Summary,Manual,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.56,3.64,3.2,3.68,3.52
+Service: Live Chat Insights,Summary,Manual,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.56,3.54,3.2,3.6,3.475
+Service: Live Chat Insights,Summary,Manual,XGen 2,XGen 2 (1228),Salesforce,3.54,3.6,3.52,3.64,3.575
+Service: Live Chat Insights,Summary,Manual,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.64,3.6,2.92,3.64,3.45
+Service: Live Chat Insights,Summary,Manual,Cohere Command Text,cohere.command-text-v14,Cohere AI,3.26,3.36,3.0,3.56,3.295
+Service: Live Chat Insights,Summary,Manual,Gemini Pro 1,Gemini Pro 1,Google,3.42,3.5,3.46,3.58,3.4899999999999998
+Service: Live Chat Insights,Summary,Manual,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.7,3.64,3.24,3.7,3.5700000000000003
+Service: Live Chat Insights,Summary,Manual,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.66,3.62,3.14,3.66,3.52
+Service: Live Chat Insights,Summary,Manual,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,3.46,3.56,3.58,3.56,3.54
+Service: Live Chat Insights,Summary,Manual,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.56,3.64,3.68,3.66,3.6350000000000002
+Service: Live Chat Insights,Summary,Manual,GPT4-o,GPT4-o,OpenAI,3.78,3.78,3.78,3.78,3.78
+Service: Live Chat Insights,Summary,Manual,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.72,3.74,3.6,3.72,3.6950000000000003
+Sales: Call Summary,Summary,Manual,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,2.648148148148148,2.6759259259259256,2.8796296296296293,2.4629629629629632,2.6666666666666665
+Sales: Call Summary,Summary,Manual,GPT 4 Turbo,gpt-4-0613,OpenAI,3.185185185185185,3.037037037037037,3.0925925925925926,2.9444444444444446,3.064814814814815
+Sales: Call Summary,Summary,Manual,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,2.5,2.5370370370370368,2.509259259259259,2.5462962962962963,2.523148148148148
+Sales: Call Summary,Summary,Manual,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,2.351851851851852,2.5555555555555554,2.7407407407407405,2.3796296296296293,2.506944444444444
+Sales: Call Summary,Summary,Manual,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,2.4444444444444446,2.6203703703703707,2.7685185185185186,2.3333333333333335,2.541666666666667
+Sales: Call Summary,Summary,Manual,XGen 2,XGen 2 (1228),Salesforce,2.4074074074074074,2.490740740740741,2.6574074074074074,2.240740740740741,2.4490740740740744
+Sales: Call Summary,Summary,Manual,Claude 3 Haiku,Claude 3 Haiku,Anthropic,2.898148148148148,2.75,2.935185185185185,2.5555555555555554,2.784722222222222
+Sales: Call Summary,Summary,Manual,Cohere Command Text,cohere.command-text-v14,Cohere AI,2.074074074074074,2.2314814814814814,2.3703703703703702,1.9351851851851853,2.1527777777777777
+Sales: Call Summary,Summary,Manual,Gemini Pro 1,Gemini Pro 1,Google,2.7777777777777777,2.6666666666666665,2.7870370370370368,2.8333333333333335,2.7662037037037037
+Sales: Call Summary,Summary,Manual,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,2.657407407407407,2.6018518518518516,3.046296296296296,2.3055555555555554,2.6527777777777772
+Sales: Call Summary,Summary,Manual,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,2.4814814814814814,2.685185185185185,2.768518518518518,2.2129629629629632,2.5370370370370368
+Sales: Call Summary,Summary,Manual,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,2.490740740740741,2.5462962962962963,2.8240740740740744,2.1203703703703702,2.4953703703703702
+Sales: Call Summary,Summary,Manual,GPT4-o,GPT4-o,OpenAI,3.1568627450980395,3.156862745098039,2.9411764705882355,3.098039215686274,3.088235294117647
+Sales: Call Summary,Summary,Manual,SF-TextSum,Summarization model 7B for Service (Mistral FT),Salesforce,2.1666666666666665,2.401960784313726,2.656862745098039,2.068627450980392,2.3235294117647056
+Sales: Call Summary,Summary,Manual,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,2.601851851851852,2.8981481481481484,3.009259259259259,2.342592592592593,2.7129629629629632
+Sales: Email Generation,Generation,Manual,GPT 3.5 Turbo,gpt-3.5-turbo,OpenAI,3.2113207547169815,2.6641509433962263,3.2446540880503143,2.864150943396226,2.996069182389937
+Sales: Email Generation,Generation,Manual,GPT 4 Turbo,gpt-4-0613,OpenAI,3.3616352201257866,3.0377358490566038,3.053459119496856,3.1540880503144657,3.151729559748428
+Sales: Email Generation,Generation,Manual,Mixtral 8x7B,Mixtral-8x7B-v0.1,Mistral,3.2317610062893083,2.4915094339622645,3.0503144654088055,2.949685534591195,2.9308176100628933
+Sales: Email Generation,Generation,Manual,AI21 Jamba-Instruct,AI21 (jamba-instruct-preview),AI21,3.162758310871518,2.105031446540881,2.833333333333333,2.986477987421384,2.771900269541779
+Sales: Email Generation,Generation,Manual,Mistral 7B,Mistral-7B-Instruct-v0.1,Mistral,3.0338274932614566,1.855031446540881,2.9367924528301894,2.598787061994609,2.606109613656784
+Sales: Email Generation,Generation,Manual,XGen 2,XGen 2 (1228),Salesforce,2.982704402515723,2.037106918238994,2.9817610062893083,2.619811320754717,2.6553459119496856
+Sales: Email Generation,Generation,Manual,Claude 3 Haiku,Claude 3 Haiku,Anthropic,3.111635220125786,2.5229559748427675,3.061006289308176,3.0185534591194974,2.9285377358490567
+Sales: Email Generation,Generation,Manual,Cohere Command Text,cohere.command-text-v14,Cohere AI,2.912309074573226,2.0734950584007192,2.843800539083558,2.5796046720575014,2.602302336028751
+Sales: Email Generation,Generation,Manual,Gemini Pro 1,Gemini Pro 1,Google,3.1317610062893073,2.430503144654088,2.7952830188679245,2.947798742138365,2.826336477987421
+Sales: Email Generation,Generation,Manual,LLaMA 3 70B,Meta-Llama-3-70B-Instruct,Meta,3.0899371069182386,2.9817610062893087,3.155974842767295,3.08993710691824,3.0794025157232707
+Sales: Email Generation,Generation,Manual,LLaMA 3 8B,Meta-Llama-3-8B-Instruct,Meta,3.251572327044026,3.0471698113207544,3.0764150943396227,3.133647798742139,3.1272012578616355
+Sales: Email Generation,Generation,Manual,SF-TextBase 7B,TextBase-7B (Mistral FT),Salesforce,3.155974842767295,2.359119496855346,3.0169811320754722,2.7386792452830186,2.8176886792452827
+Sales: Email Generation,Generation,Manual,GPT4-o,GPT4-o,OpenAI,3.3072327044025167,3.1880503144654093,3.3264150943396222,3.219496855345912,3.2602987421383656
+Sales: Email Generation,Generation,Manual,SF-TextBase 70B,TextBase-70B (Llama FT),Salesforce,3.0911949685534585,3.006603773584905,3.1801886792452825,3.203459119496855,3.1203616352201253

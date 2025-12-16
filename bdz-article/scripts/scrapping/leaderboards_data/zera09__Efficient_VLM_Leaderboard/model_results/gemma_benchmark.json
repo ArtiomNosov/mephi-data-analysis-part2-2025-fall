@@ -1,0 +1,9 @@
+{
+    "model_name": "gemma_benchmark",
+    "average_accuracy": 0.618,
+    "preprocess_time_sec": 1.4662167999999993,
+    "generation_time_sec": 0.7725087999999999,
+    "total_time_sec": 2.238726600000001,
+    "memory_used_gb": 0.20941679999999918,
+    "peak_memory_gb": 16.31823879999994
+}

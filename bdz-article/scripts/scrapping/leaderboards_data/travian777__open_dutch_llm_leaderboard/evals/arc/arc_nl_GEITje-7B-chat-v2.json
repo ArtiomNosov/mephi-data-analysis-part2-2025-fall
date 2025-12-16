@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_nl": {
+      "acc": 0.41573994867408043,
+      "acc_stderr": 0.014420906263396439,
+      "acc_norm": 0.41659538066723695,
+      "acc_norm_stderr": 0.014425163203712227
+    }
+  },
+  "versions": {
+    "arc_nl": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=Rijgersberg/GEITje-7B-chat-v2,use_accelerate=True,device_map_option=auto,dtype=auto,trust_remote_code=True,load_in_8bit=True",
+    "batch_size": 2,
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

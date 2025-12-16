@@ -1,0 +1,8 @@
+{
+  "model": "GPT-5-High",
+  "precision": "float16",
+  "status": "FINISHED",
+  "model_type": "pretrained",
+  "submit_type": "official",
+  "report": "https://openai.com/gpt-5"
+}

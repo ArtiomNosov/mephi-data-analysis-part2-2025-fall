@@ -1,0 +1,185 @@
+[
+  {
+    "category": "text generation",
+    "emoji": "📝",
+    "leaderboards": [
+      {
+        "uid": "6468923b99182de17844bf7b",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      },
+      {
+        "uid": "643d3016d2c1e08a5eca0c22",
+        "additionnal_agent_rules": "you have to check the 'only official providers' filter before trying to get the best models. It is mandatory to check this filter.",
+        "is_open_source": true
+      }
+    ]
+  },
+  {
+    "category": "uncensored text generation",
+    "emoji": "🔓",
+    "leaderboards": [
+      {
+        "uid": "65f0f612555caedb299e54d9",
+        "additionnal_agent_rules": "You have to remove models where are 'unavailable'",
+        "is_open_source": true
+      }
+    ]
+  },
+  {
+    "category": "image understanding",
+    "emoji": "📷",
+    "leaderboards": [
+      {
+        "uid": "6468923b99182de17844bf7b",
+        "additionnal_agent_rules": "you have to search for 'Arena (vision)' tab. You are searching for the best VLM models. It is mandatory to check this tab. If there is no informations about models in this tab, fail.",
+        "is_open_source": false
+      }
+    ]
+  },
+  {
+    "category": "agentic",
+    "emoji": "🤖",
+    "leaderboards": [
+      {
+        "uid": "67909d72a1832c8a7cdd4599",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      }
+    ]
+  },
+  {
+    "category": "math",
+    "emoji": "🧮",
+    "leaderboards": [
+      {
+        "uid": "643d3016d2c1e08a5eca0c22",
+        "additionnal_agent_rules": "You have to click on MATH to sort the leaderboard by score. We are searching for the best math models.",
+        "is_open_source": true
+      }
+    ]
+  },
+  {
+    "category": "code",
+    "emoji": "💻",
+    "leaderboards": [
+      {
+        "uid": "6662b2c6cc6519da32cd6f4d",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      },
+      {
+        "uid": "657b23848e7790a347c7e4ea",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      }
+    ]
+  },
+  {
+    "category": "embedding",
+    "emoji": "📦",
+    "leaderboards": [
+      {
+        "uid": "633581939ac57cf2967be686",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      }
+    ]
+  },
+  {
+    "category": "text to image",
+    "emoji": "🎨",
+    "leaderboards": [
+      {
+        "uid": "665e7241f8cb81b0a476eccb",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      },
+      {
+        "uid": "6670f4cffc615a6257ab35dd",
+        "additionnal_agent_rules": "You have to search for the 'image generation' leaderboard before trying to get the best models. If you don't find it. Fail."
+      }
+    ]
+  },
+  {
+    "category": "text to video",
+    "emoji": "🎬",
+    "leaderboards": [
+      {
+        "uid": "6719d6a46937670ca681151e",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      },
+      {
+        "uid": "6670f4cffc615a6257ab35dd",
+        "additionnal_agent_rules": "You have to search for the 'video generation' tab to access the leaderboard before trying to get the best models. If you don't find it. Fail."
+      }
+    ]
+  },
+  {
+    "category": "text to 3d",
+    "emoji": "🧊",
+    "leaderboards": [
+      {
+        "uid": "651f831f128d26b399db9ea5",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      }
+    ]
+  },
+  {
+    "category": "text to speech",
+    "emoji": "🔊",
+    "leaderboards": [
+      {
+        "uid": "65a5a7c26145ebc6e7e39243",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      }
+    ]
+  },
+  {
+    "category": "speech to text",
+    "emoji": "🎤",
+    "leaderboards": [
+      {
+        "uid": "64f9e6dd59eae6df399ba1e9",
+        "additionnal_agent_rules": "",
+        "is_open_source": true
+      }
+    ]
+  },
+  {
+    "category": "image to text",
+    "emoji": "📝",
+    "leaderboards": [
+      {
+        "uid": "65b0a64db233ea8ce65f0bc5",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      }
+    ]
+  },
+  {
+    "category": "image background removal",
+    "emoji": "🖼️",
+    "leaderboards": [
+      {
+        "uid": "674eea98c6a6ef2849b4a0ac",
+        "additionnal_agent_rules": "",
+        "is_open_source": false
+      }
+    ]
+  },
+  {
+    "category": "medical QA tasks",
+    "emoji": "🩺",
+    "leaderboards": [
+      {
+        "uid": "65d70863ef58a69470ead2fc",
+        "additionnal_agent_rules": "",
+        "is_open_source": true
+      }
+    ]
+  }
+]

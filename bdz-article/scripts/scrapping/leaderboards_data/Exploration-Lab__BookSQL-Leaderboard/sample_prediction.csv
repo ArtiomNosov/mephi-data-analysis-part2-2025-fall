@@ -1,0 +1,10 @@
+,id,pred_sql
+0,0,SELECT * FROM employees WHERE department_id = 3
+1,1,UPDATE customers SET status = 'active' WHERE customer_id = 42
+2,2,"INSERT INTO orders (order_id, order_date, customer_id) VALUES (1001, '2023-06-01', 5)"
+3,3,DELETE FROM products WHERE product_id = 200
+4,4,"SELECT name, salary FROM employees WHERE salary > 50000"
+5,5,UPDATE products SET price = price * 1.1 WHERE category = 'electronics'
+6,6,"INSERT INTO users (user_id, username, email) VALUES (10, 'jdoe', 'jdoe@example.com')"
+7,7,DELETE FROM sessions WHERE last_active < '2023-01-01'
+8,8,SELECT DISTINCT category FROM products

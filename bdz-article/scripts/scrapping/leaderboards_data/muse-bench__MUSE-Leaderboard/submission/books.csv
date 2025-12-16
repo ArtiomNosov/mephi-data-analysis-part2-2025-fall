@@ -1,0 +1,11 @@
+name,organization,verbmem_f,knowmem_f,privleak,knowmem_r,id
+target,Baseline,99.8,59.4,-57.5,66.9,"-"
+retrain,Baseline,14.3,28.9,0.0,74.5,"-"
+"ga (epoch=1, lr=1e-5, bs=32)",Baseline,0.0,0.0,-25.0,0.0,"-"
+"ga_gdr (epoch=1, lr=1e-5, bs=32)",Baseline,0.0,0.0,-26.5,10.7,"-"
+"ga_klr (epoch=5, lr=1e-5, bs=32)",Baseline,16.0,21.9,-40.2,37.2,"-"
+"npo (epoch=1, lr=1e-5, bs=32)",Baseline,0.0,0.0,-24.3,0.0,"-"
+"npo_gdr (epoch=1, lr=1e-5, bs=32)",Baseline,0.0,0.0,-30.8,22.8,"-"
+"npo_klr (epoch=4, lr=1e-5, bs=32)",Baseline,17.0,25.0,-43.5,44.6,"-"
+"tv (alpha=512, lr=1e-5, bs=32)",Baseline,99.7,52.4,-57.5,64.7,"-"
+"whp (alpha=256, lr=1e-5, bs=32)",Baseline,18.0,55.7,56.5,63.6,"-"

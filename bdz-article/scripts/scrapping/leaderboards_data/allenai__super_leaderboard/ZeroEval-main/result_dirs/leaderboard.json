@@ -1,0 +1,74 @@
+[
+  {
+    "Agent": "SWE-Agent",
+    "Base model": "gpt-4o-2024-08-06",
+    "Expert (Accuracy)": "16.3",
+    "Expert (Landmarks)": "36.8",
+    "Masked (Accuracy)": "46.1",
+    "Masked (Landmarks)": "74.9"
+  },
+  {
+    "Agent": "React",
+    "Base model": "gpt-4o-2024-08-06",
+    "Expert (Accuracy)": "12.2",
+    "Expert (Landmarks)": "33.6",
+    "Masked (Accuracy)": "37.0",
+    "Masked (Landmarks)": "65.7"
+  },
+  {
+    "Agent": "React-Super",
+    "Base model": "gpt-4o-2024-08-06",
+    "Expert (Accuracy)": "14.4",
+    "Expert (Landmarks)": "42.6",
+    "Masked (Accuracy)": "41.6",
+    "Masked (Landmarks)": "72.5"
+  },
+  {
+    "Agent": "SWE-Agent",
+    "Base model": "gpt-4o-mini-2024-07-18",
+    "Expert (Accuracy)": "3.3",
+    "Expert (Landmarks)": "16.1",
+    "Masked (Accuracy)": "27.0",
+    "Masked (Landmarks)": "51.8"
+  },
+  {
+    "Agent": "React-Super",
+    "Base model": "gpt-4o-mini-2024-07-18",
+    "Expert (Accuracy)": "5.6",
+    "Expert (Landmarks)": "20.6",
+    "Masked (Accuracy)": "31.5",
+    "Masked (Landmarks)": "58.3"
+  },
+  {
+    "Agent": "SWE-Agent",
+    "Base model": "Llama 3.1 70B",
+    "Expert (Accuracy)": "5.6",
+    "Expert (Landmarks)": "4.8",
+    "Masked (Accuracy)": "17.4",
+    "Masked (Landmarks)": "35.0"
+  },
+  {
+    "Agent": "React-Super",
+    "Base model": "Llama 3.1 70B",
+    "Expert (Accuracy)": "6.1",
+    "Expert (Landmarks)": "9.6",
+    "Masked (Accuracy)": "22.8",
+    "Masked (Landmarks)": "38.3"
+  },
+  {
+    "Agent": "SWE-Agent",
+    "Base model": "Mixtral-8x22B-Instruct-v0.1",
+    "Expert (Accuracy)": "1.1",
+    "Expert (Landmarks)": "0.0",
+    "Masked (Accuracy)": "9.5",
+    "Masked (Landmarks)": "26.6"
+  },
+  {
+    "Agent": "React-Super",
+    "Base model": "Mixtral-8x22B-Instruct-v0.1",
+    "Expert (Accuracy)": "3.3",
+    "Expert (Landmarks)": "3.7",
+    "Masked (Accuracy)": "7.0",
+    "Masked (Landmarks)": "13.2"
+  }
+]

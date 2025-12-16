@@ -1,0 +1,19 @@
+[
+  { "Model": "GPT-4V", "Video-MME": 59.9, "MLVU": 49.2, "LongVideoBench": 59.1, "LVBench": null },
+  { "Model": "GPT-4o", "Video-MME": 71.9, "MLVU": 64.6, "LongVideoBench": 66.7, "LVBench": 34.7 },
+  { "Model": "Gemini-1.5-Pro", "Video-MME": 75.0, "MLVU": 62.9, "LongVideoBench": 64.0, "LVBench": 33.1 },
+  { "Model": "VideoChat2", "Video-MME": 39.5, "MLVU": 47.9, "LongVideoBench": 39.3, "LVBench": null },
+  { "Model": "ShareGPT4Video", "Video-MME": 39.9, "MLVU": 46.4, "LongVideoBench": 39.7, "LVBench": null },
+  { "Model": "LongVA", "Video-MME": 52.4, "MLVU": 56.3, "LongVideoBench": 51.8, "LVBench": null },
+  { "Model": "Video-CCAM", "Video-MME": 50.3, "MLVU": 58.5, "LongVideoBench": null, "LVBench": null },
+  { "Model": "Kangaroo", "Video-MME": 56.0, "MLVU": 61.0, "LongVideoBench": 54.8, "LVBench": null },
+  { "Model": "InternVL2", "Video-MME": 58.2, "MLVU": 48.1, "LongVideoBench": 51.8, "LVBench": null },
+  { "Model": "LLaVA-OneVision", "Video-MME": 58.2, "MLVU": 62.6, "LongVideoBench": 56.4, "LVBench": null },
+  { "Model": "Qwen2-VL", "Video-MME": 63.3, "MLVU": 64.2, "LongVideoBench": 52.4, "LVBench": 42.0 },
+  { "Model": "Phi-4-Mini", "Video-MME": 55.0, "MLVU": 60.1, "LongVideoBench": 46.7, "LVBench": null },
+  { "Model": "LLaVA-Mini", "Video-MME": 40.3, "MLVU": 44.3, "LongVideoBench": 19.3, "LVBench": 17.6 },
+  { "Model": "LongLLaVA", "Video-MME": 51.6, "MLVU": 53.3, "LongVideoBench": 42.1, "LVBench": 31.2 },
+  { "Model": "LongVU", "Video-MME": 55.3, "MLVU": 65.4, "LongVideoBench": 53.5, "LVBench": 37.8 },
+  { "Model": "Video-XL", "Video-MME": 55.5, "MLVU": 64.9, "LongVideoBench": 50.7, "LVBench": 36.8 },
+  { "Model": "VAMBA", "Video-MME": 57.8, "MLVU": 65.9, "LongVideoBench": 55.9, "LVBench": 42.1 }
+]

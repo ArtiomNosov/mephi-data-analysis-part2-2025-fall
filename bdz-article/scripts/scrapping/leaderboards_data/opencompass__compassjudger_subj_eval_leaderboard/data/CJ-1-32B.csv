@@ -1,0 +1,11 @@
+Models,Alignbench,ArenaHard,Fofo_en,Fofo_cn,Wildbench,Average
+qwen2.5-72b-instruct-turbomind,70,84.28,64,70,39.71333333,65.59866667
+qwen2.5-32b-instruct-turbomind,68.8,78.02,57,64,23.25,58.214
+qwen2.5-14b-instruct-turbomind,68,71.25,53,56,22.71666667,54.19333333
+qwen2.5-7b-instruct-turbomind,61.8,57.36,48,46,16.77333333,45.98666667
+llama-3_1-70b-instruct-turbomind,54.6,60.71,55,44,12.50333333,45.36266667
+internlm2_5-20b-chat-turbomind,63,31.62,41,53,5.703333333,38.86466667
+llama-3_1-8b-instruct-turbomind,47.7,33.88,41,34,-3.286666667,30.65866667
+internlm2_5-7b-chat-turbomind,57.5,17.16,38,45,-13.33,28.866
+qwen2.5-3b-instruct-turbomind,55.6,31.44,31,30,-8.953333333,27.81733333
+qwen2.5-1.5b-instruct-turbomind,46.8,11.37,13,14,-54.71,6.092

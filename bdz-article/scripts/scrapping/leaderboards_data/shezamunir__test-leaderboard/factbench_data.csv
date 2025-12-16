@@ -1,0 +1,13 @@
+Tier,Model,FactScore,SAFE,Factcheck-GPT,VERIFY
+Tier 1: Easy,GPT4-o,53.19,63.31,86.4,71.58
+Tier 1: Easy,Gemini1.5-Pro,51.79,61.24,83.45,69.38
+Tier 1: Easy,Llama3.1-70B-Instruct,52.49,61.29,83.48,67.27
+Tier 1: Easy,Llama3.1-405B-Instruct,53.22,61.63,83.57,64.94
+Tier 2: Moderate,GPT4-o,54.76,65.01,89.39,76.02
+Tier 2: Moderate,Gemini1.5-Pro,52.62,62.68,87.44,74.24
+Tier 2: Moderate,Llama3.1-70B-Instruct,52.53,62.64,85.16,72.01
+Tier 2: Moderate,Llama3.1-405B-Instruct,53.48,63.29,86.37,70.25
+Tier 3: Hard,GPT4-o,69.44,76.17,94.25,90.58
+Tier 3: Hard,Gemini1.5-Pro,66.05,75.69,91.09,87.82
+Tier 3: Hard,Llama3.1-70B-Instruct,69.85,77.55,92.89,86.63
+Tier 3: Hard,Llama3.1-405B-Instruct,70.04,77.01,93.64,85.79

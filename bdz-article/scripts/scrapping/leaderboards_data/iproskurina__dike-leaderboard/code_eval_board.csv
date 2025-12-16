@@ -1,0 +1,13 @@
+T,Model,Compression Recipe,PPL,HellaSwag,BBQ (Acc),BBQ (Bias Ambig.),BBQ (Bias Diasmmg.),CrowS-Pairs,HolisticBias Sentiment,SoFA,StereoSet,Links
+🟢,Llama-3-3B,base,7.55,73.67,41.02,4.91,4.47,64.54,31.26,0.198,65.19,https://huggingface.co/meta-llama/Llama-3-3B
+🔶,Llama-3-3B-Q,GPTQ 4-bit,7.99,71.23,40.42,5.20,3.97,64.24,22.31,0.200,65.31,https://huggingface.co/iproskurina/llama-3-3b-gptqmodel-4bit
+🟢,Llama-3-8B,base,6.11,78.88,43.86,6.27,3.10,66.29,18.30,0.205,66.42,https://huggingface.co/meta-llama/Llama-3-8B
+🔶,Llama-3-8B-Q,GPTQ 4-bit,6.49,77.93,42.45,6.14,3.15,65.92,13.05,0.203,65.89,https://huggingface.co/iproskurina/llama-3-8b-gptqmodel-4bit
+🟢,Qwen2.5-7B,base,6.63,78.88,49.32,15.85,3.23,64.24,16.87,0.672,64.96,https://huggingface.co/Qwen/Qwen2.5-7B
+🔶,Qwen2.5-7B-Q,GPTQ 4-bit,6.90,78.01,48.74,14.21,3.46,64.66,18.94,0.623,64.44,https://huggingface.co/iproskurina/qwen2.5-7b-gptqmodel-4bit
+🟢,Opt-6.7B,base,10.24,67.18,32.08,2.34,3.43,69.05,20.11,0.270,67.08,https://huggingface.co/facebook/opt-6.7b
+🔶,Opt-6.7B-Q,GPTQ 4-bit,10.39,-,-,-,-,68.39,20.99,0.271,-,https://huggingface.co/iproskurina/opt-6.7b-int4-c4
+🟢,Mistral-7B,base,5.50,80.31,43.81,7.27,3.14,66.29,17.90,0.524,64.00,https://huggingface.co/mistralai/Mistral-7B-v0.3
+🔶,Mistral-7B-Q,GPTQ 4-bit,5.64,80.08,43.19,6.06,3.48,66.89,23.70,0.768,63.75,https://huggingface.co/iproskurina/mistral-7b-gptqmodel-4bit
+🟢,Gemma-3-4B,base,7.12,75.77,38.89,5.47,4.82,63.76,8.08,1.558,65.41,https://huggingface.co/google/gemma-3-4b
+🔶,Gemma-3-4B-Q,GPTQ 4-bit,7.53,74.45,37.88,5.82,4.39,64.60,7.16,1.908,65.09,https://huggingface.co/iproskurina/gemma-3-4b-gptqmodel-4bit

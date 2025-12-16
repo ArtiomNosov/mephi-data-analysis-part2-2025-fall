@@ -1,0 +1,211 @@
+Task Name,Metric,HigherBetter,Whisper-LLaMA,LTU-AS,SALMONN-7B,SALMONN-13B,Qwen-Audio-Chat,Qwen2-Audio-7B-Instruct,WavLLM,MU-LLaMA,GAMA-IT,DeSTA2.5-Audio,Taxonomy
+ChordClassification_AcousticGuitarAndPiano,LLM-C,TRUE,4.00%,10.00%,0.50%,9.00%,44.00%,28.50%,44.50%,51.00%,0.00%,48.00%,Audio/Harmony & Pitch/Harmony
+MARBLEKeyDetection_Giantstepskey,LLM-C,TRUE,3.00%,0.50%,1.50%,1.00%,3.00%,17.00%,2.00%,0.50%,0.00%,3.00%,Audio/Harmony & Pitch/Harmony
+HEARMusicTranscription_MAESTRO-5hr,X,FALSE,92.43%,100.00%,99.46%,100.00%,96.76%,96.76%,96.76%,100.00%,100.00%,100.00%,Audio/Harmony & Pitch/Pitch
+HEARMusicTranscription_MAESTRO-5hr,X,FALSE,1.0065,-,36.0000,-,8.3438,1.6875,6.25,-,-,-,Audio/Harmony & Pitch/Pitch
+HEARPercussionInstrumentsTonicClassification_MridangamTonic,LLM-C,TRUE,2.00%,2.50%,12.70%,13.40%,11.30%,11.80%,12.80%,12.50%,5.70%,16.10%,Audio/Harmony & Pitch/Pitch
+InstrumentPitchClassification_Nsynth,LLM-C,TRUE,0.56%,0.56%,0.11%,0.22%,0.67%,18.11%,0.78%,0.33%,0.78%,1.22%,Audio/Harmony & Pitch/Pitch
+PitchExtractionByLyrics_CSD,NAR,FALSE,37.50%,94.00%,47.50%,73.50%,65.50%,84.50%,76.00%,98.00%,68.50%,36.50%,Audio/Harmony & Pitch/Pitch
+PitchExtractionByLyrics_CSD,TER,FALSE,146.28%,116.67%,226.21%,639.24%,106.45%,165.96%,136.11%,100.00%,195.18%,145.09%,Audio/Harmony & Pitch/Pitch
+EmotionClassificaitonInSongs_EMOTIFY,LLM-C,TRUE,10.00%,0.00%,1.67%,3.33%,13.33%,8.33%,8.33%,1.67%,0.00%,30.00%,Audio/Music Classification/Emotion
+MARBLEEmotionDetection_MTGMoodTheme,LLM-C,TRUE,0.00%,1.50%,0.00%,0.00%,2.70%,0.80%,0.80%,0.80%,0.10%,0.00%,Audio/Music Classification/Emotion
+HEARMusicGenreClassification_ISMIR04,LLM-C,TRUE,15.58%,7.04%,31.16%,44.22%,33.67%,37.69%,16.58%,27.64%,2.51%,43.72%,Audio/Music Classification/Genre
+MARBLEGenreClassification_MTG-Genre,LLM-C,TRUE,0.00%,1.60%,0.10%,0.20%,3.20%,0.10%,0.20%,0.20%,0.00%,1.90%,Audio/Music Classification/Genre
+MARBLEMusicTagging_MagnaTagATune,LLM-C,TRUE,5.50%,1.00%,3.50%,9.00%,4.50%,1.50%,1.00%,3.50%,7.50%,2.50%,Audio/Music Classification/Genre
+MARBLEMusicTagging_MTGTop50,LLM-C,TRUE,0.10%,0.30%,0.00%,0.00%,2.90%,0.30%,0.10%,0.50%,0.10%,0.40%,Audio/Music Classification/Genre
+MusicGenreClassification_FMA,LLM-C,TRUE,10.71%,1.79%,9.82%,16.07%,8.04%,15.18%,9.82%,9.82%,4.46%,34.82%,Audio/Music Classification/Genre
+HEARPercussionInstrumentsClassification_BeijingOperaPercussion,LLM-C,TRUE,3.39%,4.24%,10.17%,20.76%,16.10%,27.12%,24.15%,22.03%,11.44%,19.91%,Audio/Music Classification/Instrument
+HEARPercussionInstrumentsStrokeClassification_MridangamStroke,LLM-C,TRUE,0.10%,3.80%,7.60%,4.90%,11.50%,10.80%,13.70%,10.30%,0.10%,19.50%,Audio/Music Classification/Instrument
+InstrumentClassification_Nsynth,LLM-C,TRUE,1.23%,9.56%,13.97%,14.58%,17.89%,54.41%,11.89%,6.99%,10.17%,70.59%,Audio/Music Classification/Instrument
+InstrumentCombinationRecognition-OpenMIC-2018,LLM-C,TRUE,4.20%,13.51%,17.72%,24.02%,25.83%,24.92%,20.42%,19.52%,8.11%,23.42%,Audio/Music Classification/Instrument
+InstrumentSourceClassification_Nsynth,LLM-C,TRUE,7.22%,28.33%,37.33%,43.56%,32.67%,35.22%,30.89%,38.00%,35.89%,71.00%,Audio/Music Classification/Instrument
+MARBLEInstrumentClassification_MTGInstrument,LLM-C,TRUE,0.40%,2.30%,0.00%,0.00%,6.40%,1.40%,0.20%,0.60%,0.20%,0.00%,Audio/Music Classification/Instrument
+SingingAutomaticMOSPrediction_SingMOS,NAR,FALSE,99.50%,67.72%,0.33%,11.15%,17.30%,0.00%,22.96%,97.34%,98.34%,0.17%,Audio/Quality Assessment/Singing
+SingingAutomaticMOSPrediction_SingMOS,MSE,FALSE,12.17,2.3872,10.0777,11.2308,14.8895,1.4485,11.421,4.53,2.08,15.75,Audio/Quality Assessment/Singing
+SingingAutomaticMOSPrediction_SingMOS,KTAU,TRUE,-0.3333,0.0126,-0.1105,0.0166,0.0712,0.0099,0.0103,0.1705,0.3539,-0.0384,Audio/Quality Assessment/Singing
+SingingAutomaticMOSPrediction_SingMOS,LCC,TRUE,-0.6747,-0.0706,-0.1354,0.036,0.0824,0.0255,-0.0216,0.1866,0.3846,-0.0350,Audio/Quality Assessment/Singing
+SingingAutomaticMOSPrediction_SingMOS,SRCC,TRUE,-0.5,0.0183,-0.1325,0.0231,0.0872,0.0124,0.0118,0.2281,0.4247,-0.0453,Audio/Quality Assessment/Singing
+MARBLEBeatTracking_ASAP_MAESTRO,X,FALSE,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%,Audio/Rhythm Analysis
+MARBLEBeatTracking_ASAP_MAESTRO,X,FALSE,-,-,-,-,-,-,-,-,-,-,Audio/Rhythm Analysis
+MusicBeatTracking_ASAP,NAR,FALSE,54.55%,74.55%,51.82%,63.64%,62.73%,40.91%,47.27%,80.00%,84.55%,34.55%,Audio/Rhythm Analysis
+MusicBeatTracking_ASAP,Miss Time,FALSE,135.6077,183.6786,118.4047,77.9687,157.5917,76.0904,111.7759,240,93.8751,95.86159296,Audio/Rhythm Analysis
+AudioEditingIdentification_PeoplesSpeech,NAR,FALSE,84.38%,87.50%,62.50%,75.00%,75.00%,68.75%,96.88%,65.62%,37.50%,81.25%,Audio/Safety/Audio Integrity
+AudioEditingIdentification_PeoplesSpeech,ACC,TRUE,204.3094,53.6938,165.0617,43.1693,184.695,154.6202,100,164.0558,154.8122,167.9087903,Audio/Safety/Audio Integrity
+SceneFakeDetection_SceneFake_ASPIRE,LLM-C,TRUE,22.00%,46.00%,48.00%,37.00%,49.00%,54.00%,49.00%,20.00%,41.00%,50.00%,Audio/Safety/Audio Integrity
+AudioDeepFakeDetection_LJSpeech_WaveFake_MUSDB18HQ,LLM-C,TRUE,8.25%,24.56%,22.79%,38.31%,31.43%,27.90%,30.84%,39.10%,25.54%,44.20%,Audio/Safety/Deepfake
+SingingVoiceDeepfakeDetection_CtrSVDD_ACEKiSing_M4Singer,LLM-C,TRUE,5.56%,22.06%,22.06%,26.19%,24.44%,21.43%,9.21%,20.95%,9.84%,24.13%,Audio/Safety/Deepfake
+AudioDurationPrediction_NTUML2021,NAR,FALSE,33.00%,37.00%,10.50%,55.00%,0.00%,0.00%,0.50%,46.50%,14.00%,0.00%,Audio/Signal Characteristics Analysis
+AudioDurationPrediction_NTUML2021,MSE,FALSE,13.3657,39.1111,31652.7877,2216.7111,28.985,62.515,3581.0352,1527.785,62.7674,6.29,Audio/Signal Characteristics Analysis
+HEARMusicSpeechClassification_MAESTRO_Librispeech,LLM-C,TRUE,72.50%,77.50%,91.50%,99.50%,98.00%,89.50%,59.50%,51.50%,88.00%,98.50%,Audio/Signal Characteristics Analysis
+SoundEffectDetection_RemFx,LLM-C,TRUE,2.00%,6.50%,14.17%,17.67%,15.83%,19.83%,17.50%,17.00%,15.83%,17.67%,Audio/Signal Characteristics Analysis
+SpeechDetection_LibriSpeech-TestClean,LLM-C,TRUE,48.00%,29.00%,46.00%,66.00%,45.50%,56.50%,35.00%,46.50%,38.50%,90.00%,Audio/Signal Characteristics Analysis
+SpeechDetection_LibriSpeech-TestOther,LLM-C,TRUE,52.00%,31.50%,46.00%,66.50%,44.50%,55.50%,37.00%,45.50%,36.00%,81.00%,Audio/Signal Characteristics Analysis
+SpeechDetection_LJSpeech,LLM-C,TRUE,54.00%,44.50%,60.50%,74.00%,57.00%,45.00%,53.00%,49.00%,55.50%,90.00%,Audio/Signal Characteristics Analysis
+Children_Song_Transcript_Verification_CSD,WER,FALSE,58.68%,102.68%,104.02%,100.99%,128.67%,94.93%,155.48%,100.00%,100.12%,92.42%,Audio/Singing Analysis/Lyrics
+LyricTranslation_SingSet,Sacre Bleu,TRUE,2.1093,1.0357,2.8126,0.9941,3.3975,3.9155,1.8969,0.1593,0.0739,5.229262787,Audio/Singing Analysis/Lyrics
+SongLyricRecognition_SingSet,MER,FALSE,101.93%,164.53%,356.36%,266.00%,118.41%,115.62%,481.13%,117.53%,168.52%,76.24%,Audio/Singing Analysis/Lyrics
+MARBLEVocalTechniqueDetection_VocalSet,LLM-C,TRUE,8.00%,1.00%,11.00%,6.50%,6.50%,15.50%,8.00%,8.50%,2.50%,12.00%,Audio/Singing Analysis/Vocal Techniques
+AudioSegmentRetrieval_Clotho,NAR,FALSE,80.00%,78.00%,2.00%,4.00%,12.00%,4.00%,14.00%,82.00%,6.00%,36.00%,Audio/Sound Event/Advanced Understanding
+AudioSegmentRetrieval_Clotho,IoU,TRUE,8.17%,22.17%,8.25%,8.68%,4.58%,7.07%,6.90%,0.00%,10.45%,6.07%,Audio/Sound Event/Advanced Understanding
+HEARSoundEventDetection_DCASE2016Task2,LLM-C,TRUE,0.00%,0.00%,21.43%,35.71%,7.14%,14.29%,21.43%,21.43%,7.14%,0.00%,Audio/Sound Event/Advanced Understanding
+MultichannelSoundEventUnderstanding_STARSS23,LLM-C,TRUE,38.73%,4.23%,37.32%,26.06%,38.03%,41.55%,21.83%,4.93%,11.27%,38.73%,Audio/Sound Event/Advanced Understanding
+AnimalClassification_WaveSource-Test,LLM-C,TRUE,9.25%,40.50%,58.25%,67.00%,75.75%,34.00%,12.00%,4.25%,15.25%,18.25%,Audio/Sound Event/Animal
+BirdSoundDetection_Warblrb10k,LLM-C,TRUE,28.50%,43.00%,74.50%,75.00%,78.50%,79.00%,75.00%,40.50%,33.00%,60.00%,Audio/Sound Event/Animal
+CatEmotionClassification_CatSoundClassificationDataset-V2,LLM-C,TRUE,6.00%,0.00%,2.00%,4.00%,6.00%,14.00%,8.00%,2.00%,14.00%,8.00%,Audio/Sound Event/Animal
+CornellBirdcallIdentification,LLM-C,TRUE,0.00%,0.00%,0.00%,3.33%,10.00%,10.00%,13.33%,3.33%,0.00%,3.33%,Audio/Sound Event/Animal
+EnvironmentalSoundClassification_ESC50-Animals,LLM-C,TRUE,14.50%,8.00%,14.00%,3.00%,82.00%,36.00%,5.00%,0.00%,2.00%,43.50%,Audio/Sound Event/Animal
+HEARBeehiveStatesClassification_BeehiveStates,LLM-C,TRUE,43.00%,35.00%,54.00%,42.50%,19.00%,42.50%,37.00%,37.50%,19.00%,43.50%,Audio/Sound Event/Animal
+DomesticEnvironmentSoundEventDetection_DESED-PublicEval,NAR,FALSE,91.39%,99.44%,99.72%,99.72%,99.17%,99.72%,99.72%,100.00%,99.72%,97.50%,Audio/Sound Event/Environment
+DomesticEnvironmentSoundEventDetection_DESED-PublicEval,Event-based F1,TRUE,0,0.6,0,0,0,0.01,0,0,0,0,Audio/Sound Event/Environment
+EmergencyTrafficDetection_Large-Scale-Audio-dataset,LLM-C,TRUE,39.00%,34.00%,55.50%,7.25%,65.50%,74.50%,48.00%,43.50%,69.50%,52.00%,Audio/Sound Event/Environment
+EnvironmentalSoundClassification_ESC50-ExteriorAndUrbanNoises,LLM-C,TRUE,4.50%,14.50%,0.50%,0.50%,77.00%,25.00%,6.50%,0.00%,6.50%,73.00%,Audio/Sound Event/Environment
+EnvironmentalSoundClassification_ESC50-InteriorAndDomesticSounds,LLM-C,TRUE,4.50%,3.50%,0.50%,0.00%,59.00%,2.50%,4.00%,0.00%,0.00%,52.00%,Audio/Sound Event/Environment
+EnvironmentalSoundClassification_ESC50-NaturalSoundscapesAndWaterSounds,LLM-C,TRUE,3.00%,7.50%,6.50%,1.00%,78.00%,5.00%,7.00%,0.00%,7.00%,77.00%,Audio/Sound Event/Environment
+EnvironmentalSoundClassification_UrbanSound8K-UrbanNoises,LLM-C,TRUE,10.00%,3.26%,1.40%,0.00%,39.53%,4.88%,10.47%,0.00%,0.70%,35.12%,Audio/Sound Event/Environment
+EnvironmentRecognition_ESC50,LLM-C,TRUE,7.02%,38.60%,42.11%,19.30%,56.14%,63.16%,40.35%,10.53%,31.58%,71.93%,Audio/Sound Event/Environment
+HEAREnvironmentalSoundClassification_ESC50,LLM-C,TRUE,4.80%,25.30%,61.00%,73.40%,68.80%,43.90%,9.80%,0.40%,35.30%,63.20%,Audio/Sound Event/Environment
+HEARVocalImitationClassification_VocalImitations,LLM-C,TRUE,15.17%,5.50%,1.17%,1.83%,18.67%,11.17%,17.50%,3.83%,5.83%,26.00%,Audio/Sound Event/Human
+AudioSpatialDistancePrediction_SpatialLibriSpeech,X,FALSE,50.50%,59.00%,62.50%,100.00%,85.50%,58.00%,44.00%,97.00%,71.00%,0.00%,Audio/Spatial Audio
+AudioSpatialDistancePrediction_SpatialLibriSpeech,X,FALSE,0.6651,0.933,0.449,-,1.5011,0.6915,0.9011,0.9212,0.5,0.7564338188,Audio/Spatial Audio
+HowFarAreYou_3DSpeaker,LLM-C,TRUE,26.00%,13.00%,4.50%,8.00%,30.00%,26.00%,32.00%,18.00%,2.50%,28.50%,Audio/Spatial Audio
+SoundPositionPrediction_Dataset,X,FALSE,81.25%,100.00%,100.00%,100.00%,100.00%,25.00%,93.75%,100.00%,100.00%,6.25%,Audio/Spatial Audio
+SoundPositionPrediction_Dataset,X,FALSE,1.4006,-,-,-,-,1.1063,0.8681,-,-,1.12520839,Audio/Spatial Audio
+DialogueEmotionClassification_DailyTalk,LLM-C,TRUE,33.50%,16.50%,27.00%,11.50%,33.00%,54.00%,18.50%,19.00%,33.00%,80.50%,Speech/Paralinguistics/Emotion Analysis
+EmojiGroundedSpeechEmotionRecognition_RAVDESS,LLM-C,TRUE,1.10%,0.00%,0.00%,0.10%,1.30%,1.20%,0.10%,1.90%,48.50%,1.70%,Speech/Paralinguistics/Emotion Analysis
+EmotionChangeDetection_Ravdess,LLM-C,TRUE,0.08%,0.42%,0.58%,0.96%,0.04%,2.96%,0.08%,0.58%,0.04%,0.21%,Speech/Paralinguistics/Emotion Analysis
+EmotionRecognition_MultimodalEmotionlinesDataset,LLM-C,TRUE,22.50%,14.50%,19.00%,9.50%,43.50%,36.50%,40.50%,0.50%,2.50%,54.50%,Speech/Paralinguistics/Emotion Analysis
+HEAREmotionRecognition_CREMAD,LLM-C,TRUE,6.70%,9.30%,18.80%,18.10%,62.50%,61.10%,25.60%,12.40%,13.20%,71.40%,Speech/Paralinguistics/Emotion Analysis
+SuperbER_RAVDESS,LLM-C,TRUE,12.50%,25.83%,12.08%,12.50%,70.42%,75.83%,12.08%,12.92%,0.00%,48.33%,Speech/Paralinguistics/Emotion Analysis
+Covid19CoughAudioClassification_CoughVid,LLM-C,TRUE,0.93%,1.03%,0.00%,0.00%,4.12%,0.72%,4.22%,21.91%,0.21%,18.42%,Speech/Paralinguistics/Vocal Event Detection
+EnvironmentalSoundClassification_ESC50-HumanAndNonSpeechSounds,LLM-C,TRUE,17.50%,11.00%,8.50%,3.00%,82.00%,29.00%,16.50%,0.00%,2.00%,74.50%,Speech/Paralinguistics/Vocal Event Detection
+HumanNonSpeechSoundRecognition_Nonspeech7k-test_CommonVoice-DeltaSegment-15,LLM-C,TRUE,2.86%,5.00%,44.29%,30.71%,27.14%,23.57%,14.29%,17.14%,32.86%,21.43%,Speech/Paralinguistics/Vocal Event Detection
+HumanScreamingDetection_Environmentdb,LLM-C,TRUE,52.50%,25.00%,52.50%,65.00%,62.50%,87.50%,47.50%,42.50%,60.00%,65.00%,Speech/Paralinguistics/Vocal Event Detection
+VocalSoundRecognition_VocalSound,LLM-C,TRUE,29.86%,1.53%,11.53%,4.31%,75.56%,30.97%,14.44%,0.28%,2.78%,66.11%,Speech/Paralinguistics/Vocal Event Detection
+PhonemeSegmentCounting_Librispeech-words,NAR,FALSE,16.29%,48.64%,39.09%,11.62%,5.99%,1.73%,0.50%,2.67%,72.22%,0.06%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phoneme Recognition Tasks"
+PhonemeSegmentCounting_Librispeech-words,ACC,TRUE,13.56%,11.77%,11.84%,8.25%,5.42%,13.46%,9.55%,0.47%,2.29%,1.05%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phoneme Recognition Tasks"
+PhonemeSegmentCounting_Librispeech-words,Abs Diff,FALSE,2.5378,1012.8103,6.5285,50.7724,7.1857,3.0622,7.9109,15.6777,5.0491,0.0006,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phoneme Recognition Tasks"
+PhoneSegmentCounting_VoxAngeles,NAR,FALSE,19.19%,57.24%,41.88%,12.56%,0.41%,16.11%,15.04%,41.47%,18.79%,0.03%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phoneme Recognition Tasks"
+PhoneSegmentCounting_VoxAngeles,ACC,TRUE,13.20%,1.69%,15.81%,20.04%,1.77%,6.60%,10.11%,9.14%,3.80%,2.20%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phoneme Recognition Tasks"
+PhoneSegmentCounting_VoxAngeles,Abs Diff,FALSE,41.236,3759.3878,5.4857,4.9331,3.1286,2.8706,45754.9952,5.4242,2.8694,0.0010,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phoneme Recognition Tasks"
+SuperbPR_LibriSpeech-TestClean,PER,FALSE,100.12%,102.75%,25.36%,24.60%,100.58%,100.96%,99.99%,110.27%,100.37%,113.17%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phoneme Recognition Tasks"
+SuperbPR_LibriSpeech-TestOther,PER,FALSE,100.17%,101.08%,22.79%,22.91%,100.62%,100.88%,99.99%,111.18%,100.61%,105.78%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phoneme Recognition Tasks"
+PhonologicalFeatureClassification_VoxAngeles-ConsonantPlaceOfArticulation,LLM-C,TRUE,25.77%,1.37%,1.88%,1.37%,1.54%,3.24%,1.88%,1.54%,0.51%,25.09%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phonological Feature Analysis"
+PhonologicalFeatureClassification_VoxAngeles-MannerOfArticulation,LLM-C,TRUE,17.42%,9.36%,2.06%,1.50%,5.62%,6.74%,6.84%,7.96%,8.99%,2.90%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phonological Feature Analysis"
+PhonologicalFeatureClassification_VoxAngeles-Phone,X,TRUE,5.73%,0.09%,1.76%,-,3.60%,3.97%,0.00%,0.00%,0.09%,6.75%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phonological Feature Analysis"
+PhonologicalFeatureClassification_VoxAngeles-VowelFrontness,LLM-C,TRUE,50.71%,17.52%,41.14%,38.09%,48.47%,57.23%,36.46%,42.97%,10.39%,58.25%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phonological Feature Analysis"
+PhonologicalFeatureClassification_VoxAngeles-VowelHeight,LLM-C,TRUE,24.44%,17.11%,31.77%,35.23%,29.53%,36.86%,37.88%,39.10%,24.44%,7.94%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phonological Feature Analysis"
+PhonologicalFeatureClassification_VoxAngeles-VowelRoundedness,LLM-C,TRUE,43.38%,21.18%,27.29%,61.30%,46.44%,69.65%,38.90%,21.79%,18.94%,42.77%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Phonological Feature Analysis"
+HeteronymDifferentiation_HeteronymEn,LLM-C,TRUE,55.00%,26.00%,37.00%,45.00%,52.00%,44.00%,51.00%,30.00%,20.00%,50.00%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Pronounciation Evaluation"
+L2EnglishAccuracy_speechocean762-Ranking,LLM-C,TRUE,24.72%,33.89%,50.00%,49.72%,34.44%,50.00%,41.67%,48.06%,45.56%,51.94%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Pronounciation Evaluation"
+L2EnglishAccuracy_speechocean762-scoring,NAR,FALSE,15.44%,95.03%,0.40%,0.27%,37.72%,0.94%,9.53%,90.47%,50.07%,0.00%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Pronounciation Evaluation"
+L2EnglishAccuracy_speechocean762-scoring,PCC,TRUE,0.0185,-0.183,0.0633,0.0438,0.0293,-0.0159,0.0439,0.0727,0.0151,-0.04107458404,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Pronounciation Evaluation"
+MultilingualPronunciationSimilarity_VoxAngeles,LLM-C,TRUE,38.40%,13.50%,47.20%,48.50%,23.70%,44.70%,48.00%,25.10%,40.60%,20.70%,"Speech/Phonetics, Phonology, Prosody/Phonetics and Phoneme Processing/Pronounciation Evaluation"
+AccentClassification_AccentdbExtended,LLM-C,TRUE,17.50%,5.50%,3.00%,4.50%,26.50%,14.00%,7.00%,27.00%,4.00%,78.50%,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Feature Classification"
+StressDetection_MIRSD,LLM-C,TRUE,15.50%,3.00%,2.00%,13.00%,16.50%,23.50%,25.50%,0.00%,1.00%,16.00%,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Feature Classification"
+ThirdToneSandhiRecognition_NCCUCorpusofSpokenTaiwanMandarin,NAR,FALSE,59.38%,93.75%,100.00%,87.50%,84.38%,84.38%,28.12%,96.88%,100.00%,100.00%,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Feature Classification"
+ThirdToneSandhiRecognition_NCCUCorpusofSpokenTaiwanMandarin,IoU,TRUE,0.2179,0.5,0,0.75,0,0,0.1304,0,0,0,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Feature Classification"
+L2EnglishFluency_speechocean762-Ranking,LLM-C,TRUE,31.39%,21.94%,50.00%,50.00%,40.28%,50.56%,27.78%,49.44%,45.00%,47.78%,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Quality Assessment"
+L2EnglishFluency_speechocean762-Scoring,NAR,FALSE,14.67%,88.16%,0.00%,0.67%,8.75%,0.81%,41.86%,63.53%,55.72%,2.83%,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Quality Assessment"
+L2EnglishFluency_speechocean762-Scoring,PCC,TRUE,0.0055,0.0332,0.0292,0.0183,-0.0422,-0.0858,0.0222,0.0505,0.0532,-0.0054,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Quality Assessment"
+L2EnglishProsodic_speechocean762-Ranking,LLM-C,TRUE,26.39%,35.00%,46.67%,52.50%,34.44%,51.11%,34.44%,49.72%,42.22%,50.83%,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Quality Assessment"
+L2EnglishProsodic_speechocean762-Scoring,NAR,FALSE,39.43%,94.75%,0.27%,1.21%,71.47%,3.10%,11.98%,94.62%,82.91%,16.29%,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Quality Assessment"
+L2EnglishProsodic_speechocean762-Scoring,PCC,TRUE,0.0435,-0.1747,0.0427,0.0775,0.1446,0.0201,0.0461,-0.1535,0.0973,0.0094,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Quality Assessment"
+ProsodyNaturalness_ProsAudit-Lexical,LLM-C,TRUE,49.81%,32.82%,48.26%,47.10%,21.62%,51.74%,54.83%,47.10%,5.41%,47.88%,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Quality Assessment"
+ProsodyNaturalness_ProsAudit-Protosyntax,LLM-C,TRUE,53.44%,31.68%,46.56%,46.18%,25.95%,50.76%,43.51%,49.24%,4.20%,50.76%,"Speech/Phonetics, Phonology, Prosody/Prosody/Prosodic Quality Assessment"
+SpoofDetection_ASVspoof2015,LLM-C,TRUE,41.00%,19.00%,55.00%,14.00%,13.00%,23.00%,19.50%,69.50%,0.50%,90.50%,Speech/Safety & Security/Spoofing and Anti-Spoofing
+SpoofDetection_ASVspoof2017,LLM-C,TRUE,49.00%,4.50%,63.00%,38.00%,27.00%,32.50%,21.00%,64.00%,0.00%,81.00%,Speech/Safety & Security/Spoofing and Anti-Spoofing
+DeepFakeVoiceRecognition_DEEP-VOICE,LLM-C,TRUE,27.25%,7.75%,50.75%,40.00%,48.75%,50.50%,43.50%,45.00%,19.75%,45.25%,Speech/Safety & Security/Synthetic Speech Detection
+EnhancementDetection_LibriTTS-TestClean_WHAM,LLM-C,TRUE,50.50%,30.50%,30.00%,46.50%,55.00%,56.50%,30.00%,50.00%,21.00%,60.00%,Speech/Safety & Security/Synthetic Speech Detection
+FraudRobocallRecognition_CallHome,LLM-C,TRUE,73.33%,13.33%,0.00%,100.00%,100.00%,100.00%,90.00%,26.67%,100.00%,90.00%,Speech/Safety & Security/Synthetic Speech Detection
+FraudRobocallRecognition_Promo,LLM-C,TRUE,47.37%,10.53%,0.00%,73.68%,57.89%,63.16%,63.16%,5.26%,100.00%,0.00%,Speech/Safety & Security/Synthetic Speech Detection
+FraudRobocallRecognition_Robocall,LLM-C,TRUE,94.87%,51.28%,100.00%,20.51%,51.28%,61.54%,30.77%,30.77%,0.00%,97.44%,Speech/Safety & Security/Synthetic Speech Detection
+HEARLanguageIdentification_VoxLingua107Top10,LLM-C,TRUE,92.18%,1.95%,6.28%,11.01%,18.00%,36.11%,1.85%,0.00%,0.10%,95.68%,Speech/Speaker & Language/Language/Language Identification
+LanguageIdentification_VoxForge,LLM-C,TRUE,95.50%,13.50%,22.00%,8.50%,84.50%,93.00%,18.00%,6.00%,0.00%,98.50%,Speech/Speaker & Language/Language/Language Identification
+AgeClassification_CommonVoiceCorpus-Test,LLM-C,TRUE,0.50%,19.75%,22.75%,21.00%,26.00%,35.50%,21.00%,23.50%,17.75%,30.75%,Speech/Speaker & Language/Speaker/Speaker Characteristics
+GenderRecognitionbyVoice-CommonVoice-DeltaSegment-15,LLM-C,TRUE,1.00%,81.50%,63.00%,57.00%,53.50%,97.50%,35.00%,51.00%,63.00%,97.50%,Speech/Speaker & Language/Speaker/Speaker Characteristics
+HEARSpeakerCountIdentification_LibriCount,NAR,FALSE,30.40%,42.10%,35.90%,42.50%,3.50%,0.40%,22.00%,23.20%,26.20%,0.40%,Speech/Speaker & Language/Speaker/Speaker Recognition
+HEARSpeakerCountIdentification_LibriCount,ACC,TRUE,17.53%,16.93%,13.26%,17.22%,10.26%,13.76%,5.51%,13.80%,17.48%,27.81%,Speech/Speaker & Language/Speaker/Speaker Recognition
+MultiSpeakerDetection_VCTK,LLM-C,TRUE,46.50%,23.50%,36.00%,30.50%,57.00%,51.00%,32.50%,39.00%,48.50%,62.50%,Speech/Speaker & Language/Speaker/Speaker Recognition
+SpeakerCounting_LibriTTS-TestClean,LLM-C,TRUE,18.50%,6.00%,14.50%,13.50%,17.50%,26.50%,14.00%,4.00%,12.00%,50.00%,Speech/Speaker & Language/Speaker/Speaker Recognition
+SpeakerVerification_LibriSpeech-TestClean,LLM-C,TRUE,48.00%,37.50%,45.00%,54.50%,43.50%,52.00%,19.00%,24.00%,13.00%,54.00%,Speech/Speaker & Language/Speaker/Speaker Recognition
+SpeakerVerification_LibriSpeech-TestOther,LLM-C,TRUE,41.00%,36.00%,51.00%,43.00%,49.00%,50.00%,20.00%,27.00%,23.00%,50.00%,Speech/Speaker & Language/Speaker/Speaker Recognition
+SpeakerVerification_VCTK,LLM-C,TRUE,48.00%,38.50%,54.00%,58.50%,32.50%,51.00%,24.00%,19.50%,7.00%,46.00%,Speech/Speaker & Language/Speaker/Speaker Recognition
+SuperbSD_Libri2Mix-Test,X,FALSE,93.00%,99.50%,100.00%,100.00%,99.50%,98.00%,97.50%,100.00%,60.50%,100.00%,Speech/Speaker & Language/Speaker/Speaker Recognition
+SuperbSD_Libri2Mix-Test,X,FALSE,74.81%,74.62%,-,-,44.26%,93.29%,90.53%,-,74.12%,-,Speech/Speaker & Language/Speaker/Speaker Recognition
+SuperbSV_SuperbHiddenSet,LLM-C,TRUE,48.00%,47.00%,45.00%,49.00%,51.00%,50.00%,55.00%,44.00%,45.00%,50.00%,Speech/Speaker & Language/Speaker/Speaker Recognition
+NoiseDetection_LJSpeech_MUSAN-Gaussian,LLM-C,TRUE,45.50%,18.50%,50.00%,47.50%,42.00%,49.00%,39.00%,41.00%,21.50%,50.00%,Speech/Speech Enhancement/Degradation Detection
+NoiseDetection_LJSpeech_MUSAN-Music,LLM-C,TRUE,52.00%,8.50%,52.00%,47.00%,50.50%,47.00%,44.50%,33.00%,6.00%,57.50%,Speech/Speech Enhancement/Degradation Detection
+NoiseDetection_LJSpeech_MUSAN-Noise,LLM-C,TRUE,47.00%,13.50%,50.50%,49.00%,50.50%,49.50%,44.50%,48.00%,9.00%,53.50%,Speech/Speech Enhancement/Degradation Detection
+NoiseDetection_LJSpeech_MUSAN-Speech,LLM-C,TRUE,48.00%,13.50%,53.00%,36.00%,50.50%,47.00%,45.00%,50.50%,51.00%,49.50%,Speech/Speech Enhancement/Degradation Detection
+NoiseDetection_VCTK_MUSAN-Music,LLM-C,TRUE,46.00%,32.50%,45.50%,57.50%,42.00%,54.50%,52.00%,37.50%,3.50%,93.50%,Speech/Speech Enhancement/Degradation Detection
+NoiseDetection_VCTK_MUSAN-Noise,LLM-C,TRUE,44.50%,26.50%,45.50%,55.00%,44.50%,61.00%,47.00%,54.00%,4.50%,67.00%,Speech/Speech Enhancement/Degradation Detection
+NoiseDetection_VCTK_MUSAN-Speech,LLM-C,TRUE,45.00%,51.50%,43.50%,52.50%,46.50%,57.00%,44.50%,48.50%,56.50%,65.00%,Speech/Speech Enhancement/Degradation Detection
+NoiseDetection_VCTK-MUSAN-Gaussian,LLM-C,TRUE,53.00%,15.50%,49.00%,56.50%,45.50%,54.50%,46.00%,38.50%,11.50%,57.50%,Speech/Speech Enhancement/Degradation Detection
+NoiseSNRLevelPrediction_VCTK_MUSAN-Gaussian,LLM-C,TRUE,24.00%,8.00%,13.50%,15.50%,13.00%,17.50%,17.50%,15.00%,1.50%,42.50%,Speech/Speech Enhancement/Degradation Detection
+NoiseSNRLevelPrediction_VCTK_MUSAN-Music,LLM-C,TRUE,23.00%,9.00%,10.00%,8.50%,10.00%,14.00%,15.50%,9.00%,1.50%,44.50%,Speech/Speech Enhancement/Degradation Detection
+NoiseSNRLevelPrediction_VCTK_MUSAN-Noise,LLM-C,TRUE,23.00%,12.50%,9.50%,16.00%,7.50%,19.00%,14.00%,11.00%,0.50%,39.50%,Speech/Speech Enhancement/Degradation Detection
+NoiseSNRLevelPrediction_VCTK_MUSAN-Speech,LLM-C,TRUE,23.50%,11.50%,13.00%,1.50%,14.00%,20.50%,15.00%,10.50%,0.50%,32.00%,Speech/Speech Enhancement/Degradation Detection
+ReverberationDetection_LJSpeech_RirsNoises-LargeRoom,LLM-C,TRUE,44.50%,11.00%,19.00%,34.00%,28.00%,48.00%,42.50%,17.50%,6.00%,47.50%,Speech/Speech Enhancement/Degradation Detection
+ReverberationDetection_LJSpeech_RirsNoises-MediumRoom,LLM-C,TRUE,40.00%,4.50%,14.50%,25.00%,31.00%,48.00%,41.00%,10.50%,5.00%,48.00%,Speech/Speech Enhancement/Degradation Detection
+ReverberationDetection_LJSpeech_RirsNoises-SmallRoom,LLM-C,TRUE,45.00%,4.50%,9.00%,19.50%,24.00%,48.00%,42.50%,14.00%,6.50%,48.00%,Speech/Speech Enhancement/Degradation Detection
+ReverberationDetection_VCTK_RirsNoises-LargeRoom,LLM-C,TRUE,43.00%,24.50%,18.50%,25.00%,18.00%,46.00%,37.00%,14.50%,7.50%,47.00%,Speech/Speech Enhancement/Degradation Detection
+ReverberationDetection_VCTK_RirsNoises-MediumRoom,LLM-C,TRUE,46.50%,22.50%,8.50%,19.50%,20.00%,46.00%,38.50%,14.00%,6.50%,45.00%,Speech/Speech Enhancement/Degradation Detection
+ReverberationDetection_VCTK_RirsNoises-SmallRoom,LLM-C,TRUE,47.00%,18.50%,8.00%,13.00%,17.50%,46.00%,36.00%,10.50%,11.00%,45.00%,Speech/Speech Enhancement/Degradation Detection
+NBestCorrection_Librispeech-TestOther,LLM-C,TRUE,31.80%,22.80%,23.00%,29.20%,32.80%,29.00%,32.60%,20.80%,30.80%,37.00%,Speech/Speech Recognition/ASR Post-Processing
+AAVESpeechRecognition_CORAAL,WER,FALSE,21.73%,97.34%,23.99%,31.56%,96.81%,38.55%,34.91%,136.50%,102.92%,18.59%,Speech/Speech Recognition/Language
+Code-switchSpeechRecognition_NTUML2021,MER,FALSE,424.58%,215.51%,293.50%,185.27%,165.54%,116.88%,172.03%,130.18%,193.47%,94.68%,Speech/Speech Recognition/Language
+CodeSwitchingSpeechRecognition_ASCEND,NAR,FALSE,68.20%,12.20%,5.40%,88.80%,1.60%,0.00%,30.40%,69.40%,14.60%,0.00%,Speech/Speech Recognition/Language
+CodeSwitchingSpeechRecognition_ASCEND,ACC,TRUE,28.30%,50.57%,58.14%,14.29%,44.31%,60.80%,10.92%,13.73%,9.84%,11.60%,Speech/Speech Recognition/Language
+MultiLingualSpeechRecognition_MLS-de,WER,FALSE,73.80%,132.35%,34.46%,25.21%,79.60%,24.96%,49.56%,99.37%,105.81%,47.76%,Speech/Speech Recognition/Language
+MultiLingualSpeechRecognition_MLS-en,WER,FALSE,65.03%,100.29%,9.37%,9.47%,27.97%,17.47%,17.23%,96.03%,97.09%,40.37%,Speech/Speech Recognition/Language
+MultiLingualSpeechRecognition_MLS-es,WER,FALSE,72.49%,123.26%,23.45%,16.10%,58.82%,18.19%,44.90%,103.19%,101.75%,39.48%,Speech/Speech Recognition/Language
+MultiLingualSpeechRecognition_MLS-fr,WER,FALSE,71.09%,133.86%,26.52%,21.27%,46.27%,19.01%,42.35%,102.25%,102.01%,47.57%,Speech/Speech Recognition/Language
+MultiLingualSpeechRecognition_MLS-it,WER,FALSE,85.38%,125.39%,39.11%,31.54%,56.55%,33.16%,46.14%,102.72%,108.84%,43.86%,Speech/Speech Recognition/Language
+MultiLingualSpeechRecognition_MLS-nl,WER,FALSE,74.96%,120.29%,32.11%,29.37%,140.01%,42.94%,55.56%,102.05%,101.22%,55.64%,Speech/Speech Recognition/Language
+MultiLingualSpeechRecognition_MLS-pl,WER,FALSE,76.79%,139.04%,73.83%,51.53%,278.19%,101.41%,90.11%,100.23%,105.43%,54.50%,Speech/Speech Recognition/Language
+MultiLingualSpeechRecognition_MLS-pt,WER,FALSE,73.63%,136.66%,31.88%,25.07%,117.33%,24.72%,46.26%,99.71%,103.48%,52.84%,Speech/Speech Recognition/Language
+PTBRSpeechRecognition_CommonVoice17-Test,WER,FALSE,45.75%,248.05%,69.88%,73.91%,233.85%,38.57%,62.93%,639.12%,270.64%,24.15%,Speech/Speech Recognition/Language
+SuperbASR_LibriSpeech-TestClean,WER,FALSE,33.96%,96.28%,15.11%,2.79%,69.35%,36.70%,6.87%,103.67%,116.66%,12.05%,Speech/Speech Recognition/Language
+SuperbASR_LibriSpeech-TestOther,WER,FALSE,42.14%,91.89%,11.44%,4.31%,79.53%,40.28%,9.17%,111.03%,130.00%,10.61%,Speech/Speech Recognition/Language
+SuperbOODAsrAr_CommonVoice7-Test,WER,FALSE,51.04%,245.85%,216.51%,178.02%,289.25%,178.21%,149.15%,225.28%,504.53%,50.09%,Speech/Speech Recognition/Language
+SuperbOODAsrEs_CommonVoice7-Test,WER,FALSE,10.93%,150.00%,98.96%,99.22%,100.83%,75.08%,99.38%,141.68%,303.28%,6.14%,Speech/Speech Recognition/Language
+SuperbOODAsrSpon_CHIME6-Test,WER,FALSE,65.71%,122.86%,61.11%,62.80%,92.17%,80.21%,136.24%,137.25%,266.72%,32.28%,Speech/Speech Recognition/Language
+SuperbOODAsrZh_CommonVoice7-Test,CER,FALSE,29.67%,508.02%,609.28%,310.33%,449.32%,270.63%,445.36%,435.33%,1097.41%,31.65%,Speech/Speech Recognition/Language
+TargetSpeaker-ASR_AMItest,WER,FALSE,143.02%,133.86%,273.90%,187.15%,207.01%,132.13%,266.26%,108.32%,140.37%,123.21%,Speech/Speech Recognition/Speaker
+MultiSpeakerDetection_LibriSpeech-TestClean,LLM-C,TRUE,46.00%,29.00%,16.50%,22.00%,58.00%,52.00%,22.00%,42.50%,53.00%,59.50%,Speech/Speech Recognition/Specific Recognition Tasks
+SpeechCommandRecognition_AudioMNIST,NAR,FALSE,4.80%,76.40%,3.07%,0.40%,0.67%,0.00%,0.67%,1.60%,76.40%,0.00%,Speech/Speech Recognition/Specific Recognition Tasks
+SpeechCommandRecognition_AudioMNIST,ACC,TRUE,88.80%,77.40%,96.70%,74.43%,96.24%,77.07%,93.42%,9.89%,8.47%,0.00%,Speech/Speech Recognition/Specific Recognition Tasks
+SpeechTextMatching_LibriSpeech-TestClean,LLM-C,TRUE,86.50%,43.50%,57.00%,59.50%,64.00%,92.00%,52.00%,44.50%,42.00%,94.50%,Speech/Speech Recognition/Specific Recognition Tasks
+SpeechTextMatching_LibriSpeech-TestOther,LLM-C,TRUE,80.50%,42.50%,56.50%,60.00%,66.00%,92.50%,53.00%,47.00%,40.00%,93.00%,Speech/Speech Recognition/Specific Recognition Tasks
+SpeechTextMatching_LJSpeech,LLM-C,TRUE,83.50%,44.50%,57.00%,60.00%,67.00%,90.00%,52.00%,37.50%,41.00%,90.50%,Speech/Speech Recognition/Specific Recognition Tasks
+SpokenTermDetection_LibriSpeech-TestClean,LLM-C,TRUE,76.50%,28.00%,60.00%,54.50%,77.00%,61.50%,51.50%,24.00%,37.50%,74.00%,Speech/Speech Recognition/Specific Recognition Tasks
+SpokenTermDetection_LibriSpeech-TestOther,LLM-C,TRUE,75.50%,23.00%,54.50%,50.50%,72.50%,64.00%,46.50%,25.50%,34.00%,73.50%,Speech/Speech Recognition/Specific Recognition Tasks
+SpokenTermDetection_LJSpeech,LLM-C,TRUE,83.50%,33.50%,57.00%,53.50%,74.50%,79.50%,51.00%,25.00%,25.00%,90.50%,Speech/Speech Recognition/Specific Recognition Tasks
+SuperbKS_SpeechCommandsV1-Test,LLM-C,TRUE,36.50%,1.00%,30.50%,2.00%,60.50%,47.00%,43.00%,4.00%,2.00%,72.00%,Speech/Speech Recognition/Specific Recognition Tasks
+SuperbQbE_Quesst14-Eval,LLM-C,TRUE,46.50%,45.00%,49.00%,51.50%,48.00%,53.50%,49.50%,51.00%,2.50%,57.00%,Speech/Speech Recognition/Specific Recognition Tasks
+StutteringDetection_SEP28k,LLM-C,TRUE,49.10%,51.00%,50.50%,50.30%,50.50%,52.40%,55.00%,49.60%,47.40%,51.40%,"Speech/Speech, Voice, Hearing Disorder/Disorder Detection and Classification"
+VoiceDisorderClassification_VOICED,LLM-C,TRUE,13.46%,1.92%,13.46%,17.31%,13.46%,16.35%,18.27%,21.15%,6.73%,12.50%,"Speech/Speech, Voice, Hearing Disorder/Disorder Detection and Classification"
+ConversationMatching_EnShortConversation,LLM-C,TRUE,77.78%,5.56%,57.41%,37.04%,51.85%,66.67%,62.96%,3.70%,24.07%,81.48%,Speech/Spoken Language Understanding/Intent & Meaning
+Dialogue_Act_Classification_SLUE-HVB,LLM-C,TRUE,11.08%,0.00%,36.00%,0.92%,5.00%,15.83%,13.17%,1.83%,1.33%,21.50%,Speech/Spoken Language Understanding/Intent & Meaning
+DialogueActClassification_DailyTalk,LLM-C,TRUE,29.00%,10.50%,34.00%,40.50%,42.00%,30.00%,36.50%,18.50%,4.00%,58.50%,Speech/Spoken Language Understanding/Intent & Meaning
+DialogueActPairing_DailyTalk,LLM-C,TRUE,50.00%,3.50%,51.00%,48.00%,43.50%,46.00%,37.00%,40.00%,25.00%,48.50%,Speech/Spoken Language Understanding/Intent & Meaning
+IntentClassification_SLURP_MINDS14,LLM-C,TRUE,36.50%,0.06%,21.00%,5.50%,26.50%,26.00%,28.00%,3.50%,1.00%,45.50%,Speech/Spoken Language Understanding/Intent & Meaning
+IntentClassification_SLURP_MINDS14-Action,LLM-C,TRUE,27.00%,14.00%,28.50%,28.50%,44.00%,68.50%,37.50%,6.50%,1.50%,43.00%,Speech/Spoken Language Understanding/Intent & Meaning
+IntentClassification_SLURP_MINDS14-Intent,LLM-C,TRUE,45.50%,11.50%,27.00%,19.00%,68.50%,56.00%,56.50%,4.00%,0.50%,71.00%,Speech/Spoken Language Understanding/Intent & Meaning
+Named_Entity_Localization_SLUE-VoxPopuli,X,FALSE,81.25%,100.00%,100.00%,100.00%,100.00%,25.00%,93.75%,100.00%,100.00%,100.00%,Speech/Spoken Language Understanding/Intent & Meaning
+Named_Entity_Localization_SLUE-VoxPopuli,X,TRUE,1.4006,-,-,-,-,1.1063,0.8681,-,-,-,Speech/Spoken Language Understanding/Intent & Meaning
+Named_Entity_Recognition_SLUE-VoxPopuli,NAR,FALSE,90.76%,98.37%,95.65%,98.37%,95.11%,91.30%,91.85%,97.83%,96.74%,85.87%,Speech/Spoken Language Understanding/Intent & Meaning
+Named_Entity_Recognition_SLUE-VoxPopuli,IoU,TRUE,0,0.3333,0,0,0,0.0625,0.0222,0,0,0,Speech/Spoken Language Understanding/Intent & Meaning
+SarcasmDetection_Mustard,LLM-C,TRUE,44.50%,15.00%,38.50%,46.00%,42.50%,48.00%,46.50%,43.00%,8.00%,60.50%,Speech/Spoken Language Understanding/Intent & Meaning
+SemanticTextualSimilarity_SpokenSTS,LLM-C,TRUE,48.80%,47.20%,47.20%,50.40%,42.80%,46.80%,50.40%,51.20%,38.80%,46.40%,Speech/Spoken Language Understanding/Intent & Meaning
+SpeechSentimentAnalysis_MELD,LLM-C,TRUE,38.50%,37.50%,33.50%,35.09%,38.50%,49.00%,44.00%,27.50%,27.00%,54.00%,Speech/Spoken Language Understanding/Intent & Meaning
+SpokenDigitArithmetic_AudioMNIST,LLM-C,TRUE,43.50%,13.00%,31.00%,33.00%,15.00%,43.50%,40.50%,4.50%,13.00%,35.00%,Speech/Spoken Language Understanding/Intent & Meaning
+SuperbSF_AudioSnips-Test,NAR,FALSE,38.00%,88.50%,34.00%,68.50%,51.00%,45.00%,44.00%,99.00%,97.00%,17.50%,Speech/Spoken Language Understanding/Intent & Meaning
+SuperbSF_AudioSnips-Test,Slot Type F1,TRUE,0.8637,0.8864,0.9325,0.9396,0.8616,0.7704,0.907,1,0.8939,75.89%,Speech/Spoken Language Understanding/Intent & Meaning
+SuperbSF_AudioSnips-Test,Slot Value CER,FALSE,0.3178,0.6432,0.4059,0.3349,0.4417,0.3065,0.4752,1.587,1.425,32.54%,Speech/Spoken Language Understanding/Intent & Meaning
+CodeSwitchingSemanticGrammarAcceptabilityComparison_CSZS-zh-en,LLM-C,TRUE,51.50%,45.00%,50.00%,49.50%,27.50%,49.50%,27.50%,28.00%,19.00%,50.00%,Speech/Spoken Language Understanding/Linguistic Structure & Grammar
+NonceWordDetection_sWUGGY,LLM-C,TRUE,48.43%,30.20%,48.43%,48.43%,21.08%,50.14%,48.15%,35.04%,19.37%,51.28%,Speech/Spoken Language Understanding/Linguistic Structure & Grammar
+PoS_Estimation_LibriTTS_PoS,POS,FALSE,2.5722,1.2792,2.9675,1.199,3.062,2.3091,3.1126,1.5327,1.9635,1.5955,Speech/Spoken Language Understanding/Linguistic Structure & Grammar
+PoS_Estimation_LibriTTS_PoS_with_transcription,POS,FALSE,0.9081,1.3507,1.7583,1.0601,2.158,1.7514,2.0463,1.2394,1.3911,0.9335,Speech/Spoken Language Understanding/Linguistic Structure & Grammar
+SentenceGrammarAcceptability_sBLIMP,LLM-C,TRUE,52.78%,6.75%,27.38%,42.06%,28.97%,49.40%,49.80%,50.79%,3.57%,50.00%,Speech/Spoken Language Understanding/Linguistic Structure & Grammar
+SuperbST_CoVoST2-Test,Sacre Bleu,TRUE,17.372,0.107,18.7884,16.7835,6.9846,23.3458,21.7423,0.0566,0.0219,22.4667,Speech/Spoken Language Understanding/Speech Translation

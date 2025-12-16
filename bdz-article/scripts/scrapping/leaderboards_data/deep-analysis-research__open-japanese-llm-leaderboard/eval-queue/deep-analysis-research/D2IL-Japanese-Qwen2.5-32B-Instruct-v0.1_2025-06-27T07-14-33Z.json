@@ -1,0 +1,1 @@
+{"model_type": "\ud83d\udd36 : fine-tuned", "model": "deep-analysis-research/D2IL-Japanese-Qwen2.5-32B-Instruct-v0.1", "precision": "bfloat16", "revision": "main", "add_special_tokens": "False", "llm_jp_eval_version": "v1.4.1", "vllm_version": "v0.6.3.post1", "status": "FINISHED", "submitted_time": "2025-06-27T07:14:33Z"}

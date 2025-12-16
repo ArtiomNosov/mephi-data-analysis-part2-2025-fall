@@ -1,0 +1,18 @@
+,Model,Type,Size,Indonesian Language (Average),ID,JV,SU,Open LLM Leaderboard 2 (EN)
+10,GoToCompany/gemma2-9b-cpt-sahabatai-v1-instruct,Instruct,9B,59.91,63.96,60.1,55.66,33.67
+9,GoToCompany/gemma2-9b-cpt-sahabatai-v1-base,Base,9B,51.43,54.74,51.46,48.08,19.62
+11,GoToCompany/llama3-8b-cpt-sahabatai-v1-instruct,Instruct,8B,49.98,56.56,49.64,43.74,24.43
+6,aisingapore/gemma2-9b-cpt-sea-lionv3-base,Base,9B,49.23,55.09,47.65,44.95,21.99
+0,google/gemma-2-9b-it,Instruct,9B,48.85,63.09,43.36,40.1,23.49
+12,GoToCompany/llama3-8b-cpt-sahabatai-v1-base,Base,8B,47.78,46.67,49.15,47.51,13.92
+1,google/gemma-2-9b,Base,9B,43.35,48.02,42.83,39.2,13.34
+15,meta-llama/Llama-3.1-8B,Base,8B,39.8,41.93,41.53,35.94,13.69
+16,meta-llama/Meta-Llama-3-8B,Base,8B,38.52,41.14,40.04,34.39,13.56
+7,aisingapore/llama3-8b-cpt-sea-lionv2-base,Base,8B,38.5,42.45,38.94,34.11,12.77
+8,aisingapore/llama3-8b-cpt-sea-lionv2.1-instruct,Instruct,8B,38.29,54.35,33.2,27.32,24.52
+14,meta-llama/Llama-3.1-8B-Instruct,Instruct,8B,37.74,50.52,35.26,27.43,27.98
+2,Qwen/Qwen2.5-7B-Instruct,Instruct,7B,37.74,59.2,30.47,23.54,27.75
+5,Qwen/Qwen2.5-7B,Base,7B,37.53,51.66,34.11,26.82,24.65
+4,Qwen/Qwen2-7B,Base,7B,33.26,44.81,29.87,25.11,23.68
+3,Qwen/Qwen2-7B-Instruct,Instruct,7B,30.58,46.25,23.29,22.21,24.48
+13,meta-llama/Meta-Llama-3-8B-Instruct,Instruct,8B,30.44,41.36,28.91,21.04,23.91

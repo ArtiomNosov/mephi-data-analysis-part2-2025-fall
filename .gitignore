@@ -1,3 +1,6 @@
 .venv
 .DS_Store
 *.zip
+*.parquet
+# Large JSON files
+bdz-article/scripts/scrapping/leaderboards_data/opencompass__CompassAcademic-Leaderboard-Full-Version/data/hf-academic-predictions.json

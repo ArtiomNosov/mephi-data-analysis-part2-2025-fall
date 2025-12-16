@@ -1,0 +1,1 @@
+{"model": "AlekseyKorshuk/chatml-pyg-v1", "base_model": "", "revision": "main", "private": false, "status": "FINISHED", "submitted_time": "2023-10-16T12:48:18Z", "job_id": "460959", "weight_type": "Original", "precision": "float16", "model_type": "fine-tuned", "license": "creativeml-openrail-m", "likes": 1, "params": 5.844}

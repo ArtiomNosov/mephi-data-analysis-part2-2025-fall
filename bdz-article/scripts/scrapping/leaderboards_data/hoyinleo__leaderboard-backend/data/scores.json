@@ -1,0 +1,47 @@
+{
+  "scores": [
+    {
+      "id": "Uwom5-jJQ9qD8Xl15XHq7",
+      "boothName": "Game1",
+      "ocName": "OC1",
+      "teamName": "Team A",
+      "score": 50,
+      "ts": 1757995488904
+    },
+    {
+      "id": "80XfFAJPKu0-g9doOz45V",
+      "boothName": "Game2",
+      "ocName": "OC2",
+      "teamName": "Team B",
+      "score": 70,
+      "ts": 1757995488915
+    },
+    {
+      "id": "NhAy1Q-DK36tN1nG88HZc",
+      "boothName": "Game1",
+      "ocName": "OC1",
+      "teamName": "Team A",
+      "score": 30,
+      "ts": 1757995488924
+    },
+    {
+      "id": "CkiaFmfeX0sYIN___1PHO",
+      "boothName": "GameX",
+      "ocName": "OC1",
+      "teamName": "Team Z",
+      "score": 15,
+      "ts": 1758002716009
+    }
+  ],
+  "teamTotals": {
+    "Team A": 80,
+    "Team B": 70,
+    "Team Z": 15
+  },
+  "version": 4,
+  "usedPairs": {
+    "Team A||Game1": true,
+    "Team B||Game2": true,
+    "Team Z||GameX": true
+  }
+}

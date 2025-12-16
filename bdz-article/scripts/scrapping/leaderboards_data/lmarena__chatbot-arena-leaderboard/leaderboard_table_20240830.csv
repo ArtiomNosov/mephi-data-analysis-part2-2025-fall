@@ -1,0 +1,29 @@
+rating,variance,rating_q975,rating_q025,num_battles,final_ranking,key,Model,License,Organization,Knowledge cutoff date,Link,MT-bench (score),MMLU
+1031.7325599881628,1319.4141323598274,1059.409330284346,918.4104238278062,470,1,gpt-4o-2024-05-13,gpt-4o-2024-05-13,Proprietary,OpenAI,10-2023,https://openai.com/api/,70.0,50.0
+1109.3779556017184,1265.368563728756,1134.7083127122967,999.4535859548364,527,1,Claude 3.5 Sonnet,Claude 3.5 Sonnet,Proprietary,Anthropic,06-2024,https://docs.anthropic.com/en/docs/intro-to-claude#claude-3-5-family,-,-
+1064.8056481429333,1285.7898798298886,1087.6049607799116,952.7569955972164,610,1,gpt-4-turbo-2024-04-09,gpt-4-turbo-2024-04-09,Proprietary,OpenAI,04-2023,https://openai.com/api/,70.0,50.0
+911.5137627607211,1154.4994891567385,929.6626728228481,807.3385223388616,809,8,gpt-4o-mini-2024-07-18,gpt-4o-mini-2024-07-18,Proprietary,OpenAI,07-2024,https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/,70.0,50.0
+933.3908256697254,1224.394614864855,953.081459308694,821.2872210234226,681,7,gpt-4-0613,gpt-4-0613,Proprietary,OpenAI,04-2023,https://openai.com/api/,70.0,50.0
+892.103443075417,1187.2232337574437,910.4756962790046,784.9502063587175,795,12,Llama 3.1 405B Instruct Turbo,Llama 3.1 405B Instruct Turbo,Proprietary,Meta,-,https://ai.meta.com/blog/meta-llama-3-1/,-,-
+938.6542846619731,1163.070502656141,956.5326574132677,830.9395648888644,817,7,Gemma 2 27B,Gemma 2 27B,Proprietary,Google,-,https://blog.google/technology/developers/google-gemma-2/,-,-
+961.3132703667028,1171.367198143491,981.2249348395449,853.9627722960136,761,4,YandexGPT Experimental,YandexGPT Experimental,Proprietary,Yandex,In training,https://ya.ru/ai/gpt-3,45.2,35.2
+1002.1966955839318,1278.607587313062,1026.6023400892482,892.9881182349854,472,1,Claude 3 Haiku,Claude 3 Haiku,Proprietary,Anthropic,03-2024,https://docs.anthropic.com/en/docs/intro-to-claude#claude-3-family,-,-
+954.3499146241044,1237.1096945986797,976.6705044404565,848.1229059834299,472,4,saiga_llama3_70b,saiga_llama3_70b,Open Source,Ilya Gusev,In training,https://huggingface.co/IlyaGusev/saiga_llama3_70b_sft_m1_d5_abliterated_awq_4bit,-,-
+1068.753149420043,1193.431124270226,1089.7256900690663,961.7183024005114,650,1,Qwen 2 Instruct (72B),Qwen 2 Instruct (72B),Open Source,Qwen,12-2023,https://llama.meta.com/llama3/,-,-
+1018.8725795421834,1201.604789220443,1038.0471858098285,909.761905160084,683,1,Llama 3.1 70B Instruct Turbo,Llama 3.1 70B Instruct Turbo,Proprietary,Meta,-,https://ai.meta.com/blog/meta-llama-3-1/,-,-
+947.2465325678799,1204.8080726635785,967.6962660991635,840.9325115565997,662,6,LLaMA-3 Chat (70B),LLaMA-3 Chat (70B),Proprietary,Meta,12-2023,https://llama.meta.com/llama3/,-,-
+1020.7781976589234,1241.4480538764974,1045.1491832970908,913.2792086136737,478,1,YandexGPT 3 Pro,YandexGPT 3 Pro,Proprietary,Yandex,In training,https://ya.ru/ai/gpt-3,65.2,45.2
+979.1016833538558,1227.9057184379915,1004.9739078756248,871.2268457332833,592,2,gpt-3.5-turbo-0125,gpt-3.5-turbo-0125,Proprietary,OpenAI,09-2021,https://openai.com/api/,65.2,45.2
+947.1974850841607,1275.1879081556872,973.8868901376999,838.7333160381975,372,4,T-lite-instruct-0.1,T-lite-instruct-0.1,Open Source,t-bank-ai,In training,https://huggingface.co/AnatoliiPotapov/T-lite-instruct-0.1,-,-
+932.3414984331068,1186.8528437389484,952.9114084922326,823.9194558753339,728,7,saiga_llama3_8b_v7,saiga_llama3_8b_v7,Open Source,Ilya Gusev,In training,https://huggingface.co/IlyaGusev/saiga_llama3_8b,-,-
+993.3717309470745,1153.4480847064751,1012.6095760433378,885.4226198248776,740,1,GigaChat-Pro 4.0.26.8,GigaChat-Pro 4.0.26.8,Proprietary,Sber,In training,https://developers.sber.ru/portal/products/gigachat,-,-
+1039.5729042528817,1218.87234324006,1062.8321471985744,926.6228425875917,488,1,saiga_phi3_medium,saiga_phi3_medium,Open Source,Ilya Gusev,In training,https://huggingface.co/IlyaGusev/saiga_phi3_medium_sft_m1_d2_kto_m5_d7,-,-
+993.2468606050761,1180.5507491178575,1012.9642504117858,884.6140154936015,791,1,LLaMA-3 Chat (8B),LLaMA-3 Chat (8B),Proprietary,Meta,03-2023,https://llama.meta.com/llama3/,-,-
+1074.2023896278488,1134.305469980829,1094.514886992407,969.4351042979471,886,1,Llama 3.1 8B Instruct Turbo,Llama 3.1 8B Instruct Turbo,Proprietary,Meta,-,https://ai.meta.com/blog/meta-llama-3-1/,-,-
+1090.8592801570258,1140.3396239214605,1109.5820557811471,984.6181128879861,930,1,Vikhrmodels/it-5.2-fp16-cp,Vikhrmodels/it-5.2-fp16-cp,Open Source,Vikhrmodels,In training,https://huggingface.co/Vikhrmodels/it-5.2-fp16-cp,-,-
+1117.0189539475066,1170.6680998872027,1136.6808066769574,1010.1171845107525,908,1,GigaChat-Pro 2.2.25.3,GigaChat-Pro 2.2.25.3,Proprietary,Sber,In training,https://developers.sber.ru/portal/products/gigachat,-,-
+1080.0632142443226,1250.7374533620869,1101.998696996777,969.5413704610022,664,1,GigaChat 4.0.26.8,GigaChat 4.0.26.8,Proprietary,Sber,In training,https://developers.sber.ru/portal/products/gigachat,-,-
+1023.5502336779675,1233.5530647127014,1046.6585304493597,911.4432496338418,543,1,YandexGPT 3 Lite,YandexGPT 3 Lite,Proprietary,Yandex,In training,https://ya.ru/ai/gpt-3,45.2,35.2
+930.8355157487584,1299.5274174541444,959.0654811276472,817.9483047283851,257,7,saiga_llama3_8b_v6,saiga_llama3_8b_v6,Open Source,Ilya Gusev,In training,https://huggingface.co/IlyaGusev/saiga_llama3_8b,-,-
+970.60130272153,1303.4941408237394,996.4235752732167,857.2591240188583,446,3,GigaChat 3.1.25.3,GigaChat 3.1.25.3,Proprietary,Sber,In training,https://developers.sber.ru/portal/products/gigachat,-,-
+960.1369134796026,1215.3897603683151,981.8076801143751,850.9384856108709,496,4,GigaChat-Plus 3.1.25.3,GigaChat-Plus 3.1.25.3,Proprietary,Sber,In training,https://developers.sber.ru/portal/products/gigachat,-,-

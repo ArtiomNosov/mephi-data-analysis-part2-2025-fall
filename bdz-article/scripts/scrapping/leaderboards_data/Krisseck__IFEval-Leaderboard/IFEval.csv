@@ -1,0 +1,28 @@
+Model,Params (B),Repo,Quantization,Final Score,Strict Prompt Score,Strict Inst Score,Loose Prompt Score,Loose Inst Score,Link
+LLama 3 70B,70,perplexity/llama-3-sonar-large-32k-chat (Openrouter),FP16,0.8331,0.7671,0.8381,0.8373,0.8897,https://openrouter.ai/models/perplexity/llama-3-sonar-large-32k-chat
+LLama 3 70B,70,llama3-70b-8192 (Groq),FP16,0.8175,0.7431,0.8213,0.8244,0.8813,https://console.groq.com/docs/models
+Qwen 2 72B,72,qwen/qwen-2-72b-instruct (Openrouter),FP16,0.8056,0.7579,0.8357,0.7781,0.8513,https://openrouter.ai/models/qwen/qwen-2-72b-instruct
+Llama 3 8B,8,QuantFactory/NeuralDaredevil-8B-abliterated-GGUF,Q8_0,0.7884,0.7357,0.8058,0.7763,0.8357,https://huggingface.co/QuantFactory/NeuralDaredevil-8B-abliterated-GGUF
+Command R+,104,cohere/command-r-plus (Openrouter),FP16,0.7701,0.7190,0.7962,0.7450,0.8201,https://openrouter.ai/models/cohere/command-r-plus
+Llama 3 8B,8,failspy/Meta-Llama-3-8B-Instruct-abliterated-v3-GGUF,Q8_0,0.7589,0.7001,0.7818,0.7394,0.8141,https://huggingface.co/failspy/Meta-Llama-3-8B-Instruct-abliterated-v3-GGUF
+Llama 3 8B,8,NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS-GGUF,Q8_0,0.7395,0.6747,0.7650,0.7209,0.7974,https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS-GGUF
+LLama 3 8B,8,perplexity/llama-3-sonar-small-32k-chat (Openrouter),FP16,0.7392,0.6600,0.7470,0.7357,0.8141,https://openrouter.ai/models/perplexity/llama-3-sonar-small-32k-chat
+Llama 3 8B,8,MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF,Q8_0,0.7366,0.6765,0.7614,0.7172,0.7914,https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF
+Mixtral 8x22B,176,mistralai/mixtral-8x22b-instruct (Openrouter),FP16,0.7308,0.6710,0.7542,0.7079,0.7902,https://openrouter.ai/models/mistralai/mixtral-8x22b-instruct
+Llama 3 8B,8,bartowski/Llama-3-SauerkrautLM-8b-Instruct-GGUF,Q8_0,0.7141,0.6562,0.7290,0.7024,0.7686,https://huggingface.co/bartowski/Llama-3-SauerkrautLM-8b-Instruct-GGUF
+Llama 3 8B,8,mradermacher/LLaMa-3-CursedStock-v1.6-8B-i1-GGUF,Q8_0,0.6988,0.6322,0.7182,0.6821,0.7626,https://huggingface.co/mradermacher/LLaMa-3-CursedStock-v1.6-8B-i1-GGUF
+Command R,35,mradermacher/c4ai-command-r-v01-GGUF,Q6_K,0.6971,0.6230,0.7218,0.6784,0.7650,https://huggingface.co/mradermacher/c4ai-command-r-v01-GGUF
+Llama 3 8B,8,Lewdiculous/L3-8B-Stheno-v3.2-GGUF-IQ-Imatrix,Q8_0,0.6950,0.6303,0.7182,0.6747,0.7566,https://huggingface.co/Lewdiculous/L3-8B-Stheno-v3.2-GGUF-IQ-Imatrix
+Llama 3 8B,8,MaziyarPanahi/Llama-3-8B-Instruct-v0.9-GGUF,Q8_0,0.6832,0.5878,0.6882,0.6895,0.7674,https://huggingface.co/MaziyarPanahi/Llama-3-8B-Instruct-v0.9-GGUF
+Phi 3 Medium 4K,14,bartowski/Phi-3-medium-4k-instruct-GGUF,Q8_0,0.6673,0.6100,0.7014,0.6322,0.7254,https://huggingface.co/bartowski/Phi-3-medium-4k-instruct-GGUF
+Mixtral 8x22B,176,cognitivecomputations/dolphin-mixtral-8x22b (Openrouter),FP16,0.6644,0.5915,0.6894,0.6451,0.7314,https://openrouter.ai/models/cognitivecomputations/dolphin-mixtral-8x22b
+Mistral 7B v0.1,7,TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF,Q8_0,0.6096,0.5287,0.6367,0.5860,0.6871,https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF
+Codestral 22B v0.1,22,bartowski/Codestral-22B-v0.1-GGUF,Q6_K,0.6074,0.5305,0.6415,0.5730,0.6847,https://huggingface.co/bartowski/Codestral-22B-v0.1-GGUF
+Mixtral 8x7B v0.1,56,qwp4w3hyb/Nous-Hermes-2-Mixtral-8x7B-DPO-iMat-GGUF,IQ4_NL,0.6012,0.5305,0.6259,0.5804,0.6679,https://huggingface.co/qwp4w3hyb/Nous-Hermes-2-Mixtral-8x7B-DPO-iMat-GGUF
+Mistral 7B v0.1,7,nousresearch/nous-hermes-2-mistral-7b-dpo (Openrouter),FP16,0.5968,0.5194,0.6343,0.5619,0.6715,https://openrouter.ai/models/nousresearch/nous-hermes-2-mistral-7b-dpo
+Mixtral 8x7B v0.1,56,mixtral-8x7b-32768 (Groq),FP16,0.5887,0.5028,0.6247,0.5545,0.6727,https://console.groq.com/docs/models
+Llama 3 8B,8,bartowski/openchat-3.6-8b-20240522-GGUF,Q8_0,0.5791,0.5139,0.6139,0.5434,0.6451,https://huggingface.co/bartowski/openchat-3.6-8b-20240522-GGUF
+Mistral 7B v0.3,7,MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF,Q8_0,0.5689,0.4972,0.5983,0.5397,0.6403,https://huggingface.co/MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF
+Llama 3 8B,8,bartowski/Hermes-2-Pro-Llama-3-8B-GGUF,Q8_0,0.5671,0.4917,0.5983,0.5379,0.6403,https://huggingface.co/bartowski/Hermes-2-Pro-Llama-3-8B-GGUF
+Mistral 7B v0.1,7,mlabonne/AlphaMonarch-7B,Q8_0,0.5372,0.4529,0.5552,0.5194,0.6211,https://huggingface.co/mlabonne/AlphaMonarch-7B
+Llama 3 8B,8,bartowski/dolphin-2.9-llama3-8b-GGUF,Q8_0,0.5176,0.4529,0.5516,0.4880,0.5780,https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF

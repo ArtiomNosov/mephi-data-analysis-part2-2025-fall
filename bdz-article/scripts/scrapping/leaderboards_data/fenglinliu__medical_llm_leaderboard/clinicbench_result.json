@@ -1,0 +1,1502 @@
+{
+    "time": "241111120000",
+    "results": {
+        "Task-specific SOTA": {
+            "META": {
+                "Method": [
+                    "Task-specific SOTA"
+                ],
+                "Parameters": "",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "No",
+                "SOTA": "Yes",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 44.6
+            },
+            "MedMCQA": {
+                "Overall": 43.0
+            },
+            "PubMedQA": {
+                "Overall": 60.2
+            },
+            "MIMIC": {
+                "Overall": 46.1
+            },
+            "IU-Xray": {
+                "Overall": 67.9
+            },
+            "BC5": {
+                "Overall": 90.0
+            },
+            "NCBI": {
+                "Overall": 89.4
+            },
+            "DDI": {
+                "Overall": 84.1
+            },
+            "GAD": {
+                "Overall": 84.0
+            },
+            "HoC": {
+                "Overall": 85.1
+            }
+        },
+        "Claude-2": {
+            "META": {
+                "Method": [
+                    "Claude-2"
+                ],
+                "Parameters": "",
+                "Org": "Anthropic",
+                "Commercial LLMs": "Yes",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "No",
+                "Verified": "Yes"
+            },          
+            "MedQA": {
+                "Overall": 65.1
+            },
+            "MedMCQA": {
+                "Overall": 60.3
+            },
+            "MMLU-Medicine": {
+                "Overall": 78.7
+            },
+            "PubMedQA": {
+                "Overall": 70.8
+            },
+            "Referral QA": {
+                "Overall": 80.5
+            },
+            "Treat Recom.": {
+                "Overall": 9.1
+            },
+            "MIMIC": {
+                "Overall": 13.3
+            },
+            "IU-Xray": {
+                "Overall": 9.4
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 11.3
+            },
+            "Patient Education": {
+                "Overall": 8.4
+            },
+            "BC5": {
+                "Overall": 52.9
+            },
+            "NCBI": {
+                "Overall": 44.2
+            },
+            "DDI": {
+                "Overall": 50.4
+            },
+            "GAD": {
+                "Overall": 50.7
+            },
+            "HoC": {
+                "Overall": 70.8
+            },
+            "Pharma. QA": {
+                "Overall": 60.6
+            },
+            "Drug Inter.": {
+                "Overall": 51.5
+            }
+        },
+        "GPT-3.5-turbo": {
+            "META": {
+                "Method": [
+                    "GPT-3.5-turbo"
+                ],
+                "Parameters": "",
+                "Org": "OpenAI",
+                "Commercial LLMs": "Yes",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "No",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 61.2
+            },
+            "MedMCQA": {
+                "Overall": 59.4
+            },
+            "MMLU-Medicine": {
+                "Overall": 73.5
+            },
+            "PubMedQA": {
+                "Overall": 70.2
+            },
+            "Referral QA": {
+                "Overall": 81.1
+            },
+            "Treat Recom.": {
+                "Overall": 7.3
+            },
+            "MIMIC": {
+                "Overall": 14.1
+            },
+            "IU-Xray": {
+                "Overall": 10.3
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 10.5
+            },
+            "Patient Education": {
+                "Overall": 9.2
+            },
+            "BC5": {
+                "Overall": 52.3
+            },
+            "NCBI": {
+                "Overall": 46.1
+            },
+            "DDI": {
+                "Overall": 49.3
+            },
+            "GAD": {
+                "Overall": 50.8
+            },
+            "HoC": {
+                "Overall": 66.4
+            },
+            "Pharma. QA": {
+                "Overall": 57.3
+            },
+            "Drug Inter.": {
+                "Overall": 47.0
+            }
+        },
+        "GPT-4": {
+            "META": {
+                "Method": [
+                    "GPT-4"
+                ],
+                "Parameters": "",
+                "Org": "OpenAI",
+                "Commercial LLMs": "Yes",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "No",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 83.4
+            },
+            "MedMCQA": {
+                "Overall": 78.2
+            },
+            "MMLU-Medicine": {
+                "Overall": 92.3
+            },
+            "PubMedQA": {
+                "Overall": 80.0
+            },
+            "Referral QA": {
+                "Overall": 83.2
+            },
+            "Treat Recom.": {
+                "Overall": 18.6
+            },
+            "MIMIC": {
+                "Overall": 20.7
+            },
+            "IU-Xray": {
+                "Overall": 18.6
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 14.2
+            },
+            "Patient Education": {
+                "Overall": 12.7
+            },
+            "BC5": {
+                "Overall": 71.3
+            },
+            "NCBI": {
+                "Overall": 58.4
+            },
+            "DDI": {
+                "Overall": 64.6
+            },
+            "GAD": {
+                "Overall": 68.2
+            },
+            "HoC": {
+                "Overall": 83.6
+            },
+            "Pharma. QA": {
+                "Overall": 63.8
+            },
+            "Drug Inter.": {
+                "Overall": 56.5
+            }
+        },
+        "Alpaca": {
+            "META": {
+                "Method": [
+                    "Alpaca"
+                ],
+                "Parameters": "7B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 34.2
+            },
+            "MedMCQA": {
+                "Overall": 30.1
+            },
+            "MMLU-Medicine": {
+                "Overall": 40.8
+            },
+            "PubMedQA": {
+                "Overall": 65.2
+            },
+            "Referral QA": {
+                "Overall": 74.8
+            },
+            "Treat Recom.": {
+                "Overall": 3.5
+            },
+            "MIMIC": {
+                "Overall": 12.6
+            },
+            "IU-Xray": {
+                "Overall": 8.7
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 4.1
+            },
+            "Patient Education": {
+                "Overall": 2.9
+            },
+            "BC5": {
+                "Overall": 41.2
+            },
+            "NCBI": {
+                "Overall": 36.5
+            },
+            "DDI": {
+                "Overall": 37.4
+            },
+            "GAD": {
+                "Overall": 36.9
+            },
+            "HoC": {
+                "Overall": 52.6
+            },
+            "Pharma. QA": {
+                "Overall": 41.3
+            },
+            "Drug Inter.": {
+                "Overall": 47.5
+            }
+        },
+        "Vicuna-7B": {
+            "META": {
+                "Method": [
+                    "Vicuna-7B"
+                ],
+                "Parameters": "7B",
+                "Org": "LMSys",
+                "Commercial LLMs": "No",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 34.5
+            },
+            "MedMCQA": {
+                "Overall": 33.4
+            },
+            "MMLU-Medicine": {
+                "Overall": 43.4
+            },
+            "PubMedQA": {
+                "Overall": 64.8
+            },
+            "Referral QA": {
+                "Overall": 76.4
+            },
+            "Treat Recom.": {
+                "Overall": 2.6
+            },
+            "MIMIC": {
+                "Overall": 13.8
+            },
+            "IU-Xray": {
+                "Overall": 8.2
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 4.5
+            },
+            "Patient Education": {
+                "Overall": 3.1
+            },
+            "BC5": {
+                "Overall": 44.5
+            },
+            "NCBI": {
+                "Overall": 37.0
+            },
+            "DDI": {
+                "Overall": 39.4
+            },
+            "GAD": {
+                "Overall": 41.2
+            },
+            "HoC": {
+                "Overall": 53.8
+            },
+            "Pharma. QA": {
+                "Overall": 42.3
+            },
+            "Drug Inter.": {
+                "Overall": 45.5
+            }
+        },
+        "LLaMA-2-7B": {
+            "META": {
+                "Method": [
+                    "LLaMA-2-7B"
+                ],
+                "Parameters": "7B",
+                "Org": "Meta",
+                "Commercial LLMs": "No",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 32.9
+            },
+            "MedMCQA": {
+                "Overall": 30.6
+            },
+            "MMLU-Medicine": {
+                "Overall": 42.3
+            },
+            "PubMedQA": {
+                "Overall": 63.4
+            },
+            "Referral QA": {
+                "Overall": 74.5
+            },
+            "Treat Recom.": {
+                "Overall": 3.3
+            },
+            "MIMIC": {
+                "Overall": 12.3
+            },
+            "IU-Xray": {
+                "Overall": 8.6
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 4.9
+            },
+            "Patient Education": {
+                "Overall": 4.6
+            },
+            "BC5": {
+                "Overall": 40.1
+            },
+            "NCBI": {
+                "Overall": 34.8
+            },
+            "DDI": {
+                "Overall": 37.9
+            },
+            "GAD": {
+                "Overall": 39.3
+            },
+            "HoC": {
+                "Overall": 48.6
+            },
+            "Pharma. QA": {
+                "Overall": 46.5
+            },
+            "Drug Inter.": {
+                "Overall": 48.0
+            }
+        },
+        "Mistral": {
+            "META": {
+                "Method": [
+                    "Mistral"
+                ],
+                "Parameters": "7B",
+                "Org": "MistralAI",
+                "Commercial LLMs": "No",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 35.7
+            },
+            "MedMCQA": {
+                "Overall": 37.8
+            },
+            "MMLU-Medicine": {
+                "Overall": 46.3
+            },
+            "PubMedQA": {
+                "Overall": 69.4
+            },
+            "Referral QA": {
+                "Overall": 77.7
+            },
+            "Treat Recom.": {
+                "Overall": 5.0
+            },
+            "MIMIC": {
+                "Overall": 13.2
+            },
+            "IU-Xray": {
+                "Overall": 7.9
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 6.1
+            },
+            "Patient Education": {
+                "Overall": 5.3
+            },
+            "BC5": {
+                "Overall": 46.8
+            },
+            "NCBI": {
+                "Overall": 39.9
+            },
+            "DDI": {
+                "Overall": 43.5
+            },
+            "GAD": {
+                "Overall": 44.3
+            },
+            "HoC": {
+                "Overall": 59.6
+            },
+            "Pharma. QA": {
+                "Overall": 51.2
+            },
+            "Drug Inter.": {
+                "Overall": 53.0
+            }
+        },
+        "Vicuna-13B": {
+            "META": {
+                "Method": [
+                    "Vicuna-13B"
+                ],
+                "Parameters": "13B",
+                "Org": "LMSys",
+                "Commercial LLMs": "No",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 38.0
+            },
+            "MedMCQA": {
+                "Overall": 36.4
+            },
+            "MMLU-Medicine": {
+                "Overall": 45.6
+            },
+            "PubMedQA": {
+                "Overall": 66.2
+            },
+            "Referral QA": {
+                "Overall": 76.8
+            },
+            "Treat Recom.": {
+                "Overall": 4.6
+            },
+            "MIMIC": {
+                "Overall": 14.5
+            },
+            "IU-Xray": {
+                "Overall": 9.4
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 6.2
+            },
+            "Patient Education": {
+                "Overall": 4.7
+            },
+            "BC5": {
+                "Overall": 46.2
+            },
+            "NCBI": {
+                "Overall": 39.0
+            },
+            "DDI": {
+                "Overall": 41.3
+            },
+            "GAD": {
+                "Overall": 43.5
+            },
+            "HoC": {
+                "Overall": 56.7
+            },
+            "Pharma. QA": {
+                "Overall": 45.1
+            },
+            "Drug Inter.": {
+                "Overall": 46.0
+            }
+        },
+        "LLaMA-2-13B": {
+            "META": {
+                "Method": [
+                    "LLaMA-2-13B"
+                ],
+                "Parameters": "13B",
+                "Org": "Meta",
+                "Commercial LLMs": "No",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 38.1
+            },
+            "MedMCQA": {
+                "Overall": 35.5
+            },
+            "MMLU-Medicine": {
+                "Overall": 46.0
+            },
+            "PubMedQA": {
+                "Overall": 66.8
+            },
+            "Referral QA": {
+                "Overall": 77.1
+            },
+            "Treat Recom.": {
+                "Overall": 4.8
+            },
+            "MIMIC": {
+                "Overall": 12.0
+            },
+            "IU-Xray": {
+                "Overall": 9.1
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 6.4
+            },
+            "Patient Education": {
+                "Overall": 5.6
+            },
+            "BC5": {
+                "Overall": 46.6
+            },
+            "NCBI": {
+                "Overall": 38.3
+            },
+            "DDI": {
+                "Overall": 39.7
+            },
+            "GAD": {
+                "Overall": 41.2
+            },
+            "HoC": {
+                "Overall": 55.9
+            },
+            "Pharma. QA": {
+                "Overall": 46.9
+            },
+            "Drug Inter.": {
+                "Overall": 47.5
+            }
+        },
+        "LLaMA-2-70B": {
+            "META": {
+                "Method": [
+                    "LLaMA-2-70B"
+                ],
+                "Parameters": "70B",
+                "Org": "Meta",
+                "Commercial LLMs": "No",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 45.8
+            },
+            "MedMCQA": {
+                "Overall": 42.7
+            },
+            "MMLU-Medicine": {
+                "Overall": 54.0
+            },
+            "PubMedQA": {
+                "Overall": 67.4
+            },
+            "Referral QA": {
+                "Overall": 78.9
+            },
+            "Treat Recom.": {
+                "Overall": 5.5
+            },
+            "MIMIC": {
+                "Overall": 13.9
+            },
+            "IU-Xray": {
+                "Overall": 8.0
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 8.3
+            },
+            "Patient Education": {
+                "Overall": 6.8
+            },
+            "BC5": {
+                "Overall": 47.8
+            },
+            "NCBI": {
+                "Overall": 41.5
+            },
+            "DDI": {
+                "Overall": 45.6
+            },
+            "GAD": {
+                "Overall": 44.7
+            },
+            "HoC": {
+                "Overall": 63.2
+            },
+            "Pharma. QA": {
+                "Overall": 49.3
+            },
+            "Drug Inter.": {
+                "Overall": 51.5
+            }
+        },
+        "LLaMA-3-70B": {
+            "META": {
+                "Method": [
+                    "LLaMA-3-70B"
+                ],
+                "Parameters": "70B",
+                "Org": "Meta",
+                "Commercial LLMs": "No",
+                "General LLMs": "Yes",
+                "Medical LLMs": "No",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 78.8
+            },
+            "MedMCQA": {
+                "Overall": 74.7
+            },
+            "MMLU-Medicine": {
+                "Overall": 86.4
+            },
+            "PubMedQA": {
+                "Overall": 77.4
+            },
+            "Referral QA": {
+                "Overall": 82.4
+            },
+            "Treat Recom.": {
+                "Overall": 10.2
+            },
+            "MIMIC": {
+                "Overall": 18.4
+            },
+            "IU-Xray": {
+                "Overall": 15.5
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 10.9
+            },
+            "Patient Education": {
+                "Overall": 10.1
+            },
+            "BC5": {
+                "Overall": 63.7
+            },
+            "NCBI": {
+                "Overall": 50.2
+            },
+            "DDI": {
+                "Overall": 59.7
+            },
+            "GAD": {
+                "Overall": 63.1
+            },
+            "HoC": {
+                "Overall": 79.0
+            },
+            "Pharma. QA": {
+                "Overall": 62.4
+            },
+            "Drug Inter.": {
+                "Overall": 53.0
+            }
+        },
+        "Huatuo": {
+            "META": {
+                "Method": [
+                    "Huatuo"
+                ],
+                "Parameters": "7B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 28.4
+            },
+            "MedMCQA": {
+                "Overall": 24.8
+            },
+            "MMLU-Medicine": {
+                "Overall": 31.6
+            },
+            "PubMedQA": {
+                "Overall": 61.0
+            },
+            "Referral QA": {
+                "Overall": 69.3
+            },
+            "Treat Recom.": {
+                "Overall": 3.8
+            },
+            "MIMIC": {
+                "Overall": 8.7
+            },
+            "IU-Xray": {
+                "Overall": 3.8
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 2.2
+            },
+            "Patient Education": {
+                "Overall": 1.4
+            },
+            "BC5": {
+                "Overall": 43.6
+            },
+            "NCBI": {
+                "Overall": 37.5
+            },
+            "DDI": {
+                "Overall": 40.1
+            },
+            "GAD": {
+                "Overall": 38.2
+            },
+            "HoC": {
+                "Overall": 50.2
+            },
+            "Pharma. QA": {
+                "Overall": 44.1
+            },
+            "Drug Inter.": {
+                "Overall": 49.5
+            }
+        },
+        "ChatDoctor": {
+            "META": {
+                "Method": [
+                    "ChatDoctor"
+                ],
+                "Parameters": "7B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 33.2
+            },
+            "MedMCQA": {
+                "Overall": 31.5
+            },
+            "MMLU-Medicine": {
+                "Overall": 40.4
+            },
+            "PubMedQA": {
+                "Overall": 63.8
+            },
+            "Referral QA": {
+                "Overall": 73.7
+            },
+            "Treat Recom.": {
+                "Overall": 5.3
+            },
+            "MIMIC": {
+                "Overall": 8.9
+            },
+            "IU-Xray": {
+                "Overall": 4.2
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 2.8
+            },
+            "Patient Education": {
+                "Overall": 1.7
+            },
+            "BC5": {
+                "Overall": 45.8
+            },
+            "NCBI": {
+                "Overall": 40.9
+            },
+            "DDI": {
+                "Overall": 41.2
+            },
+            "GAD": {
+                "Overall": 40.1
+            },
+            "HoC": {
+                "Overall": 55.7
+            },
+            "Pharma. QA": {
+                "Overall": 42.7
+            },
+            "Drug Inter.": {
+                "Overall": 48.5
+            }
+        },
+        "PMC-LLaMA-7B": {
+            "META": {
+                "Method": [
+                    "PMC-LLaMA-7B"
+                ],
+                "Parameters": "7B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 28.7
+            },
+            "MedMCQA": {
+                "Overall": 29.8
+            },
+            "MMLU-Medicine": {
+                "Overall": 39.0
+            },
+            "PubMedQA": {
+                "Overall": 60.2
+            },
+            "Referral QA": {
+                "Overall": 70.2
+            },
+            "Treat Recom.": {
+                "Overall": 4.0
+            },
+            "MIMIC": {
+                "Overall": 7.6
+            },
+            "IU-Xray": {
+                "Overall": 4.0
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 3.6
+            },
+            "Patient Education": {
+                "Overall": 1.5
+            },
+            "BC5": {
+                "Overall": 45.2
+            },
+            "NCBI": {
+                "Overall": 37.8
+            },
+            "DDI": {
+                "Overall": 40.8
+            },
+            "GAD": {
+                "Overall": 42.0
+            },
+            "HoC": {
+                "Overall": 55.6
+            },
+            "Pharma. QA": {
+                "Overall": 45.5
+            },
+            "Drug Inter.": {
+                "Overall": 51.0
+            }
+        },
+        "Baize-Healthcare": {
+            "META": {
+                "Method": [
+                    "Baize-Healthcare"
+                ],
+                "Parameters": "7B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 34.9
+            },
+            "MedMCQA": {
+                "Overall": 31.3
+            },
+            "MMLU-Medicine": {
+                "Overall": 41.9
+            },
+            "PubMedQA": {
+                "Overall": 64.4
+            },
+            "Referral QA": {
+                "Overall": 74.0
+            },
+            "Treat Recom.": {
+                "Overall": 4.7
+            },
+            "MIMIC": {
+                "Overall": 9.8
+            },
+            "IU-Xray": {
+                "Overall": 4.4
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 4.3
+            },
+            "Patient Education": {
+                "Overall": 1.8
+            },
+            "BC5": {
+                "Overall": 44.4
+            },
+            "NCBI": {
+                "Overall": 38.5
+            },
+            "DDI": {
+                "Overall": 41.9
+            },
+            "GAD": {
+                "Overall": 45.8
+            },
+            "HoC": {
+                "Overall": 54.5
+            },
+            "Pharma. QA": {
+                "Overall": 46.9
+            },
+            "Drug Inter.": {
+                "Overall": 50.5
+            }
+        },
+        "MedAlpaca-7B": {
+            "META": {
+                "Method": [
+                    "MedAlpaca-7B"
+                ],
+                "Parameters": "7B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 35.1
+            },
+            "MedMCQA": {
+                "Overall": 32.9
+            },
+            "MMLU-Medicine": {
+                "Overall": 48.5
+            },
+            "PubMedQA": {
+                "Overall": 62.4
+            },
+            "Referral QA": {
+                "Overall": 75.3
+            },
+            "Treat Recom.": {
+                "Overall": 4.8
+            },
+            "MIMIC": {
+                "Overall": 10.4
+            },
+            "IU-Xray": {
+                "Overall": 7.6
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 4.5
+            },
+            "Patient Education": {
+                "Overall": 2.7
+            },
+            "BC5": {
+                "Overall": 47.3
+            },
+            "NCBI": {
+                "Overall": 39.0
+            },
+            "DDI": {
+                "Overall": 43.5
+            },
+            "GAD": {
+                "Overall": 44.0
+            },
+            "HoC": {
+                "Overall": 58.7
+            },
+            "Pharma. QA": {
+                "Overall": 47.9
+            },
+            "Drug Inter.": {
+                "Overall": 48.0
+            }
+        },
+        "Meditron-7B": {
+            "META": {
+                "Method": [
+                    "Meditron-7B"
+                ],
+                "Parameters": "7B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 33.5
+            },
+            "MedMCQA": {
+                "Overall": 31.1
+            },
+            "MMLU-Medicine": {
+                "Overall": 45.2
+            },
+            "PubMedQA": {
+                "Overall": 61.6
+            },
+            "Referral QA": {
+                "Overall": 74.9
+            },
+            "Treat Recom.": {
+                "Overall": 5.8
+            },
+            "MIMIC": {
+                "Overall": 12.5
+            },
+            "IU-Xray": {
+                "Overall": 7.8
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 6.8
+            },
+            "Patient Education": {
+                "Overall": 5.9
+            },
+            "BC5": {
+                "Overall": 46.5
+            },
+            "NCBI": {
+                "Overall": 39.2
+            },
+            "DDI": {
+                "Overall": 42.7
+            },
+            "GAD": {
+                "Overall": 43.3
+            },
+            "HoC": {
+                "Overall": 57.9
+            },
+            "Pharma. QA": {
+                "Overall": 50.7
+            },
+            "Drug Inter.": {
+                "Overall": 52.0
+            }
+        },
+        "BioMistral": {
+            "META": {
+                "Method": [
+                    "BioMistral"
+                ],
+                "Parameters": "7B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 35.4
+            },
+            "MedMCQA": {
+                "Overall": 34.8
+            },
+            "MMLU-Medicine": {
+                "Overall": 52.6
+            },
+            "PubMedQA": {
+                "Overall": 66.4
+            },
+            "Referral QA": {
+                "Overall": 77.0
+            },
+            "Treat Recom.": {
+                "Overall": 7.6
+            },
+            "MIMIC": {
+                "Overall": 14.2
+            },
+            "IU-Xray": {
+                "Overall": 8.5
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 7.5
+            },
+            "Patient Education": {
+                "Overall": 6.6
+            },
+            "BC5": {
+                "Overall": 48.8
+            },
+            "NCBI": {
+                "Overall": 40.4
+            },
+            "DDI": {
+                "Overall": 46.0
+            },
+            "GAD": {
+                "Overall": 48.5
+            },
+            "HoC": {
+                "Overall": 64.3
+            },
+            "Pharma. QA": {
+                "Overall": 54.5
+            },
+            "Drug Inter.": {
+                "Overall": 54.0
+            }
+        },
+        "PMC-LLaMA-13B": {
+            "META": {
+                "Method": [
+                    "PMC-LLaMA-13B"
+                ],
+                "Parameters": "13B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 39.6
+            },
+            "MedMCQA": {
+                "Overall": 37.7
+            },
+            "MMLU-Medicine": {
+                "Overall": 56.3
+            },
+            "PubMedQA": {
+                "Overall": 67.0
+            },
+            "Referral QA": {
+                "Overall": 77.6
+            },
+            "Treat Recom.": {
+                "Overall": 4.9
+            },
+            "MIMIC": {
+                "Overall": 9.4
+            },
+            "IU-Xray": {
+                "Overall": 5.9
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 4.2
+            },
+            "Patient Education": {
+                "Overall": 2.7
+            },
+            "BC5": {
+                "Overall": 51.5
+            },
+            "NCBI": {
+                "Overall": 43.1
+            },
+            "DDI": {
+                "Overall": 48.4
+            },
+            "GAD": {
+                "Overall": 48.7
+            },
+            "HoC": {
+                "Overall": 65.3
+            },
+            "Pharma. QA": {
+                "Overall": 48.8
+            },
+            "Drug Inter.": {
+                "Overall": 51.5
+            }
+        },
+        "MedAlpaca-13B": {
+            "META": {
+                "Method": [
+                    "MedAlpaca-13B"
+                ],
+                "Parameters": "13B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 37.3
+            },
+            "MedMCQA": {
+                "Overall": 35.7
+            },
+            "MMLU-Medicine": {
+                "Overall": 51.5
+            },
+            "PubMedQA": {
+                "Overall": 65.6
+            },
+            "Referral QA": {
+                "Overall": 77.4
+            },
+            "Treat Recom.": {
+                "Overall": 5.1
+            },
+            "MIMIC": {
+                "Overall": 11.7
+            },
+            "IU-Xray": {
+                "Overall": 8.6
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 5.0
+            },
+            "Patient Education": {
+                "Overall": 3.5
+            },
+            "BC5": {
+                "Overall": 49.2
+            },
+            "NCBI": {
+                "Overall": 41.6
+            },
+            "DDI": {
+                "Overall": 44.1
+            },
+            "GAD": {
+                "Overall": 44.5
+            },
+            "HoC": {
+                "Overall": 59.4
+            },
+            "Pharma. QA": {
+                "Overall": 51.6
+            },
+            "Drug Inter.": {
+                "Overall": 50.0
+            }
+        },
+        "ClinicalCamel": {
+            "META": {
+                "Method": [
+                    "ClinicalCamel"
+                ],
+                "Parameters": "70B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 46.4
+            },
+            "MedMCQA": {
+                "Overall": 45.8
+            },
+            "MMLU-Medicine": {
+                "Overall": 68.4
+            },
+            "PubMedQA": {
+                "Overall": 71.0
+            },
+            "Referral QA": {
+                "Overall": 79.8
+            },
+            "Treat Recom.": {
+                "Overall": 8.4
+            },
+            "MIMIC": {
+                "Overall": 13.0
+            },
+            "IU-Xray": {
+                "Overall": 9.6
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 7.9
+            },
+            "Patient Education": {
+                "Overall": 7.2
+            },
+            "BC5": {
+                "Overall": 51.2
+            },
+            "NCBI": {
+                "Overall": 43.7
+            },
+            "DDI": {
+                "Overall": 47.6
+            },
+            "GAD": {
+                "Overall": 47.2
+            },
+            "HoC": {
+                "Overall": 64.8
+            },
+            "Pharma. QA": {
+                "Overall": 52.6
+            },
+            "Drug Inter.": {
+                "Overall": 52.5
+            }
+        },
+        "Meditron-70B": {
+            "META": {
+                "Method": [
+                    "Meditron-70B"
+                ],
+                "Parameters": "70B",
+                "Org": "",
+                "Commercial LLMs": "No",
+                "General LLMs": "No",
+                "Medical LLMs": "Yes",
+                "SOTA": "No",
+                "OpenSource": "Yes",
+                "Verified": "Yes"
+            },
+            "MedQA": {
+                "Overall": 45.7
+            },
+            "MedMCQA": {
+                "Overall": 44.9
+            },
+            "MMLU-Medicine": {
+                "Overall": 65.1
+            },
+            "PubMedQA": {
+                "Overall": 70.6
+            },
+            "Referral QA": {
+                "Overall": 78.6
+            },
+            "Treat Recom.": {
+                "Overall": 8.9
+            },
+            "MIMIC": {
+                "Overall": 13.3
+            },
+            "IU-Xray": {
+                "Overall": 8.0
+            },
+            "Hospitaliz. Summari.": {
+                "Overall": 9.6
+            },
+            "Patient Education": {
+                "Overall": 7.7
+            },
+            "BC5": {
+                "Overall": 54.3
+            },
+            "NCBI": {
+                "Overall": 45.7
+            },
+            "DDI": {
+                "Overall": 51.2
+            },
+            "GAD": {
+                "Overall": 49.6
+            },
+            "HoC": {
+                "Overall": 69.6
+            },
+            "Pharma. QA": {
+                "Overall": 58.7
+            },
+            "Drug Inter.": {
+                "Overall": 54.5
+            }
+        }
+    }
+}

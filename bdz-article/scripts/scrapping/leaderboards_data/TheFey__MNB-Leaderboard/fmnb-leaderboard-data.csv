@@ -1,0 +1,45 @@
+author/model_name,Score,Behavior,8k 🪡,16k 🪡,24k 🪡,32k 🪡,Size,New,Base,Model Link,Settings
+TheDrummer/Cydonia-24B-v4.1,93,10,94,93,,,24B,,,https://huggingface.co/TheDrummer/Cydonia-24B-v4.1,
+mistralai/Mistral-Small-3.2-24B-Instruct-2506,93,10,94,92,67,57,24B,🆕,TRUE,https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506,
+ConicCat/Mistral-Small-3.2-AntiRep-24B,87,10,94,83,,,24B,,,https://huggingface.co/ConicCat/Mistral-Small-3.2-AntiRep-24B,
+TheDrummer/Cydonia-R1-24B-v4,84,10,85,83,,,24B,,,https://huggingface.co/TheDrummer/Cydonia-R1-24B-v4,
+TheDrummer/Cydonia-24B-v4,78,10,86,74,,,24B,,,https://huggingface.co/TheDrummer/Cydonia-24B-v4,
+zerofata/MS3.2-PaintedFantasy-v2-24B,78,10,89,72,,,24B,,,https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v2-24B,
+kyx0r/Neona-12B,75,9,92,70,,,12B,,,https://huggingface.co/kyx0r/Neona-12B,1
+DreadPoor/Irix-12B-Model_Stock,73,8,91,70,,,12B,,,https://huggingface.co/DreadPoor/Irix-12B-Model_Stock,1
+Nitral-AI/CaptainErisNebula-12B-AE-v1,71,9,92,64,,,12B,,,https://huggingface.co/Nitral-AI/CaptainErisNebula-12B-AE-v1,1
+Doctor-Shotgun/MS3.2-24B-Magnum-Diamond,68,9,69,71,,,24B,,,https://huggingface.co/Doctor-Shotgun/MS3.2-24B-Magnum-Diamond,
+Entropicengine/Pinecone-Rune-12b,68,9,87,61,,,12B,,,https://huggingface.co/Entropicengine/Pinecone-Rune-12b,1 & 2
+DreadPoor/Ward-12B-Model_Stock,67,9,86,61,,,12B,,,https://huggingface.co/DreadPoor/Ward-12B-Model_Stock,1
+yamatazen/LorablatedStock-12B,67,9,88,60,,,12B,,,https://huggingface.co/yamatazen/LorablatedStock-12B,1
+Nitral-AI/CaptainErisNebula-12B-AE-v1r,67,8,91,61,,,12B,,,https://huggingface.co/Nitral-AI/CaptainErisNebula-12B-AE-v1r,1
+Nitral-AI/Irixxed-Magcap-12B-Slerp,66,7,91,62,,,12B,,,https://huggingface.co/Nitral-AI/Irixxed-Magcap-12B-Slerp,1
+TheDrummer/Rocinante-12B-v1.1,66,8,83,63,,,12B,,,https://huggingface.co/TheDrummer/Rocinante-12B-v1.1,1
+Nitral-AI/CaptainErisNebula-12B-Chimera-v1.1,64,8,85,59,,,12B,,,https://huggingface.co/Nitral-AI/CaptainErisNebula-12B-Chimera-v1.1,1
+SicariusSicariiStuff/Impish_Longtail_12B_GGUF_HA,63,9,87,54,,,12B,,,https://huggingface.co/SicariusSicariiStuff/Impish_Longtail_12B_GGUF_HA,1
+mistralai/Mistral-Nemo-Instruct-2407,55,9,76,48,,,12B,,TRUE,https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407,1
+inflatebot/MN-12B-Mag-Mell-R1,53,7,79,49,,,12B,,,https://huggingface.co/inflatebot/MN-12B-Mag-Mell-R1,1 & 2
+grimjim/MagnaMellRei-v1-12B,52,8,79,45,,,12B,,,https://huggingface.co/grimjim/MagnaMellRei-v1-12B,1
+ConicCat/NemoPlotter-12B,52,7,71,51,,,12B,,,https://huggingface.co/ConicCat/NemoPlotter-12B,1
+SicariusSicariiStuff/Impish_Nemo_12B,49,8,72,43,,,12B,,,https://huggingface.co/SicariusSicariiStuff/Impish_Nemo_12B,1
+pot99rta/PatriSlush-DarkRPMax-12B,47,8,69,42,,,12B,,,https://huggingface.co/pot99rta/PatriSlush-DarkRPMax-12B,1
+ReadyArt/The-Omega-Directive-M-12B-v1.0,42,7,67,39,,,12B,,,https://huggingface.co/ReadyArt/The-Omega-Directive-M-12B-v1.0,1
+CrucibleLab/M3.2-24B-Loki-V1.3,82,10,92,77,,,24B,,,https://huggingface.co/CrucibleLab/M3.2-24B-Loki-V1.3,
+LatitudeGames/Wayfarer-2-12B ,43,7,66,41,,,12B,,,https://huggingface.co/LatitudeGames/Wayfarer-2-12B ,1
+LatitudeGames/Muse-2-12B ,63,7,84,62,,,12B,,,https://huggingface.co/LatitudeGames/Muse-2-12B ,1
+Retreatcost/KansenSakura-Radiance-RP-12b,46,6,68,47,,,12B,,,https://huggingface.co/Retreatcost/KansenSakura-Radiance-RP-12b,1
+TheDrummer/Cydonia-24B-v4.2.0,97,10,96,98,81,61,24B,🆕,,https://huggingface.co/TheDrummer/Cydonia-24B-v4.2.0,v4r
+mistralai/Magistral-Small-2509,88,10,95,81,,,24B,,TRUE,https://huggingface.co/mistralai/Magistral-Small-2509,
+zai-org/GLM-4.5-Air,99,10,100,99,,92,110B,,TRUE,https://huggingface.co/zai-org/GLM-4.5-Air,
+TheDrummer/Skyfall-31B-v4,87,10,94,83,,54,31B,,,https://huggingface.co/TheDrummer/Skyfall-31B-v4,
+meta-llama/Llama-3.3-70B-Instruct,100,10,100,100,,97,70B,,TRUE,https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct,
+zerofata/MS3.2-PaintedFantasy-Visage-v3-34B,79,10,80,79,,54,34B,,,https://huggingface.co/zerofata/MS3.2-PaintedFantasy-Visage-v3-34B,
+ReadyArt/C4.1-Broken-Tutu-24B,67,9,90,56,,48,24B,,,https://huggingface.co/ReadyArt/C4.1-Broken-Tutu-24B,
+TheDrummer/Anubis-70B-v1.1,99,10,100,98,,90,70B,,,https://huggingface.co/TheDrummer/Anubis-70B-v1.1,
+FlareRebellion/WeirdCompound-v1.6-24b,91,10,98,88,,60,24B,,,https://huggingface.co/FlareRebellion/WeirdCompound-v1.6-24b,
+zerofata/MS3.2-PaintedFantasy-Visage-v4-34B,93,10,96,91,82,77,34B,,,https://huggingface.co/zerofata/MS3.2-PaintedFantasy-Visage-v4-34B,
+Llama-4-Scout-17B-16E-Instruct,83,9,100,77,,39,109B,,TRUE,https://huggingface.co/Llama-4-Scout-17B-16E-Instruct,
+FlareRebellion/WeirdCompound-v1.7-24b,89,10,96,85,,58,24B,,,https://huggingface.co/FlareRebellion/WeirdCompound-v1.7-24b,
+ReadyArt/4.2.0-Broken-Tutu-24b,84,10,76,94,,74,24B,,,https://huggingface.co/ReadyArt/4.2.0-Broken-Tutu-24b,
+zerofata/MS3.2-PaintedFantasy-v3-24B,98,10,99,98,71,60,24B,🆕,,https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v3-24B,
+SicariusSicariiStuff/Sweet_Dreams_12B,67,9,85,64,,,12B,🆕,,https://huggingface.co/SicariusSicariiStuff/Sweet_Dreams_12B,

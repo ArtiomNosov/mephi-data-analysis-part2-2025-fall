@@ -1,0 +1,28 @@
+AI歌手名/AI Singer,模型zip链接/Link to Model Zip File,训练素材时长/Duration of Training Dataset(min),训练epoch数/Epoch,模型贡献者/Model Contributor,歌手代表作或介绍链接
+Taylor Swift,https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/taylor.zip,20,600,Kevin,https://www.bilibili.com/video/BV1vv41177jq/
+孙燕姿(Stefanie Sun),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/syz.zip,20,300,Kevin,https://www.bilibili.com/video/BV1Q44y1M7bB/
+一清清清(Yiqing),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/yiqing.zip,25,1000,Kevin,https://www.bilibili.com/video/BV1wV411u74P/
+派蒙 原神(Paimon Genshin Impact),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/paimon.zip,20,500,Kevin,https://zh.moegirl.org.cn/%C5%C9%C3%C9(%D4%AD%C9%F1)
+Risa Oribe(LiSA),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/Lisa.zip,20,200,Kevin,https://www.bilibili.com/video/BV17T41187um/
+AZKi,https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/AZKi.zip,20,500,Kevin,https://zh.moegirl.org.cn/AZKi
+AI饺子(Stewie Griffin),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/stewie_griffin.zip,30,500,Delik,https://www.bilibili.com/video/BV1nm41197Yp/
+海绵宝宝(SpongeBob),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/SpongeBob.zip,20,1000,sail-rvc,https://zh.moegirl.org.cn/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D
+火星哥(Bruno Mars),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/BrunoMars.zip,25,1000,sail-rvc,https://www.bilibili.com/video/BV1WT411Q7Nx/
+萤 原神(Lumine Genshin Impact),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/genshin-lumine.zip,20,700,ArkanDash,https://zh.moegirl.org.cn/%E8%8D%A7
+钟离 原神(Zhongli Genshin Impact),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/genshin-zhongli.zip,20,100,ArkanDash,https://zh.moegirl.org.cn/%E9%92%9F%E7%A6%BB
+凝光 原神(Ningguang Genshin Impact),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/genshin-ningguang.zip,20,100,ArkanDash,https://zh.moegirl.org.cn/%E5%87%9D%E5%85%89
+神里绫华 原神(Kamisato Ayaka),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/genshin-linghua.zip,20,300,ArkanDash,https://zh.moegirl.org.cn/%E7%A5%9E%E9%87%8C%E7%BB%AB%E5%8D%8E
+空 原神(Aether Genshin Impact),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/genshin-aether.zip,20,200,ArkanDash,https://zh.moegirl.org.cn/%E7%A9%BA(%E5%8E%9F%E7%A5%9E)#
+滔滔歌姬(TalkTalkAI Girl),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/splice_girl.zip,80,1000,滔滔AI,https://www.talktalkai.com/
+Billie Eilish,https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/BillieEilish.zip,20,500,AIVER-SE,https://www.bilibili.com/video/BV167411376B/
+宋雨琦(Yuqi) (G)I-DLE,https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/yuqi.zip,20,500,juuxn,https://www.bilibili.com/video/BV1aL411k7Hu/
+Minnie (G)I-DLE,https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/Minnie.zip,20,300,juuxn,https://www.bilibili.com/video/BV1f3411Q78m/
+姆爷(Eminem),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/Eminem.zip,20,300,juuxn,https://www.bilibili.com/video/BV1DL4y1J7Kn/
+叶舒华(Shuhua) (G)I-DLE,https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/shuhua.zip,20,300,juuxn,https://www.bilibili.com/video/BV1Am4y1w7G3/
+AI孙燕姿2.0(Stefanie Sun2.0),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/stefanie_sun.zip,30,700,Kevin,https://www.bilibili.com/video/BV1VK4y1H76A/
+甲亢哥(IShowSpeed),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/IShowSpeed.zip,20,200,RVC Community,https://www.bilibili.com/video/BV11g411z7sT/
+A妹(Ariana Grande),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/ariana.zip,20,200,RVC Community,https://www.bilibili.com/video/BV1454y1V72z/
+蕾哈娜(Rihanna),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/rihanna.zip,20,200,RVC Community,https://www.bilibili.com/video/BV1Wv411P7tt/
+贾斯汀比伯(Justin Bieber),https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/justin.zip,20,200,RVC Community,https://www.bilibili.com/video/BV15f4y1A7Hi/
+Rose Blackpink,https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/rose.zip,20,200,RVC Community,https://www.bilibili.com/video/BV1LE411H7gr/
+Lisa Blackpink,https://download.openxlab.org.cn/models/Kevin676/rvc-models/weight/lisa_bp.zip,20,200,RVC Community,https://www.bilibili.com/video/BV1Xf4y1J7Q1/

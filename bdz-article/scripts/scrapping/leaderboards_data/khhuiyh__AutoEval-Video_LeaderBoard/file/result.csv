@@ -1,0 +1,9 @@
+Model,Overall Acc.,Dynamic Perception,State Transitions Perception,Comparison Reasoning,Reasoning with External Knowledge,Explanatory Reasoning,Predictive Reasoning,Description,Counterfactual Reasoning,Camera Movement Perception
+[BLIP-2](https://github.com/salesforce/LAVIS),0.3,0.0,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0
+[InstructBLIP](https://github.com/salesforce/LAVIS),7.9,6.5,12.5,21.1,6.3,7.6,0.0,0.0,26.3,0.0
+[Qwen-VL](https://github.com/QwenLM/Qwen-VL),7.0,4.3,6.2,21.1,7.5,4.5,12.5,3.3,5.3,0.0
+[LLaVA-1.5](https://github.com/haotian-liu/LLaVA),8.5,10.9,9.4,5.3,8.8,3.0,6.2,10.0,15.8,33.3
+[GPT-4V](https://github.com/openai/openai-python),22.2,28.3,25.0,10.5,30.0,22.7,18.8,20.0,21.1,0.0
+[Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT),6.7,2.2,6.2,15.8,11.2,4.5,3.1,0.0,15.8,0.0
+[VideoChat](https://github.com/opengvlab/ask-anything),13.4,8.7,9.4,31.6,11.2,16.7,9.4,6.7,26.3,33.3
+[Video-LLaMA](https://github.com/damo-nlp-sg/video-llama),11.2,4.3,6.2,21.1,13.8,10.6,12.5,3.3,26.3,0.0

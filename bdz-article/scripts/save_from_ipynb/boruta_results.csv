@@ -1,0 +1,109 @@
+﻿Признак,Ранг,Принят,Статус
+likes,5,False,Отклонен
+downloads,7,False,Отклонен
+LyraxiZen/UGI-Leaderboard :: I/10 📚,74,False,Отклонен
+LyraxiZen/UGI-Leaderboard :: Reg+Int 🏆,74,False,Отклонен
+LyraxiZen/UGI-Leaderboard :: Reg+MyScore 🏆,74,False,Отклонен
+LyraxiZen/UGI-Leaderboard :: Writing,74,False,Отклонен
+assets :: ARC,74,False,Отклонен
+assets :: Average ⬆️,74,False,Отклонен
+assets :: GSM8K,74,False,Отклонен
+assets :: HellaSwag,74,False,Отклонен
+assets :: Hub ❤️,74,False,Отклонен
+assets :: MMLU,74,False,Отклонен
+assets :: TruthfulQA,28,False,Отклонен
+assets :: Winogrande,32,False,Отклонен
+beepbeepbruh/UGI-Leaderboard :: I/10 💡,32,False,Отклонен
+beepbeepbruh/UGI-Leaderboard :: Reg+Int 🏆,31,False,Отклонен
+beepbeepbruh/UGI-Leaderboard :: Reg+MyScore 🏆,22,False,Отклонен
+beepbeepbruh/UGI-Leaderboard :: UGI 🏆,22,False,Отклонен
+beepbeepbruh/UGI-Leaderboard :: Writing,21,False,Отклонен
+data :: Average,30,False,Отклонен
+data :: Grounding ⚡️,26,False,Отклонен
+data :: Instruction Following 📝,2,False,Отклонен
+data :: Multilingual 🇬🇫,1,True,Принят
+data :: Planning 📅,1,True,Принят
+data :: Reasoning 💡,4,False,Отклонен
+data :: Refinement 🔩,2,False,Отклонен
+data :: Safety ⚠️,2,False,Отклонен
+data :: Theory of Mind 🤔,1,True,Принят
+data :: Tool Usage 🛠️,11,False,Отклонен
+datasets :: ARC,11,False,Отклонен
+datasets :: Average,9,False,Отклонен
+datasets :: GSM8K,6,False,Отклонен
+datasets :: HellaSwag,74,False,Отклонен
+datasets :: MMLU,74,False,Отклонен
+datasets :: TruthfulQA,34,False,Отклонен
+datasets :: Unnamed: 0,24,False,Отклонен
+datasets :: Winogrande,74,False,Отклонен
+freddyaboulton/gradio_leaderboard :: ARC,74,False,Отклонен
+freddyaboulton/gradio_leaderboard :: Average ⬆️,74,False,Отклонен
+freddyaboulton/gradio_leaderboard :: GSM8K,74,False,Отклонен
+freddyaboulton/gradio_leaderboard :: HellaSwag,74,False,Отклонен
+freddyaboulton/gradio_leaderboard :: Hub ❤️,26,False,Отклонен
+freddyaboulton/gradio_leaderboard :: MMLU,18,False,Отклонен
+freddyaboulton/gradio_leaderboard :: TruthfulQA,74,False,Отклонен
+freddyaboulton/gradio_leaderboard :: Winogrande,19,False,Отклонен
+freddyaboulton/gradio_leaderboard_demo :: ARC,74,False,Отклонен
+freddyaboulton/gradio_leaderboard_demo :: Average ⬆️,74,False,Отклонен
+freddyaboulton/gradio_leaderboard_demo :: GSM8K,74,False,Отклонен
+freddyaboulton/gradio_leaderboard_demo :: HellaSwag,74,False,Отклонен
+freddyaboulton/gradio_leaderboard_demo :: Hub ❤️,74,False,Отклонен
+freddyaboulton/gradio_leaderboard_demo :: MMLU,74,False,Отклонен
+freddyaboulton/gradio_leaderboard_demo :: TruthfulQA,74,False,Отклонен
+freddyaboulton/gradio_leaderboard_demo :: Winogrande,20,False,Отклонен
+version number,74,False,Отклонен
+UGI-Leaderboard :: Active Parameters,28,False,Отклонен
+UGI-Leaderboard :: Internet,74,False,Отклонен
+UGI-Leaderboard :: NatInt 💡,16,False,Отклонен
+UGI-Leaderboard :: Societal/Political,74,False,Отклонен
+UGI-Leaderboard :: Total Parameters,74,False,Отклонен
+UGI-Leaderboard :: UGI 🏆,13,False,Отклонен
+UGI-Leaderboard :: Unruly,74,False,Отклонен
+UGI-Leaderboard :: W/10 👍,74,False,Отклонен
+UGI-Leaderboard :: W/10-Adherence,74,False,Отклонен
+UGI-Leaderboard :: W/10-Direct,74,False,Отклонен
+UGI-Leaderboard :: ASSS⬇️,74,False,Отклонен
+UGI-Leaderboard :: Cor,36,False,Отклонен
+UGI-Leaderboard :: Dif,74,False,Отклонен
+UGI-Leaderboard :: Foundation,37,False,Отклонен
+UGI-Leaderboard :: MyScore 🏆,42,False,Отклонен
+UGI-Leaderboard :: PolContro,74,False,Отклонен
+UGI-Leaderboard :: SMOG⬆️,74,False,Отклонен
+UGI-Leaderboard :: Score 🏆,10,False,Отклонен
+UGI-Leaderboard :: Stats,74,False,Отклонен
+UGI-Leaderboard :: Std,74,False,Отклонен
+UGI-Leaderboard :: Yule⬇️,34,False,Отклонен
+created_at_numeric,74,False,Отклонен
+pipeline tag_question-answering,74,False,Отклонен
+pipeline tag_text-classification,74,False,Отклонен
+pipeline tag_text-generation,74,False,Отклонен
+pipeline tag_nan,74,False,Отклонен
+architectural type_codegen,74,False,Отклонен
+architectural type_deepseek_v2,39,False,Отклонен
+architectural type_gemma,7,False,Отклонен
+architectural type_gpt2,74,False,Отклонен
+architectural type_gpt_bigcode,15,False,Отклонен
+architectural type_llama,40,False,Отклонен
+architectural type_mistral,17,False,Отклонен
+architectural type_mixtral,14,False,Отклонен
+architectural type_qwen2,74,False,Отклонен
+architectural type_stablelm,25,False,Отклонен
+architectural type_nan,74,False,Отклонен
+real architecture_CodeGenForCausalLM,74,False,Отклонен
+real architecture_DeepseekV2ForCausalLM,40,False,Отклонен
+real architecture_GPT2LMHeadModel,74,False,Отклонен
+real architecture_GPTBigCodeForCausalLM,74,False,Отклонен
+real architecture_GemmaForCausalLM,74,False,Отклонен
+real architecture_LlamaForCausalLM,74,False,Отклонен
+real architecture_LlamaForSequenceClassification,74,False,Отклонен
+real architecture_MistralForCausalLM,74,False,Отклонен
+real architecture_MixtralForCausalLM,74,False,Отклонен
+real architecture_Qwen2ForCausalLM,74,False,Отклонен
+real architecture_StableLmForCausalLM,74,False,Отклонен
+real architecture_nan,74,False,Отклонен
+parameters_0.5B,74,False,Отклонен
+parameters_1.1B,74,False,Отклонен
+parameters_1.3B,74,False,Отклонен
+parameters_10.2B,74,False,Отклонен
+parameters_10.7B,38,False,Отклонен

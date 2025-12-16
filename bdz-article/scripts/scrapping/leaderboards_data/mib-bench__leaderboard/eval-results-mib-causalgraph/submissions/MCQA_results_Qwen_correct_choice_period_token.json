@@ -1,0 +1,1332 @@
+{
+  "method_name": "full_vector",
+  "results": [
+    {
+      "model_id": "Qwen2ForCausalLM",
+      "task_scores": {
+        "MCQA": [
+          {
+            "layer": "0",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.21428571428571427
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.42857142857142855
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.35714285714285715
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.6428571428571429
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.42857142857142855
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "1",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.21428571428571427
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.42857142857142855
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.6428571428571429
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.42857142857142855
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "2",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.42857142857142855
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.7857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.42857142857142855
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "3",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.42857142857142855
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.8571428571428571
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.42857142857142855
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "4",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.21428571428571427
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.7857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "5",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.21428571428571427
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.8571428571428571
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "6",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.7857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "7",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.8571428571428571
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "8",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.7857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "9",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.21428571428571427
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.35714285714285715
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.6428571428571429
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.35714285714285715
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "10",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.7142857142857143
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.2857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "11",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.21428571428571427
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.7142857142857143
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.21428571428571427
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "12",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.8571428571428571
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "13",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.7857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "14",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.7857142857142857
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.14285714285714285
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "15",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.07142857142857142
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.8571428571428571
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "16",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 1.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "17",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 1.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "18",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 1.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "19",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 1.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "20",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 1.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "21",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 1.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "22",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 1.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "layer": "23",
+            "layer_scores": [
+              {
+                "intervention": [
+                  "output_token"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              },
+              {
+                "intervention": [
+                  "output_location"
+                ],
+                "counterfactual_scores": [
+                  {
+                    "counterfactual": [
+                      "randomLetter_counterfactual"
+                    ],
+                    "score": 1.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_counterfactual"
+                    ],
+                    "score": 0.0
+                  },
+                  {
+                    "counterfactual": [
+                      "answerPosition_randomLetter_counterfactual"
+                    ],
+                    "score": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

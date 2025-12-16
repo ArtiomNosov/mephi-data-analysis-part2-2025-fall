@@ -1,0 +1,10 @@
+﻿Model,Type,Model Size,Context Size,0~8K,8~16K,16~32K,32~64K,64~128K
+CodeLlama,Code Model, 33.7B,  16K,88.00,74.44,_,_,_
+Mistral-v0.3,General Model,  7.3B,  32K,73.00,67.11,43.67,_,_
+Phi-3.5,General Model,  3.8B, 128K,62.00,63.33,48.37,49.40,39.33
+DeepSeek-Coder-V2,Code Model, 15.7B, 128K,80.00,76.00,56.83,50.20,17.00
+Qwen2.5-Coder,Code Model,  7.6B, 128K,76.00,79.33,84.97,76.07,61.67
+DeepSeek-V2.5,General Model,236B, 128K,94.00,84.89,72.55,70.33,_
+Gemini-1.5-Flash,General Model,_,1000K,84.00,85.11,79.50,77.60,79.67
+Claude-3-5-Sonnet,General Model,_, 200K,92.00,66.67,48.00,40.32,22.67
+GPT-4o,General Model,_, 128K,92.00,90.22,88.00,85.60,87.11

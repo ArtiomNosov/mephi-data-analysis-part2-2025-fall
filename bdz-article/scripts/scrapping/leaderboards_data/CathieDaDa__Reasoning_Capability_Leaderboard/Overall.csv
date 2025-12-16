@@ -1,0 +1,37 @@
+排名,模型名称,综合得分
+1,豆包1.5 Pro（思考模式）,93
+2,GPT-5（自动模式）,91.5
+3,GPT-o3,91
+4,豆包1.5 Pro,90.5
+5,DeepSeek-R1,89.5
+5,Gemini 2.5 Pro,89.5
+5,通义千问3（思考模式）,89.5
+8,混元-T1,88.5
+8,文心一言 X1-Turbo,88.5
+10,Gemini 2.5 flash,88
+10,Grok 3（思考模式）,88
+12,通义千问3,87
+13,GPT-4.1,86
+14,DeepSeek-V3,85
+14,GPT-o4 mini,85
+16,GPT-4o,84.5
+17,混元-TurboS,83.5
+18,Claude 4 Opus （思考模式）,83
+19,Claude 4 Opus,82.5
+19,Grok 3,82.5
+19,Grok 4,82.5
+22,文心一言4.5-Turbo,80.5
+23,MiniMax-01,80
+23,日日新 V6 Pro,80
+23,日日新 V6推理,80
+26,Yi- Lightning,79.5
+27,GLM-4-plus,78
+28,Kimi,77.5
+28,Spark 4.0 Ultra,77.5
+30,Step 2,76.5
+30,GLM-Z1-Air,76
+32,Baichuan4-Turbo,75.5
+33,Step R1-V-Mini,71.5
+34,360智脑2-o1,70
+35,Llama 3.3 70B,69.5
+36,Kimi-k1.5,69

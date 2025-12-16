@@ -1,0 +1,1178 @@
+{
+    "Claude-3.5-Sonnet": {
+        "correctness": {
+            "HumanEval+": 77.4,
+            "MBPP+": 63.5,
+            "ClassEval": 42.0,
+            "LeetCode": 71.7,
+            "LeetCode_Efficiency": 68.3,
+            "Correctness": 64.6
+        },
+        "readability": {
+            "R*": 77.4,
+            "RN_p": 76.3,
+            "RN_if": 95.5,
+            "RN": 74.4,
+            "RL_p": 62.2,
+            "RL_if": 70.3,
+            "RL": 52.0,
+            "RC_p": 74.1,
+            "RC_if": 85.1,
+            "RC": 65.5,
+            "Readability": 64.0
+        },
+        "maintainability": {
+            "MI*": 42.0,
+            "MI_p": 32.0,
+            "MI": 75.3,
+            "MC*": 71.7,
+            "MC_p": 68.5,
+            "MC": 59.8,
+            "Maintainability": 67.5
+        },
+        "efficiency": {
+            "E*": 68.3,
+            "E_p": 66.3,
+            "E_NI_T": 56.8,
+            "E_NI_S": 49.7,
+            "Efficiency": 53.2
+        },
+        "overall": {
+            "RACE Score": 62.3
+        }
+    },
+    "GPT-4o-2024-05-13": {
+        "correctness": {
+            "HumanEval+": 80.5,
+            "MBPP+": 64.6,
+            "ClassEval": 38.0,
+            "LeetCode": 57.2,
+            "LeetCode_Efficiency": 59.4,
+            "Correctness": 59.9
+        },
+        "readability": {
+            "R*": 80.5,
+            "RN_p": 81.2,
+            "RN_if": 95.6,
+            "RN": 78.6,
+            "RL_p": 78.9,
+            "RL_if": 78.9,
+            "RL": 63.2,
+            "RC_p": 79.8,
+            "RC_if": 87.5,
+            "RC": 70.4,
+            "Readability": 70.7
+        },
+        "maintainability": {
+            "MI*": 38.0,
+            "MI_p": 35.0,
+            "MI": 75.1,
+            "MC*": 57.2,
+            "MC_p": 56.3,
+            "MC": 35.2,
+            "Maintainability": 55.1
+        },
+        "efficiency": {
+            "E*": 59.4,
+            "E_p": 58.4,
+            "E_NI_T": 44.0,
+            "E_NI_S": 42.0,
+            "Efficiency": 43.0
+        },
+        "overall": {
+            "RACE Score": 57.2
+        }
+    },
+    "GPT-4o-mini": {
+        "correctness": {
+            "HumanEval+": 78.0,
+            "MBPP+": 63.0,
+            "ClassEval": 37.0,
+            "LeetCode": 51.7,
+            "LeetCode_Efficiency": 52.5,
+            "Correctness": 56.4
+        },
+        "readability": {
+            "R*": 78.0,
+            "RN_p": 76.4,
+            "RN_if": 87.0,
+            "RN": 67.6,
+            "RL_p": 70.3,
+            "RL_if": 74.8,
+            "RL": 55.7,
+            "RC_p": 74.1,
+            "RC_if": 96.9,
+            "RC": 72.9,
+            "Readability": 65.4
+        },
+        "maintainability": {
+            "MI*": 37.0,
+            "MI_p": 27.0,
+            "MI": 73.5,
+            "MC*": 51.7,
+            "MC_p": 49.1,
+            "MC": 23.3,
+            "Maintainability": 48.4
+        },
+        "efficiency": {
+            "E*": 52.5,
+            "E_p": 46.5,
+            "E_NI_T": 40.3,
+            "E_NI_S": 39.5,
+            "Efficiency": 39.9
+        },
+        "overall": {
+            "RACE Score": 52.5
+        }
+    },
+    "GPT-3.5-Turbo-0125": {
+        "correctness": {
+            "HumanEval+": 62.8,
+            "MBPP+": 62.2,
+            "ClassEval": 28.0,
+            "LeetCode": 31.1,
+            "LeetCode_Efficiency": 39.6,
+            "Correctness": 44.7
+        },
+        "readability": {
+            "R*": 62.8,
+            "RN_p": 63.2,
+            "RN_if": 79.2,
+            "RN": 51.4,
+            "RL_p": 60.4,
+            "RL_if": 76.8,
+            "RL": 46.1,
+            "RC_p": 65.8,
+            "RC_if": 70.1,
+            "RC": 47.5,
+            "Readability": 48.3
+        },
+        "maintainability": {
+            "MI*": 28.0,
+            "MI_p": 24.0,
+            "MI": 80.2,
+            "MC*": 31.1,
+            "MC_p": 28.1,
+            "MC": 18.5,
+            "Maintainability": 49.4
+        },
+        "efficiency": {
+            "E*": 39.6,
+            "E_p": 32.7,
+            "E_NI_T": 27.5,
+            "E_NI_S": 36.5,
+            "Efficiency": 32.0
+        },
+        "overall": {
+            "RACE Score": 43.6
+        }
+    },
+    "o1-mini-2024-09-12": {
+        "correctness": {
+            "HumanEval+": 82.9,
+            "MBPP+": 64.8,
+            "ClassEval": 36.0,
+            "LeetCode": 79.6,
+            "LeetCode_Efficiency": 87.1,
+            "Correctness": 70.1
+        },
+        "readability": {
+            "R*": 82.9,
+            "RN_p": 83.2,
+            "RN_if": 95.0,
+            "RN": 80.7,
+            "RL_p": 76.4,
+            "RL_if": 56.7,
+            "RL": 47.5,
+            "RC_p": 80.2,
+            "RC_if": 94.2,
+            "RC": 77.7,
+            "Readability": 68.6
+        },
+        "maintainability": {
+            "MI*": 36.0,
+            "MI_p": 25.0,
+            "MI": 64.4,
+            "MC*": 79.6,
+            "MC_p": 83.3,
+            "MC": 66.1,
+            "Maintainability": 65.2
+        },
+        "efficiency": {
+            "E*": 87.1,
+            "E_p": 77.4,
+            "E_NI_T": 60.3,
+            "E_NI_S": 40.0,
+            "Efficiency": 50.1
+        },
+        "overall": {
+            "RACE Score": 63.5
+        }
+    },
+    "CodeLlama-7B-Python": {
+        "correctness": {
+            "HumanEval+": 29.3,
+            "MBPP+": 41.3,
+            "ClassEval": 11.0,
+            "LeetCode": 5.6,
+            "LeetCode_Efficiency": 14.9,
+            "Correctness": 20.4
+        },
+        "readability": {
+            "R*": 29.3,
+            "RN_p": 29.5,
+            "RN_if": 69.0,
+            "RN": 20.9,
+            "RL_p": 30.1,
+            "RL_if": 76.6,
+            "RL": 25.8,
+            "RC_p": 24.7,
+            "RC_if": 57.9,
+            "RC": 12.5,
+            "Readability": 19.7
+        },
+        "maintainability": {
+            "MI*": 11.0,
+            "MI_p": 10.0,
+            "MI": 79.4,
+            "MC*": 5.6,
+            "MC_p": 6.5,
+            "MC": 3.7,
+            "Maintainability": 41.6
+        },
+        "efficiency": {
+            "E*": 14.9,
+            "E_p": 15.8,
+            "E_NI_T": 14.3,
+            "E_NI_S": 14.4,
+            "Efficiency": 14.4
+        },
+        "overall": {
+            "RACE Score": 24.0
+        }
+    },
+    "CodeLlama-7B-Instruct": {
+        "correctness": {
+            "HumanEval+": 32.3,
+            "MBPP+": 43.1,
+            "ClassEval": 16.0,
+            "LeetCode": 12.2,
+            "LeetCode_Efficiency": 15.8,
+            "Correctness": 23.9
+        },
+        "readability": {
+            "R*": 32.3,
+            "RN_p": 31.5,
+            "RN_if": 58.2,
+            "RN": 17.8,
+            "RL_p": 31.7,
+            "RL_if": 59.7,
+            "RL": 23.4,
+            "RC_p": 30.2,
+            "RC_if": 76.2,
+            "RC": 22.2,
+            "Readability": 21.1
+        },
+        "maintainability": {
+            "MI*": 16.0,
+            "MI_p": 15.0,
+            "MI": 71.8,
+            "MC*": 12.2,
+            "MC_p": 10.9,
+            "MC": 7.2,
+            "Maintainability": 39.5
+        },
+        "efficiency": {
+            "E*": 15.8,
+            "E_p": 13.9,
+            "E_NI_T": 8.2,
+            "E_NI_S": 8.8,
+            "Efficiency": 8.5
+        },
+        "overall": {
+            "RACE Score": 23.2
+        }
+    },
+    "CodeLlama-13B-Python": {
+        "correctness": {
+            "HumanEval+": 40.2,
+            "MBPP+": 29.4,
+            "ClassEval": 16.0,
+            "LeetCode": 6.1,
+            "LeetCode_Efficiency": 16.8,
+            "Correctness": 21.7
+        },
+        "readability": {
+            "R*": 40.2,
+            "RN_p": 35.0,
+            "RN_if": 63.6,
+            "RN": 23.1,
+            "RL_p": 34.8,
+            "RL_if": 83.5,
+            "RL": 30.9,
+            "RC_p": 30.2,
+            "RC_if": 77.4,
+            "RC": 24.4,
+            "Readability": 26.1
+        },
+        "maintainability": {
+            "MI*": 16.0,
+            "MI_p": 15.0,
+            "MI": 78.6,
+            "MC*": 6.1,
+            "MC_p": 4.8,
+            "MC": 2.4,
+            "Maintainability": 40.5
+        },
+        "efficiency": {
+            "E*": 16.8,
+            "E_p": 17.8,
+            "E_NI_T": 13.8,
+            "E_NI_S": 14.7,
+            "Efficiency": 14.2
+        },
+        "overall": {
+            "RACE Score": 25.6
+        }
+    },
+    "CodeLlama-13B-Instruct": {
+        "correctness": {
+            "HumanEval+": 36.0,
+            "MBPP+": 40.7,
+            "ClassEval": 17.0,
+            "LeetCode": 10.6,
+            "LeetCode_Efficiency": 17.8,
+            "Correctness": 24.4
+        },
+        "readability": {
+            "R*": 36.0,
+            "RN_p": 37.7,
+            "RN_if": 60.2,
+            "RN": 22.9,
+            "RL_p": 35.0,
+            "RL_if": 59.9,
+            "RL": 23.6,
+            "RC_p": 35.7,
+            "RC_if": 75.0,
+            "RC": 29.0,
+            "Readability": 25.2
+        },
+        "maintainability": {
+            "MI*": 17.0,
+            "MI_p": 19.0,
+            "MI": 82.1,
+            "MC*": 10.6,
+            "MC_p": 13.1,
+            "MC": 7.6,
+            "Maintainability": 44.8
+        },
+        "efficiency": {
+            "E*": 17.8,
+            "E_p": 17.8,
+            "E_NI_T": 10.4,
+            "E_NI_S": 16.1,
+            "Efficiency": 13.2
+        },
+        "overall": {
+            "RACE Score": 26.9
+        }
+    },
+    "CodeLlama-34B-Python": {
+        "correctness": {
+            "HumanEval+": 31.7,
+            "MBPP+": 36.2,
+            "ClassEval": 3.0,
+            "LeetCode": 7.2,
+            "LeetCode_Efficiency": 17.8,
+            "Correctness": 19.2
+        },
+        "readability": {
+            "R*": 31.7,
+            "RN_p": 27.2,
+            "RN_if": 68.6,
+            "RN": 18.8,
+            "RL_p": 32.5,
+            "RL_if": 73.2,
+            "RL": 26.7,
+            "RC_p": 27.8,
+            "RC_if": 48.8,
+            "RC": 8.6,
+            "Readability": 18.0
+        },
+        "maintainability": {
+            "MI*": 3.0,
+            "MI_p": 2.0,
+            "MI": 85.3,
+            "MC*": 7.2,
+            "MC_p": 5.4,
+            "MC": 2.2,
+            "Maintainability": 43.8
+        },
+        "efficiency": {
+            "E*": 17.8,
+            "E_p": 11.9,
+            "E_NI_T": 12.0,
+            "E_NI_S": 14.4,
+            "Efficiency": 13.2
+        },
+        "overall": {
+            "RACE Score": 23.6
+        }
+    },
+    "CodeLlama-34B-Instruct": {
+        "correctness": {
+            "HumanEval+": 36.0,
+            "MBPP+": 45.8,
+            "ClassEval": 12.0,
+            "LeetCode": 15.6,
+            "LeetCode_Efficiency": 20.8,
+            "Correctness": 26.0
+        },
+        "readability": {
+            "R*": 36.0,
+            "RN_p": 36.5,
+            "RN_if": 56.8,
+            "RN": 21.9,
+            "RL_p": 35.8,
+            "RL_if": 41.7,
+            "RL": 17.5,
+            "RC_p": 36.3,
+            "RC_if": 36.2,
+            "RC": 10.7,
+            "Readability": 16.7
+        },
+        "maintainability": {
+            "MI*": 12.0,
+            "MI_p": 18.0,
+            "MI": 73.2,
+            "MC*": 15.6,
+            "MC_p": 14.2,
+            "MC": 8.5,
+            "Maintainability": 40.9
+        },
+        "efficiency": {
+            "E*": 20.8,
+            "E_p": 15.8,
+            "E_NI_T": 14.4,
+            "E_NI_S": 13.8,
+            "Efficiency": 14.1
+        },
+        "overall": {
+            "RACE Score": 24.4
+        }
+    },
+    "WizardCoder-15B-V1.0": {
+        "correctness": {
+            "HumanEval+": 38.4,
+            "MBPP+": 46.3,
+            "ClassEval": 22.0,
+            "LeetCode": 11.7,
+            "LeetCode_Efficiency": 21.8,
+            "Correctness": 28.0
+        },
+        "readability": {
+            "R*": 38.4,
+            "RN_p": 38.7,
+            "RN_if": 61.0,
+            "RN": 24.0,
+            "RL_p": 41.9,
+            "RL_if": 64.8,
+            "RL": 27.8,
+            "RC_p": 40.0,
+            "RC_if": 65.0,
+            "RC": 28.1,
+            "Readability": 26.6
+        },
+        "maintainability": {
+            "MI*": 22.0,
+            "MI_p": 21.0,
+            "MI": 80.0,
+            "MC*": 11.7,
+            "MC_p": 11.5,
+            "MC": 7.8,
+            "Maintainability": 43.9
+        },
+        "efficiency": {
+            "E*": 21.8,
+            "E_p": 22.8,
+            "E_NI_T": 21.8,
+            "E_NI_S": 24.2,
+            "Efficiency": 23.0
+        },
+        "overall": {
+            "RACE Score": 30.4
+        }
+    },
+    "WizardCoder-33B-V1.1": {
+        "correctness": {
+            "HumanEval+": 58.5,
+            "MBPP+": 64.6,
+            "ClassEval": 34.0,
+            "LeetCode": 26.1,
+            "LeetCode_Efficiency": 38.6,
+            "Correctness": 44.4
+        },
+        "readability": {
+            "R*": 58.5,
+            "RN_p": 58.8,
+            "RN_if": 68.0,
+            "RN": 40.9,
+            "RL_p": 62.2,
+            "RL_if": 76.0,
+            "RL": 47.6,
+            "RC_p": 58.8,
+            "RC_if": 73.8,
+            "RC": 44.8,
+            "Readability": 44.4
+        },
+        "maintainability": {
+            "MI*": 34.0,
+            "MI_p": 34.0,
+            "MI": 71.2,
+            "MC*": 26.1,
+            "MC_p": 25.0,
+            "MC": 9.3,
+            "Maintainability": 40.2
+        },
+        "efficiency": {
+            "E*": 38.6,
+            "E_p": 35.6,
+            "E_NI_T": 33.9,
+            "E_NI_S": 34.9,
+            "Efficiency": 34.4
+        },
+        "overall": {
+            "RACE Score": 40.8
+        }
+    },
+    "WizardCoder-Python-7B-V1.0": {
+        "correctness": {
+            "HumanEval+": 34.8,
+            "MBPP+": 41.8,
+            "ClassEval": 19.0,
+            "LeetCode": 10.6,
+            "LeetCode_Efficiency": 19.8,
+            "Correctness": 25.2
+        },
+        "readability": {
+            "R*": 34.8,
+            "RN_p": 35.8,
+            "RN_if": 60.2,
+            "RN": 22.8,
+            "RL_p": 34.3,
+            "RL_if": 79.7,
+            "RL": 28.0,
+            "RC_p": 35.4,
+            "RC_if": 31.8,
+            "RC": 10.1,
+            "Readability": 20.3
+        },
+        "maintainability": {
+            "MI*": 19.0,
+            "MI_p": 23.0,
+            "MI": 79.3,
+            "MC*": 10.6,
+            "MC_p": 9.8,
+            "MC": 7.2,
+            "Maintainability": 43.2
+        },
+        "efficiency": {
+            "E*": 19.8,
+            "E_p": 19.8,
+            "E_NI_T": 15.3,
+            "E_NI_S": 16.7,
+            "Efficiency": 16.0
+        },
+        "overall": {
+            "RACE Score": 26.2
+        }
+    },
+    "WizardCoder-Python-13B-V1.0": {
+        "correctness": {
+            "HumanEval+": 36.0,
+            "MBPP+": 42.1,
+            "ClassEval": 20.0,
+            "LeetCode": 12.8,
+            "LeetCode_Efficiency": 20.8,
+            "Correctness": 26.3
+        },
+        "readability": {
+            "R*": 36.0,
+            "RN_p": 38.2,
+            "RN_if": 60.2,
+            "RN": 23.9,
+            "RL_p": 38.4,
+            "RL_if": 83.1,
+            "RL": 33.1,
+            "RC_p": 43.6,
+            "RC_if": 67.7,
+            "RC": 30.5,
+            "Readability": 29.2
+        },
+        "maintainability": {
+            "MI*": 20.0,
+            "MI_p": 21.0,
+            "MI": 78.8,
+            "MC*": 12.8,
+            "MC_p": 12.8,
+            "MC": 8.5,
+            "Maintainability": 43.6
+        },
+        "efficiency": {
+            "E*": 20.8,
+            "E_p": 18.8,
+            "E_NI_T": 16.2,
+            "E_NI_S": 19.8,
+            "Efficiency": 18.0
+        },
+        "overall": {
+            "RACE Score": 29.3
+        }
+    },
+    "DeepSeek-Coder-6.7B-Instruct": {
+        "correctness": {
+            "HumanEval+": 65.2,
+            "MBPP+": 57.1,
+            "ClassEval": 26.0,
+            "LeetCode": 18.9,
+            "LeetCode_Efficiency": 28.7,
+            "Correctness": 39.2
+        },
+        "readability": {
+            "R*": 65.2,
+            "RN_p": 65.5,
+            "RN_if": 69.5,
+            "RN": 45.8,
+            "RL_p": 61.2,
+            "RL_if": 73.6,
+            "RL": 46.6,
+            "RC_p": 61.2,
+            "RC_if": 78.3,
+            "RC": 50.0,
+            "Readability": 47.5
+        },
+        "maintainability": {
+            "MI*": 26.0,
+            "MI_p": 25.0,
+            "MI": 79.3,
+            "MC*": 18.9,
+            "MC_p": 18.7,
+            "MC": 8.2,
+            "Maintainability": 43.8
+        },
+        "efficiency": {
+            "E*": 28.7,
+            "E_p": 30.7,
+            "E_NI_T": 27.1,
+            "E_NI_S": 30.0,
+            "Efficiency": 28.6
+        },
+        "overall": {
+            "RACE Score": 39.8
+        }
+    },
+    "DeepSeek-Coder-7B-Instruct-V1.5": {
+        "correctness": {
+            "HumanEval+": 61.0,
+            "MBPP+": 59.3,
+            "ClassEval": 23.0,
+            "LeetCode": 23.3,
+            "LeetCode_Efficiency": 32.7,
+            "Correctness": 39.9
+        },
+        "readability": {
+            "R*": 61.0,
+            "RN_p": 61.5,
+            "RN_if": 60.5,
+            "RN": 36.8,
+            "RL_p": 62.6,
+            "RL_if": 70.9,
+            "RL": 46.0,
+            "RC_p": 62.8,
+            "RC_if": 83.0,
+            "RC": 53.7,
+            "Readability": 45.5
+        },
+        "maintainability": {
+            "MI*": 23.0,
+            "MI_p": 24.0,
+            "MI": 79.6,
+            "MC*": 23.3,
+            "MC_p": 20.9,
+            "MC": 8.9,
+            "Maintainability": 44.2
+        },
+        "efficiency": {
+            "E*": 32.7,
+            "E_p": 27.7,
+            "E_NI_T": 25.1,
+            "E_NI_S": 26.8,
+            "Efficiency": 26.0
+        },
+        "overall": {
+            "RACE Score": 38.9
+        }
+    },
+    "DeepSeek-Coder-33B-Instruct": {
+        "correctness": {
+            "HumanEval+": 65.9,
+            "MBPP+": 61.9,
+            "ClassEval": 28.0,
+            "LeetCode": 22.2,
+            "LeetCode_Efficiency": 45.5,
+            "Correctness": 44.7
+        },
+        "readability": {
+            "R*": 65.9,
+            "RN_p": 64.6,
+            "RN_if": 90.1,
+            "RN": 59.0,
+            "RL_p": 65.0,
+            "RL_if": 82.7,
+            "RL": 53.5,
+            "RC_p": 66.5,
+            "RC_if": 80.8,
+            "RC": 54.0,
+            "Readability": 55.5
+        },
+        "maintainability": {
+            "MI*": 28.0,
+            "MI_p": 30.0,
+            "MI": 75.7,
+            "MC*": 22.2,
+            "MC_p": 27.6,
+            "MC": 11.3,
+            "Maintainability": 43.5
+        },
+        "efficiency": {
+            "E*": 45.5,
+            "E_p": 38.6,
+            "E_NI_T": 35.3,
+            "E_NI_S": 36.1,
+            "Efficiency": 35.7
+        },
+        "overall": {
+            "RACE Score": 44.8
+        }
+    },
+    "DeepSeek-Coder-V2-Lite-Instruct-16B": {
+        "correctness": {
+            "HumanEval+": 72.0,
+            "MBPP+": 62.7,
+            "ClassEval": 26.0,
+            "LeetCode": 44.4,
+            "LeetCode_Efficiency": 49.5,
+            "Correctness": 50.9
+        },
+        "readability": {
+            "R*": 72.0,
+            "RN_p": 71.2,
+            "RN_if": 57.8,
+            "RN": 41.8,
+            "RL_p": 66.5,
+            "RL_if": 83.7,
+            "RL": 57.7,
+            "RC_p": 67.1,
+            "RC_if": 71.0,
+            "RC": 47.5,
+            "Readability": 49.0
+        },
+        "maintainability": {
+            "MI*": 26.0,
+            "MI_p": 30.0,
+            "MI": 78.2,
+            "MC*": 44.4,
+            "MC_p": 44.3,
+            "MC": 19.8,
+            "Maintainability": 49.0
+        },
+        "efficiency": {
+            "E*": 49.5,
+            "E_p": 55.4,
+            "E_NI_T": 40.2,
+            "E_NI_S": 47.7,
+            "Efficiency": 44.0
+        },
+        "overall": {
+            "RACE Score": 48.2
+        }
+    },
+    "DeepSeek-V2.5-236B": {
+        "correctness": {
+            "HumanEval+": 72.0,
+            "MBPP+": 63.0,
+            "ClassEval": 41.0,
+            "LeetCode": 61.7,
+            "LeetCode_Efficiency": 57.4,
+            "Correctness": 59.0
+        },
+        "readability": {
+            "R*": 72.0,
+            "RN_p": 74.5,
+            "RN_if": 95.8,
+            "RN": 72.2,
+            "RL_p": 72.8,
+            "RL_if": 89.8,
+            "RL": 66.1,
+            "RC_p": 74.1,
+            "RC_if": 87.5,
+            "RC": 65.8,
+            "Readability": 68.0
+        },
+        "maintainability": {
+            "MI*": 41.0,
+            "MI_p": 36.0,
+            "MI": 72.9,
+            "MC*": 61.7,
+            "MC_p": 59.1,
+            "MC": 33.9,
+            "Maintainability": 53.4
+        },
+        "efficiency": {
+            "E*": 57.4,
+            "E_p": 54.5,
+            "E_NI_T": 46.4,
+            "E_NI_S": 49.5,
+            "Efficiency": 48.0
+        },
+        "overall": {
+            "RACE Score": 57.1
+        }
+    },
+    "CodeQwen1.5-7B-Chat": {
+        "correctness": {
+            "HumanEval+": 76.2,
+            "MBPP+": 60.3,
+            "ClassEval": 22.0,
+            "LeetCode": 33.3,
+            "LeetCode_Efficiency": 39.6,
+            "Correctness": 46.3
+        },
+        "readability": {
+            "R*": 76.2,
+            "RN_p": 76.8,
+            "RN_if": 63.2,
+            "RN": 48.8,
+            "RL_p": 73.4,
+            "RL_if": 60.8,
+            "RL": 47.0,
+            "RC_p": 74.7,
+            "RC_if": 80.8,
+            "RC": 62.2,
+            "Readability": 52.7
+        },
+        "maintainability": {
+            "MI*": 22.0,
+            "MI_p": 22.0,
+            "MI": 82.3,
+            "MC*": 33.3,
+            "MC_p": 32.6,
+            "MC": 13.0,
+            "Maintainability": 47.6
+        },
+        "efficiency": {
+            "E*": 39.6,
+            "E_p": 38.6,
+            "E_NI_T": 30.7,
+            "E_NI_S": 37.7,
+            "Efficiency": 34.2
+        },
+        "overall": {
+            "RACE Score": 45.2
+        }
+    },
+    "Qwen2.5-Coder-7B-Instruct": {
+        "correctness": {
+            "HumanEval+": 78.0,
+            "MBPP+": 64.8,
+            "ClassEval": 29.0,
+            "LeetCode": 54.4,
+            "LeetCode_Efficiency": 59.4,
+            "Correctness": 57.1
+        },
+        "readability": {
+            "R*": 78.0,
+            "RN_p": 81.4,
+            "RN_if": 64.9,
+            "RN": 53.0,
+            "RL_p": 77.4,
+            "RL_if": 65.4,
+            "RL": 51.8,
+            "RC_p": 75.3,
+            "RC_if": 80.2,
+            "RC": 61.3,
+            "Readability": 55.4
+        },
+        "maintainability": {
+            "MI*": 29.0,
+            "MI_p": 27.0,
+            "MI": 78.6,
+            "MC*": 54.4,
+            "MC_p": 50.4,
+            "MC": 17.6,
+            "Maintainability": 48.1
+        },
+        "efficiency": {
+            "E*": 59.4,
+            "E_p": 48.5,
+            "E_NI_T": 37.0,
+            "E_NI_S": 33.7,
+            "Efficiency": 35.4
+        },
+        "overall": {
+            "RACE Score": 49.0
+        }
+    },
+    "Qwen2-72B-Instruct": {
+        "correctness": {
+            "HumanEval+": 73.2,
+            "MBPP+": 64.0,
+            "ClassEval": 40.0,
+            "LeetCode": 42.8,
+            "LeetCode_Efficiency": 45.5,
+            "Correctness": 53.1
+        },
+        "readability": {
+            "R*": 73.2,
+            "RN_p": 76.8,
+            "RN_if": 95.9,
+            "RN": 73.6,
+            "RL_p": 74.8,
+            "RL_if": 64.4,
+            "RL": 47.6,
+            "RC_p": 71.1,
+            "RC_if": 82.9,
+            "RC": 60.1,
+            "Readability": 60.4
+        },
+        "maintainability": {
+            "MI*": 40.0,
+            "MI_p": 33.0,
+            "MI": 79.4,
+            "MC*": 42.8,
+            "MC_p": 37.2,
+            "MC": 22.8,
+            "Maintainability": 51.1
+        },
+        "efficiency": {
+            "E*": 45.5,
+            "E_p": 40.6,
+            "E_NI_T": 32.3,
+            "E_NI_S": 39.4,
+            "Efficiency": 35.8
+        },
+        "overall": {
+            "RACE Score": 50.1
+        }
+    },
+    "Qwen2.5-72B-Instruct": {
+        "correctness": {
+            "HumanEval+": 79.3,
+            "MBPP+": 65.9,
+            "ClassEval": 34.0,
+            "LeetCode": 72.8,
+            "LeetCode_Efficiency": 68.3,
+            "Correctness": 64.1
+        },
+        "readability": {
+            "R*": 79.3,
+            "RN_p": 79.6,
+            "RN_if": 97.0,
+            "RN": 77.2,
+            "RL_p": 77.4,
+            "RL_if": 92.1,
+            "RL": 72.1,
+            "RC_p": 80.5,
+            "RC_if": 89.3,
+            "RC": 72.8,
+            "Readability": 74.0
+        },
+        "maintainability": {
+            "MI*": 34.0,
+            "MI_p": 32.0,
+            "MI": 76.7,
+            "MC*": 72.8,
+            "MC_p": 71.8,
+            "MC": 40.4,
+            "Maintainability": 58.5
+        },
+        "efficiency": {
+            "E*": 68.3,
+            "E_p": 69.3,
+            "E_NI_T": 47.9,
+            "E_NI_S": 49.4,
+            "Efficiency": 48.6
+        },
+        "overall": {
+            "RACE Score": 61.3
+        }
+    },
+    "Mixtral-8x22B": {
+        "correctness": {
+            "HumanEval+": 61.0,
+            "MBPP+": 60.6,
+            "ClassEval": 33.0,
+            "LeetCode": 20.0,
+            "LeetCode_Efficiency": 35.6,
+            "Correctness": 42.0
+        },
+        "readability": {
+            "R*": 61.0,
+            "RN_p": 64.4,
+            "RN_if": 87.0,
+            "RN": 56.2,
+            "RL_p": 62.4,
+            "RL_if": 73.2,
+            "RL": 47.8,
+            "RC_p": 64.9,
+            "RC_if": 84.8,
+            "RC": 56.1,
+            "Readability": 53.4
+        },
+        "maintainability": {
+            "MI*": 33.0,
+            "MI_p": 30.0,
+            "MI": 79.6,
+            "MC*": 20.0,
+            "MC_p": 22.6,
+            "MC": 9.1,
+            "Maintainability": 44.3
+        },
+        "efficiency": {
+            "E*": 35.6,
+            "E_p": 31.7,
+            "E_NI_T": 24.7,
+            "E_NI_S": 33.2,
+            "Efficiency": 29.0
+        },
+        "overall": {
+            "RACE Score": 42.2
+        }
+    },
+    "Llama3-8B-Instruct": {
+        "correctness": {
+            "HumanEval+": 49.4,
+            "MBPP+": 50.5,
+            "ClassEval": 24.0,
+            "LeetCode": 20.6,
+            "LeetCode_Efficiency": 33.7,
+            "Correctness": 35.6
+        },
+        "readability": {
+            "R*": 49.4,
+            "RN_p": 45.5,
+            "RN_if": 85.5,
+            "RN": 44.3,
+            "RL_p": 28.7,
+            "RL_if": 45.9,
+            "RL": 23.6,
+            "RC_p": 48.1,
+            "RC_if": 79.9,
+            "RC": 40.0,
+            "Readability": 36.0
+        },
+        "maintainability": {
+            "MI*": 24.0,
+            "MI_p": 19.0,
+            "MI": 79.8,
+            "MC*": 20.6,
+            "MC_p": 19.1,
+            "MC": 8.1,
+            "Maintainability": 43.9
+        },
+        "efficiency": {
+            "E*": 33.7,
+            "E_p": 31.7,
+            "E_NI_T": 23.5,
+            "E_NI_S": 26.9,
+            "Efficiency": 25.2
+        },
+        "overall": {
+            "RACE Score": 35.2
+        }
+    },
+    "Llama3-70B-Instruct": {
+        "correctness": {
+            "HumanEval+": 65.2,
+            "MBPP+": 58.5,
+            "ClassEval": 28.0,
+            "LeetCode": 31.7,
+            "LeetCode_Efficiency": 38.6,
+            "Correctness": 44.4
+        },
+        "readability": {
+            "R*": 65.2,
+            "RN_p": 67.8,
+            "RN_if": 96.7,
+            "RN": 66.0,
+            "RL_p": 56.1,
+            "RL_if": 75.8,
+            "RL": 47.8,
+            "RC_p": 64.6,
+            "RC_if": 84.8,
+            "RC": 54.2,
+            "Readability": 56.0
+        },
+        "maintainability": {
+            "MI*": 28.0,
+            "MI_p": 29.0,
+            "MI": 79.8,
+            "MC*": 31.7,
+            "MC_p": 31.7,
+            "MC": 25.2,
+            "Maintainability": 52.5
+        },
+        "efficiency": {
+            "E*": 38.6,
+            "E_p": 38.6,
+            "E_NI_T": 29.2,
+            "E_NI_S": 42.8,
+            "Efficiency": 36.0
+        },
+        "overall": {
+            "RACE Score": 47.2
+        }
+    },
+    "StarCoder2-15B": {
+        "correctness": {
+            "HumanEval+": 36.0,
+            "MBPP+": 39.9,
+            "ClassEval": 24.0,
+            "LeetCode": 16.1,
+            "LeetCode_Efficiency": 26.7,
+            "Correctness": 28.5
+        },
+        "readability": {
+            "R*": 36.0,
+            "RN_p": 39.5,
+            "RN_if": 64.3,
+            "RN": 25.8,
+            "RL_p": 40.2,
+            "RL_if": 66.1,
+            "RL": 27.9,
+            "RC_p": 35.4,
+            "RC_if": 59.4,
+            "RC": 22.0,
+            "Readability": 25.2
+        },
+        "maintainability": {
+            "MI*": 24.0,
+            "MI_p": 25.0,
+            "MI": 74.2,
+            "MC*": 16.1,
+            "MC_p": 13.7,
+            "MC": 6.1,
+            "Maintainability": 40.1
+        },
+        "efficiency": {
+            "E*": 26.7,
+            "E_p": 25.7,
+            "E_NI_T": 20.6,
+            "E_NI_S": 25.1,
+            "Efficiency": 22.9
+        },
+        "overall": {
+            "RACE Score": 29.2
+        }
+    }
+}

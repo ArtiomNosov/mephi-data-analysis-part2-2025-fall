@@ -1,0 +1,130 @@
+[
+    {
+        "task_type": "mmlu",
+        "dstype": "mc",
+        "group": "Banking",
+        "subtext": "You are an AI that selects the most accurate answer in Azerbaijani based on a given question. You will be provided with a question in Azerbaijani and multiple options in Azerbaijani. Choose the single letter (A, B, C, D) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Banking_Exam_MCQ",
+        "name": "Banking_Exam_MCQ"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_azerbaycan_dili",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on grammatical concepts and linguistics. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Azerbaijani_Lang_MC",
+        "name": "Azerbaijani_Lang_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_edebiyyat",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on literary and historical facts. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Literature_MC",
+        "name": "Azerbaijani_Lit_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_biologiya",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on biology. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Biology_MC",
+        "name": "Biology_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_cografiya",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on geographical and environmental knowledge. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Geography_MC",
+        "name": "Geography_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_mentiq",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on logical reasoning and problem-solving. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Logic_MC",
+        "name": "Logic_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_tarix",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on historical and cultural facts. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/History_MC",
+        "name": "History_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_informatika",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on technology and computer science. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Informatics_MC",
+        "name": "Informatics_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_fizika",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on physics concepts. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Physics_MC",
+        "name": "Physics_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_kimya",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on chemistry and scientific concepts. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Chemistry_MC",
+        "name": "Chemistry_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "kmc_azerbaycan_tarixi",
+        "group": "MMLU",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on historical facts. Your task is to select the correct option from the given question and answer choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Azerbaijani_Hist_MC",
+        "name": "Azerbaijani_Hist_MC"
+    },
+    {
+        "task_type": "mmlu",
+        "dstype": "tc",
+        "group": "Banking",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani. Your task is to select the correct option from the given question and answer choices. You are given a statement along with multiple options that represent different topics. Choose the option that best categorizes the statement based on its topic. Choose the single letter (A, B, C, D, E, F, G, H, I, J) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/Banking_Call_Classification_MC",
+        "name": "Banking_Call_Classification_MC"
+    },
+    {
+        "task_type": "arc",
+        "dstype": "arc",
+        "group": "ARC",
+        "subtext": "You are an AI designed to answer questions in Azerbaijani based on reasoning and knowledge. Your task is to select the correct option from the given question and answer choices. You are given a question along with multiple options. Choose the correct option. Choose the single letter (A, B, C, D) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/ARC",
+        "name": "ARC"
+    },
+    {
+        "task_type": "gsm8k",
+        "dstype": "mmc",
+        "group": "GSM8K",
+        "subtext": "You are an AI designed to solve mathematical word problems in Azerbaijani. Your task is to analyze the given question and select the correct option from the provided choices. Choose the single letter (A, B, C, D, E) that best answers the question. Respond with only the letter of the chosen answer, without any additional text.",
+        "data": "LLM-Beetle/GSM8K",
+        "name": "GSM8K"
+    },
+    {
+        "task_type": "qa",
+        "dstype": "qa",
+        "group": "Banking",
+        "subtext": "",
+        "data": "LLM-Beetle/Banking_QA",
+        "name": "Banking_QA"
+    },
+    {
+        "task_type": "rag",
+        "dstype": "cqa",
+        "group": "CQA",
+        "subtext": "",
+        "data": "LLM-Beetle/Wiki_CQA",
+        "name": "Wiki_CQA"
+    }
+]

@@ -1,0 +1,21 @@
+{
+  "model": "google/gemini-2.5-flash",
+  "tool_config": "enigma_only",
+  "timestamp": "20251126_212400",
+  "pass_rate": 0.0,
+  "mean_overall": 1.0,
+  "mean_accuracy": 1.0,
+  "mean_completeness": 1.0,
+  "mean_tool_efficiency": 1.0,
+  "mean_reasoning": 1.0,
+  "pass_rate_by_difficulty": {
+    "1": 0.0,
+    "2": 0.0,
+    "3": 0.0,
+    "4": 0.0
+  },
+  "scores_by_category": {
+    "entity_resolution": 1.0
+  },
+  "num_tasks": 1
+}

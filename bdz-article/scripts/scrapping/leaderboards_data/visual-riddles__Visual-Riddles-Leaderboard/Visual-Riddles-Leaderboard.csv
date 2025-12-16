@@ -1,0 +1,17 @@
+﻿Model,Open Ended VQA: % Human Rating,Multiple Choice VQA: % Accuracy,Hints-Multiple Choice VQA: % Accuracy ,Attributions-Multiple Choice VQA: % Accuracy ,Refernce Based-Automatic Evaluation: Accuracy of Judge Prediction Compared to Human Ratings,Refernce Free-Automatic Evaluation: Accuracy of Judge Prediction Compared to Human Ratings,Automatic Evaluation: % Auto-Rater Ratings,Hints-Automatic Evaluation: % Auto-Rater Ratings,Attributions-Automatic Evaluation: % Auto-Rater Ratings
+Humans,82,*,*,*,*,*,78,*,*
+Gemini Pro 1.5,40,38,66,72,87,52,53,62,29
+Gemini Pro Vision,30,41,62,*,75,38,34,47,
+GPT4,34,45,69,82,86,51,38,61,25
+LlaVA-1.6-34B,15,24,30,*,76,43,21,16,*
+LlaVA-1.5-7B,13,17,29,*,70,35,19,30,*
+InstructBlip,13,*,*,*,*,*,20,28,*
+Gemini Pro 1.5 Caption _ Gemini Pro 1.5,23,*,*,*,*,*,*,*,*
+Human (Oracle) Caption _ Gemini Pro 1.5,50,*,*,*,*,*,*,*,*
+Claude 3.5 Sonnet,*,46,45,*,*,*,39,*,*
+GPT4o,*,55,83,*,*,*,50,*,*
+Qwen-VL-Max,*,35,53,*,*,*,26,*,*
+Molmo-7B,*,34,42,*,*,*,36,*,*
+OpenAI o1,*,58,82,*,*,*,58,*,*
+Gemini 2.0 thinking,*,60,84,*,*,*,51,*,*
+Gemini 2.0,*,46,72,*,*,*,55,*,*

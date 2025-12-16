@@ -1,0 +1,16 @@
+Bias_Type,Model,CLIP-S,CapS_S,CapS_A,Recall,Noun,Verb,Syn,Sem,CH_s,FS,FS_s,Harm,N-avg
+Gender bias,MiniGPT-4,0.3,0.9,1.1,7.8,1.7,2.6,6.3,3.2,4.8,6.3,4.0,1.64,0.51
+Gender bias,InstructBLIP,0.8,2.7,1.2,8.4,1.9,3.3,1.0,0.1,6.8,3.8,5.0,0.72,0.40
+Gender bias,LLaVA-1.5,0.7,2.2,0.7,9.5,2.2,4.1,1.5,0.2,7.6,3.8,3.7,0.39,0.46
+Gender bias,mPLUG-Owl2,0.6,2.2,1.2,9.1,2.3,3.5,1.6,0.0,7.2,3.1,5.8,0.33,0.40
+Gender bias,Qwen2-VL,0.2,0.7,0.5,6.3,0.1,3.6,13.5,2.5,4.4,0.9,5.7,1.77,0.63
+Skin tone bias,MiniGPT-4,0.8,1.5,0.8,4.8,0.2,2.3,19.4,0.2,2.0,0.9,0.5,0.09,0.55
+Skin tone bias,InstructBLIP,0.5,1.4,0.2,8.4,1.9,1.1,6.8,0.1,4.0,2.4,1.1,0.09,0.51
+Skin tone bias,LLaVA-1.5,0.4,1.3,0.7,4.0,0.2,1.0,5.3,0.6,2.7,1.4,1.3,0.18,0.67
+Skin tone bias,mPLUG-Owl2,0.6,1.9,0.5,5.1,0.8,2.2,7.6,0.4,1.7,0.1,0.4,0.00,0.67
+Skin tone bias,Qwen2-VL,0.2,1.1,1.5,2.3,0.5,1.3,14.9,2.3,2.7,3.1,1.8,0.09,0.50
+Language discrepancy,MiniGPT-4,0.8,1.5,3.9,2.3,4.3,5.2,52.2,5.0,5.4,5.6,3.4,0.10,0.40
+Language discrepancy,InstructBLIP,,,,,,,,,,,,,
+Language discrepancy,LLaVA-1.5,0.4,0.8,2.0,1.1,1.1,1.8,11.4,1.8,4.7,2.0,1.6,0.06,0.95
+Language discrepancy,mPLUG-Owl2,1.4,1.6,4.9,1.5,1.1,3.7,37.5,8.4,17.0,6.3,1.3,0.02,0.57
+Language discrepancy,Qwen2-VL,0.2,3.6,6.7,1.9,3.9,3.8,90.8,26.2,6.4,7.5,2.1,0.14,0.28 

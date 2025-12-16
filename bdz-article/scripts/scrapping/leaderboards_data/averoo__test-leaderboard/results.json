@@ -1,0 +1,740 @@
+[
+  {
+    "model_name": "baseline 2 (open-mistral-nemo)",
+    "timestamp": "2025-01-15T11:18:54.276115",
+    "metrics": {
+      "retrieval": {
+        "hit_rate": 0.6,
+        "mrr": 0.5
+      },
+      "generation": {
+        "rouge1": 0.5666666666666667,
+        "rouge2": 0.0,
+        "rougeL": 0.5666666666666667
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 3
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "baseline (open-mistral-nemo)",
+    "timestamp": "2025-01-15T11:23:48.197770",
+    "metrics": {
+      "retrieval": {
+        "hit_rate": 0.6666666666666666,
+        "mrr": 0.5
+      },
+      "generation": {
+        "rouge1": 0.6666666666666666,
+        "rouge2": 0.0,
+        "rougeL": 0.6666666666666666
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 3
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "Sber baseline (open-mistral-nemo)",
+    "timestamp": "2025-01-17T10:12:53.615234",
+    "metrics": {
+      "retrieval": {
+        "hit_rate": 0.6666666666666666,
+        "mrr": 0.5
+      },
+      "generation": {
+        "rouge1": 0.6666666666666666,
+        "rougeL": 0.6666666666666666
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 3
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "Sber baseline (open-mistral-nemo)",
+    "timestamp": "2025-01-17T10:14:08.324614",
+    "metrics": {
+      "retrieval": {
+        "hit_rate": 0.6666666666666666,
+        "mrr": 0.5
+      },
+      "generation": {
+        "rouge1": 0.6666666666666666,
+        "rougeL": 0.6666666666666666
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 3
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "llama 3.3 170B",
+    "timestamp": "2025/01/21 15:51",
+    "metrics": {
+      "individual_results": {
+        "10": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "11": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0.0
+          }
+        },
+        "12": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "13": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 0.5
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "14": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        }
+      },
+      "average_metrics": {
+        "retrieval": {
+          "hit_rate": 0.6,
+          "mrr": 0.5
+        },
+        "generation": {
+          "rouge1": 0.6,
+          "rougeL": 0.6
+        }
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 5,
+        "chunk_size": 500,
+        "chunk_overlap": 100
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "llama 3.3 170B",
+    "timestamp": "2025/01/21 15:55",
+    "metrics": {
+      "individual_results": {
+        "10": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "11": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0.0
+          }
+        },
+        "12": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "13": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 0.5
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "14": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        }
+      },
+      "average_metrics": {
+        "retrieval": {
+          "hit_rate": 0.6,
+          "mrr": 0.5
+        },
+        "generation": {
+          "rouge1": 0.6,
+          "rougeL": 0.6
+        }
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 5,
+        "chunk_size": 500,
+        "chunk_overlap": 100
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "llama 3.3 170B",
+    "timestamp": "2025/01/21 16:01",
+    "metrics": {
+      "individual_results": {
+        "10": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "11": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0.0
+          }
+        },
+        "12": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "13": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 0.5
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "14": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        }
+      },
+      "average_metrics": {
+        "retrieval": {
+          "hit_rate": 0.4,
+          "mrr": 0.3
+        },
+        "generation": {
+          "rouge1": 0.4,
+          "rougeL": 0.4
+        }
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 5,
+        "chunk_size": 500,
+        "chunk_overlap": 100
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "llama 3.3 170B",
+    "timestamp": "2025/01/21 17:04",
+    "metrics": {
+      "individual_results": {
+        "10": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "11": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0.0
+          }
+        },
+        "12": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "13": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 0.5
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "14": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        }
+      },
+      "average_metrics": {
+        "retrieval": {
+          "hit_rate": 0.4,
+          "mrr": 0.3
+        },
+        "generation": {
+          "rouge1": 0.4,
+          "rougeL": 0.4
+        }
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 5,
+        "chunk_size": 500,
+        "chunk_overlap": 100
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "llama 3.3 170B",
+    "timestamp": "2025/01/21 17:34",
+    "metrics": {
+      "individual_results": {
+        "10": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "11": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0.0
+          }
+        },
+        "12": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "13": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 0.5
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "14": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        }
+      },
+      "average_metrics": {
+        "retrieval": {
+          "hit_rate": 0.4,
+          "mrr": 0.3
+        },
+        "generation": {
+          "rouge1": 0.4,
+          "rougeL": 0.4
+        }
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 5,
+        "chunk_size": 500,
+        "chunk_overlap": 100
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "llama 3.3 170B",
+    "timestamp": "2025/01/21 15:15",
+    "metrics": {
+      "individual_results": {
+        "10": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "11": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0.0
+          }
+        },
+        "12": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "13": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 0.5
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "14": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        }
+      },
+      "average_metrics": {
+        "retrieval": {
+          "hit_rate": 0.4,
+          "mrr": 0.3
+        },
+        "generation": {
+          "rouge1": 0.4,
+          "rougeL": 0.4
+        }
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 5,
+        "chunk_size": 500,
+        "chunk_overlap": 100
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "llama 3.3 170B",
+    "timestamp": "2025/01/21 15:16",
+    "metrics": {
+      "individual_results": {
+        "10": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "11": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0.0
+          }
+        },
+        "12": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "13": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 0.5
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "14": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        }
+      },
+      "average_metrics": {
+        "retrieval": {
+          "hit_rate": 0.4,
+          "mrr": 0.3
+        },
+        "generation": {
+          "rouge1": 0.4,
+          "rougeL": 0.4
+        }
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 5,
+        "chunk_size": 500,
+        "chunk_overlap": 100
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  },
+  {
+    "model_name": "llama 3.3 170B",
+    "timestamp": "2025/01/21 15:27",
+    "metrics": {
+      "individual_results": {
+        "10": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "11": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0.0
+          }
+        },
+        "12": {
+          "retrieval": {
+            "hit_rate": 0.0,
+            "mrr": 0
+          },
+          "generation": {
+            "rouge1": 0.0,
+            "rougeL": 0
+          }
+        },
+        "13": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 0.5
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        },
+        "14": {
+          "retrieval": {
+            "hit_rate": 1.0,
+            "mrr": 1.0
+          },
+          "generation": {
+            "rouge1": 1.0,
+            "rougeL": 1.0
+          }
+        }
+      },
+      "average_metrics": {
+        "retrieval": {
+          "hit_rate": 0.4,
+          "mrr": 0.3
+        },
+        "generation": {
+          "rouge1": 0.4,
+          "rougeL": 0.4
+        }
+      }
+    },
+    "config": {
+      "embedding_model": "sentence-transformers/distiluse-base-multilingual-cased",
+      "retriever_type": "mmr",
+      "retrieval_config": {
+        "top_k": 5,
+        "chunk_size": 500,
+        "chunk_overlap": 100
+      }
+    },
+    "metadata": {
+      "dataset": "rag-news-test"
+    }
+  }
+]

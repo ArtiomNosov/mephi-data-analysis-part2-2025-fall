@@ -1,0 +1,424 @@
+{
+  "items": {
+    "1.11.0": {
+      "d6ccf3ae4d874a1e8fd256e07a9189d7": {
+        "model_name": "Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-03T14:00:00",
+        "config": {
+          "embedding_model": "e5-mistral-7b-instruct_2",
+          "retriever_type": "mmr",
+          "retrieval_config": {
+            "top_k": 20,
+            "chunk_size": 500,
+            "chunk_overlap": 100
+          }
+        },
+        "metrics": {
+          "simple": {
+            "retrieval": {
+              "hit_rate": 0.94,
+              "mrr": 0.8339814814814815,
+              "precision": 0.16666666666666666
+            },
+            "generation": {
+              "rouge1": 0.12809115762301465,
+              "rougeL": 0.12720226873412577
+            }
+          },
+          "cond": {
+            "retrieval": {
+              "hit_rate": 0.9733333333333334,
+              "mrr": 0.8786931216931217,
+              "precision": 0.17733333333333332
+            },
+            "generation": {
+              "rouge1": 0.22438283005922466,
+              "rougeL": 0.22407979975619435
+            }
+          },
+          "set": {
+            "retrieval": {
+              "hit_rate": 0.9133333333333333,
+              "mrr": 0.8075925925925925,
+              "precision": 0.164
+            },
+            "generation": {
+              "rouge1": 0.11787408709850448,
+              "rougeL": 0.09943376362370457
+            }
+          },
+          "mh": {
+            "retrieval": {
+              "hit_rate": 0.9533333333333334,
+              "mrr": 0.8364444444444444,
+              "precision": 0.156
+            },
+            "generation": {
+              "rouge1": 0.17552305949148053,
+              "rougeL": 0.17552305949148053
+            }
+          },
+          "overall": {
+            "retrieval": {
+              "hit_rate": 0.945,
+              "mrr": 0.8391779100529101,
+              "precision": 0.16599999999999998
+            },
+            "generation": {
+              "rouge1": 0.16146778356805608,
+              "rougeL": 0.15655972290137632
+            }
+          },
+          "judge": {
+            "judge_completeness_score": 0.5292153589315526,
+            "judge_cons_w_real_world_score": 0.895,
+            "judge_correctness_score": 1.255,
+            "judge_factual_accuracy_score": 0.71,
+            "judge_fluff_score": 0.9266666666666666,
+            "judge_pres_details_score": 0.6583333333333333,
+            "judge_total_score": 0.8290358931552587
+          }
+        },
+        "metadata": {
+          "n_questions": 600,
+          "submit_timestamp": ""
+        }
+      },
+      "3ffd4582172e4dd08a6df3a2bc7b0a70": {
+        "model_name": "RuadaptQwen2.5-32B-Instruct",
+        "timestamp": "2025-07-03T14:00:09",
+        "config": {
+          "embedding_model": "FRIDA_2",
+          "retriever_type": "mmr",
+          "retrieval_config":  {
+            "top_k": 20,
+            "chunk_size": 500,
+            "chunk_overlap": 100
+          }
+        },
+        "metrics": {
+          "simple": {
+            "retrieval": {
+              "hit_rate": 0.9,
+              "mrr": 0.835867724867725,
+              "precision": 0.128
+            },
+            "generation": {
+              "rouge1": 0.1989593421164771,
+              "rougeL": 0.1989593421164771
+            }
+          },
+          "cond": {
+            "retrieval": {
+              "hit_rate": 0.9066666666666666,
+              "mrr": 0.8335555555555555,
+              "precision": 0.14066666666666666
+            },
+            "generation": {
+              "rouge1": 0.30769111937570354,
+              "rougeL": 0.30769111937570354
+            }
+          },
+          "set": {
+            "retrieval": {
+              "hit_rate": 0.9,
+              "mrr": 0.7952301587301587,
+              "precision": 0.1293333333333333
+            },
+            "generation": {
+              "rouge1": 0.13627692051127355,
+              "rougeL": 0.11183016718646731
+            }
+          },
+          "mh": {
+            "retrieval": {
+              "hit_rate": 0.9466666666666667,
+              "mrr": 0.8368492063492063,
+              "precision": 0.1333333333333333
+            },
+            "generation": {
+              "rouge1": 0.3335992099545257,
+              "rougeL": 0.3335992099545257
+            }
+          },
+          "overall": {
+            "retrieval": {
+              "hit_rate": 0.9133333333333333,
+              "mrr": 0.8253756613756614,
+              "precision": 0.13283333333333333
+            },
+            "generation": {
+              "rouge1": 0.244131647989495,
+              "rougeL": 0.2380199596582934
+            }
+          },
+          "judge": {
+            "judge_completeness_score": 0.7183333333333334,
+            "judge_cons_w_real_world_score": 0.9916666666666667,
+            "judge_correctness_score": 1.32,
+            "judge_factual_accuracy_score": 0.8133333333333334,
+            "judge_fluff_score": 1.18,
+            "judge_pres_details_score": 0.855,
+            "judge_total_score": 0.9797222222222223
+          }
+        },
+        "metadata": {
+          "n_questions": 600,
+          "submit_timestamp": ""
+        }
+      },
+      "af59b6402c5f4354805df6751c9e6621": {
+        "model_name": "RuadaptQwen2.5-32B-Instruct",
+        "timestamp": "2025-07-20T14:19:49",
+        "config": {
+          "embedding_model": "FRIDA_0",
+          "retriever_type": "mmr",
+          "retrieval_config": {
+            "top_k": 5,
+            "chunk_size": 500,
+            "chunk_overlap": 100
+          }
+        },
+        "metrics": {
+          "simple": {
+            "retrieval": {
+              "hit_rate": 0.8,
+              "mrr": 0.7546666666666666,
+              "precision": 0.16399999999999995
+            },
+            "generation": {
+              "rouge1": 0.34263166427902236,
+              "rougeL": 0.3415649976123557
+            }
+          },
+          "cond": {
+            "retrieval": {
+              "hit_rate": 0.8866666666666667,
+              "mrr": 0.844111111111111,
+              "precision": 0.18399999999999997
+            },
+            "generation": {
+              "rouge1": 0.588568088354604,
+              "rougeL": 0.588568088354604
+            }
+          },
+          "set": {
+            "retrieval": {
+              "hit_rate": 0.7666666666666667,
+              "mrr": 0.7155555555555555,
+              "precision": 0.15988888888888886
+            },
+            "generation": {
+              "rouge1": 0.201784949062967,
+              "rougeL": 0.2015000487780667
+            }
+          },
+          "mh": {
+            "retrieval": {
+              "hit_rate": 0.8933333333333333,
+              "mrr": 0.8258888888888889,
+              "precision": 0.18355555555555553
+            },
+            "generation": {
+              "rouge1": 0.3723811038951089,
+              "rougeL": 0.3723811038951089
+            }
+          },
+          "overall": {
+            "retrieval": {
+              "hit_rate": 0.8366666666666667,
+              "mrr": 0.7850555555555555,
+              "precision": 0.1728611111111111
+            },
+            "generation": {
+              "rouge1": 0.3763414513979256,
+              "rougeL": 0.37600355966003385
+            }
+          },
+          "judge": {
+            "judge_completeness_score": 0.0033333333333333335,
+            "judge_cons_w_real_world_score": 0.3416666666666667,
+            "judge_correctness_score": 0.8547579298831386,
+            "judge_factual_accuracy_score": 0.18333333333333332,
+            "judge_fluff_score": 1.29,
+            "judge_pres_details_score": 0.011666666666666667,
+            "judge_total_score": 0.44745965498052315
+          }
+        },
+        "metadata": {
+          "n_questions": 600,
+          "submit_timestamp": ""
+        }
+      },
+      "9449f344fe664e8db1f755f1b27f7714": {
+        "model_name": "RuadaptQwen2.5-32B-Instruct",
+        "timestamp": "2025-07-20T14:22:44",
+        "config": {
+          "embedding_model": "multilingual-e5-large-instruct_0",
+          "retriever_type": "mmr",
+          "retrieval_config": {
+            "top_k": 2,
+            "chunk_size": 500,
+            "chunk_overlap": 100
+          }
+        },
+        "metrics": {
+          "simple": {
+            "retrieval": {
+              "hit_rate": 0.8533333333333334,
+              "mrr": 0.83,
+              "precision": 0.43
+            },
+            "generation": {
+              "rouge1": 0.4218555867119719,
+              "rougeL": 0.4218555867119719
+            }
+          },
+          "cond": {
+            "retrieval": {
+              "hit_rate": 0.9,
+              "mrr": 0.8766666666666667,
+              "precision": 0.45666666666666667
+            },
+            "generation": {
+              "rouge1": 0.7324504198891844,
+              "rougeL": 0.7297837532225178
+            }
+          },
+          "set": {
+            "retrieval": {
+              "hit_rate": 0.6933333333333334,
+              "mrr": 0.6733333333333333,
+              "precision": 0.3566666666666667
+            },
+            "generation": {
+              "rouge1": 0.27998074031346254,
+              "rougeL": 0.27998074031346254
+            }
+          },
+          "mh": {
+            "retrieval": {
+              "hit_rate": 0.82,
+              "mrr": 0.81,
+              "precision": 0.42333333333333334
+            },
+            "generation": {
+              "rouge1": 0.4475666714238857,
+              "rougeL": 0.4475666714238857
+            }
+          },
+          "overall": {
+            "retrieval": {
+              "hit_rate": 0.8166666666666667,
+              "mrr": 0.7975,
+              "precision": 0.4166666666666667
+            },
+            "generation": {
+              "rouge1": 0.4704633545846262,
+              "rougeL": 0.4697966879179594
+            }
+          },
+          "judge": {
+            "judge_completeness_score": 0.0033333333333333335,
+            "judge_cons_w_real_world_score": 0.3416666666666667,
+            "judge_correctness_score": 0.8547579298831386,
+            "judge_factual_accuracy_score": 0.18333333333333332,
+            "judge_fluff_score": 1.29,
+            "judge_pres_details_score": 0.011666666666666667,
+            "judge_total_score": 0.44745965498052315
+          }
+        },
+        "metadata": {
+          "n_questions": 600,
+          "submit_timestamp": ""
+        }
+      },
+      "bf559defa13140f088d974ea62675688": {
+        "model_name": "RuadaptQwen2.5-32B-Instruct",
+        "timestamp": "2025-07-20T14:22:47",
+        "config": {
+          "embedding_model": "multilingual-e5-large-instruct_1",
+          "retriever_type": "mmr",
+          "retrieval_config": {
+            "top_k": 5,
+            "chunk_size": 500,
+            "chunk_overlap": 100
+          }
+        },
+        "metrics": {
+          "simple": {
+            "retrieval": {
+              "hit_rate": 0.88,
+              "mrr": 0.8405555555555556,
+              "precision": 0.1834444444444444
+            },
+            "generation": {
+              "rouge1": 0.2983866101662599,
+              "rougeL": 0.2983866101662599
+            }
+          },
+          "cond": {
+            "retrieval": {
+              "hit_rate": 0.9533333333333334,
+              "mrr": 0.8906666666666666,
+              "precision": 0.19899999999999995
+            },
+            "generation": {
+              "rouge1": 0.6480719582985028,
+              "rougeL": 0.6454052916318361
+            }
+          },
+          "set": {
+            "retrieval": {
+              "hit_rate": 0.8333333333333334,
+              "mrr": 0.7273333333333333,
+              "precision": 0.17911111111111105
+            },
+            "generation": {
+              "rouge1": 0.2668045422555955,
+              "rougeL": 0.2668045422555955
+            }
+          },
+          "mh": {
+            "retrieval": {
+              "hit_rate": 0.9066666666666666,
+              "mrr": 0.8437777777777777,
+              "precision": 0.19777777777777777
+            },
+            "generation": {
+              "rouge1": 0.3450429133503272,
+              "rougeL": 0.3450429133503272
+            }
+          },
+          "overall": {
+            "retrieval": {
+              "hit_rate": 0.8933333333333333,
+              "mrr": 0.8255833333333332,
+              "precision": 0.18983333333333335
+            },
+            "generation": {
+              "rouge1": 0.3895765060176714,
+              "rougeL": 0.38890983935100476
+            }
+          },
+          "judge": {
+            "judge_completeness_score": 0.0033333333333333335,
+            "judge_cons_w_real_world_score": 0.3416666666666667,
+            "judge_correctness_score": 0.8547579298831386,
+            "judge_factual_accuracy_score": 0.18333333333333332,
+            "judge_fluff_score": 1.29,
+            "judge_pres_details_score": 0.011666666666666667,
+            "judge_total_score": 0.44745965498052315
+          }
+        },
+        "metadata": {
+          "n_questions": 600,
+          "submit_timestamp": ""
+        }
+      }
+    }
+  },
+  "last_version": "1.34.1",
+  "n_questions": 600,
+  "date_title": "03 \u0438\u044e\u043b\u044f 2025"
+}

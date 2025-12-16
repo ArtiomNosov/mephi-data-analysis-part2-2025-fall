@@ -1,0 +1,13 @@
+model_name,subset,num_examples,BLEU,CHRF,METEOR,BERTScore_F1,adequacy,faithfulness,fluency,overall
+Helsinki-NLP/opus-mt-tc-big-ar-en,hijazi_jeddah,50,14.65,33.8,36.92,73.16,40.3,36.6,74.6,45.2
+Helsinki-NLP/opus-mt-tc-big-ar-en,hijazi_makkah,49,1.84,18.55,20.23,60.52,31.6,27.5,62.7,35.2
+Helsinki-NLP/opus-mt-tc-big-ar-en,hijazi_urban,50,25.44,46.28,46.74,77.9,68.78,64.69,78.98,69.31
+Helsinki-NLP/opus-mt-tc-big-ar-en,hijazi_urban_jeddah,50,12.22,36.98,36.45,71.04,60.8,54.8,56.9,56.98
+Helsinki-NLP/opus-mt-tc-big-ar-en,najdi_qasim,50,10.19,37.76,36.43,72.91,63.6,59.5,63.7,60.98
+Helsinki-NLP/opus-mt-tc-big-ar-en,najdi_riyadh,50,7.91,28.88,32.76,69.3,50,46.9,67.8,52.34
+Helsinki-NLP/opus-mt-tc-big-ar-en,najdi_urban,50,6,25.66,21.79,64.61,35.1,33.5,68,39.64
+Helsinki-NLP/opus-mt-tc-big-ar-en,northern_hail,50,6.69,24.86,30.96,66.5,33.3,31.4,74.3,39.16
+Helsinki-NLP/opus-mt-tc-big-ar-en,southern_asiri,50,5.03,25.82,30.71,65.29,40.3,37.3,72.5,44.36
+Helsinki-NLP/opus-mt-tc-big-ar-en,southern_jazan,50,12.7,32.52,21.95,65.93,40.6,37.1,66,42.36
+Helsinki-NLP/opus-mt-tc-big-ar-en,eastern_urban,50,9.21,26.09,28.97,67.02,28,27.3,70.3,35.22
+Helsinki-NLP/opus-mt-tc-big-ar-en,southern_qahtan,50,20.04,38.83,42.36,72.95,48.8,45.7,77.1,53.08

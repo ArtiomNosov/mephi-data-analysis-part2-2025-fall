@@ -1,0 +1,29 @@
+Model,Large Language Model,Validation Split,Test Split
+BLIP-2,Flan-T5-XL,26.71,27.90
+InstructBLIP,Flan-T5-XL,28.09,25.19
+InstructBLIP Vicuna,Vicuna-7B,26.53,26.64
+LLaVA,LLaMA-7B,27.0,28.16
+MiniGPT-4,Vicuna-7B,28.11,30.93
+VPGTrans,LLaMA-7B,27.38,24.12
+MultiModal-GPT,Vicuna-7B, 27.81,30.43
+Otter,LLaMA-7B,28.08,30.87
+OpenFlamingo,LLaMA-7B,27.67,30.18
+LLaMA-Adapter V2,LLaMA-7B,27.81,30.43
+GVT,Vicuna-7B, 27.87,29.67
+mPLUG-Owl,LLaMA-7B,27.63,31.31
+mPLUG-Owl-2,LLaMA2-7B,27.84,30.37
+Kosmos-2,Decoder only 1.3B,26.97,""
+Qwen-VL-Chat,Qwen-7B,27.69,31.06
+LLaVA-1.5,Vicuna-7B,27.81,29.80
+VideoChat,Vicuna-7B,27.51,28.72
+Video-ChatGPT,LLaMA-7B,27.33,29.17
+Valley,LLaMA-13B,27.27,30.11
+Video-LLaMA,LLaMA2-Chat-7B,28.58,30.30
+SEED-LLaMA,LLaMA2-Chat-13B,29.93,""
+SEED-X,LLaMA2-Chat-13B,31.07,29.92
+DeepSeek-VL-Chat,DeepSeek-LLM-7B,27.57,26.01
+CogVLM,Vicuna-7B,27.48,31.06
+Yi-VL,Yi-6B,28.67,30.56
+Xcomposer,InternLM-7B,37.17,36.36
+Gemini-Pro-Vision,\-,30.46,32.39
+GPT-4V,\-,37.98,37.25

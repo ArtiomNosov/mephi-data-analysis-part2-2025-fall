@@ -1,0 +1,9 @@
+Model,Common Voice WER,Common Voice CER,asr-farsi-youtube WER,asr-farsi-youtube CER, persian-customer-service WER, persian-customer-service CER, google-fleurs WER, google-fleurs CER
+[navidved/gooya-v1.4](https://huggingface.co/spaces/navidved/gooya-v1),19.50,4.180,14.720,7.610,21.970,12.10,11.08,3.03
+navidved/gooya-v1,27.515,7.66,22.69,11.53,23.107,11.714,24.542,7.519
+[vhdm/whisper-large-fa-v1](https://huggingface.co/vhdm/whisper-large-fa-v1),603.696,988.903,485.741,441.920,227.154,190.419,25.034,7.36
+[jonatasgrosman/wav2vec2-large-xlsr-53-persian](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-persian),30.120,7.370,51.67,20.58,75.63,35.66,31.23,9.116
+[openai/whisper-large-v3](https://huggingface.co/openai/whisper-large-v3),44.353,15.170,40.95,19.42,75.715,43.109,36.146,9.41
+[openai/whisper-large-v2](https://huggingface.co/openai/whisper-large-v2),52.977,25.170,64.66,39.40,83.314,48.156,39.213,10.682
+[m3hrdadfi/wav2vec2-large-xlsr-persian-shemo](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-shemo),41.88,10.68,59.67,22.87,86.941,42.994,41.925,11.491
+[ghofrani/xls-r-1b-fa-cv8](https://huggingface.co/ghofrani/xls-r-1b-fa-cv8),32.64,8.54,50.38,17.62,73.157,34.168,34.168,8.810

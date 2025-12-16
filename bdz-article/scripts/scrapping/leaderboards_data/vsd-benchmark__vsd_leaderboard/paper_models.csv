@@ -1,0 +1,5 @@
+,dataset,task,model,ROC_AUC,MRR@5
+0,vsd-benchmark/vsd-fashion,in_catalog_retrieval_zero_shot,Beit,75.5,93.5
+1,vsd-benchmark/vsd-fashion,in_catalog_retrieval_zero_shot,DINO,70.4,93.3
+2,vsd-benchmark/vsd-fashion,in_catalog_retrieval_zero_shot,ResNext,62.7,84.5
+3,vsd-benchmark/vsd-fashion,in_catalog_retrieval_zero_shot,CLIP,67.8,84.8

@@ -1,0 +1,11 @@
+Model,8K,16K,32K,Average↑,Link
+gemini-1.5-pro-002,1182.43,896.31,812.96,963.9,https://aistudio.google.com/app/prompts/new_chat?model=gemini-1.5-pro-002
+qwen-2.5-72b-instruct,927.33,681.53,563.65,724.17,https://huggingface.co/Qwen/Qwen2.5-72B-Instruct
+mistral-large-2411,914.49,563.73,319.21,599.14,https://huggingface.co/mistralai/Mistral-Large-Instruct-2411
+deepseek-v3,935.10,477.02,313.66,575.2,https://huggingface.co/deepseek-ai/DeepSeek-V3
+gemini-1.5-flash-002,673.88,476.72,377.38,509.3,https://aistudio.google.com/app/prompts/new_chat?model=gemini-1.5-flash-002
+llama-3.1-70b-instruct,479.00,394.50,355.5,409.67,https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct
+minimax-text-01,481.32,359.56,325.95,388.94,https://huggingface.co/MiniMaxAI/MiniMax-Text-01
+gpt-4o-mini,401.00,337.81,275.63,338.15,https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/
+qwen-2.5-7b-instruct,248.00,211.50,196.17,218.56,https://huggingface.co/Qwen/Qwen2.5-7B-Instruct
+llama-3.1-8b-instruct,183.67,149.50,109.45,147.54,https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct

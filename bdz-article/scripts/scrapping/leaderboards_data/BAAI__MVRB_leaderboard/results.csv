@@ -1,0 +1,12 @@
+Rank,Model,#Params (B),Overall,SR,CSR,SQA,OVC
+1,"<a href=""https://huggingface.co/BAAI/BGE-VL-Screenshot"">BGE-VL-Screenshot</a>",3.75,60.61,70.09,59.58,53.1,54.46
+2,"<a href=""https://huggingface.co/Alibaba-NLP/gme-Qwen2-VL-2B-Instruct"">GME</a>",2.21,48.14,61.62,37.68,37.78,47.98
+3,"<a href=""https://huggingface.co/Tevatron/dse-phi3-v1.0"">DSE</a>",4.15,45.21,61.54,37.78,39.24,31.51
+4,"<a href=""https://huggingface.co/vidore/colpali"">ColPali</a>",2.92,43.64,61.73,35.0,35.32,31.04
+5,"<a href=""https://huggingface.co/nvidia/MM-Embed"">MM-Embed</a>",7.57,34.48,25.86,40.93,42.83,32.67
+6,"<a href=""https://huggingface.co/google/siglip-so400m-patch14-384"">SigLIP</a>",0.878,33.34,38.33,34.48,19.6,40.64
+7,"<a href=""https://huggingface.co/TIGER-Lab/VLM2Vec-Full"">VLM2Vec</a>",4.15,32.19,15.93,48.05,49.42,23.24
+8,"<a href=""https://huggingface.co/royokong/e5-v"">E5-V</a>",8.35,25.13,34.11,26.59,5.23,32.85
+9,"<a href=""https://huggingface.co/openai/clip-vit-large-patch14"">CLIP</a>",0.428,23.75,18.89,25.39,23.9,30.4
+10,"<a href=""https://huggingface.co/TIGER-Lab/UniIR"">Uni-IR</a>",0.428,19.63,12.35,35.92,29.68,20.06
+11,"<a href=""https://huggingface.co/OpenDriveLab/Vista"">VISTA</a>",0.196,13.85,5.21,11.29,25.78,16.61
